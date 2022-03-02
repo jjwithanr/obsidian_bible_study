@@ -1,0 +1,38 @@
+# Suffering
+
+### Word Study
+πάθημα (pathema) (path'-ay-mah\*) - suffering, a passion. the capacity and privilege of experiencing strong feeling; felt, deep emotion, like agony, passion (ardent desire), suffering, etc.  
+Under God is redemptive, preparing us to know the Lord better now and forever in glory. páthēma is not inherently negative; indeed, it is only negative when experienced outside of (apart from) faith.
+
+### Vincent's Word Studies on [Philliians 1:29](Phillipians1#v.29)
+
+It is given - to suffer for His sake (ἐχαρίσθη τὸ ὑπὲρ - αὐοτῦ πάσχειν)  
+Every word here is significant. Suffering is a gift of grace. "It is given" should be "it was given," referring to the gift bestowed when they became Christians. Suffering was the marriage-gift when they were espoused to Christ: the bounty when they enlisted in His service. Becoming one with Him they entered into the fellowship of His suffering (Philippians 3:10). The gift was not suffering as such. Its meaning and value lay in its being for His sake. The Macedonian churches, and the Philippian church especially, were preeminently suffering churches. See 2 Corinthians 8:2.
+#vincentswordstudies
+
+### Hard Sayings of the Bible on [1 Peter 4](1Peter4)
+In this passage, then, Peter has three ways of looking at persecution. 
+**First**, it is a test of faith, showing if the committment of the professed Christian is genuine or not.
+**Second**, it is an identification with the sufferings of Christ, which will not only result in glory in the future, but leads to the Spirit of glory resting upon them now.
+**Finally**, it is a discipline or judgement, which shows that they are in fact God's family and purifies them to live more in the character of the family.
+#hardsayingsofthebible 
+
+### Barnes on [Psalm 126:6](Psalm126#v.6)
+Then his tears will be turned to joy. Then the rich harvest will wave before him. Then he will thrust in his sickle and reap. Then he will gather the golden grain, and the wain will groan under the burden, and the sheaves will be carried forth with songs of joy. He will be abundantly rewarded for all his toil; he will see the fruit of his labors; he will be filled with joy. The design of this illustration was, undoubtedly, to cheer the hearts of the exiles in their long and dangerous journey to their native land; it has, however, a wider and more universal application, as being suited to encourage all in their endeavors to secure their own salvation, and to do good in the world - for the effort is often attended with sacrifice, toil, and tears. The joy of heaven will be more than a compensation for all this. The following remarks by Dr. Thomson (Land and the Book, vol. i., pp. 118, 119) will furnish an illustration of the meaning of this passage: "I never saw people sowing in tears exactly, but have often known them to do it in fear and distress sufficient to draw them from any eye. In seasons of great scarcity, the poor peasants part in sorrow with every measure of precious seed cast into the ground. It is like taking bread out of the mouths of their children; and in such times many bitter tears are actually shed over it. The distress is frequently so great that government is obliged to furnish seed, or none would be sown. Ibrahim Pasha did this more than once within my remembrance, copying the example, perhaps, of his great predecessor in Egypt when the seven years' famine was ended. The thoughts of this psalm may likewise have been suggested by the extreme danger which frequently attends the farmer in his plowing and sowing.
+
+The calamity which fell upon the farmers of Job when the oxen were plowing, and the donkeys feeding beside them, and the Sabeans fell upon them and took them away, and slew the servants with the edge of the sword [Job 1:14-15](http://biblehub.com/job/1-14.htm), is often repeated in our day. To understand this, you must remember what I just told you about the situation of the arable lands in the open country; and here again we meet that verbal accuracy: the sower goes forth - that is, from the village. The people of Ibel and Khiem, in Merj ‛Aiyun, for example, have their best grain-growing fields down in the ‛Ard Huleh, six or eight miles from their homes, and just that much nearer the lawless border of the desert. When the country is disturbed, or the government weak, they cannot sow these lands except at the risk of their lives. Indeed, they always go forth in large companies, and completely armed, ready to drop the plow and seize the musket at a moment's warning; and yet, with all this care, many sad and fatal calamities overtake the people who must thus sow in tears.
+
+And still another origin may be found for the thoughts of the psalm in the extreme difficulty of the work itself in many places. The soil is rocky, impracticable, overgrown with sharp thorns; and it costs much painful toil to break up and gather out the rocks, cut and burn the briers, and to subdue the stubborn soil, especially with their feeble oxen and insignificant plows. Join all these together, and the sentiment is very forcibly brought out, that he who labors hard, in cold and in rain, in fear and danger, in poverty and in want, casting his precious seed in the ground, will surely come again, at harvest-time, with rejoicing, and bearing his sheaves with him."
+#barnes 
+
+### Spurgeon on [Hebrews 2:18](Hebrews2#v.18)
+[Sermon](https://www.spurgeongems.org/sermon/chs1974.pdf)
+He could not yield to temptation, but He did suffer from it. He did not suffer from it morally, He was too pure for that, but **He did suffer from it mentally because of His purity. His mind was grieved, and vexed, and troubled by the temptation that He had to bear.** We specially see this when we find Him in the garden. There He showed His grief when He sweat as it were great drops of blood falling to the ground. In many other ways He endured such contradiction of sinners against Himself, such multiplied temptations, that it is said and truly said, by the Holy Spirit in this verse, that He “suffered” being tempted.
+
+Do not blame yourself for feeling tired in the house of prayer, if after long watching or hard working you feel more fit for sleep than for a sermon. I shall not blame you, certainly, for I remember how little my Lord blamed the disciples when they fell asleep in the garden during His agony. He said, “The spirit indeed is willing, but the flesh is weak,” and **He never would have thought of so tender an excuse for their untender slumbers if His own flesh had not also been weak when He, too, was weary.** So you see that the Lord knows from His own circumstances, what are the temptations of poverty and of weariness. He Himself was hungry. He Himself said, “I thirst.” Everything round about Him contributed to fulfill the tale of His trials. He Himself was, above us all, “a Man of sorrows, and acquainted with grief.”
+
+Brother, the Lord means to make of you a man that shall be used like [Barnabas to be a “son of consolation.”](Acts4#v.36-37) He means to make a mother in Israel of you, my dear sister, that when you meet with others who are sorely cast down, you may know how to drop in a sweet word by which they shall be comforted. I think you will one day say, **“It was worth while to go through that sorrow to be enabled to administer relief to that wounded heart.”** Will you not comfort others when you are delivered? I am sure you will. You will be ready and expert in the sacred surgery of consolation. Therefore be content to suffer being tempted, and look for the comfortable fruit which all this shall produce in you.
+
+**Jesus suffering is preparatory to Jesus succoring.**
+
+#spurgeon 

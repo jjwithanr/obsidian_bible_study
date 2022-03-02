@@ -1,0 +1,30 @@
+# Temptation
+
+### Barnes on [Matthew 4:4](Matthew4#v.4)
+
+In reply to this artful temptation Christ answered by a quotation from the Old Testament. The passage is found in [Deuteronomy 8:3](https://biblehub.com/deuteronomy/8-3.htm). In that place the discourse is respecting manna. Moses says that the Lord humbled the people, and fed them with manna, an unusual kind of food, that they might learn that man did not live by bread only, but that there were other things to support life, and that everything which God had commanded was proper for this. The term "word," used in this place, means very often, in Hebrew, thing, and clearly in this place has that meaning. Neither Moses nor our Saviour had any reference to spiritual food, or to the doctrines necessary to support the faith of believers; but they simply meant that God could support life by other things than bread; that man was to live, not by that only, but by every other thing which proceeded out of his mouth; that is, which he chose to command people to eat. The substance of his answer, then, is: "It is not so imperiously necessary that I should have bread as to make a miracle proper to procure it. Life depends on the will of God. He can support it in other ways as well as by bread. He has created other things to be eaten, and man may live by everything that his Maker has commanded." And from this temptation we may learn:
+
+1. That Satan often takes advantage of our circumstances and wants to tempt us. The poor, the hungry, and the naked he often tempts to repine and complain, and to be dishonest in order to supply their necessities.
+
+2. Satan's temptations are often the strongest immediately after we have been remarkably favored. Jesus had just been called the Son of God, and Satan took this opportunity to try him. He often attempts to fill us with pride and vain self-conceit when we have been favored with any peace of mind, or any new view of God, and endeavors to urge us to do something which may bring us low and lead us to sin.
+
+3. His temptations are plausible. They often seem to be only urging us to do what is good and proper. They seem even to urge us to promote the glory of God, and to honor him. We are not to think, therefore, that because a thing may seem to be good in itself, that therefore it is to be done. **Some of the most powerful temptations of Satan occur when he seems to be urging us to do what shall be for the glory of God.**
+
+4. We are to meet the temptations of Satan, as the Saviour did, with the plain and positive declarations of Scripture. We are to inquire whether the thing is commanded, and whether, therefore, it is right to do it, and not trust to our own feelings, or even our wishes, in the matter.
+
+#barnes 
+
+### Spurgeon on [Hebrews 2:18](Hebrews2#v.18)
+[Sermon](https://www.spurgeongems.org/sermon/chs1974.pdf)
+First, that **temptation to sin is no sin.** It is no sin to be tempted, for in Him was no sin, and yet He was tempted. “He suffered being tempted,” but there was no sin in that, because there was no sin in Himself. You may be horribly tempted, and yet no blame whatever may attach to you, for it is no fault of yours that you are tempted. You need not repent of that which has no sin in it. If you yield to the temptation, therein is sin, but the mere fact that you are tempted, however horrible the temptation, is no sin of yours.
+
+And in the next place, **temptation does not show any displeasure on God’s part.** He permitted His Only-begotten Son to be tempted; He was always the Son of His love, and yet He was tried. “This is My beloved Son,” said He at His baptism, and yet the next hour that Son was led of the Spirit into the wilderness to be tempted of the devil. It does not even show displeasure on God’s part that He permits you to be tempted; on the contrary, it may be consistent with the clearest manifestations of divine favor.
+
+And again, **temptation really implies no doubt of your being a son of God**, for the Son of God was tempted, even the unquestioned Son of the Highest. The prime model and paragon of sonship, Christ Himself, was tempted. Then why not you? Temptation is a mark of sonship rather than any reflection thereupon.
+
+Note, next, that **temptation need not lead to any evil consequences in any case.** It did not in your Lord’s case lead up to sin. The Lord Jesus was as innocent in temptation and after temptation as before it, and so may we be through His grace. It is written by the beloved John concerning the man that is born of God that “He keeps himself, and that wicked one touches him not.”
+
+Moreover, **do not make it any cause of complaint that you are tempted.** If your Lord was tempted, shall the disciple be above his Master, or the servant above his Lord? If the Perfect One must endure temptation; why not you? Accept it, therefore, at the Lord’s hands, and do not think it to be a disgrace or a dishonor. It did not disgrace or dishonor your Lord, and temptation will not disgrace or dishonor you. The Lord, who sends it, sends also with it a way of escape and it will be to your honor and profit to escape by that way.
+
+**Far from your hearts be the idea that any temptation should lead you to despair. Jesus did not despair.** Jesus triumphed, and so shall you, and therefore He cries, “In the world you shall have tribulation: but be of good cheer, I have overcome the world.” You are a member of His body, and when the Head wins the victory, the whole body shares the triumph. “Because I live,” He said, “you shall live also,” and so you shall; even in the poisonous atmosphere of temptation you shall be in health. They of old overcame through the blood of the Lamb, and you shall do the like. Therefore comfort one another with these words, “He Himself has suffered being tempted,” for you who have His life in you shall first suffer with Him, and then reign with Him.
+#spurgeon 

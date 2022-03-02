@@ -1,0 +1,29 @@
+# Holiness
+
+### Hard Sayings of the Bible on [Acts 5:9](Acts5#v.9)
+The teaching of the story, then, is two-fold. First, Christians are not to put God to the test. Jesus gave the proper example of endurance under testing in Matthew 4:7. **Christians are to follow suit and trust God in hard places.** Second, the presence of the Spirit in the church is not without its dangers. Some died for ignoring the presence of the Lord ([1 Cor 11:30](1Cor11#v.30); the sin is a rubbing of salt in the wounds of social divisions in the church)... **God is a god of holiness, and those who will not treat as holy will experience the consequences.**
+
+The church today often prays for revival. Perhaps it should ask if it really wants what it is praying for. Obviously we would welcome the power of God in evangelism and signs among us. We might even welcome a growing presence of the Spirit in prophecy. But reading this passage in the context of Acts should remind us that **"in the church where the lame walked liars died."** With the power of God comes his holiness, and those who are not prepared to live in his holiness will do well to fear rather than to seek his power.
+#hardsayingsofthebible 
+
+### Maclaren on [Isaiah 6:5](Isaiah6#v.5)
+These three stages flowing from the vision of God, recognition of sin, experience of purging, abandonment to obedience and service, must be repeated in us all, if we are to live worthy lives. There may be much that is beautiful and elevating and noble without these; but unless in some measure we pass through the prophet’s experience, we shall fail to reach the highest possibilities of beauty and of service that open before us. So I wish to consider, very simply, these three stages in my remarks now.
+
+***I. If we see God we shall see our sin.***
+
+It was not joy that sprang in Isaiah’s heart when he saw the throned King, and heard the proclamation of His name. It was not reverence merely that bowed his head in the dust, but it was the awakened consciousness, ‘Thou art holy; and now that I understand, in some measure, what Thy holiness means, I look on myself and I say, “unclean! unclean!”‘
+
+But it was not only the consciousness of sinfulness and antagonism that woke up instantaneously in response to that vision of the holy God. It was likewise a shrinking apprehension of personal evil from contact of God’s light with Isaiah’s darkness. ‘Who shall ascend into the hill of the Lord? He that hath clean hands and a pure heart.’ What is to become, then, of the man that has neither the one nor the other?
+
+***II. Again, note the second stage here, in the education of a soul for service-the sin, recognised and repented, is burned away.***
+
+Which being translated is just this: **faith alone will not bring cleansing.** There must go with it what we call, in our Christian phraseology, repentance, which is but the recognition of my own antagonism to the holiness of God, and the resolve to turn my back on my own past self. Now, it seems to me that a great deal of what is called, and in a sense is, Evangelical teaching, fails to represent the full counsel of God, in the matter of man’s redemption, because **it puts a one-sided emphasis on faith, and slurs over the accompanying idea of repentance.** And I am here to say that a trust in Jesus Christ, which is unaccompanied by a profound penitent consciousness and abhorrence of one’s own sins, and a resolve to turn away from them for the time to come, is not a faith which will bring either pardon or cleansing. We do not need to have less said about trust; we need to have a great deal more said about repentance. You have to learn what it is to say, ‘I abhor myself’; you have to learn what it is to say, ‘I will turn right round, and leave all that past behind me; and go in the opposite direction’; or the faith which you say you are exercising will neither save nor cleanse your souls nor your lives.
+
+To confess is to be forgiven, and the moment that the consciousness of sin rises in the heart, that moment does the heavenly messenger come to still and soothe.
+
+Now, let us remember that **we have the fulness of all that was shadowed to the prophet in this vision**, and that the reality of every one of these emblems is gathered together-if I may so say-not with confusion, but with abundance and opulence in Jesus Christ Himself. Is He not the seraph? Is He not Himself the burning coal? Is He not the altar from which it is taken? **All that is needed to make the foulest clean is given in Christ’s great work.** Brethren, we shall never understand the deepest secret of Christ and of Christianity until we learn and hold fast by the conviction that the central work of Jesus is to deal with man’s sin; and that whatever else Christianity is, it is first and foremost God’s way of redeeming the world, and making it possible for the unholy to dwell with His holy self.
+
+***III. Lastly, and only a word, the third stage here is-the purged spirit is ready for service.***
+
+God did not bid the prophet go on His mission till the prophet had voluntarily accepted the mission. He said, ‘Who will go for us?’ He wants no pressed men in His army. He does not work with reluctant servants. There is, first, the yielding of the will, and then there is the enduement with the privilege of service. The prophet, having passed through the preceding experiences, had thereby received a quick ear to hear God’s calling for volunteers. And we shall not hear Him asking ‘Who will go?’ unless we have, in our measure, passed through similar experiences. It will be a test of having done so, of our having been purged from our evil, if, when other people think that it is only Eli speaking, we know that it is the Lord that has called us, and say, ‘Here am I.’
+#maclaren 

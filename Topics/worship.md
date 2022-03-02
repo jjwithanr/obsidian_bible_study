@@ -1,0 +1,5 @@
+# Worship
+
+### Paul House on Exodus 25-31
+Hints that a permanent worship center would eventually be established emerge in the altar laws in Exodus 20:22-26 and in the festival regulation in Exodus 23:14-19. The presence of altars, sacrifices and festivals also implies that priests will be expected to faciliate worship. This section of Exodus provides prelimiary instructions about the worship center, the priests who will minister there and the reasons both will exist. It is these reasons that matter most for Old Testament theology. **Chief among them is that God will dwell among, be present with, the chosen people.** Every other details about the worship center and the priesthood derive from this theme. A second foundational idea is the holiness of the dwelling God and the holiness of the worshiping people. Finally, a third concept found here is the value of communion between the people and their God. These truths intersect the various major topics in these chapters. Other major topics such as the importance of sacrifice are foreshadowed here but are discussed in details later in the Pentateuch.
+#paulhouse 
