@@ -8,6 +8,9 @@
 Hard Sayings of the Bible lays out the context for the *rich people* James says here: they are not believers, they will be judged for failing to obey the gospel, they have practiced injustice, they have been self-indulgent, and they have oppressed the righteous.
 #hardsayingsofthebible 
 
+#### v.5
+>You have lived on earth in luxury and self-indulgence. You have fattened yourselves in the day of slaughter.
+
 #### v.7-8
 >Be patient, then, brothers, until the Lord's coming, See how the farmer waits for the land to yield its valuable crop and how patient he is for the autumn and spring rains. <sup>8</sup>You too, be patient and stand firm, because the Lord's coming is near.
 

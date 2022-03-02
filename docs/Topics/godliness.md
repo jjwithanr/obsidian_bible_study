@@ -1,9 +1,11 @@
 # Godliness
 
-### []()
-
 ### Martin Lloyd-Jones *notetaker*
 We must not give a ready-made Christian position. If we do, what will happen to the young Christian when he encounters something not 'on the list'? If the guidance we give becomes dictation, it is no longer guidance, and that does despite to the Holy Spirit and to the man's own personality. Is it right to advise a young Christian against a thing though he does not see it? If he acts on your dictum, it will be because you have spoken and not because of his understanding.
 The New Testament appeal for holiness and sanctification is always an appeal to the reason of the believing man: an appeal to work out the doctrine in terms of practical life. We must ask: Is it right for us to take the position of conscience to another. That procedure produces smug, self-satisfied Christians. It makes them think they have arrived, and therefore, they stop thinking. It is a negative view of holiness. The thing that matters is not the figure we before people: but our 'pressing unto him'. **The more people live the dictated life (as also in roman and Anglo-Catholicism), the poorer the spiritual life. When a man has to fight and think these things out for himself, it makes him a strong man in Christ.**
 #martinlloydjones
 
+### Barnes on [1 Timothy 6:6](1Timothy6#v.6)
+
+The meaning is, that real religion should be regarded as the greatest and most valuable acquisition. "With contentment." This word, as now used, refers to a state of mind; a calm and satisfied feeling; a freedom from murmuring and complaining. The idea is, that "piety, connected with a contented mind - or a mind acquiescing in the allotments of life - is to be regarded as the real gain." Tyndale gives substantially the same interpretation: "Godliness is great riches, if a man be content with that he hath" Coverdale: "Howbeit, it is of great advantage, who is so godly, and holdeth him content with that he hath." The word which is used here - αὐτάρκεια autarkeia - means, properly, "self-sufficency," and is used here, in a good sense, to denote a mind satisfied with its lot. If there be true religion, united with its proper accompaniment, peace of mind, it is to be regarded as the true riches. The object of the apostle seems to be, to rebuke those who supposed that property constituted everything that was worth living for. He tells them, therefore, that the true gain, the real riches which we ought to seek, is religion, with a contented mind. This does more to promote happiness than wealth can ever do, and this is what should be regarded as the great object of life.
+#barnes 

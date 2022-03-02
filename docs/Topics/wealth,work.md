@@ -26,9 +26,6 @@ That he may have to give to him that needeth - Margin, "distribute." Not merely 
 1. we should labor in "order" that we may have the means of doing good to others. It should be just as much a matter of plan and purpose to do this, as it is to labor in order to buy a coat, or to build a house, or to live comfortably, or to have the means of a decent burial. **Yet how few are those who have any such end in view, or who pursue their daily toil definitely, "that they may have something to give away!"** The world will be soon converted when all Christians make that the purpose of life; see the notes on Romans 12:11.
 #barnes
 
-### [1 Timothy 6:17](1Timothy6#v.17)
-
-
 ### EnduringWord on [1 Timothy 6:18](1Timothy6#v.18)
 Many think the main reason for giving unto the Lord is because the church needs money. That isn’t true. The most important reason to give is because you need to be a giver. It is God’s way of guarding you against greed and trust in uncertain riches. God will provide for His work even if you do not give; but what will happen to you?
 If you do not give of your material things to the Lord’s work, how will you be storing up for *yourself* a good foundation for the time to come? How will you lay hold on eternal life? Will there not be some – perhaps many – who do not enter heaven because their heart was really far more comfortable here on earth with its material rewards?

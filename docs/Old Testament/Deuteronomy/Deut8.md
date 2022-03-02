@@ -1,4 +1,4 @@
-# Deuteronomy8
+# Deuteronomy 8
 
 ## Overview:
 

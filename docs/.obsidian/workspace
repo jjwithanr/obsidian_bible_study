@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "630133c332b49fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2863ab459d97c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New Testament/1 Timothy/1Timothy6.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76f9b4f9c9c93500",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f69d70b88ec1f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c94e297decda11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d92167ae277ae847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 150
+  },
+  "right": {
+    "id": "219162062c6e662e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fec560777ebde6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6465ea62887d11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New Testament/1 Timothy/1Timothy6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c2863ab459d97c0",
+  "lastOpenFiles": [
+    "New Testament/1 Timothy/1Timothy6.md",
+    "Topics/wealth,work.md",
+    "Topics/godliness.md",
+    "Old Testament/Amos/Amos5.md",
+    "Old Testament/Isaiah/Isaiah59.md",
+    "New Testament/Ephesians/Ephesians6.md",
+    "Old Testament/Isaiah/Isaiah58.md",
+    "Old Testament/Isaiah/Isaiah46.md",
+    "Old Testament/Isaiah/Isaiah50.md",
+    "Old Testament/Isaiah/Isaiah57.md"
+  ]
+}
