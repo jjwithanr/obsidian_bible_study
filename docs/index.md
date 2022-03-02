@@ -1,11 +1,5 @@
-# Obsidian Notes
+# JJ's Bakery
 
-Publish your public notes with MkDocs
+This site serves one purpose: to feed on His daily bread.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Please do not refer to this site at all. Any insight or comment found in these directories are to give glory to God. Bless you as you study the Scriptures.
