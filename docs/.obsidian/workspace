@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4c2863ab459d97c0",
+        "id": "3733f3ab476b89d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/1 Timothy/1Timothy6.md",
+            "file": "New Testament/2 Timothy/2Timothy2.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150
+    "width": 188
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Timothy/1Timothy6.md",
+                "file": "New Testament/2 Timothy/2Timothy2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c2863ab459d97c0",
+  "active": "3733f3ab476b89d6",
   "lastOpenFiles": [
+    "New Testament/2 Timothy/2Timothy2.md",
     "New Testament/1 Timothy/1Timothy6.md",
-    "Topics/wealth,work.md",
-    "Topics/godliness.md",
-    "Old Testament/Amos/Amos5.md",
-    "Old Testament/Isaiah/Isaiah59.md",
-    "New Testament/Ephesians/Ephesians6.md",
-    "Old Testament/Isaiah/Isaiah58.md",
-    "Old Testament/Isaiah/Isaiah46.md",
-    "Old Testament/Isaiah/Isaiah50.md",
-    "Old Testament/Isaiah/Isaiah57.md"
+    "New Testament/1 Timothy/1Timothy1.md",
+    "New Testament/Romans/Romans11.md",
+    "Romans.md",
+    "Old Testament/Psalm/Psalm18.md",
+    "New Testament/2 Timothy/2Timothy1.md",
+    "Old Testament/Amos/Amos7.md",
+    "Old Testament/Amos/Amos6.md",
+    "Old Testament/Amos/Amos2.md"
   ]
 }

@@ -5,6 +5,21 @@ Paul's introduction in this letter is slightly different as he includes *mercy* 
 Then he recalls Timothy's background and encourages him to stay faithful in his present sufferings by reminding him of the reason they are suffering - the Gospel. In light of the adversity, Paul commands Timothy to "guard the good deposit that was entrusted to you." - where the good deposity is sound doctrinal teaching.
 After mentioning how he was abandoned in Asia all to himself, Paul lists people who have either deserted him or refereshed him.
 
+#### v.3
+>I thank God, whom I serve, as my forefathers did, with a clear conscience, as night and day I constantly remember you in my prayers.
+
+#### v.4
+>Recalling your tears, I long to see you, so that I may be filled with joy.
+
+It is easy to imagine what joy it would give Paul, then a prisoner, and **forsaken by nearly all his friends**, and about to die, to see a friend whom he loved as he did this young man. Learn hence, that there may be very pure and warm friendship between an old and young man, and that the warmth of true friendship is not diminished by the near prospect of death.
+#barnes 
+
+#### v.5
+>I have been reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.
+
+In [Acts 16:1](http://biblehub.com/acts/16-1.htm), it is said that the mother of Timothy was "a Jewess, and believed;" but her name is not mentioned. This shows that Paul was acquainted with the family, and that the statement in the Epistle to Timothy was not forged from the account in the Acts . Here is another "undesigned coincidence." In the history in the Acts , nothing is said of the father, except that he was "a Greek," but it is implied that he was not a believer. In the Epistle before us, nothing whatever is said of him. But the piety of his mother alone is commended, and it is fairly implied that his father was not a believer. This is one of those coincidences on which Paley has constructed his beautiful argument in the Horae Paulinae in favor of the **genuineness of the New Testament.**
+#barnes 
+
 #### v.6
 >For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.
 
@@ -31,5 +46,12 @@ One of the best methods of preserving the knowledge and the love of truth is to 
 >You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.
 
 See more in [[alone#Barnes on 2 Timothy 1 15 2Timothy1 v 15]]
+
+Paul’s opponents have spread in the province of Asia, and the situation has become much worse since Paul wrote 1 Timothy (2 Tim 1:15). Paul could be discouraged; like Jeremiah in the \*Old Testament, his life is to end while God’s people are turned away from him, and he will not live to see the fruit of his ministry. **His consolation, however, is that he has been faithful to God (4:7-8), and he exhorts Timothy to follow in his paths no matter what the cost.** (That the letter was preserved almost certainly indicates that Timothy did persevere.) The letter is dominated by the themes of persecution from outside the \*church and false teaching within, and Paul’s final exhortation to a young minister is to focus on the Scriptures and the sound teaching to be found in them.
+#craigkeener 
+
+#### v.16
+>May the Lord show mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chains.
+
 
 

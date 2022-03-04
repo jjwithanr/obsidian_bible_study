@@ -102,3 +102,43 @@ Idleness is one of the great evils of the pagan world in almost every country, a
 
 No man understands fully the blessings which God has bestowed on him, if he has hands to work and will not work.
 #barnes 
+
+### Maclaren on [1 Timothy 6:19](1Timothy6#v.19)
+
+It is very remarkable, especially as coming from Paul. ‘Lay up a good foundation’--has he not said, ‘Other foundation can no man lay than that which is laid, which is Jesus Christ’? ‘That they may lay hold on eternal life’--has he not said, ‘The gift of God is eternal life’? Is he not going dead in the teeth of his own teaching, ‘Not by works of righteousness which we have done, but by His mercy He saved us’?
+
+**I. First, then, he says that the real life is the future life.**
+
+🔥The complete idea is that the life of the Christian soul here and yonder, away out into the furthest extremities of eternity, and up to the loftiest climax of perfectness, is in essence one, whilst yet the differences between the degree in which its germinal possession here and its full-fruited enjoyment hereafter differ is so great as that, in **comparison with the completion that is waiting the Christian soul beyond the grave, all of the same life that is here enjoyed dwindles into nothingness.**
+
+**II. Secondly, notice that conduct here determines the possession of the true life.**
+‘Laying up in store for themselves’ is one word in the original, and it contains even more than is expressed in our paraphrase, for it is really ‘treasuring off.’ And the idea is that the rich man is bade to take a portion of his worldly goods, and, by using these for beneficent purposes, out of them to store a treasure beyond the grave. What is employed thus, and from the right motives and in the right way, is not squandered, but laid up in store. You remember the old epitaph,  
+  
+*‘What I spent I lost; What I gave I have.’*  
+  
+Now that is Christ’s teaching, for did He not say: ‘Sell all that thou hast, and give to the poor, and thou shalt have treasure in heaven’? Did He not say: ‘Lay not up for yourselves treasures on earth, . . . but lay up treasures in heaven’?
+
+I cannot help reminding you, dear friends, that for a very large number of us, almost the **most important influence shaping our characters is the attitude that we take in regard to these things--the getting and the distribution of worldly wealth.💰**
+
+What you are doing here is piling up for you, on the other side of the wall, what you will have to live with, and either get good or evil out of, through all eternity.
+
+Now I take it that that does not mean a basis for hope, or anything of that sort, but that it conveys this thought, that our actions here are putting in the foundations on which the eternal building of our future life shall be reared.
+
+And so, dear friends, let us remember that this is the reason why our smallest acts are so tremendous that by our actions we are making character, and that character is destiny, here and hereafter. You are putting in the foundations of the building that you have to live in; see that they are of such a sort as will support a house eternal in the heavens.
+
+This is the underlying thought, that according to a Christian man’s acts here is his capacity of receiving the real life yonder.  
+  
+That is not given arbitrarily. **Each man gets as much of it when he goes home as he can hold.** The tiniest vessel is filled, the largest vessel is filled. But the little vessel may, and will, grow bigger if that which is deposited in it be rightly employed. Let us lay this to heart, that Christian men dare not treat it as a matter of indifference whether to the full they live lives consistent with their profession, and do the will of their Master or no. It is not all the same, and it will not be all the same yonder, whether we have adorned the teaching, or whether our lives have habitually and criminally fallen beneath the level of our professions. Brethren, we are too apt to forget that there is such a thing as being ‘saved, yet so as by fire’; and that there is such a thing as ‘having an entrance ministered abundantly into the Kingdom.’ Be you sure of this, that if the hands of your spirits are ever to be capable of grasping the prize, it must be as the result of conduct here on earth, which has been treasuring up treasures yonder, and laying a foundation on which the incorruptible house may solidly rest.
+
+**III. And now the last word that I have to say is that these principles are perfectly compatible with the great truth of salvation by faith.**  
+  
+For observe to whom the text is spoken. It is to men who have professed to be believers, and it is on the ground of their faith that these rich men in Timothy’s churches are exhorted to this conduct. There is no incompatibility between the doctrine that eternal life is the gift of God, and the placing of those who have received that gift under a strict law of recompense.  
+  
+That is the teaching of the whole New Testament. It was to Christian men that it was said: ‘Be not deceived; God is not mocked, whatsoever a man soweth that shall he also reap.’ It is the teaching of Jesus Christ Himself.
+
+But there is a dreadful danger that we, with our partial vision, shall see one side of the truth so clearly that we do not see the other; and so you get two antagonistic schools of Christian teaching who have torn the one word into halves. One of them says, ‘Man is saved by faith only,’ and forgets ‘faith without works is dead’; and the other says, ‘Do your duty, and never mind about your belief,’ and forgets that the belief--the trust--is the only sure foundation on which conduct can be based, and the only source from which it is certain to flow.
+
+Now, if I should not be misunderstood by that same narrow and contracted vision of which I have been speaking, I would venture to say that salvation by faith alone may be so held as to be a very dangerous doctrine, and that there is a very real sense in which a man is saved by works. And if you do not like that, go home and read the Epistle of James, and see what you make of his teaching: ‘Ye see, brethren, how that by works a man is justified, and not by faith only.’ ‘Faith wrought with his works, and by his works was his faith made perfect.’
+
+Remember that it is for you, resting on Christ, to treasure up eternal life; for you to build on that sure foundation gold and silver and precious stones which may stand the fire; for you, by faithful continuance in well-doing, to lay hold of that for which you have been laid hold of by Jesus Christ. May it be true of all of us that ‘our works do follow us’!
+#maclaren 

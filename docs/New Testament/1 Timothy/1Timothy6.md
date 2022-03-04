@@ -3,6 +3,8 @@
 ## Overview:
 Paul returns to his correction of the false teachers' doctrines. He addreses their anthem for asceticism and clarifies that having a balance of both godliness and contenement is good since it guards the heart from the love of money. Paul sternly warns Timothy of such vices like the love of money and teaches him how to treat the wealthy in the church.
 
+#### v.4
+>he is conceited and understands nothing. He has an unhealthy interest in controversies and quarrels about words that result in envy, strife, mailicious talk, evil suspicions
 
 #### v.6
 >But godliness *actually* is a means of great gain, when accompanied by contentment.
@@ -40,6 +42,14 @@ The meaning of this seems to be, that God permits us to enjoy everything. Everyt
 > Command them to do good, to be rich in good deeds, and to be generous and **willing to share**.
 
 See more in [[wealth,work#EnduringWord on 1 Timothy 6 18 1Timothy6 v 18]]. 
+
+#### v.19
+>In this way, they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life.
+
+See more in [[wealth,work#Maclaren on 1 Timothy 6 19 1Timothy6 v 19]].
+
+Our character follows us into heaven. Do not fear death, but do not be deceived that death tranforms your character unto the next life. No, lay up treasures of character and proper attitudes of the heart today!
+#jj 
 
 #### v.21
 > which some have professed and in so doing have wandered from the faith. **Grace** be with you.
