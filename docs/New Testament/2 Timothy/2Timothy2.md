@@ -53,7 +53,7 @@ Also in [1 Timothy 1:6-7](1Timothy1#v.7) and [1 Timothy 6:4](1Timothy6#v.4).
 >Avoid godless chatter, because those who indulge in it will become more and more ungodly.
 
 #### v.18
->who have wandered away from the truth. They say that the resurrection has already taken place, and they destory the faith of some.
+>who have wandered away from the truth. They say that the resurrection has already taken place, and they destroy the faith of some.
 
 #### v.21
 >If a man cleanses himself from the latter, he will be an instrument for noble purposes, made holy, useful to the Master and prepared to do any good work.
@@ -67,3 +67,7 @@ Boy, can you be alone?
 
 #### v.24
 >And the Lord's servant must not quarrel; instead, he must be kind to everyone, able to teach, not resentful.
+
+#### v.25-26
+>Those who oppose him he must gently instruct, in the hope that God will grant them repentance leading them to a knowledge of the truth, <sup>26</sup>an that they will come to their sense and escape from the trap of the devil, who has taken them captive to do his will.
+

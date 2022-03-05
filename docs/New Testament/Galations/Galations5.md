@@ -24,10 +24,8 @@ A mere intellectual assent to the truth may leave the heart cold and unaffected;
 #### v.17
 >For the sinful nature desires what is contrary to the Spirit, and the Spirit what is contrary to the sinful nature. They are in conflict with each other, so that you do not do what you want.
 
-
-
 #### v.24
->Thos who belong to Christ Jesus have crucified the sinful nature with its passions and desires.
+>Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires.
 
 #### v.25
 >Since we live by the Spirit, let us keep in step with the Spirit.

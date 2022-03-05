@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/2 Timothy/2Timothy2.md",
-            "mode": "source",
+            "file": "New Testament/2 Timothy/2Timothy3.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy2.md",
+                "file": "New Testament/2 Timothy/2Timothy3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3733f3ab476b89d6",
   "lastOpenFiles": [
+    "New Testament/2 Timothy/2Timothy3.md",
+    "New Testament/Galations/Galations5.md",
+    "New Testament/2 Peter/2Peter3.md",
     "New Testament/2 Timothy/2Timothy2.md",
+    "Topics/heresy.md",
+    "New Testament/Romans/Romans1.md",
+    "Old Testament/Amos/Amos8.md",
+    "Old Testament/Isaiah/Isaiah62.md",
     "New Testament/1 Timothy/1Timothy6.md",
-    "New Testament/1 Timothy/1Timothy1.md",
-    "New Testament/Romans/Romans11.md",
-    "Romans.md",
-    "Old Testament/Psalm/Psalm18.md",
-    "New Testament/2 Timothy/2Timothy1.md",
-    "Old Testament/Amos/Amos7.md",
-    "Old Testament/Amos/Amos6.md",
-    "Old Testament/Amos/Amos2.md"
+    "New Testament/1 Timothy/1Timothy1.md"
   ]
 }
