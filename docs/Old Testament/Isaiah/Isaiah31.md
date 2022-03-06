@@ -1,4 +1,4 @@
-# Isaiah31
+# Isaiah 31
 
 ## Overview:
 

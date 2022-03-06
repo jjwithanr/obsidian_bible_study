@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3733f3ab476b89d6",
+        "id": "6ef9115e092abc53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/2 Timothy/2Timothy3.md",
-            "mode": "preview",
+            "file": "New Testament/2 Timothy/2Timothy4.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 188
+    "width": 172
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy3.md",
+                "file": "New Testament/2 Timothy/2Timothy4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3733f3ab476b89d6",
+  "active": "6ef9115e092abc53",
   "lastOpenFiles": [
-    "New Testament/2 Timothy/2Timothy3.md",
-    "New Testament/Galations/Galations5.md",
-    "New Testament/2 Peter/2Peter3.md",
-    "New Testament/2 Timothy/2Timothy2.md",
-    "Topics/heresy.md",
-    "New Testament/Romans/Romans1.md",
-    "Old Testament/Amos/Amos8.md",
-    "Old Testament/Isaiah/Isaiah62.md",
-    "New Testament/1 Timothy/1Timothy6.md",
-    "New Testament/1 Timothy/1Timothy1.md"
+    "New Testament/2 Timothy/2Timothy4.md",
+    "Topics/alone.md",
+    "Old Testament/Amos/Amos9.md",
+    "Topics/evangelism.md",
+    "Topics/edward.md",
+    "Topics/encourage.md",
+    "Topics/family.md",
+    "Topics/leadership.md",
+    "Topics/knowledge.md",
+    "Topics/morning.md"
   ]
 }

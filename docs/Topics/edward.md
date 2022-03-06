@@ -1,7 +1,7 @@
 # My Journey in praying for Edward
 
 
-### [PAIN](http://www.burningtreeministry.com/blog/2017/11/15/pain)
+### Katlyn on [PAIN](http://www.burningtreeministry.com/blog/2017/11/15/pain)
 
 _“We can ignore even pleasure. But Pain insists upon being attended to. God whispers to us in our pleasures, speaks in our conscience, but shouts in our Pains: it is his megaphone to rouse a deaf world.”  
 -C.S. Lewis_
@@ -15,6 +15,7 @@ Pain is truly crippling, but illuminating. As I rolled back and forth for severa
 But Pain’s greatest quality is its power to correctly reposition one’s heart with the Father. Imagine a precious toddler running through a store, distracted by all the toys on display, but he suddenly trips on flat ground, falls, and starts to cry. And although all sorts of people can rush to his side, this baby will refuse to be comforted until he finds himself in his mother’s embrace. Now while he was running and joyfully eyeing the toys, the child probably didn’t realize how far he had strayed from the most important person of his life. If he was soberly aware of his own desires and needs, he most likely would not have even left the stroller. Yet the natural heart inclination is to wander, forgetting how much one needs the author and giver of Life, and instead striving to attain the frivolities that might decorate and pamper up our lives.
 
 Thankfully, Pain has brought me back to a place of humility, crying out to Jesus,  “I need you more,” even more so as my own immaturity faces these afflictions, not my holiness. And there is a sense of joy and hope in my heart, because I know that even if it takes Pain, my Father has not given up on His wandering child, and is pressing me closer to His presence.
+#katlyn
 
 ### Maclaren on [Isaiah 50:10](Isaiah50#v.10)
 

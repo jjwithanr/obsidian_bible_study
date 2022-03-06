@@ -1,4 +1,4 @@
-# Isaiah47
+# Isaiah 47
 
 ## Overview:
 

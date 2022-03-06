@@ -1,13 +1,11 @@
 # He is Worthy
-related: [[suffering]] [[prayer]]
 
-### [Phillipians 3:8-9](Phillipians.md)
-> What is more, I consider everything a loss compared to the surpassing greatness of knowing Christ Jesus my Lord, for whose sake I have lost all things. I consider them rubbish, that I may gain Christ and  be found in him, not having a righteousness of my own that comes from the law, but that which is through faith in Christ - the righteousness that comes from God and is by faith.
-#### Enduring Word
+### EnduringWord on [Philippians 3:8-9](Philippians3#v.8-9)
 1. In Philippians 3:7 Paul said that he counted; in this verse he said I also count. This first counting was at his conversion; the second – some 30 years later – was in his Roman prison. After all he had experienced, he still counted it worthy to give everything up for the sake of following Jesus.  
 1. “After twenty years or more of experience Paul had an opportunity of revising his balance-sheet, and looking again at his estimates, and seeing whether or not his counting was correct. What was the issue of his latest search? How do matters stand at his last stocktaking? He exclaims with very special emphasis, ‘Yea doubtless; and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord.’” (Spurgeon)
 #enduringword 
-#### Craig Keener
+
+#### Craig Keener on [Philippians 3:8-9](Philippians3#v.8-9)
 As in 3:6, the problem is not the law but that the righteousness is Paul’s own, hence inadequate. Both biblical psalmists and later Jewish ones whose hymns appear in the *Dead Sea Scrolls* waited on God for their vindication or acquittal, and Paul likewise had to receive his justification, or righteousness, from God alone, but Paul understands that this is found in Christ.
 #craigkeener
 
@@ -23,7 +21,6 @@ Have patience, brother, have patience. That is a false religion that aims at pre
 
 
 ### Maclaren on [2 Thessalonians 1:11](2Thess1#v.11))
-
 If it were Paul’s supreme prayer, should it not be our supreme aim, that we may be worthy of Him that hath called us, and ‘walk worthy of the vocation wherewith we are called’?
 
 Two things, then, we may hope that God will do for us--He will fulfil every yearning after righteousness and purity in our hearts, and will perfect the active energy which faith puts forth in our lives.

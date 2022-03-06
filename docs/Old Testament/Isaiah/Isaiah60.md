@@ -1,4 +1,4 @@
-# Isaiah60
+# Isaiah 60
 
 ## Overview:
 
