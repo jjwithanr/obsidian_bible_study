@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/2 Timothy/2Timothy4.md",
+            "file": "New Testament/Titus/Titus1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy4.md",
+                "file": "New Testament/Titus/Titus1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6ef9115e092abc53",
   "lastOpenFiles": [
+    "New Testament/Titus/Titus1.md",
+    "Old Testament/Hosea/Hosea8.md",
+    "Old Testament/Obadiah.md",
+    "Old Testament/Isaiah/Isaiah64.md",
+    "New Testament/2 Timothy/2Timothy3.md",
+    "Topics/hope.md",
     "New Testament/2 Timothy/2Timothy4.md",
     "Topics/alone.md",
     "Old Testament/Amos/Amos9.md",
-    "Topics/evangelism.md",
-    "Topics/edward.md",
-    "Topics/encourage.md",
-    "Topics/family.md",
-    "Topics/leadership.md",
-    "Topics/knowledge.md",
-    "Topics/morning.md"
+    "Topics/evangelism.md"
   ]
 }

@@ -50,3 +50,7 @@ I have very much to say on this point, but my time is gone. I will only close wi
 
 What is the way to get it? The psalm tells us, “Let Israel hope in the Lord, from henceforth and forever.” ***Faith blossoming into hope is the way of sanctification, the road to a calm and quiet spirit.*** You cannot say to yourself, “I will fret no longer,” and then expect never to fret. No, brother, you must expel one affection by another—one propensity must be vanquished by another. **You are too ready to trust in man—trust in God will push out carnal confidence.** You are expecting great things of the world, that is foolish. Expect great things of God, and you will cease from carnal hopes. **You are seeking from day to day for this world’s good, you feel an ambition to rise—seek after the eternal good, and feel an ambition to get nearer to God, and the other ambition will die.**
 #spurgeon 
+
+### N.T. Wright in Paul
+“Hope” in this sense is not a feeling. It is a virtue. You have to practice it, like a difficult piece on the violin or a tricky shot at tennis. You practice the virtue of hope through worship and prayer, through invoking the One God, through reading and re-imagining the scriptural story, and through consciously holding the unknown future within the unshakable divine promises.
+#ntwright
