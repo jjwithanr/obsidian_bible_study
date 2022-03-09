@@ -5,7 +5,7 @@ Paul instructs Titus on how older and younger men and women ought to live. One t
 
 
 #### v.4-5
->Then [the older women] can train the younger women to love their husbands and children, <sup>5</sup>to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will **malign the word of God**.
+>Then the older women can train the younger women to love their husbands and children, <sup>5</sup>to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will **malign the word of God**.
 
 According to Paul’s instruction, Titus was not to make it his ministry to teach the **young women directly**. Instead, he was to equip and encourage the _older women_ to teach **the young women**.
 Of course, this doesn’t mean that **the young women** were barred from listening to Titus teach. It simply means that it was wrong – and dangerous – for Titus to make **the young women** a focus of his ministry. If there was a **young women** Bible Study group, Titus shouldn’t teach it. The _older women_ should.
@@ -23,22 +23,19 @@ Well, first, remember that the adornment of the Gospel of God our Savior is not 
 - Again, let a **quick forgiveness** be upon you.
 - Next, have **patience** under trouble.
 - **A placid and steady calm** is also a great adornment for the Gospel. 
-
-#[spurgeon](https://www.spurgeongems.org/sermon/chs2416.pdf)
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf)
 
 #### v.11-13
 >For the grace of God that brings salvation has appeared to all men.  <sup>12</sup>It **teaches us** to say "No" to ungodliness and worldly passions, and to live **self-controlled**, **upright**, and **godly lives** in this present age, while we wait for the blessed hope - the glorious appearing of our great God and Savior, Jesus Christ,
 
-See more in [[grace]].
+See more in [[grace#Spurgeon on Titus 2 11-13 Titus2 v 11-13]].
 
 One may say that in a world where we are tempted to say “Yes” to every desire and feelings, that the reality of our faith can be demonstrated by what we say _no_ to, by what we are [willing to deny](Philippians3.md#v.8-9).
 #enduringword 
 
 The most difficult part of the training of young men is not to put the right thing into them, but to get the wrong thing out of them.
-#spurgeon
 
 Christians are not to run out of the world, as monks and hermits sought to do, but to *live in this present world.* Yet, while in the world, we are to be godly, that is, full of God. That kind of life which is without God is not for Christians. Those worldly desires, the pride and ambition, which are common to worldly men, are not to have power over us. We are to deny them, and to live soberly.
-#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) 
 
 Grace has its discipline, and Grace has its chosen disciples, for you cannot help noticing that while the eleventh verse says that, “the grace of God that brings salvation has appeared to all men,” **yet it is clear that this grace of God has not exercised its holy discipline upon all men and therefore the text changes its “all men” into “us.”** Usually in Scripture when you get a generality you soon find a particularity near it. The text has it, “teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world.” Thus you see that grace has its own disciples. Are you a disciple of the grace of God? Did you ever come and submit yourself to it? Have you learned to spell that word “faith”? Have you childlike trust in Jesus? Have you learned to wash in the laver of atonement? Have you learned those holy exercises which are taught by the grace of God? Can you say that your salvation is of grace? Do you know the meaning of that text, “By grace are you saved through faith; and that not of yourselves: it is the gift of God”?
 #spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) 

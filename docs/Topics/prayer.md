@@ -152,3 +152,10 @@ Petition is an element in prayer, and that it shall be crystallised into words i
 [Link](https://www.gotquestions.org/intercessory-prayer.html)
 
 All Christians have the Holy Spirit in their hearts and, just as He intercedes for us in accordance with God’s will ([Romans 8:26-27](Romans8.md#v.26)), we are to intercede for one another. This is not a privilege limited to an exclusive Christian elite; this is the command to all. In fact, not to intercede for others is sin. “As for me, far be it from me that I should sin against the LORD by failing to pray for you” ([1 Samuel 12:23](1Samuel12.md#v.23)).
+
+### Barnes on [Isaiah 65:24](Isaiah65#v.24)
+
+Even the most faithful and prayerful of his people receive numerous favors and comforts at his hand for which they have not directly asked him.
+
+When his people have been deeply impressed with a sense of the languishing state of religion; when they have gone unitedly before God and implored a blessing; God has heard their prayers, and even while they were speaking has begun a work of grace. Hundreds of such instances have occurred, alike demonstrating the faithfulness of God to his promises, and suited to encourage his people, and to excite them to prayer. It is one of the precious promises pertaining to the blessings of the reign of the Messiah, that the answer of prayer shall be immediate - and for this his people should look, and this they should expect. God can as easily answer prayer at once as to delay it; and when the proper state of mind exists, he is as ready to answer it now as to defer it to a future time. What encouragement have we to pray! How faithful, how fervent should we be in our supplications! How full of guilt are we if one single blessing is withheld from our world that might have been imparted if we had prayed as we ought; if one single soul shall be lost who might have been saved if we had not been unfaithful in prayer!
+#barnes 

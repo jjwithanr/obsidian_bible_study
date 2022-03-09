@@ -1,7 +1,7 @@
 # Proverbs31
 
 ## Overview:
-
+The theme 
 
 
 #### v.3
@@ -13,8 +13,13 @@ The vigour of thy mind and body, which is greatly impaired by inordinate lusts, 
 LOL. Why does no one quote this verse when mentioning a Proverbs 31 woman? Gotta love the context for Proverbs 31.
 #jj 
 
-#### v.
->
+#### v.10
+>A wife of noble character who can find? She is worth far more than rubies.
+
+The theme of the poem, the wife of noble character, **captures the ideals of wisdom** that have filled the book. It may well by that this is **more the point of the composition than merely a portrayal of the ideal wife.** The woman here presented is a wealthy aristocrat who runs a household estate with servants and conducts business affairs - real estate, vineyards, and merchandise - domestic affairs, and charity. It would be quite a task for any woman to emulate this pattern.
+
+After all, the works says nothing about the woman's personal relationship with her husband, her intellectual or emotional strengths, or her religious activities. In general it appears that the woman of ch. 31 is a symbol of wisdom.
+#barker 
 
 #### v.
 >

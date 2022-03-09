@@ -16,6 +16,12 @@
 The deep interdependence of morality and intellect. **We have a right judgment in all things in proportion as our hearts seek to know God.**
 #barnes 
 
+#### v.8
+>He who increases his wealth by exorbitant interest amasses it for another, who will be kind to the poor.
+
+Story of Thomas and mechanical keyboard.
+#jj 
+
 #### v.11
 >A rich man may be wise in his own eyes, but a poor man who has discernment sees through him.
 

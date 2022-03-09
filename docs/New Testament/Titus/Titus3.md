@@ -9,7 +9,8 @@ At the climax of his charge and commands to Titus, Paul concludes with a teachin
 
 See [Galations 4:9](Galations4.md#v.8-9) also.
 
-Paul's emphasis on the trait of self-controlled infers the reader already has passions and desires in this life albeit divinely oriented or not. The attainment of divinely oriented desires is not emphasised here. It is the proper control of all the desires existing within the individual whether spiritual or not. Young people who are filled with passion for the Lord without enough respective self-control will simply become misguided in their own ambitions thinking it God's will all along. 
+The attainment of divinely oriented desires is not emphasised here. It is the proper control of all the desires existing within the individual whether spiritual or not. Young people who are filled with passion for the Lord without enough respective self-control will simply become misguided in their own ambitions thinking it God's will all along. 
+#jj 
 
 #### v.4-5
 >But when the **kindness and love** of God our Savior appeared, <sup>5</sup>he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,
@@ -25,10 +26,19 @@ Paul’s term for God’s “love for humanity” here was used by pagan moralis
 >Warn a divisive person once, and then warn him a second time. After that, have nothing to do with him. <sup>11</sup>You may be sure that such a man is warped and sinful; he is self-condemned.
 
 When it comes to unbelief of fundamental and vital doctrines, we who are like Titus, **set in office over a church**, must deal with such deadly evils with a strong hand.
-#[spurgeon](https://www.spurgeongems.org/sermon/chs2416.pdf) 
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) 
 
 #### v.14
 >Our people must learn to devote themselves to doing what is good, in order that they may provide for daily necessities and not live **unfruitful** lives.
 
 That it may be seen that their religion is not barren and worthless, but that it produces a happy effect on themselves and on society; compare the [John 15:16](John15#v.16) note; [Ephesians 4:28](Ephesians4#v.28) note.
 #barnes 
+
+Christianity obliges all to seek some honest work and calling, and therein to abide with God.
+#matthewhenry 
+
+#### v.15
+>Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.
+
+Grace is the chief thing to be wished and prayed for, with respect to ourselves or others; it is all good.
+#matthewhenry 
