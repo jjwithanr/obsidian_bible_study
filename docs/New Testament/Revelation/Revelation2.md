@@ -43,4 +43,4 @@ See [[grace#Barnes on Revelation 2 24 Revelation2 v 24]].
 >To him who overcomes and does my will to the end, I will give authority over the nations - 
 
 Fred Markert on authority over the nations being linked to tolerating spirit of Jezebel.
-
+#jj 

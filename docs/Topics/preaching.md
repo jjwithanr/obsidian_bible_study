@@ -26,3 +26,40 @@ What do you see in Christ’s right hand? Seven stars; yet how insignificant the
 [Sermon](https://www.spurgeongems.org/sermon/chs1974.pdf)
 My brethren, we that preach the gospel, you that teach it in the Sunday school—you will always find your greatest power to lie in love. There is more eloquence in love than in all the words that the cleverest rhetorician can ever put together. We win upon men not so much by poetry and by artistic wording of sentences, as by the pouring out of a heart’s love that makes them feel that we would save them, that we would bless them, that we would, because we belong to them, regard them as brethren, and play a brother’s part, and lay ourselves out to benefit them.
 #spurgeon
+
+### Spurgeon on [Ezekiel 3:17](Ezekiel3#v.17)
+[sermon](https://www.spurgeongems.org/sermon/chs1431.pdf)
+It seems to me, brother, that if the Lord has opened your eyes you have become a seer, and when you have become a seer, and can see, you should also become a watchman, and watch for the good of the church of God, and for the salvation of souls
+
+Can we let sinners perish? Can we permit our own kinsmen to go down into the pit? No, not if our prayers, and tears, and earnest teachings can rescue them. Jesus Christ in mighty love has died to save sinners, and He must be honored for His glorious deed of grace—can we suffer His name to be trailed in the mire? Shall He still be despised and rejected by human hearts? Shall even the members of our own family refuse His gentle sway? No, not if our testimony may help to honor Him, nor if our earnest pleadings may gain Him a throne in some human heart.
+
+We feel glad to think that Christ’s battles are not such as require strength of muscle and bone, nor do they need great mental capacity. Even the appointed watchman is set only to warn the people, he has not to charm them with eloquence, nor to electrify them with novelties of oratory, he is simply to warn them, and the plainest language may suffice for that. Surely it is a grave mistake of the present period that men think their preachers are bound to be oratorical and poetical. Why is such startling ability to be flaunted if the object is to warn a sinner to flee from the wrath to come? I fear that my brethren are forgetting their real errand, and are laboring to dazzle those whom the Lord sent them to warn.
+
+#### I. If we would be found really useful and serviceable for our Lord and Master, THE EAR IS TO BE DISCIPLINED.
+
+It is well known that no man is fit to command who has not first learned to obey, and assuredly no man is qualified to teach who has not first of all found pleasure in learning.
+
+Beloved, there be many who are willing to begin winning souls who had better first commence learning Christ. “Go you into all the world and preach the gospel to every creature” was spoken to men who had been for some time with Jesus, and had learned of Him. For others who were to be called, it was provided that after baptism they should be taught, that in due season they also might go forth to instruct the nations.
+
+The great thing, I believe, with a successful winner of souls is to hear God’s truth from God’s own mouth. What do I mean by this? I mean that a second-hand message is sure to be weakly delivered. A brother repeats a story which somebody else has told to him! how cold it gets in passing from hand to hand, he who first saw the fact told it with far more life and energy. What you need to do, brother, is to tell the message as God Himself has told it to you by His Holy Spirit.
+
+Sitting down with the Bible on my knee, I say to myself, “This is no common book which lies before me, there is an inspiration here, not the inspiration of Milton or of Shakespeare, but divine inspiration, this is the language of the Eternal, as truly so as though I now saw Sinai on a blaze, and heard out of the thick darkness these accents ringing with trumpet tones, and with the deep thunder of Thus says the Lord. When we thus consider, we are in a right mood to hear the Lord’s word, and to speak it to others. We must own and feel the majesty of the Gospel, and be conscious of its power, or we shall not rightly warn men.
+
+It is poor work to preach a Christ you never knew. It is terrible to talk of bread you have never tasted, of living water you never drank, and of joys you never felt. The husbandman that labors must first be a partaker of the fruits.
+
+#### II. Secondly, THE TONGUE IS TO BE EDUCATED.
+
+And to what end is the tongue educated? I answer, first, to be able to deliver an unpleasant message. Any man’s tongue is swift in telling good things, at least it ought to be, or else where is humanity? We are glad enough to tell you glad tidings of good things, but he that is to be useful must be willing to speak unpleasant things.
+
+Brothers and sisters, are you ready when you meet with careless people to tell them truths that will be unpalatable to them, and when they are awakened are you willing, in God’s name to try and beat to pieces their refuges of lies, to tell them plainly of the mistakes that they are so fond of, and point them to the only way of salvation? You and I cannot be useful if we want to be sweet as honey in the mouths of men. **🔥God will never bless us if we wish to please men, that they may think well of us. Are you willing to tell them what will break your own heart in the telling and break theirs in the hearing? If not, you are not fit to serve the Lord.**
+
+The man should be full of emotion, not moved by anger, but by a sacred passion which arouses him and makes the people feel that he is in awful earnest, carried out of himself, not delivering set phrases and words from his mouth outwards, but speaking from his inmost heart.
+
+It is just so when you come fresh from talking with God, the truth is vividly realized, awe is upon you, and holy zeal and sacred ardor inflame your breast. If you dwell away from God you do not feel the value of the Gospel message, or the weight of men’s souls. The grandest of all truths lose force when they cease to be realized facts, but their power returns when we come again under their actual influence. When the voice of Jesus’ love is still ringing in your ears, then with a deep awestruck solemnity your whole soul is poured forth at your mouth, and you speak as pleading with men that they would yield to God and accept His great salvation. The tongue must speak when the ear is tingling with the message of the Lord.
+
+You may not all be called to the work of prophesying as ministers are, but you are all called by some means to warn men of the wrath to come and lead them to Christ, and I want you to feel that God is at the back of you when you warn sinners.
+
+**Let us begin to weep, for weeping, perhaps, may be the fittest beginning of a higher life, as it was the beginning of our natural life.** Let us cry unto God, let us watch for opportunities, and as they come let us avail ourselves of them, if by any means we may save some. We dare no longer fritter away life.
+
+I am glad that you read your Bibles, but how is it that you feel so easy when you have read your chapter every day? Do you think you will get salvation by Bible reading? Alas, you are in error. You must go further than that, you must go to Christ Jesus Himself.
+#spurgeon 

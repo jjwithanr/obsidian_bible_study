@@ -30,7 +30,7 @@ Be a watchman, JJ. The church in America has its reputation, but is it alive? We
 #### v.4
 >Yet you have a few people in Sardis who have not soiled their clothes. They will walk with me, dressed in white, for they are worthy.
 
-But what shall be done with such persons as live in the church, but are not of it, having a name to live, but are dead? What shall be done with mere professors who are not possessors? What shall become of those who are only outwardly religious but inwardly are in the gall of bitterness? We answer, as good Calvin did once: ‘They shall walk in black, for they are unworthy.’ They shall walk in black – the blackness of God’s destruction. They shall walk in black – the blackness of hopeless despair. They shall walk in black – the blackness of incomparable anguish. They shall walk in black – the blackness of damnation. They shall walk in black for ever, because they were found unworthy.
+But what shall be done with such persons as live in the church, but are not of it, having a name to live, but are dead? **What shall be done with mere professors who are not possessors?** What shall become of those who are only outwardly religious but inwardly are in the gall of bitterness? We answer, as good Calvin did once: ‘They shall walk in black, for they are unworthy.’ They shall walk in black – the blackness of God’s destruction. They shall walk in black – the blackness of hopeless despair. They shall walk in black – the blackness of incomparable anguish. They shall walk in black – the blackness of damnation. They shall walk in black for ever, because they were found unworthy.
 #spurgeon 
 
 #### v.7
