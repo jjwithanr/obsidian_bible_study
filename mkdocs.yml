@@ -3,9 +3,6 @@ site_name: JJ's Bakery
 theme:
     name: 'material'
     palette:
-    theme:
-        icon:
-            logo:material/breakfast_dining
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
