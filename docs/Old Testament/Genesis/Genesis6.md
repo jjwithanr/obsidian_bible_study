@@ -1,4 +1,4 @@
-# Genesis6
+# Genesis 6
 
 ## Overview:
 

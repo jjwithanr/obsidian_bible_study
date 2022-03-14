@@ -1,4 +1,4 @@
-# Hosea4
+# Hosea 4
 
 ## Overview:
 

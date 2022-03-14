@@ -1,4 +1,4 @@
-# Revelation7
+# Revelation 7
 
 ## Overview:
 

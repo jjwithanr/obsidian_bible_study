@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7d092e595fe32a",
+        "id": "c2b27ddf7b1c37b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Proverbs/Proverbs20.md",
+            "file": "New Testament/Revelation/Revelation10.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs20.md",
+                "file": "New Testament/Revelation/Revelation10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd7d092e595fe32a",
+  "active": "c2b27ddf7b1c37b8",
   "lastOpenFiles": [
-    "Old Testament/Proverbs/Proverbs20.md",
-    "Old Testament/Proverbs/Proverbs24.md",
-    "New Testament/Matthew/Matthew3.md",
-    "Old Testament/Micah/Micah3.md",
-    "New Testament/Matthew/Matthew2.md",
-    "Old Testament/Proverbs/Proverbs14.md",
-    "Old Testament/Micah/Micah2.md",
-    "Old Testament/Ezekiel/Ezekiel5.md",
-    "New Testament/Matthew/Matthew1.md",
-    "Old Testament/Micah/Micah1.md"
+    "New Testament/Revelation/Revelation10.md",
+    "New Testament/Revelation/Revelation12.md",
+    "New Testament/Revelation/Revelation16.md",
+    "New Testament/Revelation/Revelation5.md",
+    "New Testament/Revelation/Revelation6.md",
+    "New Testament/Revelation/Revelation7.md",
+    "New Testament/Revelation/Revelation11.md",
+    "New Testament/Matthew/Matthew18.md",
+    "New Testament/Matthew/Matthew11.md",
+    "New Testament/Matthew/Matthew1.md"
   ]
 }

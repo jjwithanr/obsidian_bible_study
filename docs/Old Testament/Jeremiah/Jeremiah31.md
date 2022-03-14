@@ -1,14 +1,7 @@
-# Jeremiah31
+# Jeremiah 31
 
 ## Overview:
 
-
-
-#### v.
->
-
-#### v.
->
 
 #### v.31-34
 >The timing is coming, declares the Lord, when I will make a new **new covenant** with the house of Israel and with the house of Judah.

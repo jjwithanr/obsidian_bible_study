@@ -1,4 +1,4 @@
-# Proverbs28
+# Proverbs 28
 
 ## Overview:
 

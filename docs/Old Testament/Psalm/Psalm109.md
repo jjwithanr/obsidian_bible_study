@@ -1,4 +1,4 @@
-# Psalm109
+# Psalm 109
 
 ## Overview:
 
@@ -9,11 +9,4 @@
 
 literally, *"I - prayer;"* that is, I am all prayer; I continually pray. This may mean, either, that he bore these trials with a meek spirit, and did not allow these things to disturb his devotions; or, more probably, that he prayed constantly "for them;" he desired their good, and sought it from above.
 #barnes 
-
-
-#### v.
->
-
-#### v.
->
 

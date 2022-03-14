@@ -1,4 +1,4 @@
-# Revelation6
+# Revelation 6
 
 ## Overview:
 

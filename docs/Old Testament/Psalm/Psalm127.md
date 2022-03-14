@@ -1,4 +1,4 @@
-# Psalm127
+# Psalm 127
 
 ## Overview:
 

@@ -1,4 +1,4 @@
-# Psalm131
+# Psalm 131
 
 ## Overview:
 

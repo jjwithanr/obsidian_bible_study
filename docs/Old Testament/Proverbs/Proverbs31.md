@@ -1,7 +1,6 @@
-# Proverbs31
+# Proverbs 31
 
 ## Overview:
-The theme 
 
 
 #### v.3

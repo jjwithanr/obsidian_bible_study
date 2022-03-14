@@ -1,4 +1,4 @@
-# Exodus25
+# Exodus 25
 
 ## Overview:
 

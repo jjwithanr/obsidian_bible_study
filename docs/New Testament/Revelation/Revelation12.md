@@ -1,4 +1,4 @@
-# Revelation12
+# Revelation 12
 
 ## Overview:
 

@@ -1,4 +1,4 @@
-# Matthew18
+# Matthew 18
 
 ## Overview:
 See more in [[motives#Barnes on Matthew 18 Matthew18]]

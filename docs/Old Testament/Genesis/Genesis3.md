@@ -1,4 +1,4 @@
-# Genesis3
+# Genesis 3
 
 ## Overview:
 

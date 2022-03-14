@@ -1,4 +1,4 @@
-# Psalm27
+# Psalm 27
 
 ## Overview:
 
@@ -6,11 +6,6 @@
 
 #### v.4
 >One thing I ask of the Lord, this is what I seek: that I may dwell in the house of the Lord all the days of my life, to gaze upon the beauty of the Lord and to seek him in his temple.
-
-
-
-#### v.
->
 
 #### v.14
 >Wait for the Lord; be strong and take heart and wait for the Lord.
