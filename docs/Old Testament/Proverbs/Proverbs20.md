@@ -1,4 +1,4 @@
-# Proverbs20
+# Proverbs 20
 
 ## Overview:
 

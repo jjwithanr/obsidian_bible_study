@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew3.md",
+            "file": "Old Testament/Proverbs/Proverbs20.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew3.md",
+                "file": "Old Testament/Proverbs/Proverbs20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "dd7d092e595fe32a",
   "lastOpenFiles": [
+    "Old Testament/Proverbs/Proverbs20.md",
+    "Old Testament/Proverbs/Proverbs24.md",
     "New Testament/Matthew/Matthew3.md",
     "Old Testament/Micah/Micah3.md",
     "New Testament/Matthew/Matthew2.md",
@@ -96,8 +98,6 @@
     "Old Testament/Micah/Micah2.md",
     "Old Testament/Ezekiel/Ezekiel5.md",
     "New Testament/Matthew/Matthew1.md",
-    "Old Testament/Micah/Micah1.md",
-    "Old Testament/Ezekiel/Ezekiel4.md",
-    "Old Testament/Ezekiel/Ezekiel3.md"
+    "Old Testament/Micah/Micah1.md"
   ]
 }
