@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew1.md",
+            "file": "New Testament/Matthew/Matthew3.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "repentence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew1.md",
+                "file": "New Testament/Matthew/Matthew3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "dd7d092e595fe32a",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew3.md",
+    "Old Testament/Micah/Micah3.md",
+    "New Testament/Matthew/Matthew2.md",
+    "Old Testament/Proverbs/Proverbs14.md",
+    "Old Testament/Micah/Micah2.md",
+    "Old Testament/Ezekiel/Ezekiel5.md",
     "New Testament/Matthew/Matthew1.md",
     "Old Testament/Micah/Micah1.md",
     "Old Testament/Ezekiel/Ezekiel4.md",
-    "Old Testament/Ezekiel/Ezekiel3.md",
-    "New Testament/Philemon.md",
-    "New Testament/2 Corinthians/2Cor7.md",
-    "Templates/chapter.md",
-    "Old Testament/Obadiah.md",
-    "Topics/preaching.md",
-    "New Testament/1 Thessalonians/1Thess1.md"
+    "Old Testament/Ezekiel/Ezekiel3.md"
   ]
 }
