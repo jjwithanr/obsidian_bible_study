@@ -22,6 +22,7 @@ Pastor Ed's story of him taking two girls who lost their mother despite being a 
 >As the body without the spirit is dead, so faith without deeds is dead.
 
 Watchman Nee expands greatly on the body, soul, and spirit in *Spiritual Man*.
+#jj research
 
 The man without a spirit is dead since they can't accept anything or understand anything that is spiritual - that which gives life. This nature is expounded in [1 Corinthians 2:14](1Cor2#v.14)
 

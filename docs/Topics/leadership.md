@@ -9,4 +9,6 @@ Above all, the grace of God guides us very much by the dethroning of self as the
 I believe that, over and above this infusion of right principles, and balancing of the faculties, there is a special illumination of mind which comes from dwelling near God. Everybody knows how near akin sin is to insanity. Well now, remember that holiness is as near akin to perfect wisdom as sin is to insanity, and when you yield yourself to the holy influences of God’s presence, you shall have given to you what men call “shrewd commonsense,” but what is really an illumination produced in your mind by getting near to God and being made like Him.
 #spurgeon 
 
-
+### Barker on [Ezekiel 7:26](Ezekiel7#v.26)
+The last response for some was to seek help. People would run to the prophet in hope of a visionary revelation of deliverance, to the priest for messages from the law that might help, or to the elders for counsel in this time of distress. None could offer help. They had no answers at all! The leadership failed in its responsibility to lead the people in God's ways. It was too late! The anguish of judgement had come! If the people had sought peace earlier, it would have been available; but now there was no peace. Kings and princes would be horrified and mourn. God had judged Israel by her own judgements - by the Mosaic covenant they should have known and followed. The only redeeming factor was that they would learn that the Lord truly was God and that his covenants were to be obeyed!
+#barker 

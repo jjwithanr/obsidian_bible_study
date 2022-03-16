@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Revelation/Revelation10.md",
+            "file": "Topics/prayer.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "acd63dc67f5da486",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Old Testament/Psalm/Psalm130.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "repentence",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 286
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Revelation/Revelation10.md",
+                "file": "Topics/prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +101,15 @@
   },
   "active": "c2b27ddf7b1c37b8",
   "lastOpenFiles": [
-    "New Testament/Revelation/Revelation10.md",
-    "New Testament/Revelation/Revelation12.md",
-    "New Testament/Revelation/Revelation16.md",
-    "New Testament/Revelation/Revelation5.md",
-    "New Testament/Revelation/Revelation6.md",
-    "New Testament/Revelation/Revelation7.md",
-    "New Testament/Revelation/Revelation11.md",
-    "New Testament/Matthew/Matthew18.md",
-    "New Testament/Matthew/Matthew11.md",
-    "New Testament/Matthew/Matthew1.md"
+    "Topics/prayer.md",
+    "Old Testament/Psalm/Psalm130.md",
+    "New Testament/Matthew/Matthew4.md",
+    "Topics/temptation.md",
+    "Old Testament/Jeremiah/Jeremiah17.md",
+    "New Testament/James/James2.md",
+    "New Testament/Hebrews/Hebrews11.md",
+    "Old Testament/Psalm/Psalm119.md",
+    "Topics/leadership.md",
+    "Old Testament/Micah/Micah4.md"
   ]
 }

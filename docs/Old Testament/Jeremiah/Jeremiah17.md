@@ -34,7 +34,7 @@ The Septuagint reads this verse differently, "The heart is deep above all things
 #pulpitcommentary 
 
 In my effort to measure myself rightly in the Lord, I realize the instrument for such measurements is deceitful. Despite what units I use or what standard I set, the heart is deceitful and beyond cure. There is no hope outside the gospel for this heart of stone to become a heart of flesh. Don't measure yourself. Watchman Nee states that self-knowledge cannot be attained through introspection.
-#jj 
+#jj see also [[temptation#IV To close my discourse let me remind you that IF THE TEMPTER CAN BE OVERCOME IT WILL BE EXCEEDINGLY HELPFUL TO US ALL THE REST OF OUR LIFE]].
 
 #### v.10
 >I the Lord search the heart and examine the mind, to reward a man according to his conduct, according to what his deeds deserve."
