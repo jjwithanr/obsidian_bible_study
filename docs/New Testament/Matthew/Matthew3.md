@@ -50,3 +50,4 @@ He submitted to the ordinance of baptism, also, in order that occasion might be 
 
 Out of Christ, God is a consuming fire, but in Christ, a reconciled Father. This is the sum of the gospel, which we must by faith cheerfully embrace.
 #matthewhenry 
+

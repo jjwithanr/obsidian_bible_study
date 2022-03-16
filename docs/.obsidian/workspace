@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/prayer.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "acd63dc67f5da486",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Old Testament/Psalm/Psalm130.md",
+            "file": "New Testament/Matthew/Matthew5.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 205
   },
   "right": {
     "id": "219162062c6e662e",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/prayer.md",
+                "file": "New Testament/Matthew/Matthew5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +89,15 @@
   },
   "active": "c2b27ddf7b1c37b8",
   "lastOpenFiles": [
-    "Topics/prayer.md",
-    "Old Testament/Psalm/Psalm130.md",
+    "New Testament/Matthew/Matthew5.md",
+    "Topics/alone.md",
+    "New Testament/2 Thessalonians/2Thess3.md",
+    "Topics/edward.md",
+    "Topics/meekness,greatness.md",
+    "Topics/preaching.md",
+    "New Testament/Mark/Mark1.md",
     "New Testament/Matthew/Matthew4.md",
-    "Topics/temptation.md",
-    "Old Testament/Jeremiah/Jeremiah17.md",
-    "New Testament/James/James2.md",
-    "New Testament/Hebrews/Hebrews11.md",
-    "Old Testament/Psalm/Psalm119.md",
-    "Topics/leadership.md",
-    "Old Testament/Micah/Micah4.md"
+    "New Testament/Matthew/Matthew3.md",
+    "Old Testament/Micah/Micah5.md"
   ]
 }

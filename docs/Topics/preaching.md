@@ -63,3 +63,9 @@ You may not all be called to the work of prophesying as ministers are, but you a
 
 I am glad that you read your Bibles, but how is it that you feel so easy when you have read your chapter every day? Do you think you will get salvation by Bible reading? Alas, you are in error. You must go further than that, you must go to Christ Jesus Himself.
 #spurgeon 
+
+### Maclaren on [Mark 1:22](Mark1#v.22)
+The unostentatious manner of Christ’s beginning is noteworthy. He seeks to set Himself in the line of the ordinary teaching of the day. He knew all the faults of the synagogue and the rabbis, and He had come to revolutionise the very conception of religious teaching and worship; but He prefers to intertwine the new with the old, and to make as little disturbance as possible. **It is easy to get the cheap praise of ‘originality’ by brushing aside existing methods. It is harder and nobler to use whatever methods may be going, and to breathe new value and life into them.** Drowsy, hair-splitting disputations about nothings and endless casuistry were the staple of the synagogue talk; but when He opened His mouth there, the weary formalism went out of the service, and men’s hearts glowed again when they once more heard a Voice that lived, speaking from a Soul that saw the invisible. Mark has no mission to record many of our Lord’s sayings. His Gospel deals more with deeds. The sermon he does not give, but the hearer’s comment he does.
+
+This new Teacher would startle all, as an eagle suddenly appearing in a sanhedrim of owls. He would shock many; He would fascinate a few. Nor was it only the dissimilarity of His teaching, but also its authority, that was strange.
+#maclaren 
