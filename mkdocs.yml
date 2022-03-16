@@ -3,7 +3,6 @@ site_name: JJ's Bakery
 theme:
     name: 'material'
     palette:
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
