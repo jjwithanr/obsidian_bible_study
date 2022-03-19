@@ -40,3 +40,26 @@ God promises to fill every holy desire He starts within us through our regenerat
 #### v.9
 >Blessed are the peacemakers, for they will be called sons of God.
 
+#### v.13
+>"You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.
+
+a rabbi at the end of the first century. When asked how one could make saltless salt salty again, he replied that one should salt it with the afterbirth of a mule. Being sterile, mules have no afterbirth, and the rabbi was saying that those who ask a stupid question receive a stupid answer. Real salt does not lose its saltiness; but if it did, what would you do to restore its salty flavor—salt it? Unsalty salt was worthless
+#craigkeener 
+
+#### v.17
+>"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.
+
+#### v.18
+>I tell you the truth, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished.
+
+#### v.19
+>Anyone who breaks the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.
+
+Inequality exists in heaven.
+#jj 
+
+#### v.20
+>For I tell you that unless your righteousness surpasses that of the Phraisees and the teachers of the law, you will certainly not enter the kingdom of heaven.
+
+Jesus sets the stage for why we need God to impute His righteousness onto us.
+#jj 

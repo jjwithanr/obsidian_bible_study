@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/preaching.md",
+            "file": "New Testament/Matthew/Matthew5.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/preaching.md",
+                "file": "New Testament/Matthew/Matthew5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c2b27ddf7b1c37b8",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew5.md",
+    "Old Testament/Micah/Micah6.md",
     "Topics/preaching.md",
     "New Testament/Mark/Mark1.md",
     "Topics/temptation.md",
-    "New Testament/Matthew/Matthew5.md",
     "Topics/alone.md",
     "New Testament/2 Thessalonians/2Thess3.md",
     "Topics/edward.md",
     "Topics/meekness,greatness.md",
-    "New Testament/Matthew/Matthew4.md",
-    "New Testament/Matthew/Matthew3.md"
+    "New Testament/Matthew/Matthew4.md"
   ]
 }
