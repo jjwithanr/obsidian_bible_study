@@ -1,5 +1,5 @@
 # Matthew 5
-
+RESEARCH
 ## Overview:
 
 
@@ -7,6 +7,11 @@
 >"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
 
 See more in [[meekness,greatness#Barnes on Matthew 5 3 Matthew5 v 3]].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zuh2hDR17qY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We are rich in terms of our legal position before God. But, in terms of our living conditions, we are poor.
+#mikebickle
 
 #### v.4
 >Blessed are those who mourn, for they will be comforted.
