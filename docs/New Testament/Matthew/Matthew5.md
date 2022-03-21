@@ -36,6 +36,10 @@ Those who are perishing for want of righteousness; those who feel that they are 
 God promises to fill every holy desire He starts within us through our regeneration from the Holy Spirit.
 #jj 
 
+Although I loved the poetry of Jesus’ Sermon on the Mount, I remained oblivious to its truth. People who already feel righteous don’t hunger and thirst for it.
+#jackdeere
+
+
 #### v.7
 >Blessed are the merciful, for they will be shown mercy.
 
