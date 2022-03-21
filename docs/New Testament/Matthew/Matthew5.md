@@ -105,3 +105,24 @@ I'd rather die than sin
 #### v.32
 >But I tell you that anyone who divorces his wife, except for marital unfaithfulness, causes her to become an adultress, and anyone who marries the divorced woman commits adultery.
 
+
+#### v.34
+>But I tell you, Do not swear at all: either by heaven, for it is God's throne;
+
+If lies were not so common, oaths would be needless. And oaths increase the evil from which they come, by confirming the notion that there is no sin in a lie unless it is sworn to.
+#maclaren 
+
+#### v.39
+>But I tell you, Do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also.
+
+As a judicial rule it is not unjust. Christ finds no fault with the rule as applied to magistrates, and does not take upon himself to repeal it. But instead of confining it to magistrates, the Jews had extended it to private conduct, and made it the rule by which to take revenge. They considered themselves justified by this rule to inflict the same injury on others that they had received.
+#barnes
+
+#### v.42
+>Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
+
+It is good to be in the habit of giving. At the same time, the rule must be interpreted so as to be consistent with our duty to our families [1 Timothy 5:8](https://biblehub.com/1_timothy/5-8.htm) and with other objects of justice and charity. It is seldom, perhaps never, good to give to a person who is able to work, [2 Thessalonians 3:10](https://biblehub.com/2_thessalonians/3-10.htm). To give to such is to encourage laziness, and to support the idle at the expense of the industrious. If such a one is indeed hungry, feed him; if he needs anything further, give him employment. If a widow, an orphan, a man of misfortune, or an infirmed man, lame, or sick, is at your door, never send any of them away empty. See [Hebrews 13:2](https://biblehub.com/hebrews/13-2.htm); [Matthew 25:35-45](http://biblehub.com/matthew/25-35.htm).
+#barnes 
+
+See also https://www.biblegateway.com/devotionals/boundaries/3134/04/06.
+

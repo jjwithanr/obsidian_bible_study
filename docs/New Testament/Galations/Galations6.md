@@ -25,8 +25,8 @@ Here is the true secret of happiness. It consists:
 (3) **in not being dependent on the fickle applause of the world for our comfort.** The man who has no internal resources, and who has no approving conscience; who is happy only when others smile, and miserable when they frown, is a man who can have no security for enjoyment. The man who has a good conscience, and who enjoys the favor of God, and the hope of heaven, carries with him the source of perpetual joy. He cannot be deprived of it. His purse may be taken, and his house robbed, but the highwayman cannot rob him of his comforts. He carries with him an unfailing source of happiness when abroad, and the same source of happiness abides with him at home; he bears it into society, and it remains with him in solitude; it is his companion when in health, and when surrounded by his friends, and it is no less his companion when his friends leave him, and when he lies upon a bed of death.
 #barnes 
 
-#### v.7
->Do not be deceived: God cannot be mocked. A man reaps what he sows.
+#### v.7-8
+>Do not be deceived: God cannot be mocked. A man reaps what he sows. <sup>8</sup>The one who sows to please his sinful nature, from that nature will reap destruction; the one who sows to please the Spirit, from the Spirit will reap eternal life.
 
 Private victory leads to public victory.
 #jj from 7 Habits
