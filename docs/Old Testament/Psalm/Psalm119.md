@@ -1,4 +1,4 @@
-# Psalm119
+# Psalm 119
 
 ## Overview:
 

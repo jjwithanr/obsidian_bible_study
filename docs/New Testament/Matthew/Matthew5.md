@@ -68,3 +68,36 @@ Inequality exists in heaven.
 
 Jesus sets the stage for why we need God to impute His righteousness onto us.
 #jj 
+
+#### v.22
+>But I tell you that anyone who is angry with his brother will be subject to judgement. Again, anyone who says to his brother, 'Raca, is answerable to the Sanhedrin. But anyone who says, 'You fool!' will be in danger of the fire of hell.
+
+When excited against sin, it is lawful. God is angry with the wicked, [Psalm 7:11](https://biblehub.com/psalms/7-11.htm). Jesus looked on the hypocritical Pharisees with anger, [Mark 3:5](https://biblehub.com/mark/3-5.htm). So it is said, "Be ye angry, and sin not, [Ephesians 4:26](https://biblehub.com/ephesians/4-26.htm). This anger, or indignation against sin, is not what our Saviour speaks of here. What he condemns here is anger without a cause; that is, unjustly, rashly, hastily, where no offence has been given or intended. In that case it is evil; and it is a violation of the sixth commandment, because "he that hateth his brother, is a murderer," [1 John 3:15](https://biblehub.com/1_john/3-15.htm). He has a feeling which would lead him to commit murder, if it were fully acted out. The word "brother" here refers not merely to one to whom we are nearly related, having the same parent or parents, as the word is commonly used, but includes also a neighbor, or perhaps anyone with whom we may be associated. As all people are descended from one Father and are all the creatures of the same God, so they are all brethren: and so every man should be regarded and treated as a brother, [Hebrews 11:16](https://biblehub.com/hebrews/11-16.htm).
+
+\[Raca\] comes from a verb signifying to be empty, vain; and hence, as a word of **contempt**, denotes senseless, stupid, shallow-brains. Jesus teaches here that to use such words is a violation of the spirit of the sixth commandment, and if indulged, may lead to a more open and dreadful infraction of that law. Children should learn that to use such words is highly offensive to God, for we must give an account for every idle word which we speak in the day of judgment, [Matthew 12:36](https://biblehub.com/matthew/12-36.htm).
+#barnes 
+
+#### v.23-24
+>"Therefore, if you are offering your gift at the altar and there remember your brother has something against you, <sup>24</sup>leave your gift there in front of the altar. First go and be reconciled to your brother; then come and offer your gift.
+
+ So now the worship of God will not be acceptable, however well performed externally, until we are at peace with those that we have injured. "To obey is better than sacrifice," [1 Samuel 15:22](https://biblehub.com/1_samuel/15-22.htm). He that comes to worship his Maker filled with malice, and hatred, and envy, and at war with his brethren, is a hypocritical worshipper, and must meet with God's displeasure. God is not deceived, and he will not be mocked.
+ #barnes 
+
+#### v.28
+>But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.
+
+The Greek word here is the same as in the opening line of the tenth commandment in the \*Septuagint (the Greek version of the \*Old Testament): “You shall not desire your neighbor’s wife” (Ex 20:17). The tenth commandment, against coveting, forces Jesus’ hearers to internalize Moses’ other commandments.
+#craigkeener 
+
+#### v.29-30
+>If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. <sup>30</sup>And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.
+
+The idea is, that **the dearest earthly objects are to be sacrificed rather than that we should commit sin;** that the most rigid self-denial should be practiced, and that the most absolute self-government should be maintained at any sacrifice, rather than that we should suffer the mind to be polluted by unholy thoughts and impure desires.
+#barnes 
+
+I'd rather die than sin
+#ravenhill speculative (from Peter Kim during prayer meeting)
+
+#### v.32
+>But I tell you that anyone who divorces his wife, except for marital unfaithfulness, causes her to become an adultress, and anyone who marries the divorced woman commits adultery.
+
