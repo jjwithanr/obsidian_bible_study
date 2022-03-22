@@ -126,3 +126,15 @@ It is good to be in the habit of giving. At the same time, the rule must be inte
 
 See also https://www.biblegateway.com/devotionals/boundaries/3134/04/06.
 
+#### v.44-45
+>But I tell you: Love your enemies and pray for those who persecute you, <sup>45</sup>that you may be sons of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
+
+Theologians refer to God's goodness to everyone, no matter who they are, as "common grace." Jesus has described His disciples as the "light of the world" (Matthew 5:14–16). God is the source of the light in His people... Believers attract people to faith in Christ when they give good in exchange for evil, and when they pray for those who bring them pain.
+#bibleref [[edward]]
+
+
+#### v.48
+>Be perfect, therefore, as your heavenly Father is perfect.
+
+Applied to people, it refers to completeness of parts, or perfection, where no part is defective or wanting. Thus, Job 1:1 is said to be "perfect;" that is, not holy as God, or "sinless" - for fault is afterward found with him [Job 9:20](https://biblehub.com/job/9-20.htm); [Job 42:6](https://biblehub.com/job/42-6.htm); but his piety was "proportionate" - had a completeness of parts was consistent and regular. He exhibited his religion as a prince, a father, an individual, a benefactor of the poor. **He was not merely a pious man in one place, but uniformly. He was consistent everywhere.** See the notes at that passage. This is the meaning in Matthew. Be not religious merely in loving your friends and neighbors, but let your piety be shown in loving your enemies; imitate God; let your piety be "complete, proportionate, regular." This every Christian may be; this every Christian must be.
+#barnes 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew5.md",
+            "file": "New Testament/Matthew/Matthew6.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew5.md",
+                "file": "New Testament/Matthew/Matthew6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c2b27ddf7b1c37b8",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew6.md",
     "New Testament/Matthew/Matthew5.md",
+    "Old Testament/Ezekiel/Ezekiel12.md",
     "Old Testament/Nahum/Nahum1.md",
     "Old Testament/Ezekiel/Ezekiel11.md",
     "New Testament/Galations/Galations6.md",
     "New Testament/2 Corinthians/2Cor9.md",
     "Old Testament/Micah/Micah7.md",
     "Old Testament/Psalm/Psalm119.md",
-    "Old Testament/Psalm/Psalm125.md",
-    "Old Testament/Psalm/Psalm126.md",
-    "Old Testament/Ezekiel/Ezekiel9.md"
+    "Old Testament/Psalm/Psalm125.md"
   ]
 }
