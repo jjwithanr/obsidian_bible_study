@@ -10,6 +10,9 @@
 The contradiction on the surface is but intended to make emphatic this blessed truth, which I pray may reach your memories and hearts, that **the only conditions are a sense of need, and a willingness to take-nothing less and nothing more.** We must recognise our penury and must abandon self, and put away all ideas of having a finger in our own salvation, and be willing-which, strangely and sadly enough, many of us are not-to be under obligations to God’s unhelped and undeserved love for all.
 #maclaren 
 
+#### v.2
+>Why spend money on what is not bread, and your labor on what does not satisfy? Listen, listen to me, and eat what is good, and your soul will delight in the richest of fare.
+
 #### v.7
 >Let the wicked forsake his way and the evil man his thoughts. Let him turn to the Lord, and he will have mercy on him, and to our God, for he will freely pardon.
 

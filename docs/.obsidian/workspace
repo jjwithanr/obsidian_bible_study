@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b27ddf7b1c37b8",
+        "id": "590dac14837ba8c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2b27ddf7b1c37b8",
+  "active": "590dac14837ba8c4",
   "lastOpenFiles": [
     "New Testament/Matthew/Matthew6.md",
+    "Old Testament/Isaiah/Isaiah55.md",
+    "New Testament/1 Peter/1Peter1.md",
+    "Topics/prayer.md",
     "New Testament/Matthew/Matthew5.md",
     "Old Testament/Ezekiel/Ezekiel12.md",
     "Old Testament/Nahum/Nahum1.md",
     "Old Testament/Ezekiel/Ezekiel11.md",
     "New Testament/Galations/Galations6.md",
-    "New Testament/2 Corinthians/2Cor9.md",
-    "Old Testament/Micah/Micah7.md",
-    "Old Testament/Psalm/Psalm119.md",
-    "Old Testament/Psalm/Psalm125.md"
+    "New Testament/2 Corinthians/2Cor9.md"
   ]
 }
