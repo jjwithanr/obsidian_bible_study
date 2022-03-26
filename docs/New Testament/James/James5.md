@@ -49,3 +49,9 @@ Nothing has been more clearly demonstrated in the history of the world than that
 
 #### v.19-20
 >My brothers, if one of you should wander from the truth and someone should bring him back, <sup>20</sup>remember this: Whoever turns a sinner from the error of his way will save him from death and cover a multitude of sins.
+
+When we come to die, as we shall soon, it will give us more pleasure to be able to recollect that we have been the means of saying one soul from death, than to have enjoyed all the pleasures which sense can furnish, or to have gained all the honor and wealth which the world can give.
+#barnes 
+
+Some Jews (Dead Sea Scrolls, some rabbis) regarded some forms of apostasy as unforgivable, but James welcomes the sinner back. In this context, he might among other things invite revolutionaries to return to the fold. “Covering a multitude of sins” comes from Proverbs 10:12. In that text, it probably refers to not spreading a bad report (cf. 11:13; 20:19), but Judaism often used similar phrases for securing forgiveness. One may compare the Jewish idea that one who converted another to the practice of Judaism was as if he or she had created that person.
+#craigkeener 
