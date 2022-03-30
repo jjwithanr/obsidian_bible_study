@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew8.md",
+            "file": "New Testament/Matthew/Matthew9.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew8.md",
+                "file": "New Testament/Matthew/Matthew9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew9.md",
     "New Testament/Matthew/Matthew8.md",
     "Old Testament/Habakkuk/Habkkuk1.md",
     "Old Testament/Ezekiel/Ezekiel14.md",
@@ -97,7 +98,6 @@
     "Old Testament/Ezekiel/Ezekiel7.md",
     "Old Testament/Ezekiel/Ezekiel5.md",
     "Old Testament/Ezekiel/Ezekiel4.md",
-    "New Testament/Titus/Titus1.md",
-    "Topics/prayer.md"
+    "New Testament/Titus/Titus1.md"
   ]
 }
