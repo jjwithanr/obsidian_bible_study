@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew10.md",
+            "file": "New Testament/1 Timothy/1Timothy1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew10.md",
+                "file": "New Testament/1 Timothy/1Timothy1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/1 Timothy/1Timothy1.md",
     "New Testament/Matthew/Matthew10.md",
     "Old Testament/Habakkuk/Habukkuk2.md",
     "Old Testament/Ezekiel/Ezekiel15.md",
@@ -97,7 +98,6 @@
     "Old Testament/Habakkuk/Habkkuk1.md",
     "Old Testament/Ezekiel/Ezekiel14.md",
     "Topics/preaching.md",
-    "Old Testament/Ezekiel/Ezekiel3.md",
-    "Old Testament/Ezekiel/Ezekiel7.md"
+    "Old Testament/Ezekiel/Ezekiel3.md"
   ]
 }

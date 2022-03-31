@@ -34,10 +34,17 @@ Despite all these reasons, there is no doubt that God – and the Apostle Paul �
 That is, to have the credit and reputation of being well versed in the law of Moses, and qualified to explain it to others. This was a high honor among the Jews, and these teachers laid claim to the same distinction. They do not understand the true nature and design of that law which they attempt to explain to others.
 #barnes 
 
+#### v.9
+>We also know that the law is made not for the righteous but for lawbreakers and rebels, the ungodly and sinful, the unholy and irreligious; for those who kill their fathers or mothers, for murderers,
+
+The meaning seems to be, that the purpose of the law was not to fetter and perplex those who were righteous, and who aimed to do their duty and to please God. It was not intended to produce a spirit of servitude and bondage. As the Jews interpreted it, it did this, and this interpretation appears to have been adopted by the teachers at Ephesus, to whom Paul refers. The whole tendency of their teaching was to bring the soul into a state of bondage, and to make religion a condition, of servitude. Paul teaches, on the other hand, that religion was a condition of freedom, and that the **main purpose of the law was not to fetter the minds of the righteous by numberless observances and minute regulations, but that it was to restrain the wicked from sin.** This is the case with all law. No good man feels himself lettered and manacled by wholesome laws, nor does he feel that the purpose of law is to reduce him to a state of servitude. It is only the wicked who have this feeling - and in this sense the law is made for a man who intends to do wrong.
+#barnes 
+
 #### v.12-14
 > I thank Christ Jesus our Lord, who has given me strength, that he considered me faithful, appointing me to his service. Even though I was once a blasphemer and a persecutor and a violent man, I was shown mercy because I acted in ignorance and unbelief.
 
 Paul’s past did not disqualify him from serving God. God’s mercy and grace were enough to cover his past and enable him to serve God. **We should never feel that our past makes us unable to be used by God. **
+
 With these words, Paul gave Timothy another reason to remain in Ephesus. It is likely that one reason Timothy wanted to leave Ephesus and his ministry there because he felt unworthy or incapable of the work. These words from Paul assured Timothy, “If there is anyone unworthy of disqualified, it should be me. **Yet God found a way to use me, and He will use you also as you remain in Ephesus.**”🔥
 #enduringword 
 
