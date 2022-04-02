@@ -2,7 +2,7 @@
 2021-09-11 14:59
 
 ## Scriptures
-[Matthew 11:20-30](Matthew11.md)
+[Matthew 11:20-30](Matthew12.md)
 
 [James 1:25](James1#v.25) along with [Hebrews 11:6](Hebrews11#v.6)
 
