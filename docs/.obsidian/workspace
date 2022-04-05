@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew14.md",
+            "file": "New Testament/Matthew/Matthew15.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew14.md",
+                "file": "New Testament/Matthew/Matthew15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew15.md",
+    "New Testament/Matthew/Matthew12.md",
+    "New Testament/Matthew/Matthew18.md",
+    "Old Testament/Proverbs/Proverbs18.md",
     "New Testament/Matthew/Matthew14.md",
     "Old Testament/Haggai/Haggai1.md",
     "New Testament/Matthew/Matthew13.md",
     "Old Testament/Zephaniah/Zephaniah3.md",
     "Old Testament/Zephaniah/Zephaniah1.md",
-    "Old Testament/Ezekiel/Ezekiel18.md",
-    "New Testament/Matthew/Matthew12.md",
-    "New Testament/Matthew/Matthew11.md",
-    "New Testament/1 Timothy/1Timothy1.md",
-    "New Testament/Matthew/Matthew10.md"
+    "Old Testament/Ezekiel/Ezekiel18.md"
   ]
 }
