@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Haggai/Haggai2.md",
+            "file": "New Testament/Matthew/Matthew17.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Haggai/Haggai2.md",
+                "file": "New Testament/Matthew/Matthew17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew17.md",
     "Old Testament/Haggai/Haggai2.md",
     "New Testament/Matthew/Matthew16.md",
     "Old Testament/Ezekiel/Ezekiel21.md",
@@ -97,7 +98,6 @@
     "New Testament/Matthew/Matthew15.md",
     "New Testament/Matthew/Matthew12.md",
     "New Testament/Matthew/Matthew18.md",
-    "Old Testament/Proverbs/Proverbs18.md",
-    "New Testament/Matthew/Matthew14.md"
+    "Old Testament/Proverbs/Proverbs18.md"
   ]
 }
