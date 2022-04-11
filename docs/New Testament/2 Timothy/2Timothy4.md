@@ -69,3 +69,15 @@ True friendship, founded on sincere love, so rare, so difficult to be found, so 
 
 How we respond in times of betrayal will determine our promotion in the kingdom.
 #jj 
+
+#### v.18
+>The Lord will rescue me from every evil attack and will bring me safely to his heavenly kingdom. To him be glory for ever and ever. Amen.
+
+He does not say from "death," for he expected now to die; see [2 Timothy 4:6](https://biblehub.com/2_timothy/4-6.htm). But he was assured that God would keep him from shrinking from death when the hour approached; from apostasy, and from the manifestation of an improper spirit when he came to die.
+#barnes 
+
+The apostle was delivered out of the mouth of the lion, that is, of Nero, or some of his judges. If the Lord stands by us, he will strengthen us in difficulties and dangers, and his presence will more than supply every one's absence.
+#matthewhenry 
+
+Oh, Jonathan. Only if you believed this.
+#jj 
