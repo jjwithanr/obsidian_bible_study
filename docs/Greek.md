@@ -27,10 +27,10 @@ Faith is always a gift from God, and never something that can be produced by peo
 ἀντέχομαι (ahn-tehh-om) - to hold against, to hold firmly to
  (from _/antí_, "corresponding to" and  _/éxō_, "have") – properly, _proportionally_ lay hold of, i.e. as an _equivalent_ (_off-set_) which "holds on to" in a way that matches the object grasped.
  
- φιλανθρωπία (fil-an-thro-pee-ah) - love for mankind
+φιλανθρωπία (fil-an-thro-pee-ah) - love for mankind
  (from [5384](https://biblehub.com/greek/5384.htm) _/phílos_, "a friend" and [444](https://biblehub.com/greek/444.htm) _/ánthrōpos_, "of _mankind_, people") – properly, a "friend (benefactor) of humanity"; a person who warmly loves others, treating them with the respect (benevolence) that befits each one being created in the image of God. [5363](https://biblehub.com/greek/5363.htm) _/philanthrōpía_ ("a benefactor") _actively shares_ kindness (what is needed) with others.
  
-  ὁμολογία (homología)(hoah-moah-loah-gee-ah) - (from [3674](https://biblehub.com/greek/3674.htm) _/homoú_, "the same, together" and [3004](https://biblehub.com/greek/3004.htm) _/légō_, "_speak_ to a conclusion, _lay to rest_") – properly, a _conclusion_ embraced by _common confession_ (_profession_, _affirmation_).
+ὁμολογία (homología)(hoah-moah-loah-gee-ah) - (from [3674](https://biblehub.com/greek/3674.htm) _/homoú_, "the same, together" and [3004](https://biblehub.com/greek/3004.htm) _/légō_, "_speak_ to a conclusion, _lay to rest_") – properly, a _conclusion_ embraced by _common confession_ (_profession_, _affirmation_).
 [3671](https://biblehub.com/greek/3671.htm) _/homología_ ("common confession") can refer to the _collective agreement of Christians_ about _what God loves_ and _hates_ – and _the courage_ to proclaim it! See also [3670](https://biblehub.com/greek/3670.htm) (_homologéō_).
 The cognate verb, [3670](https://biblehub.com/greek/3670.htm) _/homologéō_, also means "to say the _same thing_ about."
 
