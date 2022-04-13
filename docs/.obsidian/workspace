@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew22.md",
+            "file": "New Testament/Matthew/Matthew23.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew22.md",
+                "file": "New Testament/Matthew/Matthew23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew23.md",
     "New Testament/Matthew/Matthew22.md",
     "Greek.md",
     "Old Testament/Psalm/Psalm27.md",
@@ -97,7 +98,6 @@
     "Old Testament/Proverbs/Proverbs17.md",
     "New Testament/Hebrews/Hebrews1.md",
     "New Testament/Matthew/Matthew21.md",
-    "New Testament/2 Timothy/2Timothy4.md",
-    "Old Testament/Zechariah/Zechariah3.md"
+    "New Testament/2 Timothy/2Timothy4.md"
   ]
 }
