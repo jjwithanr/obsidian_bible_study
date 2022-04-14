@@ -18,8 +18,6 @@ We render acceptable service to God when, from regard to his will, we perform th
 #### v.7-8
 >Serve wholeheartedly, as if you were serving the Lord, not men, <sup>8</sup>because you know what the Lord will reward everyone for whatever good he does, whether he is slave or free.
 
-
-
 #### v.12
 >For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 
@@ -33,10 +31,3 @@ Because the Greek and Roman god of passion (called Eros and Cupid, respectively)
 > And pray in the Spirit on all occassions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.
 
 See more in [[prayer]]. See also [Jude 20](Jude#v.20)
-
-#### v.
->
-
-#### :
->
-

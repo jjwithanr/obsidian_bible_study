@@ -18,7 +18,7 @@ See more in [James 5:5](James5#v.5).
 All who live in pleasure, are dead while they live, spiritually dead, dead in trespasses and sins.
 #matthewhenry 
 
-There is great emphasis in this expression, and nothing could convey more forcibly the idea that true happiness is not to be found in the pleasure of sense. There is nothing in them that answers the purposes of life. They are not the objects for which life was given, and as to the great and proper designs of existence, such persons might as well be dead.
+There is great emphasis in this expression, and nothing could convey more forcibly the idea that **true happiness is not to be found in the pleasure of sense.** There is nothing in them that answers the purposes of life. They are not the objects for which life was given, and as to the great and proper designs of existence, such persons might as well be dead.
 #barnes 
 
 #### v.17
