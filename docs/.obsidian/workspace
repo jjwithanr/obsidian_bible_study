@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/1 Timothy/1Timothy6.md",
+            "file": "New Testament/Matthew/Matthew24.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Timothy/1Timothy6.md",
+                "file": "New Testament/Matthew/Matthew24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew24.md",
     "New Testament/1 Timothy/1Timothy6.md",
     "New Testament/1 Timothy/1Timothy5.md",
     "New Testament/1 Timothy/1Timothy3.md",
@@ -97,7 +98,6 @@
     "New Testament/Matthew/Matthew23.md",
     "New Testament/Matthew/Matthew22.md",
     "Greek.md",
-    "Old Testament/Psalm/Psalm27.md",
-    "Old Testament/Exodus/Exodus25.md"
+    "Old Testament/Psalm/Psalm27.md"
   ]
 }
