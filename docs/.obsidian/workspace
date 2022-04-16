@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew7.md",
+            "file": "Old Testament/Zechariah/Zechariah8.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew7.md",
+                "file": "Old Testament/Zechariah/Zechariah8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "Old Testament/Zechariah/Zechariah8.md",
+    "Old Testament/Ezekiel/Ezekiel28.md",
     "New Testament/Matthew/Matthew7.md",
     "New Testament/Matthew/Matthew6.md",
     "New Testament/Matthew/Matthew5.md",
@@ -96,8 +98,6 @@
     "New Testament/Matthew/Matthew25.md",
     "New Testament/Matthew/Matthew24.md",
     "New Testament/1 Timothy/1Timothy6.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "New Testament/1 Timothy/1Timothy3.md",
-    "New Testament/Ephesians/Ephesians6.md"
+    "New Testament/1 Timothy/1Timothy5.md"
   ]
 }
