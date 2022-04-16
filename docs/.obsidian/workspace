@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew25.md",
+            "file": "New Testament/Matthew/Matthew7.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew25.md",
+                "file": "New Testament/Matthew/Matthew7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "590dac14837ba8c4",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew7.md",
+    "New Testament/Matthew/Matthew6.md",
+    "New Testament/Matthew/Matthew5.md",
+    "Topics/alone.md",
     "New Testament/Matthew/Matthew25.md",
     "New Testament/Matthew/Matthew24.md",
     "New Testament/1 Timothy/1Timothy6.md",
     "New Testament/1 Timothy/1Timothy5.md",
     "New Testament/1 Timothy/1Timothy3.md",
-    "New Testament/Ephesians/Ephesians6.md",
-    "New Testament/1 Timothy/1Timothy2.md",
-    "New Testament/Matthew/Matthew23.md",
-    "New Testament/Matthew/Matthew22.md",
-    "Greek.md"
+    "New Testament/Ephesians/Ephesians6.md"
   ]
 }
