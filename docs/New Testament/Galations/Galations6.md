@@ -36,4 +36,4 @@ See also [2 Corinthians 9:6](2Cor9.md#v.6).
 #### v.9
 >Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.
 
-See also [1 Corinthians 15:58](1Cor15#v.58) and [1 Thessalonians 3:13](1Thess3#v.13).
+See also [1 Corinthians 15:58](1Cor15.md#v.58) and [1 Thessalonians 3:13](1Thess3#v.13).

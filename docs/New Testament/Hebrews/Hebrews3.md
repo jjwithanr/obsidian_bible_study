@@ -23,7 +23,7 @@ The character and work of the Son of God **are worthy of the profound and prayer
 	>during the time of testing in the desert"
 
 **Besides, he waits to execute his favourite office of a Comforter, and he cannot comfort an ungodly soul, he cannot comfort those who harden their hearts.** Comfort for unbelievers would be their destruction. As he delights to be the Comforter, and has been sent forth from the Father to act specially in that capacity, that he may comfort the people of God, he watches with longing eyes for broken hearts and contrite spirits, that he may apply the balm of Gilead and heal their wounds.
-#spurgeon 
+#spurgeon related to [2 Corinthians 1:3](2Cor1.md#v.3)
 
 A willingness to learn is usually the precursor of great attainments in knowledge. A “willingness” to reform, is usually the precursor of reformation. **Get a man “willing” to break off his habits of profaneness or intemperance, and usually all the rest is easy.** The great difficulty in the mind of a sinner is in his will. He is unwilling to hear the voice of God; unwilling that he should reign over him; unwilling now to attend to religion. While this unwillingness lasts he will make no efforts, and he sees, or creates a thousand difficulties in the way of his becoming a Christian. But when that unwillingness is overcome, and he is disposed to engage in the work of religion, difficulties vanish, and the work of salvation becomes easy.
 #barnes

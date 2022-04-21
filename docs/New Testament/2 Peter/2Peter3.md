@@ -44,7 +44,7 @@ We are puzzled at the longsuffering which causes so weary a delay. One of the re
 >But grow in the **grace and knowledge** of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.
 
 But you will remark that our text does not say anything about grace growing; it does not say that grace grows. It tells us to ‘grow in grace.’ There is a vast difference between grace growing and our growing in grace. God’s grace never increases; it is always infinite, so it cannot be more; it is always everlasting; it is always bottomless; it is always shoreless. It cannot be more; and, in the nature of God, it could not be less. The text tells us to ‘grow in grace.’ **We are in the sea of God’s grace; we cannot be in a deeper sea, but let us grow now we are in it.**
-#spurgeon 
+#spurgeon related to [1 Corinthians 15:10](1Cor15.md#v.10)
 
 No one becomes eminently pious, any more than one becomes eminently learned or rich, who does not intend to; and ordinarily men in religion are what they design to be. **They have about as much religion as they wish, and possess about the character which they intend to possess.** When men reach extraordinary elevations in religion, like Baxter, Payson, and Edwards, they have gained only what they meant to gain; and the gay and worldly professors of religion who have little comfort and peace, have in fact the characters which they designed to have. If these things are so, then we may see the propriety of the injunction “to grow in grace;” and then too we may see the reason why so feeble attainments are made in piety by the great mass of those who profess religion.
 #barnes 
