@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Ezekiel/Ezekiel28.md",
+            "file": "Old Testament/Ezekiel/Ezekiel33.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel28.md",
+                "file": "Old Testament/Ezekiel/Ezekiel33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3d06a28f1729c8e4",
   "lastOpenFiles": [
+    "Old Testament/Ezekiel/Ezekiel33.md",
+    "Topics/evangelism.md",
     "Old Testament/Ezekiel/Ezekiel28.md",
-    "Old Testament/Ezekiel/Untitled.md",
     "New Testament/1 Corinthians/1Cor15.md",
     "New Testament/2 Peter/2Peter3.md",
     "New Testament/1 John/1John4.md",
     "Topics/grace.md",
     "New Testament/Hebrews/Hebrews3.md",
     "New Testament/2 Corinthians/2Cor1.md",
-    "Topics/growth.md",
-    "Greek.md"
+    "Topics/growth.md"
   ]
 }
