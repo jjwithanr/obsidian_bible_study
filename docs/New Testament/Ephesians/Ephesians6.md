@@ -30,4 +30,4 @@ Because the Greek and Roman god of passion (called Eros and Cupid, respectively)
 #### v.18
 > And pray in the Spirit on all occassions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.
 
-See more in [[prayer]]. See also [Jude 20](Jude#v.20)
+See more in [[prayerSpirit]]. See also [Jude 20](Jude#v.20).

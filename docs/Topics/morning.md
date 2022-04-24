@@ -25,3 +25,15 @@ Every night - Margin, in the nights." The reference is to the return of evening;
 
 We lie down at night more calmly in proportion as we are disposed at the close of a day to think of the mercies which we have received at the hand of God; and the recalling of those mercies to remembrance with the voice, and with instruments of praise, is always an appropriate mode of closing a day.
 #barnes 
+
+### Barnes on [Mark 1:35](Mark1#v.35)
+
+And departed into a solitary place, and there prayed - Observe here:
+
+1. that the Saviour, though perfectly holy, regarded the duty of secret prayer as of great importance.
+2. that he, sought a solitary place for it - far away from the world and even from his disciples.
+3. that it was early in the morning - always the best time, and a time when it should not be omitted.
+4. if Jesus prayed, how much more important is it for us!
+
+If Jesus did it in the morning, how much more important is it for us, before the world gets possession of our thoughts; before Satan fills us with unholy feelings; when we rise fresh from beds of repose, and while the world around us is still! David also thus prayed, [Psalm 5:3](https://biblehub.com/psalms/5-3.htm); [Psalm 119:147](https://biblehub.com/psalms/119-147.htm). He that wishes to enjoy religion will seek a place of secret prayer in the morning. If that is omitted, all will go wrong, our piety will wither. The world will fill our thoughts. Temptations will be strong. Through the day, we shall find it impossible to raise our feelings to a state of proper devotion. **It will be found to be true universally, "that the religious enjoyment through the day will be according to the state of the heart in the morning, and can therefore be measured by our faithfulness in early secret prayer."** How different, too, was the conduct of the Saviour from those who spend the precious hours of the morning in sleep! He knew the value of the morning hours; he rose while the world was still; he saw the light as it spread abroad in the east with fresh tokens of his Father's presence, and joined with the universal creation in offering praise to the everywhere present God.
+#barnes 

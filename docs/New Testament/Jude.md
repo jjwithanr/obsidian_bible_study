@@ -62,7 +62,7 @@ It is said here that they were to “build up themselves;” that is, they were 
 **Faith is the foundation of all supreme excellence and nobility and beauty of character**; because, for one thing, it dethrones self, and enthrones God in our hearts; making Him our aim and our law and our supreme good; and because, for another thing, our trust brings us into direct union with Him, so that we receive from Him the power thus to build up a character.
 #maclaren 
 
-See more in [[growth#Enduring Word on Jude 20 Jude v 20]] and [[prayer#Craig Keener on praying in the Spirit Ephesians6 v 18]].
+See more in [[growth#Enduring Word on Jude 20 Jude v 20]] and [[prayerSpirit#Spurgeon on Jude 20 Jude v 20]].
 
 
 #### v.21
