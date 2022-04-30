@@ -13,7 +13,7 @@ Heart similar to [Hebrews 3:7](Hebrews3#v.7). See how our Savior longs to comfor
 #### v.18
 >Andrew, Philip, Barthelomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot
 
-See more about James in [gotquestions](https://www.gotquestions.org/James-son-of-Alphaeus.html).
+See more in [[meekness,greatness#GotQuestions on James son Alphaeus Mark3 v 18]].
 
 #### v.21
 >And when His own people heard _this_, they went out to take custody of Him; for they were saying, “He has lost His senses.”

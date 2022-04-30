@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Mark/Mark2.md",
+            "file": "New Testament/Mark/Mark5.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "219162062c6e662e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark2.md",
+                "file": "New Testament/Mark/Mark5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "3d06a28f1729c8e4",
   "lastOpenFiles": [
+    "New Testament/Mark/Mark5.md",
+    "Old Testament/Ezekiel/Ezekiel39.md",
+    "New Testament/Mark/Mark3.md",
+    "Topics/meekness,greatness.md",
     "New Testament/Mark/Mark2.md",
     "Old Testament/Ezekiel/Ezekiel36.md",
     "Topics/preaching.md",
     "New Testament/Mark/Mark1.md",
     "Topics/prayer.md",
-    "Topics/morning.md",
-    "Topics/prayerSpirit.md",
-    "Old Testament/Zechariah/Zechariah12.md",
-    "New Testament/Jude.md",
-    "New Testament/Ephesians/Ephesians6.md"
+    "Topics/morning.md"
   ]
 }
