@@ -23,7 +23,7 @@ Why are the unrepentant cities unable to truly know God?
 
 Reference back to diet Coke story and children vs. orphan spirit.
 
-The unrepentant cities wanted nothing of God's love. They just wanted the Father could give them (miracles), but not the Father himself. It's like if another son complained because he gave his Dad a diet Coke but didn't get the same reaction from him as the first son.
+The unrepentant cities wanted nothing of God's love. They just wanted what the Father could give them (miracles), but not the Father himself. It's like if another son complained because he gave his Dad a diet Coke but didn't get the same reaction from him as the first son.
 
 Children are ignorant and simple. Receiving like children means being teachable.
 
