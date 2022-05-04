@@ -2,7 +2,11 @@
 
 ## Overview:
 
+#### v.1
+>And he said to them, "I tell you the truth, some who are standing here will not taste deaht before they see the kingdom of God come with power."
 
+It seems most natural to interpret this promise in [Matthew 16:28](https://biblia.com/bible/esv/Matt%2016.28); [Mark 9:1](https://biblia.com/bible/esv/Mark%209.1); and [Luke 9:27](https://biblia.com/bible/esv/Luke%209.27) as a reference to the transfiguration, which "some" of the disciples would witness only six days later, exactly as Jesus predicted. In each Gospel, the very next passage after this promise from Jesus is the transfiguration, which shows Jesus in all His glory which will be seen again in the Kingdom of God. The contextual links make it very likely that this is the proper interpretation.
+#gotquestions 
 
 #### v.23
 >" 'If you can?' " said Jesus. "Everything is possible for him who believes."

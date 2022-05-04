@@ -1,7 +1,7 @@
 # James 1
 
 ## Overview:
-James exhorts his audience to consider it joy whenever they face adversity since we know God is for their growth and edification. God is not the source of our temptations and tring to make us disobey. Rather, he desires that we persevere and that our character would align with his.
+James exhorts his audience to consider it joy whenever they face adversity since we know God is for their growth and edification. God is not the source of our temptations and trying to make us disobey. Rather, he desires that we persevere and that our character would align with his.
 
 
 #### v.2-3
@@ -10,8 +10,8 @@ James exhorts his audience to consider it joy whenever they face adversity since
 Moffatt translated James 1:2 as, _Greet it as pure joy_, pointing out a play on word between the _Greetings_ at the end of James 1:1, and a similar word used to start James 1:2. It is “an attempt to bring out the play on words in the original, where the courteous _chairein_ (greeting) is echoed by _charan_ (joy).”
 #enduringword 
 
-We notice that it is **faith** that is tested, and it shows that faith is important and precious – because only precious things are tested so thoroughly. “Faith is as vital to salvation as the heart is vital to the body: hence the javelins of the enemy are mainly aimed at this essential grace.” (Spurgeon)
-#enduringword 
+Faith is as vital to salvation as the heart is vital to the body: hence the javelins of the enemy are mainly aimed at this essential grace.
+#spurgeon 
 
 #### v.4
 >Perseverance must finish its work so that you may be mature and complete, not lacking anything.
@@ -22,14 +22,13 @@ Similar to [Romans 5:3](Romans5.md#v.3).
 >If any of you lacks wisdom, he should ask God, who gives generously to all **without finding fault**, and it will be given to him.
 
 That in our lacking of a resource we ought to seek the one who can give most abundantly of it. When the world lacks wisdom, they seek motivational videos, books, and explore different lifestyles. When the Christian lacks wisdom, they seek God.
+#jj 
 
 He does not coldly repel us, if we come and ask what we need, though we do it often and with importunity.
 #barnes 
 
 #### v.6
 >But when he asks, he must believe and not doubt, because he who doubts is like a wave of the sea, [blown and tossed by the wind](Ephesians4#v.14).
-
-
 
 #### v.8
 >he is a double-minded man, unstable in all he does.
@@ -43,7 +42,8 @@ If we find a man who takes hold of the promises of God with firmness; who **feel
 #### v.12
 >Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love him.
 
-David Kim quoted Mike Bickle's answer to someone's question about how those living in persecuted nations would receive abundantly more heavenly riches than those in non-persecuted nations. He said how although there is a reward for those who *persevere under trial*, those in America and other non-persecuted nations will be rewarded for *enduring under temptations*. God rewards the ones who refuse every distraction that their non-persecuted nation offers and exclusively seek Him.
+David Kim quoted Mike Bickle's answer to someone's question about how those living in persecuted nations would receive abundantly more heavenly riches than those in non-persecuted nations. He said although there is a reward for those who *persevere under trial*, those in America and other non-persecuted nations will be rewarded for *enduring under temptations*. God rewards the ones who refuse every distraction that their non-persecuted nation offers and exclusively seek Him.
+#jj 
 
 #### v.17
 >Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.
@@ -64,22 +64,22 @@ Now mostly, men who are generous need to have their generosity excited. They wil
 >for man's anger does not bring about the righteous life that God desires.
 
 We cannot use anger as our device to instruct others in living righteously. Rather, according to [Hebrews 3:13](Hebrews3#v.13) it God's charge for us to encourage one another daliy to prevent their souls from being hardened by sin's deceitfulness.
+#jj 
 
 #### v.21
 >Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word [planted in you](Luke8), which can save you.
-
 
 #### v.25
 >But the man who **looks intently** into the *perfect law that gives freedom*, and continues to do this, not forgetting what he has heard, but doing it - he will be blessed in what he does.
 
 The one who looks intently into the word, retains it, and does it is like [**good soil**](Luke8#v.15).
+#jj 
 
 Adam Clarke points out that the ancient Greek word translated **continues** is _parameinas_ and has this sense: “Takes time to see and examine the state of his soul, the grace of his God, the extent of his duty, and the height of the promised glory. The metaphor here is taken from those females who spend much time at their glass, in order that they may decorate themselves to the greatest advantage, and not leave one hair, or the smallest ornament, out of its place.”
 #enduringword 
-
 
 #### v.26
 >If anyone considers himself religious and yet does not keep a tight rein on his tongue, he deceives himself and his religion is worthless.
 
 #### v.27
->Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and **to keep oneself from being polluted by the world**.
+>Religion is that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and **to keep oneself from being polluted by the world**.

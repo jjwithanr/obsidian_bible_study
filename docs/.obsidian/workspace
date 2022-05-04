@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Talks/Good Soil.md",
+            "file": "New Testament/James/James1.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "219162062c6e662e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talks/Good Soil.md",
+                "file": "New Testament/James/James1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "209c48d03b7cb3d7",
   "lastOpenFiles": [
+    "New Testament/James/James1.md",
+    "New Testament/2 Timothy/2Timothy4.md",
+    "New Testament/Mark/Mark8.md",
+    "New Testament/Mark/Mark9.md",
     "Talks/Good Soil.md",
     "New Testament/Mark/Mark6.md",
     "New Testament/John/John10.md",
     "Talks/Sifting of the Soils.md",
     "Talks/His Commands are Freedom.md",
-    "Talks/Move God's heart.md",
-    "Talks/The Greatness of Knowing Christ.md",
-    "Talks/Seeing God in Wonder.md",
-    "New Testament/Mark/Mark5.md",
-    "Old Testament/Ezekiel/Ezekiel39.md"
+    "Talks/Move God's heart.md"
   ]
 }
