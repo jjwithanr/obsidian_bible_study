@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/James/James1.md",
+            "file": "Old Testament/Psalm/Psalm90.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/James/James1.md",
+                "file": "Old Testament/Psalm/Psalm90.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "209c48d03b7cb3d7",
   "lastOpenFiles": [
+    "Old Testament/Psalm/Psalm90.md",
+    "Old Testament/Psalm/Psalm91.md",
+    "Old Testament/Psalm/Psalm17.md",
+    "New Testament/Mark/Mark10.md",
+    "Old Testament/Ezekiel/Ezekiel43.md",
+    "New Testament/Mark/Mark9.md",
+    "Topics/faith.md",
     "New Testament/James/James1.md",
     "New Testament/2 Timothy/2Timothy4.md",
-    "New Testament/Mark/Mark8.md",
-    "New Testament/Mark/Mark9.md",
-    "Talks/Good Soil.md",
-    "New Testament/Mark/Mark6.md",
-    "New Testament/John/John10.md",
-    "Talks/Sifting of the Soils.md",
-    "Talks/His Commands are Freedom.md",
-    "Talks/Move God's heart.md"
+    "New Testament/Mark/Mark8.md"
   ]
 }

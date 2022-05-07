@@ -2,6 +2,19 @@
 
 ## Overview:
 
+#### v.5
+>“It was because your hearts were hard that Moses wrote you this law,” Jesus replied.
+
+Many of the laws in the Old Testament are designed to mitigate the hardship sin caused others. Men in the Old Testament era had cultural authority which, if they chose to abuse it, could devastate women. Malachi 2:16 is often translated "'For I hate divorce,' says the LORD." An extremely literal translation is "I hate \[when men\] send away \[their wives\]." But Jewish scribes twisted the meaning and translated it, "if you hate her, divorce her."  
+  
+Malachi, the last of God's prophets, records God's condemnation of the Israelites for dishonoring their wives (Malachi 2:13–16). God intended the wife to be a companion, a covenant-holder, a partner in raising godly offspring. To be married is to have "a portion of the Spirit in their union" (Malachi 2:15).
+#bibleref 
+
+#### v.6
+>“But at the beginning of creation God ‘made them male and female.’
+
+Jesus addresses and affirms God's design of gender.
+#jj 
 
 #### v.14
 >When Jesus saw this, he was indignant. He said to them, "Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."
@@ -27,6 +40,12 @@ If God be not their friend, they "have" no friend that can aid them in the day o
 We must first receive the kingdom into our affections before we can really enter into it. It is as though Christ said, "It is not unworthy of my dignity to take little children into my arms and bless them, because by my benediction they become fit for the kingdom of heaven. And if you full-grown men would become fit for my kingdom, you must give up your ambitious aims and earthly contests, and imitate the simple unworldly ways of little children. The simplicity of the little child is the model and the rule for every one who desires, by the grace of Christ, to obtain the kingdom of heaven. Our Lord's whole action here is a great encouragement to the receiving of little children by Holy Baptism into covenant with him.
 #pulpitcommentary 
 
+#### v.18
+>"Why do you call me good?" Jesus answered. "No one is good - except God alone.
+
+More likely, the brevity of the comment and the quick change suggest that Jesus is giving the man something to think on later: "why do you call Me good? Are you calling Me God? If you are, are you prepared to listen to me?"
+#bibleref 
+
 #### v.21
 >Jesus looked at him and loved him. "One thing you lack," he said. "Go, sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me."
 
@@ -45,14 +64,14 @@ Greatness and authority is given to the slave of all.
 #### v.45
 >For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
 
-Philosopher William Jamees affirmed that the best use of one's life is to spend it for something that will outlast it. Life's value is not its duration but its donation - not how long we live but how fully and how well.
+Philosopher William James affirmed that the best use of one's life is to spend it for something that will outlast it. Life's value is **not its duration but its donation** - not how long we live but how fully and how well.
 #joswaldsanders #spiritualleadership
 
 #### v.46
 >Then they came to Jericho. As Jesus and his disciples, together with a large crowd, were leaving the city, a blind man, Baritmaeus (That is, the Son of Timaeus), was sitting by the roadside begging.
 
 Nothing happened in Jericho. Jesus can walk into a city and nothing happen. **And the only man that saw Jesus was a blind man.**
-Here's my definition of hunger: the revelation of your need.
+Here's my definition for hunger: the revelation of your need.
 #coreyrussell 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VU9nTEDYpEU?start=2900" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -65,12 +84,23 @@ The revealtion of our need for Christ must exceed the world's need for us to be 
 #### v.49
 >Jesus stopped and said, "Call him." So they called to the blind man, "Cheer up! On your feet! He's calling you."
 
-Oh, how great is the heart of the Father whose eyes range throughout the earth to strenghthen those whose hearts are completely His! He yearns make to eye contact with those whose hearts yearn for him, and the only pair of eyes He found were blind to the world and directed to the Savior.
+Oh, how great is the heart of the Father whose eyes range throughout the earth to strenghthen those whose hearts are completely His! He yearns to make eye contact with those whose hearts yearn for him, and the only pair of eyes He found were blind to the world and directed to the Savior.
 #jj 
+
+#### v.50
+>Throwing his cloak aside, he jumped to his feet and came to Jesus. 
+
+He should throw away the garments of his own righteousness - he should rise speedily - should run with joy - should have full faith in the power of Jesus, and cast himself entirely upon his mercy.
+#barnes 
 
 #### v.51
 >"What do you want me do for you?" Jesus asked him.
 
-Jesus exemplifies his servanthood by his first response inquiring His service to the blind man who called out to me. Kay Hiramine says the distinction between an empire-minded man and a kingdom-minded man is whom they desire to serve: themselves or others. If someone's heart first thinks of how the person in front of them can serve himself, he is building his own empire. Oh, that we may emulate our Savior and gives our lives in servitude of many.
+Jesus exemplifies his servanthood by his first response inquiring His service to the blind man who called out to him. Kay Hiramine says the distinction between an empire-minded man and a kingdom-minded man is whom they desire to serve: themselves or others. If someone's heart first thinks of how the person in front of them can serve himself, he is building his own empire. If they think how they can serve the person in front of them, he is building God's kingdom. Oh, that we may emulate our Savior and gives our lives to the servitude of many.
 #jj 
 
+#### v.52
+>“Go,” said Jesus, “your faith has healed you.” Immediately he received his sight and followed Jesus along the road.
+
+Where the gospel is preached, or the written words of truth circulated, Jesus is passing by, and this is the opportunity. It is not enough to come to Christ for spiritual healing, but, when we are healed, we must continue to follow him; that we may honour him, and receive instruction from him. Those who have spiritual eyesight, see that beauty in Christ which will draw them to run after him.
+#matthewhenry 
