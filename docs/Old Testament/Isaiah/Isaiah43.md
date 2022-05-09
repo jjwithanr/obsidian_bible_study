@@ -12,7 +12,3 @@
 
 Nor is it primarily in order that we may be happy, for our happiness is a matter not worthy to be named, compared with the honor of God. But it is solely for his own sake - to promote his glory - to show his perfections - to evince the greatness of his mercy and compassion - and to show his boundless and eternal love.
 #barnes 
-
-#### v.
->
-

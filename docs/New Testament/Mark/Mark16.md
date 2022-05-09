@@ -7,8 +7,6 @@
 #### v.2-3
 >Very early on the first day of the week, just after sunrise, they were on their way to to the tomb <sup>3</sup>and they asked each other, "Who will roll the stone away from the entrance of the tomb?"
 
-
-
 #### v.7
 >But go, tell his disciples **and Peter**, 'He is going ahead of you into Galilee. There you will see him, just as he told you.'"
 

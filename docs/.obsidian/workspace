@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "209c48d03b7cb3d7",
+        "id": "903f940aeec6ac38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Mark/Mark11.md",
+            "file": "New Testament/Mark/Mark12.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark11.md",
+                "file": "New Testament/Mark/Mark12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "209c48d03b7cb3d7",
+  "active": "903f940aeec6ac38",
   "lastOpenFiles": [
-    "New Testament/Mark/Mark11.md",
-    "Old Testament/Psalm/Psalm90.md",
-    "Old Testament/Psalm/Psalm91.md",
-    "Old Testament/Psalm/Psalm17.md",
-    "New Testament/Mark/Mark10.md",
-    "Old Testament/Ezekiel/Ezekiel43.md",
-    "New Testament/Mark/Mark9.md",
-    "Topics/faith.md",
-    "New Testament/James/James1.md",
-    "New Testament/2 Timothy/2Timothy4.md"
+    "New Testament/Mark/Mark12.md",
+    "New Testament/Mark/Untitled.md",
+    "New Testament/Philippians/Philippians3.md",
+    "Old Testament/Isaiah/Isaiah43.md",
+    "New Testament/Mark/Mark16.md",
+    "Old Testament/Amos/Amos4.md",
+    "Old Testament/Isaiah/Isaiah18.md",
+    "Old Testament/Genesis/Genesis22.md",
+    "New Testament/1 Corinthians/1Cor11.md",
+    "New Testament/Mark/Mark11.md"
   ]
 }

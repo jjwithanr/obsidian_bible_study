@@ -16,7 +16,7 @@ It is the privilege, therefore, of a Christian to rejoice. He has more sources o
 #### v.8-9
 > What is more, I consider **everything a loss** compared to the **surpassing greatness of knowing Christ** Jesus my Lord, for whose sake I have lost all things. I consider them rubbish, that I may gain Christ and  be found in him, **not having a righteousness of my own** that comes from the law, but that which is through faith in Christ - the righteousness that comes from God and is by faith.
 
-See more in [[worthy]].
+See more in [[worthy#EnduringWord on Philippians 3 8-9 Philippians3 v 8-9]] or [[worthy#Craig Keener on Philippians 3 8-9 Philippians3 v 8-9]].
 
 #### v.10
 >I want to know Christ and the power of his resurrection and the fellowship of sharing in his sufferrings becoming like him in his death,
@@ -51,3 +51,4 @@ Death awaits them, food is their source of comfort, they get glorified in shamef
 
 #### v.21
 >who by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body.
+
