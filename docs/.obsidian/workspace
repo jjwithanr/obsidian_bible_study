@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Psalm/Psalm90.md",
+            "file": "New Testament/Mark/Mark11.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm90.md",
+                "file": "New Testament/Mark/Mark11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "209c48d03b7cb3d7",
   "lastOpenFiles": [
+    "New Testament/Mark/Mark11.md",
     "Old Testament/Psalm/Psalm90.md",
     "Old Testament/Psalm/Psalm91.md",
     "Old Testament/Psalm/Psalm17.md",
@@ -97,7 +99,6 @@
     "New Testament/Mark/Mark9.md",
     "Topics/faith.md",
     "New Testament/James/James1.md",
-    "New Testament/2 Timothy/2Timothy4.md",
-    "New Testament/Mark/Mark8.md"
+    "New Testament/2 Timothy/2Timothy4.md"
   ]
 }
