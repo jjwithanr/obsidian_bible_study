@@ -8,7 +8,7 @@
 >Some of those present were saying indignantly to one another, "Why this waste of perfume? <sup>5</sup>It could have been sold for more than a year's wages and the money given to the poor." And they rebuked her harshly.
 
 Jesus found more value in the posture of her heart rather than the perceived value of her sacrifice.
-#jj can't remember what this is from
+#jj
 
 #### v.8
 >**She did what she could.** She poured perfume on my body beforehand to prepare for my burial.
@@ -35,7 +35,6 @@ When Jesus returned to check on his disciple's status after a short time, they w
 
 Oh Lord, you're not done with Edward. I just want tickets to the front row seat of seeing the story of his life unfold. Something greater than the rebellion is coming.
 #jj 
-
 
 #### v.72
 >Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him: "Before the rooster crows twice you will disown me three times." And he broke down and wept.
