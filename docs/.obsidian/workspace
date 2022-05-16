@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Galations/Galations1.md",
+            "file": "New Testament/Galations/Galations2.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Galations/Galations1.md",
+                "file": "New Testament/Galations/Galations2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "903f940aeec6ac38",
   "lastOpenFiles": [
+    "New Testament/Galations/Galations2.md",
     "New Testament/Galations/Galations1.md",
     "Old Testament/Daniel/Daniel3.md",
     "New Testament/Mark/Mark11.md",
@@ -98,7 +99,6 @@
     "Old Testament/Proverbs/Proverbs29.md",
     "Old Testament/Proverbs/Proverbs27.md",
     "Old Testament/Proverbs/Proverbs24.md",
-    "Old Testament/Proverbs/Proverbs18.md",
-    "Old Testament/Proverbs/Proverbs17.md"
+    "Old Testament/Proverbs/Proverbs18.md"
   ]
 }
