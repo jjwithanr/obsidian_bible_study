@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Mark/Mark14.md",
+            "file": "New Testament/Galations/Galations1.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infinite",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark14.md",
+                "file": "New Testament/Galations/Galations1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "903f940aeec6ac38",
   "lastOpenFiles": [
-    "New Testament/Mark/Mark14.md",
-    "New Testament/Mark/Mark12.md",
-    "New Testament/Mark/Untitled.md",
-    "New Testament/Philippians/Philippians3.md",
-    "Old Testament/Isaiah/Isaiah43.md",
-    "New Testament/Mark/Mark16.md",
-    "Old Testament/Amos/Amos4.md",
-    "Old Testament/Isaiah/Isaiah18.md",
-    "Old Testament/Genesis/Genesis22.md",
-    "New Testament/1 Corinthians/1Cor11.md"
+    "New Testament/Galations/Galations1.md",
+    "Old Testament/Daniel/Daniel3.md",
+    "New Testament/Mark/Mark11.md",
+    "Old Testament/Proverbs/Proverbs31.md",
+    "Old Testament/Proverbs/Proverbs28.md",
+    "Old Testament/Proverbs/Proverbs29.md",
+    "Old Testament/Proverbs/Proverbs27.md",
+    "Old Testament/Proverbs/Proverbs24.md",
+    "Old Testament/Proverbs/Proverbs18.md",
+    "Old Testament/Proverbs/Proverbs17.md"
   ]
 }

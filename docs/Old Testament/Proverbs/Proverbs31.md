@@ -20,6 +20,7 @@ The theme of the poem, the wife of noble character, **captures the ideals of wis
 After all, the works says nothing about the woman's personal relationship with her husband, her intellectual or emotional strengths, or her religious activities. In general it appears that the woman of ch. 31 is a symbol of wisdom.
 #barker 
 
-#### v.
->
+
+
+
 

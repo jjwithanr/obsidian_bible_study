@@ -13,6 +13,3 @@ It is as if one distinction between humans and animals is this feature of receiv
 #### v.10
 >A righteous man cares for the needs of his animal, but the kindest acts of the wicked are cruel.
 
-#### v.
->
-
