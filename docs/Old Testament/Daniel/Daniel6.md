@@ -21,4 +21,8 @@ Prayer and fellowship with the Lord had safeguarded him from the corrupting infl
 #### v.23
 >The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.
 
+#### v.28
+>So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
 
+After this, Daniel apparently retired from public service and gave himself to the study of the Scriptures and to prayer. He received the revelations of chs. 10-12 in the third year of Cyrus (cf 10:1).
+#barker 

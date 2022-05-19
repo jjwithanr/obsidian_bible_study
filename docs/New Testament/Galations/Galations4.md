@@ -3,6 +3,11 @@
 ## Overview:
 
 
+#### v.5
+>to redeem those under the law, that we might receive adoption to sonship.
+
+#### v.6
+>Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, _“Abba_, Father.”
 
 #### v.7
 >So you are no longer a slave, but a son; and since you are a son, God has made you also an heir.
@@ -18,4 +23,7 @@ How are you being enslaved by YouTube and media all over again?
 
 What pastor has not often had such fears of his people, when he sees them turn to the weak and beggarly elements of the world, or when, after having "run well," he sees them become the slaves of fashion, or of some habit inconsistent with the simplicity of the gospel?
 #jj 
+
+#### v.18
+>It is fine to be zealous, provided the purpose is good, and to be so always, not just when I am with you.
 

@@ -16,6 +16,7 @@
 
 Research *amazed* and *perplexed*.
 Is this the same wonder the Twelve may have felt in [Luke 8:25](Luke8#v.25)?
+#jj 
 
 #### v.13
 >Some, however, made fun of them and said, "They have had too much wine."
@@ -45,6 +46,7 @@ Look at the authority the Apostle Peter had in his exposition of the Old Testame
 >With many other words, he warned them; and he pleaded with them, "Save yourselves from this corrupt generation."
 
 Peter did not think twice that more warning would turn his hearers away. He feared God more than man; he did not consider the numbers that would be amassed. All Peter knew was Christ and Christ crucified. The Gospel message that sternly warns its hearers produce the truest converts. The early church could not afford shallow converts in following verses' narration of their intimate fellowship with one another. **Carnal methods draw carnal men. The fear of the Lord draws God-fearing men.** Peter understood this and by it, became the rock upon which the early church stood upon.
+#jj 
 
 #### v.42
 >They devoted themselves to the apostle's teaching and to the fellowship, to the breaking of bread and to prayer.
@@ -78,5 +80,6 @@ When the family of believers are all together and have everything in common, the
 
 Research:
 did they not have jobs? how did they meet EVERY DAY?!
-is breaking bad an idiom for eating together, or did they actually practice communion?
+is breaking bread an idiom for eating together, or did they actually practice communion?
 at this time, was the early church positively accepted since they were "enjoying the favor all the people"?
+#jj 
