@@ -10,7 +10,7 @@ It is given - to suffer for His sake (ἐχαρίσθη τὸ ὑπὲρ -
 Every word here is significant. Suffering is a gift of grace. "It is given" should be "it was given," referring to the gift bestowed when they became Christians. Suffering was the marriage-gift when they were espoused to Christ: the bounty when they enlisted in His service. Becoming one with Him they entered into the fellowship of His suffering (Philippians 3:10). The gift was not suffering as such. Its meaning and value lay in its being for His sake. The Macedonian churches, and the Philippian church especially, were preeminently suffering churches. See 2 Corinthians 8:2.
 #vincentswordstudies
 
-### Hard Sayings of the Bible on [1 Peter 4](1Peter4)
+### Hard Sayings of the Bible on [[1Peter4]]
 In this passage, then, Peter has three ways of looking at persecution. 
 **First**, it is a test of faith, showing if the committment of the professed Christian is genuine or not.
 **Second**, it is an identification with the sufferings of Christ, which will not only result in glory in the future, but leads to the Spirit of glory resting upon them now.

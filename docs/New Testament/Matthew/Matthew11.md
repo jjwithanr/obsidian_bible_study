@@ -29,3 +29,5 @@ for he sought not his own glory, but their good: all he did was, in order to bri
 #### v.28-30
 >"Come to me, all you who are weary and burdened, and I will give you rest. <sup>29</sup>Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. <sup>30</sup>For my yoke is easy and my burden is light."
 
+As the old mystics used to say, Christ’s burden carries him that carries it. It may add a little weight, but it gives power to soar, and it gives power to progress. It is like the wings of a bird, it is like the sails of a ship.
+#maclaren 

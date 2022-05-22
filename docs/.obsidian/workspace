@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/growth.md",
+            "file": "Topics/suffering.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/growth.md",
+                "file": "Topics/suffering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "39798ad9602f844c",
   "lastOpenFiles": [
-    "Topics/growth.md",
-    "New Testament/Mark/Mark11.md",
-    "Topics/evangelism.md",
-    "New Testament/Galations/Galations5.md",
-    "New Testament/Colossians/Colossians2.md",
-    "Old Testament/Daniel/Daniel9.md",
-    "New Testament/1 Corinthians/1Cor15.md",
-    "Old Testament/Daniel/Daniel8.md",
-    "New Testament/Galations/Galations4.md",
-    "Old Testament/Daniel/Daniel7.md"
+    "Topics/suffering.md",
+    "1 Peter4.md",
+    "New Testament/Galations/Galations6.md",
+    "New Testament/Philemon.md",
+    "New Testament/Romans/Romans2.md",
+    "New Testament/2 Thessalonians/2Thess3.md",
+    "New Testament/1 Thessalonians/1Thess3.md",
+    "New Testament/2 Corinthians/2Cor9.md",
+    "New Testament/Matthew/Matthew11.md",
+    "Old Testament/Daniel/Daniel10.md"
   ]
 }

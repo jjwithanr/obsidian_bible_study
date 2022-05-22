@@ -7,13 +7,11 @@
 #### v.1
 >Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father's name writeen on their foreheads.
 
-And who were these people, ‘having his Father’s name written in their foreheads?’ Not _Bs_ for ‘Baptists,’ not _Ws_ for ‘Wesleyens’ not _Es_ for ‘Established Church.’ They had their Father’s name and nobody else’s. What a deal of fuss is made on earth about our distinctions! We think such a deal about belonging to this denomination, and the other. Why, if you were to go to heaven’s gates, and ask if they had any Baptists there, the angel would only look at you, and not answer you, if you were to ask if they had any Wesleyans, or members of the Established Church, he would say, ‘Nothing of the sort;’ but if you were to ask him whether they had any Christians there, ‘Ay,’ he would say, ‘an abundance of them: they are all one now – all called by one name; the old brand has been obliterated, and now they have not the name of this man or the other, they have the name of God, even their Father, stamped on their brow.
+And who were these people, ‘having his Father’s name written in their foreheads?’ Not _Bs_ for ‘Baptists,’ not _Ws_ for ‘Wesleyens’ not _Es_ for ‘Established Church.’ They had their Father’s name and nobody else’s. **What a deal of fuss is made on earth about our distinctions!** We think such a deal about belonging to this denomination, and the other. Why, if you were to go to heaven’s gates, and ask if they had any Baptists there, the angel would only look at you, and not answer you, if you were to ask if they had any Wesleyans, or members of the Established Church, he would say, ‘Nothing of the sort;’ but if you were to ask him whether they had any Christians there, ‘Ay,’ he would say, ‘an abundance of them: they are all one now – all called by one name; the old brand has been obliterated, and now they have not the name of this man or the other, they have the name of God, even their Father, stamped on their brow.
 #spurgeon 
 
 ### v.12
 >This calls for patient endurance on the part of the saints who obey God's commandments and remain faithful to Jesus.
-
-
 
 #### v.15
 >Then another angel came out of the temple and called in a loud voice to him who was sitting on the cloud, "Take your sickle and reap, because the time to reap has come, for the harvest of the earth is ripe."
@@ -22,7 +20,6 @@ Similar to [[Matthew13]].
 
 It is the time in the temple that allows everything outside time to grow until harvest. In the right season, we, also, are to go out of the temple and harvest what has been sown and grown while we were inside the temple.
 #jj 
-
 
 #### v.20
 >They were trampled in the winepress outside the city, and blood flowed out of the press, rising as high as the horses' bridles for a distance of 1600 stadia.

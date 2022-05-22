@@ -54,5 +54,8 @@ Some Christians may have decided to justify their idleness by citing the lifesty
 Biblical support for capitalism?
 #jj 
 
+#### v.13
+>And as for you, brothers, never tire of doing what is right.
+
 #### v.16
 >Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you.

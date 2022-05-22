@@ -59,6 +59,12 @@ Peter Kim said this a lot.
 #### v.22
 >He instructed me and said to me, “Daniel, I have now come to give you insight and understanding.
 
+#### v.23
+>As soon as you began to pray, an answer was given, which I have come to tell you, or you are highly esteemed. Therefore, consider the message and understand the vision:
+
+That is, he was one whose happiness was greatly desired by God; or, a man of God's delight; that is, as in our version, greatly beloved. It was on this account that his prayer was heard, and that God sent to him this important message respecting what was to come.
+#barnes 
+
 #### v.27
 >He will confirm a covenant with many for one ‘seven.' In the middle of the ‘seven’ he will put an end to sacrifice and offering. And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.
 
