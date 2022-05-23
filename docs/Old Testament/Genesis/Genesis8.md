@@ -9,10 +9,3 @@
 
 Charles Spurgeon made a spiritual point from the idea that **the dove found no resting place**. He explained that like the dove, the believer finds no true resting place in this world. “The world is said to be progressing, advancing, improving; but we cannot discover it. The same sin, the same filthiness, the same universally abounding unbelief, that our fathers complained of, we are obliged to complain of still; and we are weary with the world, weary with the nineteenth century, and all its boasted civilization. There is nothing upon which the [sole of our foot](Psalm37#v.23-24) can rest.”
 #enduringword 
-
-#### v.
->
-
-#### v.
->
-

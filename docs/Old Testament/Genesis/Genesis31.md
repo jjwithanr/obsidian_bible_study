@@ -4,9 +4,6 @@
 
 
 
-#### v.
->
-
 #### v.13
 >I am the God of Bethel, where you annointed a pillar and where you made a vow to me. Now leave this land at once and go back to your native land.
 
