@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Ephesians/Ephesians1.md",
+            "file": "New Testament/Ephesians/Ephesians2.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Ephesians/Ephesians1.md",
+                "file": "New Testament/Ephesians/Ephesians2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "39798ad9602f844c",
   "lastOpenFiles": [
+    "New Testament/Ephesians/Ephesians2.md",
+    "Old Testament/Lamentations/Lamentations1.md",
+    "Old Testament/Genesis/Genesis12.md",
+    "Old Testament/Genesis/Genesis4.md",
+    "New Testament/Revelation/Revelation16.md",
     "New Testament/Ephesians/Ephesians1.md",
     "Old Testament/Daniel/Daniel11.md",
     "Old Testament/Genesis/Genesis8.md",
     "Old Testament/Psalm/Psalm140.md",
-    "Old Testament/Proverbs/Proverbs14.md",
-    "New Testament/James/James5.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "Old Testament/Psalm/Psalm25.md",
-    "Templates/topic.md",
-    "Topics/godliness.md"
+    "Old Testament/Proverbs/Proverbs14.md"
   ]
 }
