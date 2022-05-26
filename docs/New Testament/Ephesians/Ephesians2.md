@@ -48,20 +48,29 @@ This is the great objective of our election, we are elected that we may be holy,
 #### v.13
 >But now in Christ Jesus you who once were far away have been brought near by the blood of Christ.
 
-#### v.
->
+#### v.14
+>For he himself is our peace, who has made the two one and has destroyed the barrier, the dividing wall of hostility,
 
-#### v.
->
+Peace is found in a person, not a situation.
+#jj 
 
-#### v.
->
+See also [[Isaiah9#v 6]].
 
-#### v.
->
+#### v.15
+>by abolishing in his flesh the law with its commandments and regulations. His purpose was to create in himself one new man out of the two, thus making peace,
 
-#### v.
->
+#### v.18
+>For through him we both have access to the Father by one Spirit.
 
-#### v.
->
+Defense for trinity?
+#jj 
+
+All three persons of the Trinity are involved in the process of salvation. Salvation is found in Jesus, who gives us the Spirit to live within us, who grants access to the Father. All three persons operate at the same time in unique ways, yet are all identified as one and the same God
+#bibleref 
+
+#### v.20
+>built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone.
+
+#### v.22
+>And in him you too are being built together to become a dwelling in which God lives by his Spirit.
+
