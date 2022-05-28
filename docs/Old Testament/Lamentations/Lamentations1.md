@@ -12,7 +12,7 @@ All her friends have betrayed her;
     they have become her enemies.
 
 In the "night" of her desolation, Jerusalem is pictured as weeping, not merely because of her sufferings, but even more because she had been by her "lovers" and "friends." These terms (cf. Jer 4:30; 30:14) are best explained by Ezek 23 and Hos 8:9-10. The suggestions is that once the monarchy was firmly established, Israel was always faced with an inescapable choice. She could rely on God for her safety against external aggression, or she could turn to allies great and small (cf. Hos 5:13, 8:8, 11; 14:3), but both the northern and the southern leaders would not listen. Judah had learned that such friends were a broken reed (Ezek 29:6-7).
-#barker 
+#ellison 
 
 Jeremiah’s sorrow is deep and plain; even though Jerusalem’s conquest vindicated Jeremiah’s many prophecies, he has no sense of triumph or “I told you so.” Jeremiah deeply sorrows with the sorrow of Jerusalem and Judah.
 #enduringword 
@@ -26,7 +26,7 @@ she herself groans
     and turns away.
 
 Jerusalem is compared to a debased prostitute, shamelessly exposing her nakedness and indifferent to the marks of menstrual blood on her garments. Since prostitution repeatedly used for Israel's idolatry and Baal worship, it is obviously implied here. The completeness of Israel's collapse has finally brought her to her senses. She knows she has no grounds for begging for a reversal of fortune, but the insolent triumphing of the enemy calls for divine retribution (cf. Isa 10:12). "The enemy has triumphed" is literally correct but misleading. It is not the victory but the insolent boasting after it that is meant.
-#barker 
+#ellison 
 
 #### v.15
 >“The Lord has rejected  

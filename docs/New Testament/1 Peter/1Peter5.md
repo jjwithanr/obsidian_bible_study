@@ -27,7 +27,7 @@ Similar to [Proverbs 15:33](Proverbs15#v.33), [Proverbs 18:12](Proverbs18#v.12),
 #### v.7
 >Cast all your anxiety on him because he cares for you.
 
-Similar to [Pslams 55:22](Psalms55#v.22).
+Similar to [Pslams 55:22](Psalm55#v.22).
 
 #### v.8
 >Be self-controlled and alert. Your enemy the devil prowls around like a roaring lion looking for someone to devour.

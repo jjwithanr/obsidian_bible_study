@@ -22,7 +22,7 @@ The prophetic spirit exposes sin since it is the testimony of Jesus, the Lamb wh
 #jj 
 
 The best commentaries on this verse are Jer 23:18-22 and Ezek 13:10-16. Just as many preachers are so obsessed with the holiness of the church that they have not been able to take its shortcomings seriously, so it was in Israel. It took the shock of the Babylonian exile to break the power and influence of the popular prophets and to discredit them finally.
-#barker 
+#ellison 
 
 #### v.15
 >All who pass your way clap their hands at you; they scoff and shake their heads at the Daughter of Jerusalem: "Is this the city that was called the perfection of beauty, the joy of the whole earth?"

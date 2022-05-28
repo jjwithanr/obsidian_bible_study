@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Lamentations/Lamentations3.md",
+            "file": "New Testament/Ephesians/Ephesians3.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Lamentations/Lamentations3.md",
+                "file": "New Testament/Ephesians/Ephesians3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +102,15 @@
   },
   "active": "29e8c2ee2365ee7f",
   "lastOpenFiles": [
-    "Old Testament/Lamentations/Lamentations3.md",
-    "Bibliography.md",
-    "Old Testament/Psalm/Psalm56.md",
-    "Old Testament/Lamentations/Lamentations2.md",
     "New Testament/Ephesians/Ephesians3.md",
-    "New Testament/Ephesians/Ephesians2.md",
-    "New Testament/Luke/Luke15.md",
-    "Old Testament/Isaiah/Isaiah9.md",
-    "Topics/wealth,work.md",
-    "New Testament/1 Timothy/1Timothy6.md"
+    "Old Testament/Lamentations/Lamentations4.md",
+    "Bibliography.md",
+    "Old Testament/Lamentations/Lamentations3.md",
+    "Old Testament/Lamentations/Lamentations2.md",
+    "Old Testament/Lamentations/Lamentations1.md",
+    "Old Testament/Daniel/Daniel6.md",
+    "Old Testament/Psalm/Psalm118.md",
+    "New Testament/Hebrews/Hebrews13.md",
+    "New Testament/Hebrews/Hebrews1.md"
   ]
 }
