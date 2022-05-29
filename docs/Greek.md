@@ -71,3 +71,4 @@ The cognate verb, [3670](https://biblehub.com/greek/3670.htm) _/homologéō_, al
 
 παραμυθέομαι (paramutheomai) (derived from [3844](https://biblehub.com/greek/3844.htm) _/pará_, "from close-beside" and _mytheomai_, "_soothing_ speaking") – properly, _comforting_ that shows sympathy (encouragement), cheering someone up by _soothing_ speech with a "_personal_ touch."
 
+καταλαμβάνω (kot-uh-lum-bahn-oh)(katalambánō) (from [2596](https://biblehub.com/greek/2596.htm) _/katá_, "_down_, according to," which intensifies [2983](https://biblehub.com/greek/2983.htm) _/lambánō_, "aggressively take") – properly, take hold of _exactly_, _with decisive initiative_ (eager self-interest); to grasp something in a forceful (firm) manner; (figuratively) to _apprehend_ (comprehend), "making it one's _own_."
