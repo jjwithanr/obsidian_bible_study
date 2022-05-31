@@ -15,3 +15,5 @@ See more in [[prayerSpirit#Spurgeon on Zechariah 12 10 Zechariah12 md v 10]].
 
 #### v.11
 >On that day the weeping in Jerusalem will be great, like the weeping of Hadad Rimmon in the plain of Megiddo.
+
+

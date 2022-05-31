@@ -8,6 +8,8 @@
 Prisoners have forfeited all their rights. Christians have no rights outside of our identity in Christ. How illogical it is for a prisoner to cry out for rights! He has forfeited it all as a penalty for his sins. Yet, in Christ we have freedom from sin and are now slaves to Christ.
 #jj 
 
+
+
 #### v.2
 >Be completely humble and gentle; be patient bearing with one another in love.
 
@@ -33,7 +35,7 @@ Nothing is more obvious than that **indulgence in sin weakens the mental powers*
 
 He who wishes a mind well balanced and clear, should fear and love God; and had Christianity done no other good on earth than to elevate the "intellect" of mankind, it would have been the richest blessing which has ever been vouchsafed to the race.
 
-**the way to elevate the understandings of mankind is to purify the heart.** The approach must be made through the affections. Let people "feel" right toward God, and they will soon "think" right; let the heart be pure, and the understanding will be clear.
+**the way to elevate the understandings of mankind is to purify the heart.** The approach must be made through the affections. **Let people "feel" right toward God, and they will soon "think" right; let the heart be pure, and the understanding will be clear.**
 #barnes 
 
 #### v.19
@@ -49,7 +51,7 @@ See more in [[wealth,work#Barnes on Ephesians 4 28 Ephesians4 v 28]].
 #### v.29
 >Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.
 
-We build others up not according to their deeds but according to their needs. If true prayer is born out of need, every community ought to be in prayer together to best meet the needs others around them. This verse points out that those who can't be benefitted are those who will not listen which we know is because of their igonrance of God due to the hardening of their hearts.
+**We build others up not according to their deeds but according to their needs.** If true prayer is born out of need, every community ought to be in prayer together to best meet the needs of others around them. This verse points out that those who can't be benefitted are those who will not listen which we know is because of their igonrance of God due to the hardening of their hearts.
 #jj 
 
 #### v.30
@@ -67,6 +69,7 @@ The only way the Holy Spirit can be wounded is not because of any weakness He po
 Rage is defined as _passion_-driven behavior, i.e. actions emerging out of _strong impulses_ (intense emotion).
 
 Anger's root, "_Orgē_ comes from the verb _oragō_ meaning, 'to teem, to _swell_'; and thus implies that it is not a sudden outburst, but rather (referring to God's) _fixed_, controlled, passionate feeling against sin . . . a _settled_ indignation (so Hendriksen)" (D. E. Hiebert, at 1 Thes 1:10).
+#hiebert 
 
 #### v.32
 >Instead, be kind to one another, tender-hearted, graciously forgiving each other, just as God in Christ also has graciously forgiven you.

@@ -87,11 +87,9 @@ Where Christ abides in a man’s heart, love will be the very soil in which his 
 
 There be two kinds of knowledge: the mere rattle of notions in a man’s brain, like the seeds of a withered poppy-head; very many, very dry, very hard; that will make a noise when you shake them. And there is another kind of knowledge which goes deep down into the heart, and is the only knowledge worth calling by the name; and that knowledge is the child, as my text has it, of love.
 
-And that is so, not because Christianity, being a foolish system, can only address itself to fools; not because Christianity, contradicting wisdom, cannot expect to be received by the wise and the cultured, but because a man’s brains have as little to do with his trustful acceptance of the Gospel of Jesus Christ as a man’s eyes have to do with his capacity of hearing a voice. Therefore, seeing that the wise and prudent, and the cultured, and the clever, and the men of genius are always the minority of the race, let us vulgar folk that are neither wise, nor clever, nor cultured, nor geniuses, be thankful that all that has nothing to do with our power of knowing and possessing the best wisdom and the highest treasures, but that upon this path the wayfaring man though a fool shall not err, and all narrow foreheads and limited understandings, and poor, simple uneducated people as well as philosophers and geniuses have to learn love by their hearts and not by their heads, and by a sense of need and a humble trust and a daily experience have to appropriate and suck out the blessing that lies in the love of Jesus Christ.
+And that is so, not because Christianity, being a foolish system, can only address itself to fools; not because Christianity, contradicting wisdom, cannot expect to be received by the wise and the cultured, but because a man’s brains have as little to do with his trustful acceptance of the Gospel of Jesus Christ as a man’s eyes have to do with his capacity of hearing a voice. Therefore, seeing that the wise and prudent, and the cultured, and the clever, and the men of genius are always the minority of the race, let us vulgar folk that are neither wise, nor clever, nor cultured, nor geniuses, be thankful that all that has nothing to do with our power of knowing and possessing the best wisdom and the highest treasures, but that upon this path the wayfaring man though a fool shall not err, and all narrow foreheads and limited understandings, and poor, simple uneducated people as well as philosophers and geniuses **have to learn love by their hearts and not by their heads, and by a sense of need and a humble trust and a daily experience have to appropriate and suck out the blessing that lies in the love of Jesus Christ.**
 #maclaren 
 
-It seems rather to be the language of a heart that was full of the subject, and impressed with its greatness; and the words are employed to denote the "dimensions" of that love, and are similar to what would be meant if he had said, "that you may know how "large," or how "great" is that love."
-#barnes 
 
 #### v.19
 >and to know this love that surpasses knowledge - that you may be filled to the measure of all the fullness of God.
@@ -107,5 +105,4 @@ It means here, "that you may have the richest measures of divine consolation and
 >Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,
 
 See also [[1Cor2#v.9]].
-
 

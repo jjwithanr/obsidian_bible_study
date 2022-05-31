@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "29e8c2ee2365ee7f",
+        "id": "122effbcbcef2355",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Ephesians/Ephesians3.md",
+            "file": "New Testament/Ephesians/Ephesians4.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Ephesians/Ephesians3.md",
+                "file": "New Testament/Ephesians/Ephesians4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29e8c2ee2365ee7f",
+  "active": "122effbcbcef2355",
   "lastOpenFiles": [
-    "New Testament/Ephesians/Ephesians3.md",
-    "New Testament/1 Corinthians/1Cor2.md",
-    "Greek.md",
     "New Testament/Ephesians/Ephesians4.md",
-    "Old Testament/Lamentations/Lamentations5.md",
-    "Old Testament/Lamentations/Lamentations4.md",
-    "Bibliography.md",
-    "Old Testament/Lamentations/Lamentations3.md",
-    "Old Testament/Lamentations/Lamentations2.md",
-    "Old Testament/Lamentations/Lamentations1.md"
+    "Old Testament/Zechariah/Zechariah2.md",
+    "New Testament/Ephesians/Ephesians3.md",
+    "New Testament/Ephesians/Ephesians2.md",
+    "New Testament/Ephesians/Ephesians1.md",
+    "Old Testament/Haggai/Haggai2.md",
+    "Old Testament/Haggai/Haggai1.md",
+    "Old Testament/Zechariah/Zechariah1.md",
+    "Old Testament/Zechariah/Zechariah12.md",
+    "Old Testament/Zechariah/Zechariah3.md"
   ]
 }

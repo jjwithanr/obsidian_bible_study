@@ -9,7 +9,7 @@
 #### v.4
 >But now be strong, O Zerubbabel,' declares the Lord. 'Be strong, O Joshua son of Jehozadak, the high priest. Be strong, all you people of the land,' declares the Lord, 'and work. For I am with you,' decalres the Lord Almighty.
 
-Those who are hearty in the Lord's service shall receive encouragement to proceed. But they could not build such a temple then, as Solomon built. Though our gracious God is pleased if we do as well as we can in his service, yet our proud hearts will scarcely let us be pleased, unless we do as well as others, whose abilities are far beyond ours.
+**Those who are hearty in the Lord's service shall receive encouragement to proceed.** But they could not build such a temple then, as Solomon built. Though our gracious God is pleased if we do as well as we can in his service, yet our proud hearts will scarcely let us be pleased, unless we do as well as others, whose abilities are far beyond ours.
 #matthewhenry 
 
 #### v.5
