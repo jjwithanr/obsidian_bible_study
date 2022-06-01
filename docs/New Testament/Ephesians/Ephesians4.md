@@ -8,8 +8,6 @@
 Prisoners have forfeited all their rights. Christians have no rights outside of our identity in Christ. How illogical it is for a prisoner to cry out for rights! He has forfeited it all as a penalty for his sins. Yet, in Christ we have freedom from sin and are now slaves to Christ.
 #jj 
 
-
-
 #### v.2
 >Be completely humble and gentle; be patient bearing with one another in love.
 
@@ -43,6 +41,57 @@ He who wishes a mind well balanced and clear, should fear and love God; and had 
 
 See also [Romans 1:24](Romans1#v.24).
 
+Sin is not only destructive, it is addictive. Saddest of all, the brutal oppression of sin is something we inflict on ourselves: we "give ourselves up" to it.
+#bibleref 
+
+This is an accurate description of the state of a sinner. He has no "feeling," no emotion. He often gives an intellectual assent to the truth, But it is without emotion of any kind. The heart is insensible as the hard rock.
+#barnes 
+
+#### v.22
+>You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;
+
+The first of the characteristics, then, of this sinful self, to which I wish to point for a moment is, that every Christless life, whatsoever the superficial differences in it, is really a life shaped according to and under the influence of passionate desires.
+
+The desires are meant to be impelling powers. It is absurdity and the destruction of true manhood to make them, as we so often do, directing powers, and to put the reins into their hand.
+
+That command ‘put it off’ is the plain dictate of conscience and of common sense. But it seems as hopeless as it is imperative.
+
+The law, the pattern, and the power for complete victory over the old sinful self, are to be found, ‘as the truth is-in Jesus.’ Union with Christ gives us a real possession of a new principle of life, derived from Him, and like His own.
+#maclaren 
+
+The word "lusts," has a more limited signification with us than the original word. That word we now confine to one class of sensual appetites; but **the original word denotes any passion or propensity of the heart.** It may include avarice, ambition, the love of pleasure, or of gratification in any way; and the meaning here is, that the heart is by nature under the control of such desires.
+#barnes 
+
+#### v.23-24
+>to be made new in the attitude of your minds; <sup>24</sup>and to put on the new self, created to be like God in true righteousness and holiness.
+
+The believer is called to live by the Spirit by focusing his or her mind on what is godly. This includes the believer's thoughts and actions. Those who do are "created after the likeness of God" (Ephesians 4:24).
+#bibleref 
+
+ There is the assumption of His righteousness which **makes a man a Christian, and has for its condition simple faith.** There is the assumption of His righteousness sanctifying and transforming us which follows in a Christian course, as its indispensable accompaniment and characteristic, and **that is realised by daily and continuous effort**.
+ #maclaren 
+
+#### v.25
+>Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one body.
+
+Take heed of every thing contrary to truth. No longer flatter or deceive others. God's people are children who will not lie, who dare not lie, who hate and abhor lying.
+#matthewhenry 
+
+It may seem strange that the apostle should seriously exhort Christians to put away "lying," implying that they were in the habit of indulging in falsehood.
+The same testimony is borne by almost all the missionaries. of the character of pagans everywhere. No confidence can be placed in their statements; and, where there is the slightest temptation to falsehood, they practice it without remorse.
+Nothing is more important in a community than simple "truth" - and yet, it is to be feared that nothing is more habitually disregarded. No professing Christian can do any good who has not an unimpeachable character for integrity and truth - and yet who can lay his hand on his breast and say before God that he is in all cases a man that speaks the simple and unvarnished truth?
+#barnes 
+
+I remember the closing of fall quarter of my senior year at UCI when I texted a house church member about their absence at church service due to busyness for finals. I warned them and have a conversation with Katlyn about the whole matter. It was then on that I needed to first live out the conviction to speak the truth in love in our house church community for people to better understand my heart when I warn them one-on-one. 
+I put off the falsehood that going through the motions in worship/prayer was sufficient. God deserves our utmost praise—so Paul and I would interrrupt worship times exhorting everyone to remember the Gospel that saved them and repent if anything has hindered their love for God this past week. Let's not wait for a retreat or good sermon to awaken the dullness of our hearts to the light of the Gospel.
+#jj 
+
+#### v.26
+>"In your anger do not sin": Do not let the sun go down while you are still angry,
+
+Anger is not always sin but do not let it nest in your heart that it might breed sin.
+#jj 
+
 #### v.28
 > He who has been stealing must steal no longer, but must work, doing something useful with his own hands, that he may have something to share with those in need.
 
@@ -51,7 +100,7 @@ See more in [[wealth,work#Barnes on Ephesians 4 28 Ephesians4 v 28]].
 #### v.29
 >Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.
 
-**We build others up not according to their deeds but according to their needs.** If true prayer is born out of need, every community ought to be in prayer together to best meet the needs of others around them. This verse points out that those who can't be benefitted are those who will not listen which we know is because of their igonrance of God due to the hardening of their hearts.
+**We build others up not according to their deeds but according to their needs.** If true prayer is born out of need, every community ought to best meet the needs of others through corporate prayer. This verse points out that the only ones who can't be benefitted are those who will not listen.
 #jj 
 
 #### v.30
