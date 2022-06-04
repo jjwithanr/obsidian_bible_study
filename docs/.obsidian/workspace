@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Ephesians/Ephesians5.md",
+            "file": "New Testament/Ephesians/Ephesians6.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Ephesians/Ephesians5.md",
+                "file": "New Testament/Ephesians/Ephesians6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "122effbcbcef2355",
   "lastOpenFiles": [
+    "New Testament/Ephesians/Ephesians6.md",
+    "Old Testament/Zechariah/Zechariah7.md",
+    "Old Testament/Zechariah/Zechariah6.md",
+    "Old Testament/Zechariah/Zechariah4.md",
     "New Testament/Ephesians/Ephesians5.md",
     "New Testament/Ephesians/Ephesians4.md",
     "Old Testament/Zechariah/Zechariah3.md",
     "Old Testament/Zechariah/Zechariah2.md",
     "New Testament/Ephesians/Ephesians3.md",
-    "New Testament/Ephesians/Ephesians2.md",
-    "New Testament/Ephesians/Ephesians1.md",
-    "Old Testament/Haggai/Haggai2.md",
-    "Old Testament/Haggai/Haggai1.md",
-    "Old Testament/Zechariah/Zechariah1.md"
+    "New Testament/Ephesians/Ephesians2.md"
   ]
 }
