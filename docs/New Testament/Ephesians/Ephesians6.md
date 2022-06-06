@@ -77,4 +77,5 @@ See more in [[prayerSpirit]]. See also [Jude 20](Jude#v.20).
 oap
 #jj 
 
-
+He was in Rome. He was almost alone. He was surrounded by multitudes of the wicked. He was exposed to death. Yet he desired to speak boldly in the name of the Lord Jesus, and to invite sinners to repentance. A Christians in chains, and surrounded by the wicked, may speak boldly, and "may" have hope of success - for Paul was not an unsuccessful preacher even when a captive at Rome;
+#barnes 
