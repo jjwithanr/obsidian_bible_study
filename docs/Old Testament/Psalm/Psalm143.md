@@ -20,4 +20,4 @@ Similar to [Psalm 92:2](Psam92#v.2).
 #### v.10
 >Teach me to do your will, for you are my God; may your good Spirit lead me on level ground.
 
-See more in [[growth#Barnes on Psalm 143 10 Psalm143 v 10]] and .[[growth#Maclaren on Psalm 143 10 Psalm143 v 10]].
+See more in [[growth#Maclaren on Psalm 143 10 Psalm143 v 10]].
