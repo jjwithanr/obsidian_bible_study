@@ -13,3 +13,6 @@
 #### v.13
 >Rend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate, slow to anger and abouding in love, and he relents from sending calamity.
 
+#### v.25
+>"I will repay you for the years the locusts have eaten—the great locust and the young locust, the other locusts and the locust swarm—my great army that I sent among you."
+

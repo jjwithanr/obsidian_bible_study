@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Psalm/Psalm143.md",
+            "file": "New Testament/Philippians/Philippians2.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm143.md",
+                "file": "New Testament/Philippians/Philippians2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "122effbcbcef2355",
   "lastOpenFiles": [
+    "New Testament/Philippians/Philippians2.md",
+    "Old Testament/Zechariah/Zechariah10.md",
+    "Old Testament/Joel/Joel2.md",
+    "New Testament/Hebrews/Hebrews8.md",
     "Old Testament/Psalm/Psalm143.md",
     "Topics/growth.md",
     "New Testament/Philippians/Philippians1.md",
     "Old Testament/Zechariah/Zechariah9.md",
     "New Testament/Ephesians/Ephesians6.md",
-    "Old Testament/Zechariah/Zechariah8.md",
-    "Old Testament/Zechariah/Zechariah7.md",
-    "Old Testament/Zechariah/Zechariah6.md",
-    "Old Testament/Zechariah/Zechariah4.md",
-    "New Testament/Ephesians/Ephesians5.md"
+    "Old Testament/Zechariah/Zechariah8.md"
   ]
 }

@@ -31,6 +31,8 @@ The Lord made it clear that this covenant would originate with God, and not with
 The best way to make a man keep a law is to make him love the law-giver.
 #spurgeon 
 
+#### v.12
+>For I will forgive their wickedness and will remember their sins no more."
 
 #### v.13
 >By calling this covenant "new," he had **made the first one obsolete**; and what is obsolete and aging will soon disappear.
