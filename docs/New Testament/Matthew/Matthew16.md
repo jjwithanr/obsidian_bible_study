@@ -24,6 +24,9 @@ The disciples have seen Jesus for who He truly is. Wonder begets intimate knowle
 #### v.24
 >Then Jesus said to his disciples, "If anyone would come after me, he must deny himself and take up his cross and follow me.
 
+If you can receive it, here's the secret: Self-denial can serve as a catalyst to help propel you forward into greater joys of intimacy in the secret place. Self-denial and intimacy go hand in hand.
+#bobsorge 
+
 #### v.25
 >For whoever wants to save his life will lose it, but whoever loses his life for me will find it.
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Philippians/Philippians2.md",
+            "file": "New Testament/Matthew/Matthew16.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Philippians/Philippians2.md",
+                "file": "New Testament/Matthew/Matthew16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "56ca998a045a1c49",
   "lastOpenFiles": [
-    "New Testament/Philippians/Philippians2.md",
-    "Old Testament/Zechariah/Zechariah11.md",
-    "New Testament/Romans/Romans12.md",
-    "New Testament/John/John10.md",
-    "Old Testament/Zechariah/Zechariah10.md",
-    "Old Testament/Joel/Joel2.md",
-    "New Testament/Hebrews/Hebrews8.md",
-    "Old Testament/Psalm/Psalm143.md",
-    "Topics/growth.md",
-    "New Testament/Philippians/Philippians1.md"
+    "New Testament/Matthew/Matthew16.md",
+    "New Testament/Matthew/Matthew6.md",
+    "Old Testament/Proverbs/Proverbs17.md",
+    "Old Testament/Psalm/Psalm139.md",
+    "Old Testament/Proverbs/Proverbs13.md",
+    "Topics/meekness,greatness.md",
+    "New Testament/John/John15.md",
+    "New Testament/Colossians/Colossians3.md",
+    "Old Testament/Psalm/Psalm110.md",
+    "New Testament/Mark/Mark1.md"
   ]
 }

@@ -31,6 +31,9 @@ His plan—to reveal Himself as the Messiah, God, and the Son of God—was not s
 
 See more in [[morning#Barnes on Mark 1 35 Mark1 v 35]].
 
+Could it be that the intensity of the previous evening's ministry gave Him an even greater urgency to be with His Father in the morning? One thing seems clear: It wasn't an especially long night. **Even when His body craved more sleep, Jesus knows his true source of revitalization would not be on His back but on His face.**
+#bobsorge 
+
 #### v.40-41
 >A man with leprosy came to him and begged him on his knees, “If you are willing, you can make me clean.” <sup>41</sup>Jesus was indignant. He reached out his hand and touched the man. “I am willing,” he said. “Be clean!”
 

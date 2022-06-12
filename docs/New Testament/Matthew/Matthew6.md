@@ -36,6 +36,9 @@ And how greatly do they err who measure prayers by the yard. They think they hav
 The meaning of this whole commandment is, when you regard it to be your duty to fast, do it as a thing expressing deep feeling or sorrow for sin, not by assuming unfelt gravity and moroseness, but in your ordinary dress and appearance; not to attract attention, but as an expression of feeling toward God, and he will approve and reward it.
 #barnes 
 
+Self-denial is practiced in secret. It is done quietly and exclusively for God, to be seen by His eyes alone. When practiced in purity before our loving Father, self-denial serves to awaken the flow of life in the secret place.
+#bobsorge 
+
 #### v.19-20
 >"Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal. <sup>20</sup>But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break and steal.
 
