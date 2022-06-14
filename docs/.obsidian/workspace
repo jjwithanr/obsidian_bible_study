@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Matthew/Matthew16.md",
+            "file": "Old Testament/Zechariah/Zechariah14.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "219162062c6e662e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew16.md",
+                "file": "Old Testament/Zechariah/Zechariah14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "56ca998a045a1c49",
   "lastOpenFiles": [
+    "Old Testament/Zechariah/Zechariah14.md",
+    "Old Testament/Zechariah/Zechariah13.md",
+    "Old Testament/Zechariah/Zechariah12.md",
     "New Testament/Matthew/Matthew16.md",
     "New Testament/Matthew/Matthew6.md",
     "Old Testament/Proverbs/Proverbs17.md",
     "Old Testament/Psalm/Psalm139.md",
     "Old Testament/Proverbs/Proverbs13.md",
     "Topics/meekness,greatness.md",
-    "New Testament/John/John15.md",
-    "New Testament/Colossians/Colossians3.md",
-    "Old Testament/Psalm/Psalm110.md",
-    "New Testament/Mark/Mark1.md"
+    "New Testament/John/John15.md"
   ]
 }
