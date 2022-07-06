@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1b585885b94e39",
+        "id": "06c2285e95c5853e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/entry.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "219162062c6e662e",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c1b585885b94e39",
+  "active": "06c2285e95c5853e",
   "lastOpenFiles": [
+    "Templates/entry.md",
+    "Reading Journals/Systematic Theology.md",
+    "Templates/topic.md",
+    "Reading Journals.md",
+    "New Testament/1 Timothy/1Timothy5.md",
+    "Old Testament/Psalm/Psalm19.md",
+    "Old Testament/Psalm/Psalm23.md",
+    "New Testament/1 Timothy/1Timothy4.md",
     "Topics/worthy.md",
-    "New Testament/2 Thessalonians/2Thess1.md",
-    "Old Testament/Psalm/Psalm16.md",
-    "Old Testament/Malachi/Malachi2.md",
-    "New Testament/John/John8.md",
-    "Old Testament/Malachi/Malachi1.md",
-    "Old Testament/Zechariah/Zechariah14.md",
-    "Old Testament/Zechariah/Zechariah13.md",
-    "Old Testament/Zechariah/Zechariah12.md",
-    "New Testament/Matthew/Matthew16.md"
+    "New Testament/2 Thessalonians/2Thess1.md"
   ]
 }
