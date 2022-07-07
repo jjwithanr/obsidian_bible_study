@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "06c2285e95c5853e",
+        "id": "9b32f898cae10a23",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/entry.md",
+            "file": "Reading Journals/The Gospel of Christ Crucified.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/entry.md",
+                "file": "Reading Journals/The Gospel of Christ Crucified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06c2285e95c5853e",
+  "active": "9b32f898cae10a23",
   "lastOpenFiles": [
-    "Templates/entry.md",
+    "Reading Journals/The Gospel of Christ Crucified.md",
     "Reading Journals/Systematic Theology.md",
+    "Templates/entry.md",
+    "Templates/newBook.md",
     "Templates/topic.md",
     "Reading Journals.md",
     "New Testament/1 Timothy/1Timothy5.md",
     "Old Testament/Psalm/Psalm19.md",
     "Old Testament/Psalm/Psalm23.md",
-    "New Testament/1 Timothy/1Timothy4.md",
-    "Topics/worthy.md",
-    "New Testament/2 Thessalonians/2Thess1.md"
+    "New Testament/1 Timothy/1Timothy4.md"
   ]
 }
