@@ -7,8 +7,8 @@
 1. Biblical theology is best summarized as *cruciform apocalypticism*.
 1. Platonism, realized eschatology, and evolutionism are the source of most historical corruptions of the apostolic witness.
 
-##### Interesting:
-1. The day of the Lord is the predominant theme of the Scriptures. (pg.3)
+##### Interesting Quote:
+1. *The day of the Lord is the predominant theme of the Scriptures.* (pg.3)
 
 #### 2022-07-06 21:26 Pages 9-13
 ##### What I learned:
@@ -16,8 +16,21 @@
 1. Martin Luther identified the "evangelical church" as those who believed in *sola sciptura* compared to the Roman Catholic Church who believed in traditions.
 1. Worldview can be defined as "an interpretive framework through which or by which one makes sense out of the data of life and the world."
 
-##### Interesting:
-1. As we consider the importance of hermeneutics and worldview, it begs the question: what is God's worldview?
+##### Interesting Quote:
+1. *In addition, we must ask the gerater question: What is the worldview of the Holy Spirit? Since God is a person, how does he view life? What intuitively seems true to him? What are his assumptions? How does he interpret existence?* (page 13)
 
+
+#### 2022-07-07 21:24 Pages 14-22
+##### What I learned:
+1. Worldview components:
+	1. Metaphysics (structure of existence)
+	2. Protology (study of origins)
+	3. Eschatology (study of final things)
+	4. Soteriology (study of salvation)
+2. Ancient Hellenism viewed reality dualistically: material versus immaterial (natural and supernatural). This is similar to Plato's fundamental view of the universe which slowly became the playing field upon which Judeo-Christianity was played.
+3. Jews didn't have a Christoplatonic view of the afterlife; rather, they sought new bodies post-death for them to live in a new heavena and a new earth.
+
+##### Interesting Quote:
+1. *Instead of a story line that ended in the restoration of all things and the resurrection of the body, the church began to look forward to the eternal existence of the soul in an immaterial heaven.* (page 20)
 
 

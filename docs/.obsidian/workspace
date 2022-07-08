@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9b32f898cae10a23",
+        "id": "2ae96ec3ebdc6766",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b32f898cae10a23",
+  "active": "2ae96ec3ebdc6766",
   "lastOpenFiles": [
     "Reading Journals/The Gospel of Christ Crucified.md",
-    "Reading Journals/Systematic Theology.md",
     "Templates/entry.md",
+    "Reading Journals/Systematic Theology.md",
     "Templates/newBook.md",
     "Templates/topic.md",
     "Reading Journals.md",
