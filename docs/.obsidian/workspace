@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Journals/The Gospel of Christ Crucified.md",
+            "file": "Reading Journals/Systematic Theology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/The Gospel of Christ Crucified.md",
+                "file": "Reading Journals/Systematic Theology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "2ae96ec3ebdc6766",
   "lastOpenFiles": [
+    "Reading Journals/Systematic Theology.md",
     "Reading Journals/The Gospel of Christ Crucified.md",
     "Templates/entry.md",
-    "Reading Journals/Systematic Theology.md",
     "Templates/newBook.md",
     "Templates/topic.md",
     "Reading Journals.md",
