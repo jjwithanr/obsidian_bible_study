@@ -71,7 +71,7 @@
 2. Many view Greek philosophical thought as harmless or even beneficial to the Christian faith, but its liking of humanism proves implicictly deceptive of the true apostolic witness.
 3. The divergence in a Greek and Hebrew view of the universe led to an undermining of the reality of heaven and the literal return Jesus to a new creation.
 
-##### Interesting Quote:
+##### Interesting Quotes:
 - *Those who seek reality in materiality by their senses are thus "barbarians" who live without divine inspiration. Hence, those who seek to see with their eyes are actually blind.* (page 39) 
 - *Thus, anthropocentrism, or "human-centeredness," is the defining characteristic of the entire system of thought. The starting point of Hellenistic philosophy and all subsequent Wester tradition is this: The parameters of reality are defined by human perception.* (39)
 - *I believe that it can be confidently asserted that the dominant source of heresy in the early church was Hellenistic philosophy and mythology, which were diametrically opposed to the faith and tradition of Judaism in the second-temple period.* (41)
@@ -83,8 +83,43 @@
 2. History is moving unilaterally toward the climactic and cataclysmic day of the Lord.
 3. Jesus' return is the anchor of New Testament hope.
 
-##### Interesting Quote:
+##### Interesting Quotes:
 - *I believe we must appraoch \[the Scriptures\] as a progressive revelation from God conerning his relations with humanity.* (46)
 - *Hence, I believe Ernst Kasemann was quite right when he famously stated, "Apocalyptic was the mother of all Christian theology."* (48)
 
+
+#### 2022-07-13 17:15 Pages 50-55
+##### What I learned:
+1. The purpose of the day of the Lord is the restoration of original glory.
+2. As Eden was once paradisal, so the new earth will be following the day of the Lord.
+3. The day of the Lord is described along royal, judicial, and economic lines.
+
+##### Interesting Quote:
+- *As such, biblical theology can safely be summarized as eschatologically restored protology. In fact, "in the beginning" categorically anticipates "in the end." Or as Sandra Richter aptly states, "God's original intent **is** his final intent."* (52)
+
+
+#### 2022-07-14 22:01 Pages 56-65
+##### What I learned:
+1. God will resurrect the wicked so they can pay eternally the infinite debt owed.
+2. To analogize the Biblical worldview to a soccer field, the heaves and the earth are the players, the new heavens and new earth are the goals, and the day of the Lord is the right direction.
+3. The day of the Lord is so significant of a historical event that history is filtered according everything that happens before and after—"this age" or "the age to come."
+
+##### Interesting Quotes:
+- *==It is therefore "the beginning and the end" (Rev 21:6; 22:13) that define biblical history and biblical theology.== In the analogy of the alphabet, all of the letters ultimately find their meaning and significance in relation to the α and ω. How do you undersatnd the λ, μ, and ν, apart from the α and ω? To marginalize the α and the ω as alphabetically secondary to the "central alphabetical letters," so to speak, throws the whole arrangement into a shambles. It is the beginning and the end that ultimately inform the whole of our existence, without which we are doomed to be "tossed to and fro by the waves and carried about by every wind of doctrine" (Eph. 4:14). This is why the Bible is so protologically and eschatologically oriented.* (62)
+- *As the ultimate subject of the oracles of Scriptures and the defining event of redemptive history, the day of the Lord is thus the theological linchpin for interpreting all other biblical events and their redemptive implications.* (63)
+- *The reality of the day of the Lord inherently craetes a ==dichotomy of ages==.* (64)
+
+
+#### 2022-07-15 22:14 Pages -
+##### What I learned:
+1. The apostles may not have know the Jewish eschatological realites were somehow being presently fulfilled or realized.
+1. Linguistic dichotomies like "evil versus righteous", "not seeing versus appearing", "sojourning versus ruling", and "world versus kingdom" are based upon the apocalyptic two-age approach to history.
+1.  Hades/Sheol is a temporary holding place before the day of judgement, while Gehenna is going to be the literal location of God's final judgement on earth. Hades itself will be thrown into the lake of fire (Rev 20:14). Gehenna will a literal place on the new earth that will be eternally constrasted and outside of the new Jerusalem.
+
+##### Interesting Quotes:
+- *The wicked will suffer eternal death in a resurrected body. In this way, the pain, suffering, and condemnation of the wrath of God will be experienced to its fullest.* (71)
+- *Such a corporeal tormet is far more terrible than common Hellenistic notions of incoporeal, ethereal fire.* (71)
+- *The greatness of God's severity in Gehenna is the backdrop which heightens the greatness of God's kindness in the cross.* (71)
+- *I believe that only eternal conscious corporeal punishment does justice to both human depravity and the biblical gospel.* (71)
+[[hell]]
 

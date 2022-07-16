@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae54847a7a98bc6",
+        "id": "1aa05f25da93508a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ae54847a7a98bc6",
+  "active": "1aa05f25da93508a",
   "lastOpenFiles": [
+    "Topics/hell.md",
     "Reading Journals/The Gospel of Christ Crucified.md",
-    "Reading Journals/Systematic Theology.md",
     "Templates/entry.md",
+    "Reading Journals/Systematic Theology.md",
     "Templates/newBook.md",
     "Templates/topic.md",
     "Reading Journals.md",
     "New Testament/1 Timothy/1Timothy5.md",
     "Old Testament/Psalm/Psalm19.md",
-    "Old Testament/Psalm/Psalm23.md",
-    "New Testament/1 Timothy/1Timothy4.md"
+    "Old Testament/Psalm/Psalm23.md"
   ]
 }
