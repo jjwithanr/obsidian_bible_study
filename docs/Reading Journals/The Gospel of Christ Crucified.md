@@ -110,7 +110,7 @@
 - *The reality of the day of the Lord inherently craetes a ==dichotomy of ages==.* (64)
 
 
-#### 2022-07-15 22:14 Pages -
+#### 2022-07-15 22:14 Pages 66-71
 ##### What I learned:
 1. The apostles may not have know the Jewish eschatological realites were somehow being presently fulfilled or realized.
 1. Linguistic dichotomies like "evil versus righteous", "not seeing versus appearing", "sojourning versus ruling", and "world versus kingdom" are based upon the apocalyptic two-age approach to history.
@@ -122,4 +122,69 @@
 - *The greatness of God's severity in Gehenna is the backdrop which heightens the greatness of God's kindness in the cross.* (71)
 - *I believe that only eternal conscious corporeal punishment does justice to both human depravity and the biblical gospel.* (71)
 [[hell]]
+
+
+#### 2022-07-17 16:10 Pages 72-81
+##### What I learned:
+1. Righteous souls are in Sheol in Old Testament, while in the New Testament they are kept in the presence of God due to the new covenant?
+1. Hebrews 9:27-28 presents the gospel in its twofold essence concerning both Jesus' first coming and second coming.
+1. Hellenistic thought refined the prize of eternal life to an *immaterial heavenly destiny* rather than an eternal future of new earth.
+
+##### Interesting Quotes:
+- *Liekwise, humanity is fundamentally delusional about the gravity of sin because it lacks a divine perspective of the value of human life. Because we are not the ones who poured our very being into creation, designing its apex in our own "image", we have no appreciation for the incomparable worth of a human being in the sight of God and the immeasurable damage done by our sin. It is literally infinite.* (72)
+- *the theology of the Bible is best summarized as cruciform-apocalypitcism.* (76)
+
+
+#### 2022-07-18 20:32 Pages 82-87
+##### What I learned:
+1. Monasticism and an intenseorganically birthed out of Christoplatonic theology.
+1. Dominianistic Constantinism redefined the kingdom of God as the actualization of divine sovereignty through Christianized political and ecclesiastical structures.
+1. Dispensationalism seeks to define God's two plans of salvation: one material salvation for Israel and the Jews; the other for the church and the Gentiles.
+
+##### Interesting Quote:
+- *The apocalyptic vision of the day of the Lord was changed from the restoration of all things to the annihilation of materiality...the return of Jesus lost is centrality in day-to-day thought, because it became functionally equivalent to death—that is, both end in an immaterial heavenly destiny.* (82)
+
+
+#### 2022-07-21 21:13 Pages 88-95
+##### What I learned:
+1. Harrigan criticizes Dispensationalists of accomodating a Hellenistic idea of salvation with the carnal realities of Jewish apocalypticism.
+1. The issue with Conflationary Inaugurationalism is by saying God will do the same thing at the first coming as He will do in the second falls under the false teaching Apostle Paul quotes in 2 Thess. 2:2: those who proclaim the resurrection has already taken place. It distorts the primary focus of this age by replacing the cross with an ever-increasing actualization of divine sovereignty by means of fallen men. 
+1. All miracles and workings of the Holy Spirit points to the ultimate miracle of the renewal of all things.
+
+##### Interesting Quote:
+- *The Spirit/breath/word of God is thus the practical agent of life and creation, and in this way, "The universe was created by the word of God"(Heb. 11:3). Not only does the Spirit of God animate creation, but it also sustains creation.* (93)
+- *those who have "shared in the Holy Spirit" (Heb 6:4) in this age have a palpable knowledge of "the powers of the age to come" (v. 5). As such, all the workings of the Spirit in this age—miracles, signs, wonders, gifts, etc.—are understood in the context of protological creation and eschatological consummation (see figure 4.1).* (94)
+
+
+#### 2022-07-21 21:13 Pages 96-105
+##### What I learned:
+1. The gifts of the Spirit are meant to be an assurance of salvation since the Holy Spirit is the down payment guaranteeing our future resurrection and the assurance of our future liberation.
+1. The gifts of the Holy Spirit are best understood when put in light of their cessation at the resurrection since we will be able to see God fully.
+1. God is ultimately responsible for mortality's introduction, and in the end he is also responsible for its removal. (104-105)
+
+##### Interesting Quote:
+- *The early church galvanized its apocalyptic understanding of the Scriptures around the resurrection of Jesus and the gift of the Holy Spirit.* (98) see also 1 Peter 1:3.
+- *The gifts of the Spirit are simply temporal helps to keep faith and hope strong to the end (cf. 1 Cor. 1:8; Jude 20-21).* (100)
+
+
+#### 2022-07-22 21:44 Pages 106-115
+##### What I learned:
+1. The Holy Spirit helps us in the weakness of our mortality in this age until the return of Jesus.
+1. Blessings and curses in our lifetime point us to their eschatological conclusion.
+1. The Spirit was given to confirm the testimony of Christ Crucified in light of the day of the Lord.
+
+##### Interesting Quote:
+- *The captivity of mortality in this age is designed to drive us to dependance upon God, who is the only one able to deliver and save us unto immortality.* (106)
+- *With the accomodation of Hellenistic philosophy, the fundamental Christian hope of the resurrection of the body by the Spirit of God was replaced with the eternal existence of the soul in an immaterial heaven...So Jurgen Moltmann summarizes:...the immortality of the soul displaced the resurrection of the body, and the yearning for another world became a substitute for changing this one.* (115)
+
+
+#### 2022-07-25 17:37 Pages 116-125
+##### What I learned:
+1. The study of the Holy Spirit is called pneumatology.
+2. Harrigan criticizes charismatics of overlooking the Holy Spirit's role in relation to creation and the resurrection. Rather, such movements marginalize the Holy Spirit as a "second work of grace."
+3. Reference to head and heel in Gensis 3:14-15 portrays the imagery of a military conquest. Similar language is used as in a military context in 2 Samuel 22:38-39.
+
+##### Interesting Quote:
+- *Because humanity was constitutionally designed for existence on the earth, any hope that does not involve an idyllic carnal existence is constitutionally impossible either to understand or relate to.*(116)
+
 

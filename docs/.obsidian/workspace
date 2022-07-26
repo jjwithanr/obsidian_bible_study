@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Reading Journals/Systematic Theology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "611f0c57d0b8abad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Reading Journals/The Gospel of Christ Crucified.md",
             "mode": "source",
             "source": false
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 242
   },
   "right": {
     "id": "219162062c6e662e",
@@ -87,12 +99,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1aa05f25da93508a",
+  "active": "611f0c57d0b8abad",
   "lastOpenFiles": [
-    "Topics/hell.md",
-    "Reading Journals/The Gospel of Christ Crucified.md",
-    "Templates/entry.md",
     "Reading Journals/Systematic Theology.md",
+    "Reading Journals/The Gospel of Christ Crucified.md",
+    "Topics/hell.md",
+    "Templates/entry.md",
     "Templates/newBook.md",
     "Templates/topic.md",
     "Reading Journals.md",
