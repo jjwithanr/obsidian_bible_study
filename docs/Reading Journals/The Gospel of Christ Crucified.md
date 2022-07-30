@@ -188,3 +188,38 @@
 - *Because humanity was constitutionally designed for existence on the earth, any hope that does not involve an idyllic carnal existence is constitutionally impossible either to understand or relate to.*(116)
 
 
+#### 2022-07-26 18:31 Pages 126-131
+##### What I learned:
+1. Seth and Noah are the only names in the geneology that the Bible provides commentary for, and it is done so in messianic terms. 
+1. Jesus is the son of Abraham which means he is the fulfillment of the Abrahmic covenant where all the families of the earth will be blessed.
+1. [[Genesis3]], [[Genesis12]], and [[2Samuel7]] are the most important chapters in the Scriptures concerning messianic expectation. [[Psalm89]] puts into light how 2 Samuel 7 was understood in the generations following David.
+
+##### Interesting Quote:
+- *The New Testament simply abounds with references and allusions to Genesis 3:15.* (126) see page 126 for examples.
+
+
+#### 2022-07-29 21:46 Pages 132-141
+##### What I learned:
+1. The consistent use of "Messiah", "Son of God", and "Son of Man" together in the same passage from various people indicate a messianic expectation.
+1. According to Luke 24:25-26, the reason why Jesus rebukes the disciples on the road to Emmaus for being slow of heart to believe was their absent expectation for the Messiah to suffer before entering his glory. 
+1. The widespread Jewish reception of the gospel from the apostles indicates the Jewish-apocalyptic context for the cruciform-messianic message was unaltered.
+2. Hellenism distorts our messianic hope. Christ reduced to becoming a means to achieve incorporeal bliss by escaping the corruption of materiality - central to Gnostic belief.
+3. The condemned Nicolatians in Revelation 2:6 were supposed followers of Nicolas of Antioch from Acts 6:5 who strayed from the faith.
+4. Although monastic Christians have done much good throughout church history, monasticism distorts the gospel and deprives people of enjoying everything God has created in the context of hoping for its apocalyptic restoration.
+5. Some bishops considered Constantine the thirteenth apostle. LOL.
+
+##### Interesting Quote:
+- *The new covenant was thus understood to be the means of inheriting the presupposed hope of eternal life.* (136)
+- *the Holy Spirit was poured out as a confirmation of the forgiveness of sins in light of the coming day of the Lord.* (137)
+
+
+#### 2022-07-30 12:37 Pages 142-147
+##### What I learned:
+1. A weakness of Dispensationalism is it poorly differentiates the agendas for the first and second coming of Jesus Christ. If Jesus is coming again to finish his divine takeover, the cross and an anchoring hope for eternal life on the new earth no longer become the center of the gospel we preach.
+1. We need a restoration of a biblical messianic hope. 
+1. The absence of commentary explaining the "kingdom of heaven" indicates the phrase fell in line with popular contemporary views of Judaism. It is the messianic kingdom that the Jews longed for.
+
+##### Interesting Quote:
+- *Having lost our true messianic hope, we have no real answers for a world wallowing in confusion and despair. Moreover, having put our hope in this life, we have thrown in our lot with pie-eyed world and have fallen under the curse of the apostle Paul: "If anyone has no love for the Lord, let him be accursed. Our Lord, come!" (1 Cor. 16:22). In other words, ==love for Christ is fundamentally expressed in messianic longing and hope, Maranatha!==* (144)
+
+

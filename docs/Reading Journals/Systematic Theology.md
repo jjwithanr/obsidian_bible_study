@@ -7,7 +7,7 @@
 1. Pantheism implies God has no distinct personality which means He is not holy. It also destroys the personal identity of humans as well.
 1. Dualism says God and the Universe have eternally co-existed.
 
-	##### Interesting:
+##### Interesting:
 1. Belief that world was created in 4004 B.C. which was the major proponenet of Young Earth creationists was popularized by Irish archbishop James Ussher (1581-1656).
 
 
@@ -15,7 +15,7 @@
 ##### What I learned:
 1. Proponents of theistic evolution propose Adam and Eve were just two humans chosen out of an original 10,000 original humans of the human species.
 2. Nature longs to be freed from its bondage of natural disasters, thorns and thistles, weeds, and such in much the same way we long to be freed from our physical bodies and obtain new resurrection bodies. (Romans 8:18-21)
-3. *The evidence from creation for God's existence is so overwhelming that God holds people morally accountable for denying it.* (pg. 381)
+3. *The evidence from creation for God's existence is so overwhelming that God holds people morally accountable for denying it.* (381)
 
 ##### Interesting:
 1. All sin is ultimately irrational at its root.
@@ -28,7 +28,7 @@
 1. There is much debate over whether *yom* in Genesis 1 is a literal twenty-four hour day or a long period of time.
 
 ##### Interesting Quote:
-1. *Humans are beneficiaries of the remains of millions of generations of plants and animals that preceded us.* (pg 395)
+1. *Humans are beneficiaries of the remains of millions of generations of plants and animals that preceded us.* (395)
 
 
 #### 2022-07-08 21:50 Pages 400-420
@@ -38,12 +38,12 @@
 1. Young earth proponents fail to distinguish scientific arguments for creation by design from scientific arguments differing on the age of the earth.
 
 ##### Interesting Quote:
-1.  *The material universe is good in itself, for God created it good and wants us to use it in ways pleasing to him. Therefore we should seek to be like the early Christians, who "received their food with glad and generous hearts" (Acts 2:46), always with thanksgiving to God for his provisions.* (page 413)
+1.  *The material universe is good in itself, for God created it good and wants us to use it in ways pleasing to him. Therefore we should seek to be like the early Christians, who "received their food with glad and generous hearts" (Acts 2:46), always with thanksgiving to God for his provisions.* (413)
 
 
 #### 2022-07-09 11:21 Pages 420-440
 ##### What I learned:
-1. God's providence provides a basis for science: God has made an continues to sustain a universe that acts in predictable ways. (page 422)
+1. God's providence provides a basis for science: God has made an continues to sustain a universe that acts in predictable ways. (422)
 2. Natural events are fully caused by God and fully caused by creation. 
 3. Scripturally, God has indirectly brought about some kind of evil.
 
@@ -53,12 +53,12 @@
 
 #### 2022-07-10 22:09 Pages 440-460
 ##### What I learned:
-1. Grudem really breaks down many common strawman arguments against Calvinism: *To say that God does not react to our actions is to deny the whole history of the Bible from Genesis to Revelation.* (page 453)
+1. Grudem really breaks down many common strawman arguments against Calvinism: *To say that God does not react to our actions is to deny the whole history of the Bible from Genesis to Revelation.* (453)
 1. Calvinism asserts the mystery of the doctrine of God's providence in light of the fact that God ordains that people do wrong yet continually places the blame for that wrong on the individual human beings who does wrong and never on God himself.
 3. A repeated rebuttal to Arminian stances is the lack of explicit Scriptural to justify the paradoxical aspects of the doctrine of God's providence. Grudem claims to hold an Arminian position, one relies more on human experience and intuition rather than specific texts of Scripture.  
 
 ##### Interesting Quote:
-1.  *This causes us to conclude that God has made us in such a way that (1) he ordains all that we do, and (2) we exercise our personal will and make real, voluntary choices. Because we cannot understand this, should we therefore reject it?* (page 452)
+1.  *This causes us to conclude that God has made us in such a way that (1) he ordains all that we do, and (2) we exercise our personal will and make real, voluntary choices. Because we cannot understand this, should we therefore reject it?* (452)
 
 
 #### 2022-07-11 22:53 Pages 460-480
@@ -88,7 +88,7 @@
 3. When God forgives us when we forgive others, this is to restore our day-to-day relationship with him—this is different from our initial experience of forgiveness when we are justified by faith.
 4. The early church practiced fasting as routine for seeking the Lord's guidance for appointing church officers (Acts 14:23).
 5. Angels were created beings (possibly during the first day) and were not spared when they sinned (2 Peter 2:4).
-6. Knowing there are angelic witnesses serve to deter us from disobeying the Lord in their presence (1 Tim 5:21; 1 Cor 4:9).
+6. Knowing there are angelic witnesses present in our lives serve as an additional deterrence from disobeying the Lord (1 Tim 5:21; 1 Cor 4:9).
 7. Demons cannot read our minds or know our thoughts, but they can observe what goes on in the world and draw conclunsions from such observations (explaining fortune-tellers, witchcraft).
 
 ##### Interesting Quote:
@@ -172,5 +172,53 @@
 
 ##### Interesting Quote:
 - *Paul knew that even in this life the resurrection of Christ gave new power for Christian ministry and obedience to God.* (755) on [[Philippians3#v 10]]
+
+
+#### 2022-07-26 18:23 Pages 760-780
+##### What I learned:
+1. Christ's session refers to the fact that he sat down at the right hand of God. Session is no longer used this way in English.
+1. Christ's ascension means we are able to share now in Christ's authority over the universe and will later share in it more fully.
+1. Jesus is truly and fully a prophet but NT avoids calling him that because Jesus himself is the subject of all the OT prophecies and is himself the source of revelation from God.
+
+##### Interesting Quote:
+- *Of course, since he is fully God, the being of the Holy Spirit is always present everywhere (he is omnipresent), but he does not always show his presence in activities that bring blessing* (779)
+
+
+#### 2022-07-28 20:45 Pages 780-800
+##### What I learned:
+1. The Holy Spirit has some restraining influence on unbelievers since he convicts the world of sin (John 16:8-11).
+1. 2 Corinthians 13:14 shows that Paul attributes fellowship among believers to the Holy Spirit, not the Father or the Son.
+1. David's cry for the Holy Spirit to not depart from him in Psalm 51:11 can be better understood when read in light of the Holy Spirit having anointed King Saul but also leaving him in 1 Samuel 16:13.
+
+##### Interesting Quote:
+- *Therefore, when the Holy Spirit is working strongly in the church to manifest God's presence, the church community will be in beautiful harmony and overflowing with love for one another.* (782)
+
+
+
+#### 2022-07-29 22:09 Pages 800-840
+##### What I learned:
+1. One restraint that common grace bestows is the force of conscience as noted in Romans 2:14-15. This shows that although their moral behavior cannot grant them salvation, unbelievers are capable of "doing good" according to Luke 6:33.
+1. Adam and Eve remained married after the fall and bore children, creating the first family. The existence of families in unbelievers is evidence of common grace.
+1. It is biblical to seek good for unbelievers according to Matthew 5:45 where God bestows rain on the just and the unjust. Jesus did not require anyone to believe first in order to receive healing from him.
+2. God shows goodness even to unbelievers as evident in Psalm 145:9 and Mark 10:21.
+3. 1 Corinthians 8:3 hits diff.
+4. God's highest value is His own glory, according to the Reformed view, while Arminians believe His highest value is the libertarian free will of man.
+5. Even John Calvin cringed at the doctrine of reprobation. Reprobation brings God sorrow.
+
+##### Interesting Quote:
+- *This means that all science and technology carried out by non-Christians is a result of common grace...* (805)
+- *Berkhof says that God "showers untold blessings upon all men and also clearly indicates that these are the expressions of a favorable disposition in God, which falls short however of the positive volition to pardon their sin, to lift their sentence, and to grant them salvation."* (810)
+- *Another important decision is that the ground of election is God's grace, whereas the ground of reprobation is God's justice.* (835)
+- *But why did he decide to set his love on me? Not for anything good in me, but simply because he decided to love me. There is more ultimate reason than that.* (836)
+
+
+#### 2022-07-30 12:33 Pages 840-860
+##### What I learned:
+1. All genuine gospel presentations must include repentance and forgiveness of sins.
+1. We play not active role in God's work of regeneration. Regeneration comes before saving faith.
+1. Jesus didn't refer to Christian baptism in John 3:5 since that started on Pentecost.
+
+##### Interesting Quote:
+- *This is why prayer is so important to effective evangelism. Unless God works in people's hearts to make the proclamation of the gospel effective, there will be no genuine saving response.* (843)
 
 

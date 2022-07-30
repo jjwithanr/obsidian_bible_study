@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "knowledge is the",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 242,
+    "collapsed": true
   },
   "right": {
     "id": "219162062c6e662e",
