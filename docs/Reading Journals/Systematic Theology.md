@@ -222,3 +222,27 @@
 - *This is why prayer is so important to effective evangelism. Unless God works in people's hearts to make the proclamation of the gospel effective, there will be no genuine saving response.* (843)
 
 
+#### 2022-07-31 22:34 Pages 860-880
+##### What I learned:
+1. Using the word trust is describe saving faith is more accurate than faith or belief in today's English.
+1. Free Grace theology advocates for a gospel presentation without an explicit call for repentance of sin. They define repetance to simply be a changing of one's mind—to avoid missapplying it as a meritorious work for one's salvation.
+1. Praying to receive Christ is one way to express one's decision to personally trust Jesus as their Savior. It doesn't inherently save someone, but the heart attitude it represents does constitute true conversion.
+
+##### Interesting Quote:
+- *Leon Morris can say, "Faith, for John, is an activity which takes men right out of themselves and makes them one with Christ."* (863)
+
+
+#### 2022-08-01 22:05 Pages 880-920
+##### What I learned:
+1. A key difference between Protestantism and Catholicism is their definition of justification. Protestants believe justification does not change us internally and not a declaration of any goodness in us. Christ's righteousness is imputed onto us and we are counted righteous before God through faith alone in Christ as our Savior. Catholics believed in infused righteousness where God puts righteousness into us that changes us internally for our moral character.
+1. The Catechism of the Catholic Church admits "so-called fiducial faith is not enough" and that a "theological or dogmatic" faith (teachings of the Catholic Church) is needed as well.
+1. Faith does not earn us justification—it is the instrument through which we receive it.
+2. James 2:24 uses the word righteous to mean "demonstrate or show to be righteous" rather than "declare to be righteous." We demonstrate that we have been declared our righteous by our actions.
+3. The major flaw of the New Perspective on Paul is its redefinition of justification as God's declaration that we a part of the family of God. Grudem's main point is that nowhere in the Greek or in Paul's usage of the word indicate he meant justify to mean "to declare someone to part of a community."
+4. Angels are spiritually alive beings who do not share the special privileges of family members in God's household.
+
+##### Interesting Quote:
+- *Even when speaking of the Jewish people throughout the time of the Old Testament, the New Testament writers do not teach that all Jewish people were saved by election because they belonged to the covenant people of Israel but rather that those who did not have personal faith were not saved:* (907) see Romans 2:28-29, Romans 9:6, and 1 Cor 10:5.
+- *Paul explains that this status of adoption as God's children was not fully realized in the old covenant.* (914)
+
+

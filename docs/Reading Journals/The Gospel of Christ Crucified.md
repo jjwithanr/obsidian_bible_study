@@ -223,3 +223,24 @@
 - *Having lost our true messianic hope, we have no real answers for a world wallowing in confusion and despair. Moreover, having put our hope in this life, we have thrown in our lot with pie-eyed world and have fallen under the curse of the apostle Paul: "If anyone has no love for the Lord, let him be accursed. Our Lord, come!" (1 Cor. 16:22). In other words, ==love for Christ is fundamentally expressed in messianic longing and hope, Maranatha!==* (144)
 
 
+#### 2022-07-31 22:39 Pages 148-155
+##### What I learned:
+1. We will retain ethnic distinctions in the age to come. God bound himself ethnically in the unfolding of redemptive history by revealing Himself as the God of the Jews. Redemptive history is "Israelocentric" according to John 4:22.
+1. What makes the Jews unique in their role in God's redemptive story is their birthright. See Exodus 4:22 and Jeremiah 31:9.
+1. Since God determined the lands where different ethnicities settled in this age, He will do the same in the age to come. This is an accordance to His promise over Israel to inherit Canaan as an "everlasting possession."
+
+##### Interesting Quote:
+- *God is an ethnicist...Though commonly rejected, ignored, or overlooked, this is a plain fact of the Bible, and the de-ethnicization of the Scriptures borders on hermenutical schizophrenia.* (152)
+- *Gentiles often disregard of conflate ethnicity when studying redemptive history because they feel somehow slighted, as though they are less loved by God or will not receive equitably from God in the inheritance to come...However, primogeniture is simply a governmental and legal administrative mechanism, devoid of partiality or favoritism.* (155)
+
+
+#### 2022-08-01 21:51 Pages 156-165
+##### What I learned:
+1. Galatians 3:28 and Colossians 3:11 do not contradict the fact that God is ethnicist since these verses have to do with quality of salvation and unity of faith. Children of the same family are fellow heirs but can have different roles.
+1. The House of Shammai did not welcome Gentile proselytes nor accepted that they could participate in salvation.
+1. The universal laws of God were later termed the "Noahide Laws" since they were applied to all of Noah's sons.
+
+##### Interesting Quote:
+- *That is, the center of the new earth will be the New Jerusalem. God will administrate the restoration of all things through the Messiah reigning on Mount Zion as King of Israel, reigning over all the nations.* (164)
+
+
