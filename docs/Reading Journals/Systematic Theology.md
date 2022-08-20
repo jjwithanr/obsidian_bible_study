@@ -246,3 +246,121 @@
 - *Paul explains that this status of adoption as God's children was not fully realized in the old covenant.* (914)
 
 
+#### 2022-08-02 22:17 Pages 920-960
+##### What I learned:
+1. Paul recognizes that we have been both set free from sin and that sin still remains in our lives. Our sanctification will never be completed in this life. Note that the usage of "sanctified" in Hebrews likens more what Paul means by justification.
+1. Matthew 5:48 does not call for perfectionism. It simply shows that God's absolute moral purity is the standard we aim for and in which we will be held accountable for. In other words, God's perfection is the standard—not church tradition, denominational qualifications, or even standards held by loved ones and those we look up to.
+1. Grudem lists 11 motives to obedience in the Christian life on pages 936 and 937.
+2. C. Peter Wagner was the first person to coin the term, "third wave" charismatic Christianity in the 1980's.
+3. Baptism in the Holy Spirit occured at conversion.
+4. 1 Corinthians 12:13 stands at the crux of the biblical basis for being baptized *by* the Holy Spirit. "Baptized in the Holy Spirit" is a more accurate translation and would thus topple more Pentecostal interpretations of the verse.
+5. Numbers 11:29 shows Moses longed for the day when the Holy Spirit would be poured out on all of God's people.
+6. The case of the baptism of the Holy Spirit over the Samaritans in Acts 8 was to show Samaritans were included God's redemptive plan and were not second-class citizens to the church. They were full members and this thus fulfilled Jesus words in Acts 1:8 when he said his disciples would be witnesses to Samaria. 
+
+##### Interesting Quote:
+- *The day of Pentecost was the point of transition between the old covenant and ministry of the Holy Spirit and the new covenant work and ministry of the Holy Spirit.* (950)
+- *the Holy Spirit will graciously bring a measure of the additional fullness and empowering that sincere Christians are seeking, even though their theological undersatnding and vocabulary may be imperfect in the asking.* (959)
+
+#### 2022-08-16 21:37 Pages 960-1000
+##### What I learned:
+1. Grudem dislikes the term *baptism in the Holy Spirit* since it implies two groups of Christians. Nevertheless, the Bible does imply Christians should repeatedly be filled with the Holy Spirit (Eph 5:18).
+1. There were many cases where being filled with the Holy Spirit did not result  in speaking in tongues such as when Jesus returned from 40 days fasting in the desert or Elizabeth while blessing Mary or Zechariah when prophesying.
+1. Hebrews 6:9 gives context that salvation was something that was not part of the things in verses 4-6. It translates as "also belong to salvation" which implies they didn't have it to begin with.
+2. 2 Peter 1:10 implies our assurance of salvation can be grow over time as we imitate the qualities layed out in verses 5-7.
+
+##### Interesting Quote:
+- from Wimber *The Pentecostal's experience of God is better than their explanation of it"* (963)
+- *In his great wisdom, God decided that he would not apply to us the benefits of Christ's redemptive work all at once.* (989)
+
+
+#### 2022-08-16 22:00 Pages 1000-1040
+##### What I learned:
+1. Purgatory was justified in Catholicism because of their inclusion of 2 Macabees (specifically 12:42-45) in the biblical canon.
+1. Soul sleep is the doctrine that teaches believers enter a state of unconscious existence when they die. They become conscious when Christ returns and raises them to eternal life.
+1. Hebrews 12:1 and 12:22-24 imply that those who have died have *some* awareness of what is going on in the earth.
+2. People will recognize and know one another in heaven.
+
+##### Interesting Quote:
+- *In the Pauline Epistles, the word spiritual (Gk. pneumatikos) seldom means "nonphysical" but rather "consistent with the character and activity of the Holy Spirit"* (1022)
+- *Paul expected a considerable measure of continuity between our present earthly bodies and our future resurrection bodies.* (1024)
+- *The factor that determines whether someone is a Christian is whether Christ is in him* (1036)
+
+#### 2022-08-16 22:07 Pages 1040-1080
+##### What I learned:
+1. The church includes believers from both the Old and New Testament. Dispensationalists believe otherwise.
+1. The two metaphors analogizing a "body" and Christ from 1 Corinthians 12 and Ephesians 4 should not be confused with one another.
+1. Grudem criticizes the Seeker-Sensitive movement for their shadowing God's holiness with a "broader emphasis on God's immanent compassionate love."
+2. John Wesley claimed he lived and died a member of the Anglican church.
+
+##### Interesting Quote:
+- *We should not try to exclude people from the fellowship of the church until they by public sin bring discipline upon themselves. On the other hand, of course, the church should not tolerate in its membership "public unbelievers" who by profession or life clearly proclaim themselves to be outside the true church.* (1051)
+- from Geroge Ladd *The church is the community of the Kingdom but never the Kingdom itself.. The Kingdom is the rule of God; the church is a society of men.* (1058)
+- *many liberal Protestant churches are in fact false churches today.🔥* (1063)
+
+
+#### 2022-08-16 22:14 Pages 1080-1120
+##### What I learned:
+1. Catholics treat Tradition as authoritative as Scripture.
+1. The books in the Apocrypha were not officially considered Scripture by the Roman Catholic church until 1546. *disputed*
+1. Catholics believe baptism itself forgives all sins.
+2. Romans 14:1-23 allows for a wide degree of tolerance.
+3. There are no apostles who can speak and write the very "words of God", yet there are still effective missionaries and church planters who are called "apostles."
+
+##### Interesting Quote:
+- *In preaching the gospel and in exercising church discipline the church now exercises the authority of the keys of the kingdom.* (1099)
+
+
+#### 2022-08-16 22:24 Pages 1120-1160
+##### What I learned:
+1. Ephesians 4:11 can be better translated as "shepherd-teachers" to include them both as one position.
+1. Grudem interprets 1 Timothy 2:14 in light of how God created gender differences resulting in women being more inclined toward a relational and nurturing emphasis. This explains that Eve was less to inclined to oppose the serpent and accept his lies.
+1. Women can teach in informal settings but not like elders teaching publicly in formal settings.
+
+##### Interesting Quote:
+- *The woman author does not have teaching authority over an assembled congregation or a gruop of men.* (1155)
+
+
+#### 2022-08-16 22:33 Pages 1160-1200
+##### What I learned:
+1. Deborah and Huldah prophesied privately.
+1. Women can be called to ministry, just not to be a pastor/elder in a church.
+1. The Greek word for baptism means "to plunge, dip, immerse" something in water. Biblical examples who immersion in bodies of water was how they exercised baptism.
+
+##### Interesting Quote:
+- *Moreover, there is not one example in the entire Bible of a woman doing the kind of congregatinal Bible teaching that is expected of pastors/elders in the New Testament church.* (1167)
+- *The seeds for the destruction of slavery were sown in the New Testament (see Philem. 16; Eph. 6:9; Col. 4:1; 1 Tim. 6:1-2), but no seeds for the destruction of marriage, or the destruction of male-female differences as created, are sown in the Bible.* (1169)
+
+
+#### 2022-08-16 22:40 Pages 1200-1240
+##### What I learned:
+1. The paedobaptist views baptism in parallel with circumcision in the Old Testament. Another big proponent of this view is the existence of household baptism in the early church which Grudem claims all members in the family became believers prior to their baptism.
+1. In principle, there is no need to be ordained clergy to baptize someone.
+1. God takes delight in creation.
+
+##### Interesting Quote:
+- *Catholics hold that the sacraments work even apart frmo the faith of the people participating in the sacrament.* (1202)
+
+
+#### 2022-08-20 12:00 Pages 1240-1280
+##### What I learned:
+1. In 1 Corinthians 1:7, Paul mentions the possession of spiritual gifts in context of waiting for Christ's return. 
+1. A worship leader should lead people to worship, not simply worship God by himself or with the band while everybody else watches. (1249)
+1. Grudem no longer considers marriage and cliebacy as spiritual gifts since the Greek word used for gifts (*charisma*) is being used in a general context in 1 Corinthians 7:7. Paul used it in other passages as a general word for blessings or favor (Romans 5:15, 6:23; 2 Corinthians 1:11).
+2. Spiritual gifts can be boiled down to two gifts as Peter does so in 1 Peter 4:11: whoever speaks and whoever serves.
+3. Gifts can weaken when unused or neglected (Romans 12:7; 1 Tim. 4:14).
+4. The spiritual gifts Paul urges us to pursue are those that most build up the church. The "greater gifts" mentioned in 1 Corinthians 12:31 are connected to the "greater" gift of prophecy which builds up the church in 1 Corinthians 14:12.
+
+##### Interesting Quote:
+- *This means that worship is doing the will of God.* (1243)
+- *Just as the Holy Spirit himself is in this age a "down payment" (2 Cor. 1:22 NASB mg.; cf. 2 Cor. 5:5; Eph 1:14) of the fuller work of the Holy Spirit within us in the age to come, so the gifts of the Holy Spirit gives us are partial foretastes of the fuller working of the Holy Spirit that will be ours in the age to come.* (1258)
+- on defending continuationism based on Chantry's argument for Paul's usage of teleios for perfect, *Yet here again we must note that a word does ont have to be used to refer to the same thing every time it is used in Scripture* (1278)
+
+
+
+
+
+
+
+
+
+

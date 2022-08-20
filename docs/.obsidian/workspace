@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1aa05f25da93508a",
+        "id": "243b26eda54430c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/1 Corinthians/1Cor8.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "611f0c57d0b8abad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reading Journals/The Gospel of Christ Crucified.md",
+            "file": "Reading Journals/Systematic Theology.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: System",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Corinthians/1Cor8.md",
+                "file": "Reading Journals/Systematic Theology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1aa05f25da93508a",
+  "active": "243b26eda54430c2",
   "lastOpenFiles": [
-    "Reading Journals/Systematic Theology.md",
+    "Old Testament/Proverbs/Proverbs22.md",
+    "Old Testament/Proverbs/Proverbs10.md",
     "Reading Journals/The Gospel of Christ Crucified.md",
+    "Reading Journals/Systematic Theology.md",
+    "New Testament/1 Corinthians/1Cor8.md",
     "Topics/hell.md",
     "Templates/entry.md",
     "Templates/newBook.md",
     "Templates/topic.md",
-    "Reading Journals.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "Old Testament/Psalm/Psalm19.md",
-    "Old Testament/Psalm/Psalm23.md"
+    "Reading Journals.md"
   ]
 }

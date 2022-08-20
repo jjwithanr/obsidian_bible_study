@@ -244,3 +244,19 @@
 - *That is, the center of the new earth will be the New Jerusalem. God will administrate the restoration of all things through the Messiah reigning on Mount Zion as King of Israel, reigning over all the nations.* (164)
 
 
+#### 2022-08-02 22:26 Pages 166-
+##### What I learned:
+1. Jewish believers in the early church would have read interpreted John's vision without being confused in prophecies concerning the New Jerusalem.
+3. Harrigan critcizes Augustine's view of Israels' occupation of Canaan and Jerusalem as merely typological.
+4. Levitivus 25 illustrates God as the owner off the land and us as tenants/stewards.
+5. The temple in Jerusalem was understood to be God's footstool and was the sign of His present sovereignty and governance over creation.
+6. Ezekiel 37:25-28 sets a straightforward theology of Israel's election in terms of the age to come.
+7. References to the temple in the New Testament were positive, reinforcing its divinely ordained place in redemptive history. Significant messianic events occured in the temple: Zechariah saw his visionSimeon waited for the Messiah, Anna did not cease praying and fasting, and Jesus spent his boyhood there.
+8. Satan's temptations to Jesus atop the temple were not rejected for the proposed blessings but for the timing and presumption of messianic anointing.
+9. Jesus' pronounced judgement on the temple was not to abrogate or annul the temple. Rather, it reflects temporal discipline upon rebellion and hardness of heart.
+10. Paul was not supersessionist. He revered the temple. It was the locus of most of his ministry.
+
+##### Interesting Quote:
+- *Jerusalem's destiny in the age to come informs our prayers in this age.* (166)
+- *Though interpreting \[Romans 9:4\]...is difficult, its most straightforward readings implies that Jews are entrusted with a unique birthright established by the covenants unto an apocalyptic glory. Moreover, their calling in this age involves the stewardship of the oracles ("promises"), which include the land, law, and templ ("worship").* (170)
+
