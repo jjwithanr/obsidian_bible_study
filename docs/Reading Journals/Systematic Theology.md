@@ -48,14 +48,14 @@
 3. Scripturally, God has indirectly brought about some kind of evil.
 
 ##### Interesting Quote:
-1.  *But we are nonetheless free in the greatest sense that any creature of God could be free—we make willing choices, choices that have real effects. We are aware of no restraints on our will fro mGod when we make decisions. We must insist that we have the power of willing choice; otherwise we will fall into the error fatalism or determinism and thus conclude that our choices do not matter or that we cannot really make willing choices.* (page 438)
+1.  *But we are nonetheless free in the greatest sense that any creature of God could be free—we make willing choices, choices that have real effects. We are aware of no restraints on our will from God when we make decisions. We must insist that we have the power of willing choice; otherwise we will fall into the error fatalism or determinism and thus conclude that our choices do not matter or that we cannot really make willing choices.* (page 438)
 
 
 #### 2022-07-10 22:09 Pages 440-460
 ##### What I learned:
 1. Grudem really breaks down many common strawman arguments against Calvinism: *To say that God does not react to our actions is to deny the whole history of the Bible from Genesis to Revelation.* (453)
 1. Calvinism asserts the mystery of the doctrine of God's providence in light of the fact that God ordains that people do wrong yet continually places the blame for that wrong on the individual human beings who does wrong and never on God himself.
-3. A repeated rebuttal to Arminian stances is the lack of explicit Scriptural to justify the paradoxical aspects of the doctrine of God's providence. Grudem claims to hold an Arminian position, one relies more on human experience and intuition rather than specific texts of Scripture.  
+3. A repeated rebuttal to Arminianism is their lack of explicit Scriptural to justify the paradoxical aspects of God's providence. Grudem claims that to hold an Arminian position, one relies more on human experience and intuition rather than specific texts of Scripture.  
 
 ##### Interesting Quote:
 1.  *This causes us to conclude that God has made us in such a way that (1) he ordains all that we do, and (2) we exercise our personal will and make real, voluntary choices. Because we cannot understand this, should we therefore reject it?* (452)
@@ -354,6 +354,32 @@
 - *This means that worship is doing the will of God.* (1243)
 - *Just as the Holy Spirit himself is in this age a "down payment" (2 Cor. 1:22 NASB mg.; cf. 2 Cor. 5:5; Eph 1:14) of the fuller work of the Holy Spirit within us in the age to come, so the gifts of the Holy Spirit gives us are partial foretastes of the fuller working of the Holy Spirit that will be ours in the age to come.* (1258)
 - on defending continuationism based on Chantry's argument for Paul's usage of teleios for perfect, *Yet here again we must note that a word does ont have to be used to refer to the same thing every time it is used in Scripture* (1278)
+
+
+#### 2022-08-22 21:56 Pages 1280-1300
+##### What I learned:
+1. Cessationists who believe in illumuniation from the Holy Spirit should come to realize the gift of prophecy in the New Testament is not vastly different in practice.
+1. Not all miracles accompanied the giving of Scripture. Elijah and Elisha don't have any writings in the Bible—nor does Stephen and Phillip.
+1. B.B. Warfield, author of *Counterfeit Miracles*, supported cessationism to refute claims of miracles from Roman Catholicism and other heretical sects. He wrote this before the Azusa Street Revival—the outset of the Pentecostal and charismatic movement.
+2. The Greek word for prophet in the New Testament times had a broad range of definitions. Verse like Titus 1:12 and Luke 22:64 show usage of the word outside of its narrower meaning in the Old Testament. Various extra biblical manuscripts also prove this. 
+
+##### Interesting Quote:
+- quoting Donald Gee (Assemblies of God) *Many of our errors where spiritual gifts arer concerned arise when we want the extraordinary and exceptional to be made the frequent and habitual.* (1283)
+- *The apostles are the New Testament counterpart of the Old Testament prophets (see 1 Cor. 2:13; 2 Cor. 13:3; Gal. 1:8-9, 11-12; 1 Thess. 2:13; 4:8, 15; 2 Peter 3:2).* (1294)
+- *the problem of successsors to the apostles is solved not by encouraging Christians to listen to the prophets (even though there were prophets around) but by pointing to the Scriptures.* (1299)
+
+
+#### 2022-08-27 16:00 Pages 1300-1330
+##### What I learned:
+1. The "prophets" in Ephesians 2:20 and 3:5 refer to a small group of individuals who weren't apostles but were closley connected to them and played a foundational role in the beginning of the church.
+2. Timothy was told to **teach** Paul's instructions to the church and the Thessalonians were told to affirm the tradition they were **taught** by Paul. Teachers, not prophets, were the leaders of the early church. 
+3. Matthew quotes Isaiah 53:4-5 with reference to physical healings performed by Jesus.
+4. 2 Chronicles 16:12-13 illustrate how it was wrong for King Asa to rely on doctors or medicine instead of relying on the Lord.
+5. According Zephaniah 3:9, we will all "pure speech" and call upon the name of the Lord in the with one accord. We will all speak the same language in heaven (in addition to our current ones on Earth).
+6. Grudem explains 1 Corinthians 14:20-25 really well. Paul's quotation of Isaiah 28 gives context to what he means by a "sign". ADFDALSJF;LDSJFLDAKFJL;DSF
+
+##### Interesting Quote:
+- *The healing miracles of Jesus certainly demonstrate that at times God is willing to grant a partial foretaste of the perfect health that will be ours for eternity.* (1315)
 
 
 

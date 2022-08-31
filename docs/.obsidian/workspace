@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "243b26eda54430c2",
+        "id": "5dd33239fa5b0406",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: System",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "243b26eda54430c2",
+  "active": "5dd33239fa5b0406",
   "lastOpenFiles": [
-    "Old Testament/Proverbs/Proverbs22.md",
-    "Old Testament/Proverbs/Proverbs10.md",
-    "Reading Journals/The Gospel of Christ Crucified.md",
-    "Reading Journals/Systematic Theology.md",
-    "New Testament/1 Corinthians/1Cor8.md",
-    "Topics/hell.md",
-    "Templates/entry.md",
+    "Reading Journals/Perspectives.md",
+    "Templates/pArticle.md",
+    "Topics/meekness,greatness.md",
+    "Templates/pSection.md",
+    "New Testament/Titus/Titus2.md",
+    "New Testament/Philippians/Philippians3.md",
     "Templates/newBook.md",
-    "Templates/topic.md",
-    "Reading Journals.md"
+    "New Testament/Revelation/Revelation7.md",
+    "index.md",
+    "Greek.md"
   ]
 }

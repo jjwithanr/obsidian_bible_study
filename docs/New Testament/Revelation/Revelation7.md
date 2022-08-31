@@ -17,3 +17,5 @@
 #### v.17
 >For the Lamb at the center of the throne will be their shepherd; he will lead them to springs of living water. And God will wipe away every tear from their eyes."
 
+Tribulation produces tears. Like a tenderhearted, devoted mother, God will wipe each tear from their eyes with the eternal consolations of glory itself. Never again will they cry out because of pain and suffering.
+#alanfjohnson
