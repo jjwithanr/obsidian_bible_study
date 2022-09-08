@@ -22,7 +22,7 @@ God takes various methods of trying his people, with a design to test the value 
 The word translated “**joy inexpressible**” occurs only here in the New Testament, and describes a joy so profound as to be beyond the power of words to express.” (Grudem) “Their joy was no ordinary, earth-born joy.” (Hiebert)
 #enduringword 
 
-As we mature in the faith, God gives us the language to more accurately express the cries of our hearts to Him. His Scriptures teaches us how we ought to pray to Him and present our petitions and requests unto Him. Yet, there is one thing that man cannot and will never be able to fully express. Joy. We believe in God and we have joy inexpressible.
+As we mature in the faith, God gives us the language to more accurately express the cries of our hearts to Him. His Scriptures teaches us how we ought to pray to Him and present our petitions and requests unto Him. Yet, there is one thing that man cannot and will never be able to fully express. Joy. We believe in God and we have joy inexpressible as exemplified by the Trinitarian joy between the Father, Son, and the Holy Spirit.
 #jj 
 
 #### v.13

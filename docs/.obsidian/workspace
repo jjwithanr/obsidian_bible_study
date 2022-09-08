@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd33239fa5b0406",
+        "id": "8051a38901371d50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Journals/Systematic Theology.md",
+            "file": "New Testament/1 Peter/1Peter1.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transition",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Systematic Theology.md",
+                "file": "New Testament/1 Peter/1Peter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dd33239fa5b0406",
+  "active": "32c94e297decda11",
   "lastOpenFiles": [
+    "Old Testament/Nahum/Nahum1.md",
+    "Old Testament/Proverbs/Proverbs4.md",
+    "New Testament/Ephesians/Ephesians4.md",
+    "Reading Journals/Systematic Theology.md",
     "Reading Journals/Perspectives.md",
-    "Templates/pArticle.md",
-    "Topics/meekness,greatness.md",
     "Templates/pSection.md",
-    "New Testament/Titus/Titus2.md",
-    "New Testament/Philippians/Philippians3.md",
-    "Templates/newBook.md",
-    "New Testament/Revelation/Revelation7.md",
-    "index.md",
-    "Greek.md"
+    "Old Testament/Psalm/Psalm90.md",
+    "New Testament/Revelation/Revelation12.md",
+    "Templates/pArticle.md",
+    "Topics/meekness,greatness.md"
   ]
 }

@@ -6,7 +6,7 @@
 #### v.12
 >Teach us to number our days, that we may gain a heart of wisdom.
 
-Having a big-pictured mind teaches us wisdom. I**N**FJ.
+Counting our days points us to count inadequecy in light of death. 
 #jj 
 
 #### v.14

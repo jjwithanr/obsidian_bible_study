@@ -382,6 +382,16 @@
 - *The healing miracles of Jesus certainly demonstrate that at times God is willing to grant a partial foretaste of the perfect health that will be ours for eternity.* (1315)
 
 
+#### 2022-09-07 14:59 Pages 1330-
+##### What I learned:
+1. The gift of words of wisdom and knowledge are not based on a special revelation spontaneously given by the Holy Spirit. It is based on wisdom acquired throughout life.
+1. 
+1. 
+
+##### Interesting Quote:
+- ** ()
+
+
 
 
 
