@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/1 Peter/1Peter1.md",
+            "file": "Reading Journals/Systematic Theology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Peter/1Peter1.md",
+                "file": "Reading Journals/Systematic Theology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32c94e297decda11",
+  "active": "8051a38901371d50",
   "lastOpenFiles": [
+    "Reading Journals/Perspectives.md",
+    "New Testament/2 Peter/2Peter1.md",
+    "New Testament/1 Peter/1Peter1.md",
     "Old Testament/Nahum/Nahum1.md",
     "Old Testament/Proverbs/Proverbs4.md",
     "New Testament/Ephesians/Ephesians4.md",
     "Reading Journals/Systematic Theology.md",
-    "Reading Journals/Perspectives.md",
     "Templates/pSection.md",
     "Old Testament/Psalm/Psalm90.md",
-    "New Testament/Revelation/Revelation12.md",
-    "Templates/pArticle.md",
-    "Topics/meekness,greatness.md"
+    "New Testament/Revelation/Revelation12.md"
   ]
 }

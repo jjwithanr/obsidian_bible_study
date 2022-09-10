@@ -18,6 +18,10 @@ That is, grace and peace abound to us, or may be expected to be conferred on us 
 >His divine power has given us everything we need for life and godliness **through our knowledge of him** who called us by his own glory and goodness.
 
 We are willing to try almost anything except **the knowledge of Him**. We will trust in the schemes and plans of men instead of **the knowledge of Him**. We will try knowing ourselves instead of **the knowledge of Him**. We need to come to the same place the Apostle Paul did, when he said _that I may know Him_ ([Philippians 3:10](Philippians3#v.10)).
+#jj 
+
+Would you be holy? Would you become a new creature? **Then you must begin with Christ.** You will do nothing at all, and make no progress till you feel your sin and weakness, and flee to Him. He is the root and beginning of all holiness, and the way to be holy is to come to Him by faith and be joined to him.... **Men sometimes try to make themselves holy first of all, and sad work they make of it.** They toil and labour, and turn over new leaves, and make many changes; and yet, like the woman with the issue of blood, before she came to Christ, they feel "nothing bettered, but rather worse" (Mark 5:26)... It is a strong but true saying of Traill's, 🔥==="Wisdom out of Christ is damning folly—righteousness out of Christ is guilt and condemnation—sanctification out of Christ is filth and sin—redemption out of Christ is bondage and slavery."===
+#jcryle
 
 #### v.4
 >Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature and escape the corruption in the world caused by evil desires.

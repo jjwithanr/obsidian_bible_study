@@ -382,14 +382,16 @@
 - *The healing miracles of Jesus certainly demonstrate that at times God is willing to grant a partial foretaste of the perfect health that will be ours for eternity.* (1315)
 
 
-#### 2022-09-07 14:59 Pages 1330-
+#### 2022-09-10 16:43 Pages 1330-1350
 ##### What I learned:
 1. The gift of words of wisdom and knowledge are not based on a special revelation spontaneously given by the Holy Spirit. It is based on wisdom acquired throughout life.
-1. 
-1. 
+1. "Personal eschatology" is the study of the future events that will happen to individuals. "General eschatology" is the study of the last days' events like the Second Coming, the millenium, final judgement, etc.
+1. We know Jesus' Second Coming will be a personal and bodily return based on Acts 1:11 when it says He will come in the same way as the disciples saw him ascend into heaven.
+2. We should still commit to long-term activities despite knowing Christ can return at any moment. This is also why he did not share exactly when he would return. 
+3. The Jehovah Witnesses have wrongly predicted certain dates of Jesus' return. They justify that He returned on October 1, 1914 in an invisible way, but that does not stay true to Acts 1:11. 
 
 ##### Interesting Quote:
-- ** ()
+- *To some extent, the degree to which we actually long for Christ's return is a measure of the spiritual condition of our lives at the moment.* (1345)
 
 
 
