@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Psalm/Psalm103.md",
+            "file": "Reading Journals/Perspectives.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm103.md",
+                "file": "Reading Journals/Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "8051a38901371d50",
   "lastOpenFiles": [
-    "New Testament/Luke/Luke7.md",
     "Old Testament/Psalm/Psalm103.md",
+    "New Testament/Luke/Luke7.md",
     "Old Testament/1 Samuel/1Samuel6.md",
     "New Testament/Matthew/Matthew2.md",
     "Reading Journals/Systematic Theology.md",
