@@ -7,6 +7,9 @@
 #### v.2
 >All a man's ways seem innocent to him, but motives are weighed by the Lord.
 
+#### v.3
+>Commit to the Lord whatever you do, and your plans will succeed.
+
 #### v.6
 >Through love and faithfulness sin is atoned for; **through the fear of the Lord a man avoids evil.**
 
