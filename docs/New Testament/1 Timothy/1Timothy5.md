@@ -42,6 +42,9 @@ Notice the contrast in the previous verse. Paul juxtaposes the widow who is pers
 Used to affirm that New Testament is regarded as Scripture.
 #jj 
 
+#### v.21
+>I charge you, in the sight of God and Christ Jesus and the elect angels, to keep these instructions without partiality, and to do nothing out of favoritism.
+
 #### v.22
 >Do not be hasty in the laying on of hands, and do not share in the sins of others. Keep yourself pure.
 

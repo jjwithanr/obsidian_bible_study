@@ -17,6 +17,9 @@ Similar to [[Ephesians4#v 18]].
 The author of Proverbs precedes this verse with another call to attention and obedience. This is important.
 #jj 
 
+Holiness is essential to correct knowledge of divine things, and the great security from error...
+#charleshodge
+
 #### v.24
 >Put away perversity from your mouth; keep corrupt talk far from your lips.
 

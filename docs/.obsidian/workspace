@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3bc9ef53e4db19ea",
+        "id": "172471a3ad654296",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Journals/Systematic Theology.md",
+            "file": "Reading Journals/Systematic Theology/2God.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c00e95ca3bdb8904",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New Testament/Mark/Mark9.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "community",
+                "query": "file:Mark9",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Systematic Theology.md",
+                "file": "Reading Journals/Systematic Theology/2God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32c94e297decda11",
+  "active": "172471a3ad654296",
   "lastOpenFiles": [
-    "Reading Journals/Perspectives/Perspectives5.md",
-    "Reading Journals/Perspectives.md",
-    "Reading Journals/Perspectives/Perspectives4.md",
-    "Reading Journals/Perspectives/Perspectives3.md",
-    "Reading Journals/Perspectives/Perspectives2.md",
-    "Reading Journals/Perspectives/Perspectives1.md",
-    "New Testament/Ephesians/Ephesians4.md",
-    "New Testament/Ephesians/Ephesians3.md",
-    "New Testament/Acts/Acts2.md",
-    "New Testament/Acts/Acts1.md"
+    "New Testament/Mark/Mark9.md",
+    "New Testament/Matthew/Matthew12.md",
+    "Reading Journals/Systematic Theology/2God.md",
+    "Old Testament/Isaiah/Isaiah46.md",
+    "Old Testament/Isaiah/Isaiah49.md",
+    "New Testament/1 Corinthians/1Cor4.md",
+    "New Testament/1 Timothy/1Timothy5.md",
+    "New Testament/2 Peter/2Peter2.md",
+    "New Testament/Acts/Acts14.md",
+    "New Testament/John/John15.md"
   ]
 }

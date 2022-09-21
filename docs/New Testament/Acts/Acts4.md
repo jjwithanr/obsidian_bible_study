@@ -20,8 +20,8 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.24
 >When they heard this, they raised their voices together in prayer to God. "Sovereign Lord," they said, "you made the heaven and the earth and the sea, and everything in them.
 
-#### v.29
->Now, Lord, consider their threats and enable your servants to speak your word with great boldness.
+#### v.29-30
+>Now, Lord, consider their threats and enable your servants to speak your word with great boldness. <sup>30</sup>Stretch out your hand to heal and perform miraculous signs and wonders through the name of your holy servant Jesus."
 
 #### v.31
 >After they prayed, the place where they were meeting was shaken. And **they were all filled with the Holy Spirit and spoke the word of God boldly.**

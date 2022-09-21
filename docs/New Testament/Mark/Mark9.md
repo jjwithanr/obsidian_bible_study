@@ -32,6 +32,9 @@ The man felt the implied rebuke in the Saviour's language; and feeling grieved t
 Give me strength and grace to put "entire" confidence in thee. Everyone who comes to the Saviour for help has need of offering this prayer. In our unbelief and our doubts we need his aid, nor shall we ever put sufficient reliance on him without his gracious help.
 #barnes 
 
+#### v.29
+>He replied, "This kind can come out only by prayer and fasting."
+
 #### v.30-31
 >They left that place and passed through Galilee. Jesus did not want to anyone to know where they were, <sup>31</sup>because he was teaching his disciples. He said to them, "The Son of Man is going to be betrayed into the hands of men. They will kill him, and after three days he will rise."
 

@@ -16,8 +16,5 @@ Even the remnant of God must consistently incline their ears to hear for God's g
 The care of the parent naturally dies away as the child reaches manhood, and he is usually removed by death before the son or daughter that excited so much solicitude in infancy and childhood, reaches old age. But not so with God. His people are always the objects of his tender solicitude. Age does not make them less dependent, and experience only teaches them more and more their need of his sustaining grace.
 #barnes 
 
-#### v.9
->Remember the former things, those of long ago; I am God, and there is no other; I am God, and there is none like me.
-
-#### v.10
->I make known the end from the beginning, from ancient times, what is still to come. I say: My purpose will stand, and I will do all that I please.
+#### v.9-10
+>Remember the former things, those of long ago; I am God, and there is no other; I am God, and there is none like me. <sup>10</sup>I make known the end from the beginning, from ancient times, what is still to come. I say: My purpose will stand, and I will do all that I please.

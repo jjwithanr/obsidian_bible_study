@@ -13,6 +13,9 @@
 The Father's heart; as swift as our fall is His grasp of the outreached hand. Notice it is when the sheep is in a pit - not when it is walking up a tough hill to follow its Shepherd. Jesus does not lift us out of situations uphills that train our spiritual muscles and build character. Rather, He's the one who leads us down such paths but He is mighty to save whenever we fall into a pit and become once again for a Savior to deliver us.
 #jj 
 
+#### v.28-29
+>But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you. <sup>29</sup> "Or again, how can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man? Then he can rob his house."
+
 #### v.36
 >But I tell you that men will have to give account on the day of judgement for every careless word they have spoken.
 

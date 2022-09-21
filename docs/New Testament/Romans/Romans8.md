@@ -3,10 +3,6 @@
 ## Overview:
 
 
-
-#### v.
->
-
 #### v.26
 >In the same way, the Spirit helps in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us with groans that words cannot express.
 
