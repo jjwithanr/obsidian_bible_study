@@ -10,6 +10,9 @@ Barnhouse, Donald Grey _Genesis, A Devotional Exposition, Volumes 1 and 2_ (Gr
 Clarke, Adam _The Holy Bible, Containing the Old and New Testaments, with A Commentary and Critical Notes, Volume IV – Isaiah to Malachi_ (New York: Eaton and Mains, 1827?)
 #clarke from EnduringWord
 
+D.A Carson “Matthew” _The Expositor’s Bible Commentary, Volume 6_ (Grand Rapids, Michigan: Zondervan, 1986)
+#carson
+
 Ellison, H.L. “Lamentations” _The Expositor’s Bible Commentary, Volume 6_ (Grand Rapids, Michigan: Zondervan, 1986)
 #ellison from EnduringWord
 

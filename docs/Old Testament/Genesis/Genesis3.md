@@ -57,6 +57,9 @@ This is the **first gospel sermon** that was ever delivered upon the surface of 
 For God to see the defeat of Satan at Satan’s first flush of victory shows God knew what He was doing all along. God’s plan wasn’t defeated when Adam and Eve sinned because God’s plan was to bring forth something greater than man in the innocence of Eden. God wanted more than _innocent_ man; His plan is to bring forth _redeemed_ man.
 #enduringword 
 
+#### v.17
+>To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’ “Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life.
+
 #### v.18
 >It will produce thorns and thistles for you, and you will eat the plants of the field.
 

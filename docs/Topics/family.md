@@ -13,7 +13,7 @@ The Christian life begins with the *individual*; a soul has a saving encounter w
 >**without love**, unforgiving, slanderous, without self-control, brutal, not lovers of the good,
 >*2 Timothy 3:3*
 
-"Heartless" and "without love" are transalted from the same Greek word called *astorgos*. The prefix *a* denotes a negation of *storgos* which is from *storgé* meaning family affection. This is why the word is more accurately translated as "without natural affection." In fact, I would go even further to imply that in both contexts it is used the word further emphasizes Paul's charge for Christians to love their parents and immediate family. Paul precedes each of these texts with a seperate, clearer charge to his intended reader to obey their parents.
+"Heartless" and "without love" are translated from the same Greek word called *astorgos*. The prefix *a* denotes a negation of *storgos* which is from *storgé* meaning family affection. This is why the word is more accurately translated as "without natural affection." In fact, I would go even further to imply that in both contexts it is used the word further emphasizes Paul's charge for Christians to love their parents and immediate family. Paul precedes each of these texts with a seperate, clearer charge to his intended reader to obey their parents.
 #jj
 
 ### Spurgeon on [James 4:8-12](James4)

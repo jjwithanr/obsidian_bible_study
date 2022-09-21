@@ -5,15 +5,14 @@ The author makes the case that Jesus is greater than Moses - a tense debate that
 
 
 #### v.1
->Therefore, holy brothers, who share in the heavenly calling, **fix your thoughts on Jesus**, the apostle and high priest whom we **confess**.
+>Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession⁠—Jesus,
 
-See [homologia in Bible](Greek.md)
+See [homologia in Bible](Greek)
 The word “confession” means, “to say the same thing.” **When we confess our sin, we “say the same” about it that God does.** In regard to salvation, all Christians “say the same thing” about their need for salvation and God’s provision in Jesus.
 #enduringword 
 
 The character and work of the Son of God **are worthy of the profound and prayerful consideration of every man**; and especially every Christian should reflect much on him. Of the friend that we love we think much; but what friend have we like the Lord Jesus?
 #barnes 
-
 
 #### v.7
 >So the Holy Spirit says:

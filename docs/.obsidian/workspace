@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8051a38901371d50",
+        "id": "3bc9ef53e4db19ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Journals/Perspectives.md",
+            "file": "Reading Journals/Systematic Theology.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transition",
+                "query": "community",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Perspectives.md",
+                "file": "Reading Journals/Systematic Theology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8051a38901371d50",
+  "active": "32c94e297decda11",
   "lastOpenFiles": [
-    "Old Testament/Psalm/Psalm103.md",
-    "New Testament/Luke/Luke7.md",
-    "Old Testament/1 Samuel/1Samuel6.md",
-    "New Testament/Matthew/Matthew2.md",
-    "Reading Journals/Systematic Theology.md",
+    "Reading Journals/Perspectives/Perspectives5.md",
     "Reading Journals/Perspectives.md",
-    "New Testament/2 Peter/2Peter1.md",
-    "New Testament/1 Peter/1Peter1.md",
-    "Old Testament/Nahum/Nahum1.md",
-    "Old Testament/Proverbs/Proverbs4.md"
+    "Reading Journals/Perspectives/Perspectives4.md",
+    "Reading Journals/Perspectives/Perspectives3.md",
+    "Reading Journals/Perspectives/Perspectives2.md",
+    "Reading Journals/Perspectives/Perspectives1.md",
+    "New Testament/Ephesians/Ephesians4.md",
+    "New Testament/Ephesians/Ephesians3.md",
+    "New Testament/Acts/Acts2.md",
+    "New Testament/Acts/Acts1.md"
   ]
 }
