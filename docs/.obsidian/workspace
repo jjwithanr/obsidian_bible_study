@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c00e95ca3bdb8904",
+        "id": "7dc1af8cae6acafa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Proverbs/Proverbs16.md",
+            "file": "New Testament/Matthew/Matthew14.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Mark9",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs16.md",
+                "file": "New Testament/Matthew/Matthew14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c00e95ca3bdb8904",
+  "active": "7dc1af8cae6acafa",
   "lastOpenFiles": [
+    "New Testament/Matthew/Matthew13.md",
+    "New Testament/2 Peter/2Peter1.md",
+    "Old Testament/Proverbs/Proverbs18.md",
+    "New Testament/Colossians/Colossians1.md",
+    "Topics/wealth,work.md",
     "Old Testament/Proverbs/Proverbs17.md",
-    "Old Testament/Psalm/Psalm111.md",
-    "New Testament/Mark/Mark9.md",
-    "Reading Journals/Systematic Theology/2God.md",
-    "New Testament/Matthew/Matthew12.md",
-    "Old Testament/Isaiah/Isaiah46.md",
-    "Old Testament/Isaiah/Isaiah49.md",
-    "New Testament/1 Corinthians/1Cor4.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "New Testament/2 Peter/2Peter2.md"
+    "Reading Journals/Perspectives/Perspectives6.md",
+    "Old Testament/Psalm/Psalm112.md",
+    "Old Testament/Proverbs/Proverbs16.md",
+    "Old Testament/1 Samuel/1Samuel17.md"
   ]
 }

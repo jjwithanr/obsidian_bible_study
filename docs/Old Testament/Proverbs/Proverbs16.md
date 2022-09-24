@@ -23,3 +23,10 @@ Goodness has power to charm and win even enemies to itself.
 >In his heart a man plans his course, but the Lord determines his steps.
 
 See also [[Psalm37#v.23]].
+
+#### v.27-28
+>A scoundrel plots evil, and his speech is like a scorching fire. <sup>28</sup>A perverse man stirs up dissension, and a gossip separates close friends.
+
+Father, help me.
+#jj 
+

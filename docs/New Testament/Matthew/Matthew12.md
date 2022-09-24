@@ -16,6 +16,25 @@ The Father's heart; as swift as our fall is His grasp of the outreached hand. No
 #### v.28-29
 >But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you. <sup>29</sup> "Or again, how can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man? Then he can rob his house."
 
+See also [[2God#2022-07-15 22 02 Pages 540-560]].
+
+#### v.31-32
+>And so I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven. <sup>32</sup>Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+
+Does this mean we can sin in heaven? Cannot be forgiven in the age to come?
+#jj 
+
+#### v.34
+>You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart the mouth speaks.
+
 #### v.36
 >But I tell you that men will have to give account on the day of judgement for every careless word they have spoken.
 
+#### v.45
+>Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that man is worse than the first. That is how it  will be with this wicked generation."
+
+#### v.49
+>Pointing to his disciples, he said, "Here are my mother and my brothers. <sup>50</sup>For whoever does the will of my Father in heaven is my brother and sister and mother."
+
+Spiritual family.
+#jj 

@@ -25,6 +25,12 @@ Christ bade Peter come, not only that he might walk upon the water, and **so kno
 This is me for open-air preaching. Needed this reminder today. Take my eyes off the difficulties and keep it fixed on Christ. 4/4/2022.
 #jj 
 
+#### v.30
+>But when he saw the wind, he was afraid and, beginning to sink, cried out, "Lord, save me!"
+
+On 9/23/22 I woke up looking at LinkedIn (it was a horribly lazy day and it all started with me using my phone in the morning) and saw that Katie Miya got a SWE job already. This was the moment I saw the wind. If she could get a job, how much of a lazy bum I am! I need to keep my eyes on Jesus.
+#jj 
+
 #### v.31
 >Immediately Jesus reached out his hand and caught him. "You of little faith," he said, "why did you doubt?"
 
@@ -33,7 +39,3 @@ Jesus mirrors the Father's heart in [Matthew 12:11-12](Matthew12.md#v.11-12) in 
 
 **He had less real faith than he supposed**, and more ardor than his faith would justify. He was rash, headlong, incautious, really attached to Jesus, but still easily daunted and prone to fall. He was afraid, therefore, when in danger, and, sinking, cried again for help. Thus **he was suffered to learn his own character**, and his dependence on Jesus: a lesson which all Christians are permitted sooner or later to learn by dear-bought experience.
 #barnes 
-
-#### v.
->
-

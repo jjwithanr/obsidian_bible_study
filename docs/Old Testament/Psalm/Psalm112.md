@@ -13,3 +13,4 @@
 #### v.7
 >He will have no fear of bad news; his heart is steadfast, trusting in the Lord.
 
+[Spurgeon sermon](https://www.spurgeongems.org/sermon/chs647.pdf)
