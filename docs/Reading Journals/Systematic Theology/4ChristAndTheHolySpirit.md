@@ -23,7 +23,7 @@ Pages 663-803
 4. Heaven exists as a place in the space-time universe, in contrary to what Gargarin said as the first astronaut in space.
 
 ##### Interesting Quote:
-- *Paul knew that even in this life the resurrection of Christ gave new power for Christian ministry and obedience to God.* (755) on [[Philippians3#v 10]]
+- *Paul knew that even in this life the resurrection of Christ gave new power for Christian ministry and obedience to God.* (755) on [Philippians 3:10](Philippians3#v.10).
 
 
 #### 2022-07-26 18:23 Pages 760-780
@@ -40,7 +40,7 @@ Pages 663-803
 ##### What I learned:
 1. The Holy Spirit has some restraining influence on unbelievers since he convicts the world of sin (John 16:8-11).
 1. 2 Corinthians 13:14 shows that Paul attributes fellowship among believers to the Holy Spirit, not the Father or the Son.
-1. David's cry for the Holy Spirit to not depart from him in Psalm 51:11 can be better understood when read in light of the Holy Spirit having anointed King Saul but also leaving him in 1 Samuel 16:13.
+1. David's cry for the Holy Spirit to not depart from him in Psalm 51:11 can be better understood when read in light of the Holy Spirit having anointed King Saul but also leaving him in [1 Samuel 16:13](1Samuel16.md#v.13).
 
 ##### Interesting Quote:
 - *Therefore, when the Holy Spirit is working strongly in the church to manifest God's presence, the church community will be in beautiful harmony and overflowing with love for one another.* (782)

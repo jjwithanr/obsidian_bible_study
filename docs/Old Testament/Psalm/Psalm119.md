@@ -17,10 +17,15 @@
 #### v.28
 >My soul is weary with sorrow; strenghten me according to your word.
 
+The word of God alos keeps one from the ways of the world, as it renews an inner, burning desire to live a life of devotion to God.
+#vangemeren 
+
 #### v.32
 >I shall run the way of Your commandments, For You will **enlarge my heart.**
-
 #nasb
+
+The Lord has given him a sense of freedom from anxiety and care.
+#vangemeren 
 
 Enlarge, inflame, and fill my heart   
 with boundless charity divine,   
