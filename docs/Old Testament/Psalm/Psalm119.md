@@ -53,6 +53,21 @@ The understanding operates upon the affections; it convinces the heart of the be
 Let nothing be wasted. Suffering is not God's lack of care but His abundance.
 #jj 
 
+#### v.74
+>May those who fear you rejoice when they see me, for I have put my hope in your word.
+
+When a man of God obtains grace for himself he becomes a blessing to others…. There are professors whose presence scatters sadness, and the godly quietly steal out of their company: may this never be the case with us.
+#spurgeon 
+
+#### v.75-76
+>I know, O Lord, that your laws are righteous, and infiathfulness you have afflicted me. <sup>76</sup>May your unfailing love be my comfort, according to your promise to your servant.
+
+Our prayers are according to the mind of God when they are according to the word of God.
+#spurgeon 
+
+The psalmist can say, "I know" that God's laws are "righteous" and faithful, because he has an experiential knowledge of God, of his "unfailing love," and of his "compassion." God's purpose for affliction is to refine the relationship with his children.
+#vangemeren 
+
 #### v.162
 >I rejoice in your promise like one who finds great spoil.
 

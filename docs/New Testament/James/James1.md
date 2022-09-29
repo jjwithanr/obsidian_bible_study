@@ -67,12 +67,12 @@ We cannot use anger as our device to instruct others in living righteously. Rath
 #jj 
 
 #### v.21
->Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word [planted in you](Luke8), which can save you.
+>Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word [planted in you](Luke8.md), which can save you.
 
 #### v.25
 >But the man who **looks intently** into the *perfect law that gives freedom*, and continues to do this, not forgetting what he has heard, but doing it - he will be blessed in what he does.
 
-The one who looks intently into the word, retains it, and does it is like [**good soil**](Luke8#v.15).
+The one who looks intently into the word, retains it, and does it is like [**good soil**](Luke8.md#v.15).
 #jj 
 
 Adam Clarke points out that the ancient Greek word translated **continues** is _parameinas_ and has this sense: “Takes time to see and examine the state of his soul, the grace of his God, the extent of his duty, and the height of the promised glory. The metaphor here is taken from those females who spend much time at their glass, in order that they may decorate themselves to the greatest advantage, and not leave one hair, or the smallest ornament, out of its place.”

@@ -39,7 +39,7 @@ But especially had he that knowledge which is the fear of the Lord; that knowled
 #### v.12
 >Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.
 
-This is how become dressed in the white garments of Revelation 3:5. Here's th secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed?
+This is how become dressed in the white garments of Revelation 3:5. Here's the secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed!
 #bobsorge 
 
 #### v.13

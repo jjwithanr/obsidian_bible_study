@@ -15,7 +15,7 @@
 >Amazed and perplexed, they asked one another, "What does this mean?"
 
 Research *amazed* and *perplexed*.
-Is this the same wonder the Twelve may have felt in [Luke 8:25](Luke8#v.25)?
+Is this the same wonder the Twelve may have felt in [Luke 8:25](Luke8.md#v.25)?
 #jj 
 
 #### v.13
