@@ -11,7 +11,7 @@ Pages 1047-1343
 ##### Interesting Quote:
 - *We should not try to exclude people from the fellowship of the church until they by public sin bring discipline upon themselves. On the other hand, of course, the church should not tolerate in its membership "public unbelievers" who by profession or life clearly proclaim themselves to be outside the true church.* (1051)
 - from Geroge Ladd *The church is the community of the Kingdom but never the Kingdom itself.. The Kingdom is the rule of God; the church is a society of men.* (1058)
-- *many liberal Protestant churches are in fact false churches today.🔥* (1063)
+- *many liberal Protestant churches are in fact false churches today.* (1063)
 
 
 #### 2022-08-16 22:14 Pages 1080-1120

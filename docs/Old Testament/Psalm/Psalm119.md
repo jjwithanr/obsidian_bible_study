@@ -15,9 +15,9 @@
 >Let me understand the teaching of your precepts; then I will meditate on your wonders.
 
 #### v.28
->My soul is weary with sorrow; strenghten me according to your word.
+>My soul is weary with sorrow; strengthen me according to your word.
 
-The word of God alos keeps one from the ways of the world, as it renews an inner, burning desire to live a life of devotion to God.
+The word of God also keeps one from the ways of the world, as it renews an inner, burning desire to live a life of devotion to God.
 #vangemeren 
 
 #### v.32

@@ -9,7 +9,7 @@ _“We can ignore even pleasure. But Pain insists upon being attended to. God wh
 A few weeks ago, I was faced with a brief encounter that kindly escorted me to a long week of pain and grieving. I’m not sure whether everyone feels Pain the same way, but if you are anything like me, Pain feels as though God—successfully—tried to remove a piece of tar or taffy stuck on your heart but also ripped a part of the flesh with it, leaving a gaping wound that demands a trip to the ER.
 
 To be more specific about the Pain, I had to let go of someone I deeply valued and loved last year. Throughout the course of year dealing with the loss, I hoped that I had fully healed and moved on in my life. But the Lord exposed my unhealed heart by reopening the wound that I had sloppily sealed shut.
-
+	
 Pain is truly crippling, but illuminating. As I rolled back and forth for several days, clutching my swelling heart, I was actually impressed at Pain’s ability to significantly interrupt the flow and decelerate the pace of my life. I didn’t have the same energy and resolve to figure out ten different things at once, or even give attention to petty things that would normally cause anxiety in my life. I couldn’t dash around in busyness, but was merely content to get through the day. Pain exposed my weaknesses and that I actually didn’t have my life together.
 
 But Pain’s greatest quality is its power to correctly reposition one’s heart with the Father. Imagine a precious toddler running through a store, distracted by all the toys on display, but he suddenly trips on flat ground, falls, and starts to cry. And although all sorts of people can rush to his side, this baby will refuse to be comforted until he finds himself in his mother’s embrace. Now while he was running and joyfully eyeing the toys, the child probably didn’t realize how far he had strayed from the most important person of his life. If he was soberly aware of his own desires and needs, he most likely would not have even left the stroller. Yet the natural heart inclination is to wander, forgetting how much one needs the author and giver of Life, and instead striving to attain the frivolities that might decorate and pamper up our lives.
@@ -50,3 +50,10 @@ Though human beings cannot be trusted, God is faithful to his promises and his p
 
 God is faithful over Edward and BTM. 2/24/2022.
 #jj 
+
+Dear Edward,
+I still pray for you every time I get the chance. I would say I do so every day but I miss days of prayer. I'm human. So human, actually, because whenever I remember you in my prayers, tears surface. I miss our friendship and the fun memories we shared our first year. But these tears have gone far beyond sorrow of old friendship. I long for your salvation. The thought of knowing someone I still love so dearly spending eternity in torment and separation from a merciful God pangs my heart. I simply don't know what to do with that thought. What would you do? For me, I could only come to pray. I'll get distracted, lose vitatility, or even put something before my prayer life, but there is an unceasing anguish in my soul for your salvation. The pain is so much whenever I think of you. I can feel my heart beat. It pervades all my thoughts and emotions. I've dreamt of seeing you again. I don't know how I'll actually respond when that time comes. When I see you again, will it be when you're an enemy of the cross or will it be when you've returned to the Father as the prodigal son? I really don't know, but I hope it's the latter. No, it must be. God will do it one day. Until then, I'll be on the porch overlooking the horizon with Father God waiting upon your return. Come home, Edward. Come home.
+
+With many tears,
+JJ 
+10/2/2022

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Old Testament/Psalm/Psalm119.md",
+            "file": "New Testament/Ephesians/Ephesians6.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "🔥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm119.md",
+                "file": "New Testament/Ephesians/Ephesians6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "7dc1af8cae6acafa",
   "lastOpenFiles": [
-    "New Testament/Luke/Luke8.md",
-    "Old Testament/Psalm/Psalm119.md",
-    "Reading Journals/Perspectives/Perspectives7.md",
-    "New Testament/Matthew/Matthew18.md",
-    "Reading Journals/Systematic Theology/2God.md",
-    "New Testament/Matthew/Matthew12.md",
-    "New Testament/Mark/Mark1.md",
-    "New Testament/John/John15.md",
-    "New Testament/Colossians/Colossians3.md",
-    "Old Testament/Psalm/Psalm139.md"
+    "Topics/edward.md",
+    "Topics/alone.md",
+    "Reading Journals/Systematic Theology/6Church.md",
+    "New Testament/2 Peter/2Peter1.md",
+    "New Testament/1 Timothy/1Timothy1.md",
+    "New Testament/1 Thessalonians/1Thess5.md",
+    "New Testament/1 Peter/1Peter4.md",
+    "Old Testament/Proverbs/Proverbs27.md",
+    "New Testament/Matthew/Matthew23.md",
+    "New Testament/Matthew/Matthew22.md"
   ]
 }

@@ -38,3 +38,10 @@
 * *Sadly, the goal of planting the Church in every people group, of merely extending Christianity, whether in the USA or around the world, is the most common understanding of the extent of God's purpose in our world. There is little room for a concept, apart from professional church-related ministry, of a "full-time Christian." But when every believer is expected to be consciously and deliberately "in mission," does that then mean nothing is mission? No, it just means there are different types of mission. There will always be the fearsomely difficult cross-cultural pioneer mission. But those of us who have been championing that as the highest priority have no power to reserve the world mission for that urgent type of mission...===Today, those tempted to glory in an artificially simple approach to Bible and missions are mainly either a fundementalist residue or a brand new hyper-charismatic fringe===... What does "full-time Christian" mean? It means that the mission to promote the Kingdom, or Kingdom Mission, involves or should involve every move a lay person makes in his forty-hour week of work in addition to what he may do for the church "after hours" in Church Mission.* (277)
 * From The World Evangelical Alliance: *Integral Mission or holistic transformation \[as\] the proclamation and demonstration of the gospel. it is not simply that evangelism and social action are to be done alongside each other.* (278)
 * COPY all of page 278 LOL
+
+
+### The New Macedonia
+**Ralph D. Winter**
+- Takeaways
+- People blindness: a failiure to notice the sub-groups within a country.
+- 

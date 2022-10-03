@@ -11,7 +11,7 @@ Clarke, Adam _The Holy Bible, Containing the Old and New Testaments, with A Com
 #clarke from EnduringWord
 
 D.A Carson “Matthew” _The Expositor’s Bible Commentary, Volume 6_ (Grand Rapids, Michigan: Zondervan, 1986)
-#carson
+#dacarson
 
 Ellison, H.L. “Lamentations” _The Expositor’s Bible Commentary, Volume 6_ (Grand Rapids, Michigan: Zondervan, 1986)
 #ellison from EnduringWord

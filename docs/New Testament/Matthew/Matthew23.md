@@ -30,6 +30,12 @@ The Korean church.
 The woes are for teachers of the law. Not the zealots of the time wreaking civil havoc in the name of religious advancement. The teachers are the target of Jesus' sober message. How much more today do teachers of the Bible hinder others to enter the kingdom of God! Lord, you judgements are severe for teachers. Lord, help me.
 #jj 
 
+#### v.16-17
+>"Woe to you, blind guides! You say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'' <sup>17</sup>You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?
+
+Jews were no longer allowed to pronounce the sacred name of God in this period. By swearing lesser oaths, some people hoped to avoid the consequences of swearing by God’s name if they could not keep their vow or if their oath turned out to be mistaken. As people swore or vowed by things related to God instead of by God himself, more and more things became substitutes for the divine name and thus became roundabout ways of seeming to swear by God while hoping to buffer the consequences.
+#craigkeener 
+
 #### v.25
 >"Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.
 
@@ -38,9 +44,3 @@ The woes are for teachers of the law. Not the zealots of the time wreaking civil
 
 #### v.27
 >"Woe to you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beatiful on the outside but on the inside are full of dead men's bones and everything unclean.
-
-The rotting corpse inside a tomb was like the hypocrisy and lawlessness in the hearts of the scribes and Pharisees. They appeared righteous on the outside, but they were just beautified tombs; inwardly, they were spiritually dead.
-#gotquestions 
-
-The status of our souls: dead inside without Christ. The West birthed from God's exalting for a righteous nation and now catching up in time by burying its foundations with nice roses.
-#jj 
