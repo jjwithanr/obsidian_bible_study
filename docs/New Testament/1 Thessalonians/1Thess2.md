@@ -29,8 +29,6 @@ It has been said that people don’t care how much you know until they know how 
 #### v.11-12
 >For you know that we dealt with you as a father deals with his own children, <sup>12</sup>**encouraging, comforting, and urging you to live lives worthy of God**, who calls you into his kingdom and glory.
 
-
-
 #### v.13
 >And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as the word of men, but as it actually is, the word of God, which is at work in you who believe.
 

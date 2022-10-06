@@ -22,7 +22,7 @@ Same as [Isaiah 28:16](Isaiah28#v.16). Also mentioned in [Romans 9:33](Romans9#v
 #### v.11
 >Dear freinds, I urge you, as aliens and strangers in the world, to abstain from sinful desires, which **war against your soul**.
 
-Similar to [Galations 5:17](Galations5#v.17).
+Similar to [Galations 5:17](Galatians5.md#v.17).
 
 #### v.13-14
 >Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority, <sup>14</sup>or to governors, who are sent by him to punish those who do wrong and to commend those who do right.
@@ -49,7 +49,7 @@ When we are wronged unjustly,
 #### v.24
 >He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds you have been healed.
 
-Similar to [Romans 6:11](Romans6#v.11) and [Galations 2:20](Galations2#v.20).
+Similar to [Romans 6:11](Romans6#v.11) and [Galations 2:20](Galatians2.md#v.20).
 
 #### v.25
 >For you were like sheep going astray, but now you have returned to the **Shepherd and Overseer of your souls.**

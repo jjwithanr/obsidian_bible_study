@@ -27,6 +27,13 @@ See more in [[prayer#Barnes on Matthew 6 6 Matthew6 v 6]].
 And how greatly do they err who measure prayers by the yard. They think they have prayed so much because they have prayed so long, whereas **it is the work of the heart**—the true pouring out of the desire before God—that is the thing to be looked at. Quality not quantity, truth, not length. Oftentimes the shortest prayers have the most prayer in them.
 #spurgeon [sermon](https://www.spurgeongems.org/sermon/chs3391.pdf)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mb0KcAP_FNI?start=3125" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You've silenced the majority of the body of Christ.
+#mikebickle 
+
+Healthy criticism on prayer movement / Contend. "Dialing down" more general prayer meetings can help the majority of the body of Christ feel they can meaningfully participate in corporate prayer without shouting their throats off.
+#jj 
+
 #### v.15
 >But if you do not forgive men their sins, your Father will not forgive your sins.
 

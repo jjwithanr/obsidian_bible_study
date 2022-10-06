@@ -3,9 +3,8 @@
 ## Overview:
 
 
-
-#### v.
->
+#### v.11
+>Do not cast me from your presence or take your Holy Spirit from me.
 
 #### v.12
 >Restore to the me the joy of your salvation, and grant me a willing spirit, to sustain me.

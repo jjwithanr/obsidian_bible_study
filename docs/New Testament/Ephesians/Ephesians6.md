@@ -23,6 +23,11 @@ We render acceptable service to God when, from regard to his will, we perform th
 #### v.7-8
 >Serve wholeheartedly, as if you were serving the Lord, not men, <sup>8</sup>because you know what the Lord will reward everyone for whatever good he does, whether he is slave or free.
 
+#### v.9
+>And masters, treat your slaves inthe same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him.
+
+See [[6Church#2022-08-16 22 33 Pages 1160-1200]] for other references to slavery in the Bible.
+
 #### v.10-11
 >Finally, be strong in the Lord and in his mighty power. <sup>11</sup>Put on the full armor of God so that you can take your stand against the devil's schemes.
 

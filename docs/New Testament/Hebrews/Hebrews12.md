@@ -75,6 +75,11 @@ Spurgeon described four types of people who try to get on without holiness:
 #### v.18-19
 >You have not come to a mountain that can be touched and that is burning with fire; to darkness, gloom and storm; <sup>19</sup>to a trumpet blast or to such a voice speaking words that those who heard it begged that no further word be spoken to them,
 
+#### v.22-23
+>But you have come to Mount Zion, to the heavenly Jerusalem, the city of the living God. You have come to thousands upon thousands of angels in joyful assembly, <sup>23</sup>to the church of the firstborn, whose names are written in heaven. You have come to God, the judge of all men, to the spirits of righteous men made perfect,
+
+This may refer to some partial presence/awareness of dead saints, according to [[5ApplicationOfRedemption#2022-08-16 22 00 Pages 1000-1040]].
+
 #### v.24
 >to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
 

@@ -9,6 +9,9 @@ Jesus' perfect sacrifice undermines the Old Covenant system of atonement sacrifi
 
 Wow. Since the Old Covenant was only a shadow, establishing the New Covenant is a way of God saying, "I want you to be a little closer to heaven." We live in a fallen world and [see but a poor reflection] of the age to come, but his New Covenant flips the paradigm - bringing heaven down to earth rather earth to heaven. 
 
+#### v.4
+>because it is impossible for the blood of bulls and goats to take away sins.
+
 #### v.10
 >And by that will, we have been made holy through the sacrifice of the body of Jesus Christ once for all.
 

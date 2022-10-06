@@ -61,6 +61,9 @@ Let us learn the one condition of victorious conflict, the one means of subduing
 #### v.21
 >For since death came through a man, the resurrection of the dead comes also through a man.
 
+#### v.22-23
+>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, <sup>23</sup>gentleness and self-control. Against such things there is no law.
+
 #### v.24
 >Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires.
 

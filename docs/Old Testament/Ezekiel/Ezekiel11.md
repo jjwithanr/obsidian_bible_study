@@ -28,4 +28,4 @@ Abandoning all idols precedes receiving a heart of flesh from the Lord.
 #### v.21
 >But as for those whose hearts are devoted to their vile images and detestable idols, I will bring down on their own heads what they have done, declares the Sovereign Lord."
 
-Do not be deceived: God cannot be mocked. A man reaps what he sows. The one who sows to please his sinful nature, from that nature will reap destruction; the one who sows to please the Spirit, from the Spirit will reap eternal life. see [Galations 6:7-8](Galations6#v.7-8).
+Do not be deceived: God cannot be mocked. A man reaps what he sows. The one who sows to please his sinful nature, from that nature will reap destruction; the one who sows to please the Spirit, from the Spirit will reap eternal life. see [Galations 6:7-8](Galatians6.md#v.7-8).

@@ -3,6 +3,8 @@
 ## Overview:
 Paul concludes his letter with a final instruction to the Colossians to keep praying and being wise in the way they treat outsiders. He mentions fellow brothers and sisters in the faith and all they've done for the Lord as well as their statuses.
 
+#### v.1
+>Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.
 
 #### v.2
 >Devote yourself to prayer, being watchful and thankful.

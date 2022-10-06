@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.2
+>He created them male and female and blessed them. And when they were created, he called them "man."
 
 #### v.3
 >When Adam had lived for 130 years, he had a son in his own likeness, in his own image; and he named him Seth.

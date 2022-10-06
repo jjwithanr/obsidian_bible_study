@@ -7,7 +7,7 @@ At the climax of his charge and commands to Titus, Paul concludes with a teachin
 #### v.3
 >At one time we too were foolish, disobedient, deceived, and **enslaved by all kinds of passions and pleasures**. We lived in malice and envy, being hate and hating one another.
 
-See [Galations 4:9](Galations4.md#v.8-9) also.
+See [Galations 4:9](Galatians4.md#v.8-9) also.
 
 The attainment of divinely oriented desires is not emphasised here. It is the proper control of all the desires existing within the individual whether spiritual or not. Young people who are filled with passion for the Lord without enough respective self-control will simply become misguided in their own ambitions thinking it God's will all along. 
 #jj 

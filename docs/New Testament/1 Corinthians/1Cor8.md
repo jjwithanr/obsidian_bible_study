@@ -9,6 +9,9 @@
 Knowledge is that act of passing from a state of unconscious ignorance to a state of conscious ignorance.
 #lewischafer
 
+#### v.3
+>But the man who loves God is known by God.
+
 #### v.12
 >When you sin against your brothers in this way and wound their weak conscience, you sin against Christ.
 

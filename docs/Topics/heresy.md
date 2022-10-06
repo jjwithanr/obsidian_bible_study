@@ -6,6 +6,9 @@ Because women were usually less educated, they were more susceptible than men to
 The false teachers had to get into the homes because they had less access to the women in public (due to married women’s partial segregation in Greek society). After they had gained access to a household, their male or female convert within the household could supply financial and other help to them. The women who owned their own homes were most often widows, so widows may have often been targeted (1 Tim 5:13) to gain access to homes where the false teachers could establish or influence congregations. Greek and Roman men often thought of women as easily swayed by passion and emotion; many may have been, because of their lack of education and cultural reinforcement. **But Paul here addresses particular, not all, women.**
 #craigkeener 
 
-### on []()
 
-### on []()
+
+
+
+
+

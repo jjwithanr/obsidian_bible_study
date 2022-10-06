@@ -3,6 +3,10 @@
 ## Overview:
 
 
+#### v.5
+>which was not made known to men in other generations as it has now been revealed by the Spirit to God's holy apostles and prophets.
+
+See [[6Church#2022-08-22 21 56 Pages 1280-1300]] for other proof-texts that the New Testament apostles were the counterpart to Old Testament prophets.
 
 #### v.6
 >This mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus.

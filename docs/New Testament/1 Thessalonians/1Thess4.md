@@ -10,6 +10,11 @@ Timothy may have mentioned some cases of moral laxness which prompts Paul to add
 #### v.7
 >For God did not call us to be impure, but to live a holy life.
 
+#### v.8
+>Therefore, he who rejects this instruction does not reject man but God, who give you his Holy Spirit.
+
+See [[6Church#2022-08-22 21 56 Pages 1280-1300]] for other proof-texts that the New Testament apostles were the counterpart to Old Testament prophets.
+
 #### v.9
 >Now about brotherly love we do not need to write to you, for you yourselves have been **taught by God to love each other.**
 
@@ -24,3 +29,8 @@ See more in [[wealth,work#Barnes on 1 Thessalonians 4 11 1Thess4 v 11]].
 
 ii. “Paul, however, does not mean that every individual is to mind his own business in such a way that all are to live apart from one another and have no concern for others, but **simply wants to correct the idle triviality** which makes men open disturbers of the peace, when they ought to lead a quiet life at home.” (Clarke)
 #enduringword 
+
+#### v.15
+>According to the Lord's own word, we tell you that we who are still alive, who are left till the coming of the Lord, will certainly not precede those who have fallen asleep. 
+
+

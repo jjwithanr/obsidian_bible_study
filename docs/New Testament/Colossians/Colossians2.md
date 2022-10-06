@@ -17,4 +17,4 @@ Ascetics cannot enjoy material possessions. While as Christians, we must be gene
 #bibleorg
 Reference: [Bible.org](https://bible.org/seriespage/lesson-14-how-not-be-godly-colossians-220-23) does a great job explaining this passage and its context in asceticism.
 
-See also [Galations 5:16](Galations5#v.16).
+See also [Galations 5:16](Galatians5.md#v.16).

@@ -2,6 +2,8 @@
 
 ## Overview:
 
+#### v.1
+>Since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, perfecting holiness out of reverence for God.
 
 #### v.10
 >Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.

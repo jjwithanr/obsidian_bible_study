@@ -10,6 +10,9 @@ Shortly before his ascent ot heaven, Jesus tells his disciples to wait in Jerusa
 #### v.8
 >But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jersualem, and in all Judea and Samaria, and to the ends of the earth.
 
+#### v.11
+>"Men of Galilee," they said, "why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven."
+
 #### v.14
 >They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.
 

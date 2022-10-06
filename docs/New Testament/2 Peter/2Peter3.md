@@ -10,6 +10,10 @@ Peter defends the Second Coming and how the world will end and that this event s
 The Greek term here is _eilikrinē_. This literally means something found to be pure when examined by sunlight. A common legend is that the English word "sincere" comes from two Latin words which translate to "without wax." The story goes that crafty pottery salesmen would sometimes use wax to disguise cracks in their pottery. When held up to the sun, though, light would show through the wax, revealing the deception. A pot held up to the sun and found to be flawless was "without wax," or "sincere:" hiding no faults. In truth, the word _sincere_ is not based in those Latin terms, and seems to come from words relating to wholeness and purity. As an analogy, however, the story still has some merit.
 #bibleref
 
+#### v.2
+>I want you to recall the words spoken in the past by the holy prophets and the commands given by our Lord and Savior through your apostles.
+
+See [[6Church#2022-08-22 21 56 Pages 1280-1300]] for other proof-texts that the New Testament apostles were the counterpart to Old Testament prophets.
 
 #### v.8
 >But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.

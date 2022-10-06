@@ -54,7 +54,7 @@ See more in [[knowledge#Barnes on Hebrews 13 9 Hebrews13 v 9]].
 Loving hearts must speak. What would you think of a husband who never felt any impulse to tell his wife that she was dear to him; or a mother who never found it needful to unpack her heart of its tenderness, even in perhaps the inarticulate croonings over the little child that she pressed to her heart? It seems to me that a dumb Christian, a man who is thankful for Christ’s sacrifice and never feels the need to say so, is as great an anomaly as either of these I have described.
 #maclaren 
 
-The Greek word means having in common with others. The meaning is, that they were to show liberality to those who were in want, and were to take special pains not to forget this duty. We are prone to think constantly of our own interests, and there is great danger of forgetting the duty which we owe to the poor and the needy. On the duty here enjoined, see the notes on [Galatians 6:10](Galations6#v.10).
+The Greek word means having in common with others. The meaning is, that they were to show liberality to those who were in want, and were to take special pains not to forget this duty. We are prone to think constantly of our own interests, and there is great danger of forgetting the duty which we owe to the poor and the needy. On the duty here enjoined, see the notes on [Galatians 6:10](Galatians6.md#v.10).
 #barnes 
 
 

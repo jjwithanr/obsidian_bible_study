@@ -13,6 +13,10 @@ The author continues to warn his audience on becoming mature in Christ. He warns
 They had to get past the basics to biblical maturity (5:11-14), or they would fall away (6:4-8). The writer probably chooses these items as the “basics” because they were the basic sort of instructions about Jewish belief given to converts to Judaism, which all the author’s readers would have understood before becoming followers of Jesus. These items represented Jewish teachings still useful for followers of Christ. Judaism stressed \*repentance as a regular antidote for sin, and a once-for-all kind of repentance for the turning of pagans to Judaism; Judaism naturally stressed faith as well. Although “dead” works could echo the common Jewish denunciation of idols as dead, that specific an allusion is unlikely in this context; cf. 9:14.
 #craigkeener 
 
+#### v.9
+>Even though we speak like this, dear friends, we are confident of better things in your case—things that accompany salvation.
+
+
 #### v.10
 >God is not unjust; he will not forget your work and the love you have shown him as you have helped his people and continue to help them.
 

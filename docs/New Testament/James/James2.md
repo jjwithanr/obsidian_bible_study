@@ -34,3 +34,10 @@ Believing that we can live the Christian life without the Holy Spirit dwelling i
 He will save you, brother, despite a thousand imperfections, but He will not call you His friend unless you are exceedingly careful to please Him in all things. Shall we draw back from the honor because of the responsibility? No, we delight in the responsibility; we thirst to be well-pleasing to God. Though our God is a consuming fire, we aspire to dwell in Him. To our new nature this fire is its element. Even now we pray that it may refine us, and consume all our dross and tin. We would gladly be baptized with the fire baptism. We wish nothing to be spared which ought to be consumed, or which can be consumed. We accept friendship with God on His own terms. I tremble while I speak. We are willing to bear anything which will make us one with God. The Spirit of God is the Spirit of judgment and the Spirit of burning; do you know what you ask when you pray to be filled with Him? I trust you will reply, “Be it what it may, I desire to feel that heavenly influence which can make me forever the friend of God.”
 #spurgeon [sermon link](https://www.spurgeongems.org/sermon/chs1962.pdf)
 
+#### v.24
+>You see that a person is justified by what he does and not by faith alone.
+
+
+
+
+

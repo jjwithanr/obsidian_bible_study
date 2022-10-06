@@ -41,6 +41,8 @@ The sentiment of the passage then is, that the sanctifying of the Lord God in ou
 #### v.17
 >It is better, if it is God's will, to suffer for doing good than for doing evil.
 
+#### v.19-20
+>through whom also he went and preached to the spirits in prison <sup>20</sup>who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water,
 
 #### v.21
 >and this water symbolizes baptism that now saves you also - not the removal of dirt from the body but the pledge of a good conscience toward God. It saves you by the resurrection of Jesus Christ,

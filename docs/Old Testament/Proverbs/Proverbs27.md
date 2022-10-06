@@ -31,7 +31,7 @@ How, when, and why we say is important. On the surface this erse appears to be d
 #### v.18
 >He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.
 
-See also [[Galations6#v 7-8]].
+See also [[Galatians6#v 7-8]].
 
 #### v.22
 >Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him.

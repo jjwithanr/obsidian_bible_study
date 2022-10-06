@@ -3,6 +3,9 @@
 ## Overview:
 Paul returns to his correction of the false teachers' doctrines. He addreses their anthem for asceticism and clarifies that having a balance of both godliness and contenement is good since it guards the heart from the love of money. Paul sternly warns Timothy of such vices like the love of money and teaches him how to treat the wealthy in the church.
 
+#### v.1-2
+>All who are under the yoke of slavery should consider their masters worthy of full respect, so that God's name and our teaching may not be slandered. <sup>2</sup>Those who have believing masters are not to show less respect for them because they are brothers. Instead, they are to serve them even better, because tho who benefit from their service are believers, and dear to them. These are the things you are to teach and urge on them.
+
 #### v.4
 >he is conceited and understands nothing. He has an unhealthy interest in controversies and quarrels about words that result in envy, strife, mailicious talk, evil suspicions
 

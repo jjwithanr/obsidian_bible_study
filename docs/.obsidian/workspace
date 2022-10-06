@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc1af8cae6acafa",
+        "id": "790629ba8c205ab3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament/Ephesians/Ephesians6.md",
+            "file": "Reading Journals/Systematic Theology/6Church.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "243ed35130f5a7e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New Testament/Ephesians/Ephesians3.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "🔥",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Ephesians/Ephesians6.md",
+                "file": "Reading Journals/Systematic Theology/6Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dc1af8cae6acafa",
+  "active": "790629ba8c205ab3",
   "lastOpenFiles": [
-    "Topics/edward.md",
-    "Topics/alone.md",
+    "New Testament/Ephesians/Ephesians3.md",
+    "New Testament/Ephesians/Ephesians2.md",
     "Reading Journals/Systematic Theology/6Church.md",
-    "New Testament/2 Peter/2Peter1.md",
-    "New Testament/1 Timothy/1Timothy1.md",
-    "New Testament/1 Thessalonians/1Thess5.md",
-    "New Testament/1 Peter/1Peter4.md",
-    "Old Testament/Proverbs/Proverbs27.md",
-    "New Testament/Matthew/Matthew23.md",
-    "New Testament/Matthew/Matthew22.md"
+    "New Testament/2 Peter/2Peter3.md",
+    "New Testament/1 Thessalonians/1Thess4.md",
+    "New Testament/1 Thessalonians/1Thess2.md",
+    "New Testament/Galatians/Galatians1.md",
+    "New Testament/2 Corinthians/2Cor13.md",
+    "New Testament/1 Corinthians/1Cor2.md",
+    "New Testament/Luke/Luke22.md"
   ]
 }

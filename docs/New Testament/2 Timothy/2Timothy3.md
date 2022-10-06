@@ -90,7 +90,7 @@ There is no book that has so much “power” as the Bible; none that is so effi
 We are often in circumstances in which **we feel that we have reached the outer limit of what man can teach us**; but we ***never*** get into such circumstance in regard to the Word of God.
 #barnes 
 
-This supports the doctine of "sufficiency of Scripture" that is, the idea that the truth contained in Scripture is **sufficient in all matters pertaining to doctrine and moral behavior**... this does not exclude individual guidance by the Holy Spirit on how to apply the universal commands of Scripture in particular situations ([Galations 5:16,18](Galations5#v.16)).
+This supports the doctine of "sufficiency of Scripture" that is, the idea that the truth contained in Scripture is **sufficient in all matters pertaining to doctrine and moral behavior**... this does not exclude individual guidance by the Holy Spirit on how to apply the universal commands of Scripture in particular situations ([Galations 5:16,18](Galatians5.md#v.16)).
 #esvstudybible 
 
 Reading the Bible allows to see God in ways we've never seen before for all eternity.

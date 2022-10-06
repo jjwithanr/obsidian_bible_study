@@ -18,6 +18,9 @@ Hospitality was considered a paramount virtue in Greco-Roman antiquity, especial
 
 "Refresh" is also in [2 Corinthians 7:13](2Cor7#v.13).
 
+#### v.16
+>no longer as a slave, but better than a slave, as a dear brother. He is very dear to me but even dearer to you, both as a man and as a brother in the Lord.
+
 #### v.19
 >I, Paul, am writing this with my own hand. I will pay it back - not to mention that you owe me your very self.
 

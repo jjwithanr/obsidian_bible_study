@@ -11,7 +11,7 @@ The expression here has a proverbial aspect, and seems to have meant something l
 #barnes 
 
 Suffering is the template of the Christian life.  The cross is forever an emblem of God's everlasting love and a call for us to follow his footpaths.
-Similar to [Galations 2:20](Galations2#v.20).
+Similar to [Galations 2:20](Galatians2.md#v.20).
 #jj 
 
 🔥The act of **suffering for Christ makes the attractiveness of sin hollow.** The believer has put all his eggs in one basket, that of Christ, and has paid too great a price to turn back now... We may in fact still be sinning because we have not chosen to suffer and thereby have done with sin. Perhaps when come to the point of choice, **we choose compromise and then wonder why we cannot overcome temptation.** **On the other hand, we may still be sinning because [*we have not suffered enough.*](James1#v.2-3)**

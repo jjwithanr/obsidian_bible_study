@@ -4,11 +4,11 @@ Pages 803-1047
 
 #### 2022-07-29 22:09 Pages 800-840
 ##### What I learned:
-1. One restraint that common grace bestows is the force of conscience as noted in Romans 2:14-15. This shows that although their moral behavior cannot grant them salvation, unbelievers are capable of "doing good" according to Luke 6:33.
+1. One restraint that common grace bestows is the force of conscience as noted in [Romans 2:14-15](Romans2#v.14-15). This shows that although their moral behavior cannot grant them salvation, unbelievers are capable of "doing good" according to [Luke 6:33](Luke6#v.33).
 1. Adam and Eve remained married after the fall and bore children, creating the first family. The existence of families in unbelievers is evidence of common grace.
-1. It is biblical to seek good for unbelievers according to Matthew 5:45 where God bestows rain on the just and the unjust. Jesus did not require anyone to believe first in order to receive healing from him.
-2. God shows goodness even to unbelievers as evident in Psalm 145:9 and Mark 10:21.
-3. 1 Corinthians 8:3 hits diff.
+1. It is biblical to seek good for unbelievers according to [Matthew 5:45](Matthew5#v.44-45) where God bestows rain on the just and the unjust. Jesus did not require anyone to believe first in order to receive healing from him.
+2. God shows goodness even to unbelievers as evident in [Psalm 145:9](Psalm145#v.9) and [Mark 10:21](Mark10#v.21).
+3. [1 Corinthians 8:3](1Cor8#v.3) hits diff.
 4. God's highest value is His own glory, according to the Reformed view, while Arminians believe His highest value is the libertarian free will of man.
 5. Even John Calvin cringed at the doctrine of reprobation. Reprobation brings God sorrow.
 
@@ -23,7 +23,7 @@ Pages 803-1047
 ##### What I learned:
 1. All genuine gospel presentations must include repentance and forgiveness of sins.
 1. We play not active role in God's work of regeneration. Regeneration comes before saving faith.
-1. Jesus didn't refer to Christian baptism in John 3:5 since that started on Pentecost.
+1. Jesus didn't refer to Christian baptism in [John 3:5](John3#v.5) since that started on Pentecost.
 
 ##### Interesting Quote:
 - *This is why prayer is so important to effective evangelism. Unless God works in people's hearts to make the proclamation of the gospel effective, there will be no genuine saving response.* (843)
@@ -44,7 +44,7 @@ Pages 803-1047
 1. A key difference between Protestantism and Catholicism is their definition of justification. Protestants believe justification does not change us internally and not a declaration of any goodness in us. Christ's righteousness is imputed onto us and we are counted righteous before God through faith alone in Christ as our Savior. Catholics believed in infused righteousness where God puts righteousness into us that changes us internally for our moral character.
 1. The Catechism of the Catholic Church admits "so-called fiducial faith is not enough" and that a "theological or dogmatic" faith (teachings of the Catholic Church) is needed as well.
 1. Faith does not earn us justification—it is the instrument through which we receive it.
-2. James 2:24 uses the word righteous to mean "demonstrate or show to be righteous" rather than "declare to be righteous." We demonstrate that we have been declared our righteous by our actions.
+2. [James 2:24](James2#v.24) uses the word righteous to mean "demonstrate or show to be righteous" rather than "declare to be righteous." We demonstrate that we have been declared our righteous by our actions.
 3. The major flaw of the New Perspective on Paul is its redefinition of justification as God's declaration that we a part of the family of God. Grudem's main point is that nowhere in the Greek or in Paul's usage of the word indicate he meant justify to mean "to declare someone to part of a community."
 4. Angels are spiritually alive beings who do not share the special privileges of family members in God's household.
 
@@ -56,24 +56,24 @@ Pages 803-1047
 #### 2022-08-02 22:17 Pages 920-960
 ##### What I learned:
 1. Paul recognizes that we have been both set free from sin and that sin still remains in our lives. Our sanctification will never be completed in this life. Note that the usage of "sanctified" in Hebrews likens more what Paul means by justification.
-1. Matthew 5:48 does not call for perfectionism. It simply shows that God's absolute moral purity is the standard we aim for and in which we will be held accountable for. In other words, God's perfection is the standard—not church tradition, denominational qualifications, or even standards held by loved ones and those we look up to.
+1. [Matthew 5:48](Matthew5#v.48) does not call for perfectionism. It simply shows that God's absolute moral purity is the standard we aim for and in which we will be held accountable for. In other words, God's perfection is the standard—not church tradition, denominational qualifications, or even standards held by loved ones and those we look up to.
 1. Grudem lists 11 motives to obedience in the Christian life on pages 936 and 937.
 2. C. Peter Wagner was the first person to coin the term, "third wave" charismatic Christianity in the 1980's.
 3. Baptism in the Holy Spirit occured at conversion.
-4. 1 Corinthians 12:13 stands at the crux of the biblical basis for being baptized *by* the Holy Spirit. "Baptized in the Holy Spirit" is a more accurate translation and would thus topple more Pentecostal interpretations of the verse.
-5. Numbers 11:29 shows Moses longed for the day when the Holy Spirit would be poured out on all of God's people.
-6. The case of the baptism of the Holy Spirit over the Samaritans in Acts 8 was to show Samaritans were included God's redemptive plan and were not second-class citizens to the church. They were full members and this thus fulfilled Jesus words in Acts 1:8 when he said his disciples would be witnesses to Samaria. 
+4. [1 Corinthians 12:13](1Cor12#v.13) stands at the crux of the biblical basis for being baptized *by* the Holy Spirit. "Baptized in the Holy Spirit" is a more accurate translation and would thus topple more Pentecostal interpretations of the verse.
+5. [Numbers 11:29](Numbers11#v.29) shows Moses longed for the day when the Holy Spirit would be poured out on all of God's people.
+6. The case of the baptism of the Holy Spirit over the Samaritans in [Acts 8](Acts8) was to show Samaritans were included God's redemptive plan and were not second-class citizens to the church. They were full members and this thus fulfilled Jesus words in [Acts 1:8](Acts1#v.8) when he said his disciples would be witnesses to Samaria. 
 
 ##### Interesting Quote:
 - *The day of Pentecost was the point of transition between the old covenant and ministry of the Holy Spirit and the new covenant work and ministry of the Holy Spirit.* (950)
-- *the Holy Spirit will graciously bring a measure of the additional fullness and empowering that sincere Christians are seeking, even though their theological undersatnding and vocabulary may be imperfect in the asking.* (959)
+- *the Holy Spirit will graciously bring a measure of the additional fullness and empowering that sincere Christians are seeking, even though their theological understanding and vocabulary may be imperfect in the asking.* (959)
 
 #### 2022-08-16 21:37 Pages 960-1000
 ##### What I learned:
-1. Grudem dislikes the term *baptism in the Holy Spirit* since it implies two groups of Christians. Nevertheless, the Bible does imply Christians should repeatedly be filled with the Holy Spirit (Eph 5:18).
+1. Grudem dislikes the term *baptism in the Holy Spirit* since it implies two groups of Christians. Nevertheless, the Bible does imply Christians should repeatedly be filled with the Holy Spirit ([Eph 5:18](Ephesians5#v.18)).
 1. There were many cases where being filled with the Holy Spirit did not result  in speaking in tongues such as when Jesus returned from 40 days fasting in the desert or Elizabeth while blessing Mary or Zechariah when prophesying.
-1. Hebrews 6:9 gives context that salvation was something that was not part of the things in verses 4-6. It translates as "also belong to salvation" which implies they didn't have it to begin with.
-2. 2 Peter 1:10 implies our assurance of salvation can be grow over time as we imitate the qualities layed out in verses 5-7.
+1. [Hebrews 6:9](Hebrews6#v.9) gives context that salvation was something that was not part of the things in verses 4-6. It translates as "also belong to salvation" which implies they didn't have it to begin with.
+2. [2 Peter 1:10](2Peter1#v.10) implies our assurance of salvation can be grow over time as we imitate the qualities layed out in [verses 5-7](2Peter1#v.5-7).
 
 ##### Interesting Quote:
 - from Wimber *The Pentecostal's experience of God is better than their explanation of it"* (963)
@@ -84,7 +84,7 @@ Pages 803-1047
 ##### What I learned:
 1. Purgatory was justified in Catholicism because of their inclusion of 2 Macabees (specifically 12:42-45) in the biblical canon.
 1. Soul sleep is the doctrine that teaches believers enter a state of unconscious existence when they die. They become conscious when Christ returns and raises them to eternal life.
-1. Hebrews 12:1 and 12:22-24 imply that those who have died have *some* awareness of what is going on in the earth.
+1. [Hebrews 12:1](Hebrews12#v.1) and [12:22-24](Hebrews12#v.22-24) imply that those who have died have *some* awareness of what is going on in the earth.
 2. People will recognize and know one another in heaven.
 
 ##### Interesting Quote:

@@ -7,7 +7,6 @@ Peter reminds his audience of some foundational Christian teachings and defends 
 >Simon Peter, a servant and apostle of Jesus Christ,
 >To those who through the righteousness of our God and Savior Jesus Christ have **received a faith as precious as ours**:
 
-
 #### v.2
 >Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.
 
