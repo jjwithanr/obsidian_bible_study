@@ -13,5 +13,6 @@
 #### v.10-11
 >His pleasure is not in the strength of the horse, nor his delight in the legs of a man; <sup>11</sup>the Lord delights in those who fear him, who put their hope in his unfailing love.
 
-
-
+They know the vanity of military, logistical, or human power, because the "strength of the horse" or "a man" is nothing in comparison with the Lord's "power"
+ (v.5).
+ #vangemeren r

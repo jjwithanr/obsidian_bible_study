@@ -59,7 +59,7 @@ Do you consider yourself one of the **young men** spiritually? Then are you **st
 #### v.17
 >The world and **its desires** pass away, but the man who does the will of God lives forever.
 
-9/1/2021 - Jason Martinez shared bits of his heart at UHOP. Afterward, I got to chat with him. He told his story of how he ended up at USC and encouraged us with what the wisdom his hindsight offerred: What we think is so BIG now will become so small years down the road. My desire to be excellent in whatever career field I end up in, to lead a successful ministry with many people and evident fruit, or even my desire for an amazing wife and kids will pass away. The will of God may contain such things but God promises that doing the will of God in this moment lets me "[[build]] happiness on a basis which is secure, and which can never pass away."
+9/1/2021 - Jason Martinez shared bits of his heart at UHOP. Afterward, I got to chat with him. He told his story of how he ended up at USC and encouraged us with what the wisdom his hindsight offerred: What we think is so BIG now will become so small years down the road. My desire to be excellent in whatever career field I end up in, to lead a successful ministry with many people and evident fruit, or even my desire for an amazing wife and kids will pass away. The will of God may contain such things but God promises that doing the will of God in this moment lets me "build happiness on a basis which is secure, and which can never pass away."
 #jj 
 
 #### v.20

@@ -17,8 +17,6 @@
 	- tet
 	- test
 	- test
-- Takeaways
-- Takeaways
 
 
 ### The Call to Service
@@ -40,3 +38,23 @@
 	- Unity: demonstrate the reconciling power of the gospel.
 	- Prayer: the state of the gospel changes by prayer.
 - *The motto of Operation World is ,"When man workds, man workds, but when man prays, God works. We can strategize, harmonize, dialogue, and worship—we can equip ourselves with the best financial resources and the most astute missiology available—but without prayer, we will not see spiritual strongholds broken down, nor the unevangelized peoples experiencing the gospel. ==The state of the gospel changes by prayer.=="* (368)
+
+
+### Women in Mission
+**Marguerite Kraft, Meg Crossman**
+- Women became the "major muscle" of the missions movement since many were widowed or unmarried due to so many deaths from the Civil War.
+- 2/3 of the missions force has been and currently is female.
+- from David Yonggi Cho:
+>We have found that in these situations, women will never give up. Men are good for building up the work, but the women are best for persevering when men get discouraged.
+- Medical missions was dominated by women for many years
+
+
+### Europe's Moravians
+**Colin A. Grant**
+- Within 150 years, the Moravians sent out 2,158 of its members overseas.
+- The Moravians fled anti-Reformation persecution in Bohemia (in Czech Republic) and settled in Zinzendorf's property (southern Germany).
+- from A.C. Thompson, a recorder of Moravian history:
+>So fully is the duty of evangelizing the heathen lodged in current thought that the fact of anyone entering personally upon that work never creates surprise... It is ont regarded as a thing that calls for widespread heralding, as if something marvelous or even unusual were in hand.
+- from Rev. Ignatius Latrobe, a former secretary of the Moravian missions in the U.K.:
+>We think it a great mistake when, after their appointment, missionaries are held up to public notice and admiration and much praise is bestowed upon their devotedness to their Lord, presenting them to the congregations as martyrs and confessors before they have even entered upon their labours. **We rather advise them quietly to set out, recommended to the fervent prayers of the congregation**...
+- One Moravian missionary among the Huron, David Zeisberger, suffered an invasion from another indigenous tribe resulting in the burning of all his manuscripts of Scripture translation, hymns, and notes on the grammar of Indian languages. Nonetheless, he resumed his work trusting in the Lord for provision.

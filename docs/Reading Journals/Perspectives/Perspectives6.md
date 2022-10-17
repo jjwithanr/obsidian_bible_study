@@ -15,7 +15,7 @@
 - Charlemagne was a second Constantine. He made the first serious attempt at public education by elnisting literate Christians—including former barbarian Irish teachers—to teach Latin in Rome. 
 - *Once more, when Christian did not reach out to them, pagan peoples came after what the Christian possessed. And once more, the phenomenal power of Christianity manifested itself: the conquerors became conquered by the faith of their captives.* (220)
 - The Cluny revival produced a new reforming attitude towards society as a whole. Its fruit include Hildebrand and Pope Innocent III who authorized the first mobile mission orders—the Friars.
-- The Crusuades were a result of the Viking spirit in the Christian church. All of the major crusuades wre led by Viking descendants.
+- The Crusuades were a result of the Viking spirit in the Christian church. All of the major crusuades were led by Viking descendants.
 - *The great lesson of the Crusuades is that goodwill, even sacrificial obedience to God, is not substitute for a clear understanding of His will.* (222)
 - Catholic missionaries were writing off the Protestant movement as apostate since they were not sending missionaries. 
 
@@ -52,8 +52,3 @@
 - *The harmony between the modality and the sodality achieved by the Roman Church is perhaps the most significant characteristic of this phase of the world Christian movement and continues to be Rome's greatest organizational advantage to this day.* (249)
 - Great insight for today's landscape: *U.S. denominations, lacking tax support as on the Continent, have been generally a more selective and vital fellowship than the European state churches, and, at least in their youthful exuberance, have felt quite capable as denominations of providing all of the necessary initiative for overseas mission. It is for this latter reason that ===many new denominations of the U.S. have tended to act as though centralized church control of mission efforts is the only proper pattern.===* (252)
 
-### The Social Impact of Christian Missions
-**Robert D. Woodberry**
-- 
-- Takeaways
-- Takeaways

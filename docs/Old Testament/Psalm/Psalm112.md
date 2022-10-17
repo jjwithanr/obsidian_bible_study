@@ -14,3 +14,11 @@
 >He will have no fear of bad news; his heart is steadfast, trusting in the Lord.
 
 [Spurgeon sermon](https://www.spurgeongems.org/sermon/chs647.pdf)
+
+#### v.9
+>He has scattered abroad his gifts to the poor, his righteousness endures forever; his horn will be lifted high in honor.
+
+The psalmist has singled out generosity and compassion as the hallmarks of wise living. Such living leads to lasting success. The work of the godly endures; their reward is in the exaltation and honor of their children.
+#allenpross 
+
+
