@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c04fffeddc41b1b",
+        "id": "c16fb1d0ea404c9b",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe4ebe05fe4af2e",
+            "id": "89af1bb12fca0b62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Testament/2 Timothy/2Timothy2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#craigkeener",
+                "query": "file:Mark12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +103,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1fe4ebe05fe4af2e",
+  "active": "89af1bb12fca0b62",
   "lastOpenFiles": [
+    "Old Testament/1 Kings/1Kings2.md",
+    "Old Testament/Proverbs/Proverbs13.md",
+    "Old Testament/Proverbs/Untitled.md",
+    "Old Testament/Obadiah.md",
+    "Old Testament/Untitled.md",
+    "New Testament/Mark/Mark12.md",
+    "Reading Journals/Perspectives/Perspectives9.md",
+    "New Testament/2 Timothy/2Timothy2.md",
     "New Testament/2 Timothy/2Timothy1.md",
-    "New Testament/2 Thessalonians/2Thess3.md",
-    "New Testament/2John.md",
-    "New Testament/1 Timothy/1Timothy6.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "New Testament/1 Timothy/1Timothy4.md",
-    "New Testament/1 Corinthians/1Cor9.md",
-    "New Testament/Mark/Mark8.md",
-    "New Testament/Mark/Mark9.md",
-    "Old Testament/2 Samuel/2Samuel19.md"
+    "New Testament/2 Thessalonians/2Thess3.md"
   ]
 }

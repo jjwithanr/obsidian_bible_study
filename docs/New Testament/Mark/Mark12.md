@@ -50,16 +50,24 @@ They tell us this in order that we may easily glide through the world, and that 
 If there be error in high places, if there be vice anywhere, **it is the duty of the minister of Christ, in His Master’s name, to attack it with all his might.** Here we find our Lord and Master plainly declaring that the scribes, the great masters of the law, were a set of pretentious hypocrites, who robbed even the widow and the fatherless, and who would, in due time, “receive greater damnation.” Even so must the truth still be spoken, whoever may be offended by it.
 #spurgeon 
 
+Jesus does not praise but rather laments this woman’s behavior. She has been taught “sacrificial giving” by her religious leaders, and that is the pity. These authorities promised to redistribute Temple collections to the needy. In actuality, they spent the funds on conspicuous consumption instead: long robes and banquets. This is how they “devoured the estates of widows.”
+#johnpilch
+
+This gives the appropriate context for understanding the poor widow who gave out of her poverty. Learned this on 10/22/22! Praise God for His Holy Spirit who illuminates divine truths to His children!
+#jj 
+
 #### v.44
 >They all gave out of their wealth; but she, out of her poverty, put in everything - all she had to live on."
 
-Many give out of the wealth of their faith, gifting, and authority yet hold back the totality of their heart's devotion. The widow gave out of her sincere poverty yielding all of her heart's peripheral desires. Similar to [Luke 17:5](Luke17#v.5-6).
-#jj 
+The context of the Biblical account of the widow who gave her last two mites is **not meant to teach sacrificial giving**. In fact, the Lord’s real point is virtually the antithesis of how the passage is usually treated. The Lord here teaches the crime--one of which any false religious system is guilty--of having no particular interest in the welfare of the individual, but a great deal of interest in exploiting the giver for the system's own gain.
+
+==The widow gave all she had under the misguided impression that she was serving God.== This is why the Lord said (v. 40) that the scribes were guilty of devouring widows’ houses. The scribes, with no apparent pangs of conscience, actively promoted the kind of extreme sacrifice exhibited by this poor widow. And Jesus clearly is teaching that the coercions and intimidations practiced by the scribes were evil. A further irony—the most tragic of all—is that the scribes of Jesus' day promoted such a heretical doctrine while this unfortunate person, as well as the rest of the nation of Israel, headed for destruction.
+
+==Do not give if it hurts; God does not want—or need—that kind of giving.==
+#bibleorg 
 
 That the highest evidence of love to the cause of religion is not the "amount" given, but the amount compared with our means.
-
 That God does not despise the humblest offering, if made in sincerity. He loves a cheerful giver.
-
 We may remark that few practice self-denial for the purpose of charity. Most give of their abundance - that is, what they can spare without feeling it, and many feel that this is the same as throwing it away. Among all the thousands who give to these objects, how few deny themselves of one comfort, even the least, that they may advance the kingdom of Christ!
 #barnes 
 
