@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c16fb1d0ea404c9b",
+        "id": "3ee8bb81d5480de5",
         "type": "tabs",
         "children": [
           {
-            "id": "89af1bb12fca0b62",
+            "id": "a7cb476b677ab7dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Old Testament/Proverbs/Proverbs14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Mark12",
+                "query": "file:Proverbs14",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Old Testament/Proverbs/Proverbs14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +109,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "89af1bb12fca0b62",
+  "active": "a7cb476b677ab7dd",
   "lastOpenFiles": [
+    "Reading Journals/Perspectives/Perspectives9.md",
     "Old Testament/1 Kings/1Kings2.md",
     "Old Testament/Proverbs/Proverbs13.md",
     "Old Testament/Proverbs/Untitled.md",
     "Old Testament/Obadiah.md",
     "Old Testament/Untitled.md",
     "New Testament/Mark/Mark12.md",
-    "Reading Journals/Perspectives/Perspectives9.md",
     "New Testament/2 Timothy/2Timothy2.md",
     "New Testament/2 Timothy/2Timothy1.md",
     "New Testament/2 Thessalonians/2Thess3.md"
