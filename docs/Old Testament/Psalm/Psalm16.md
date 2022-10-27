@@ -10,6 +10,7 @@
 >I said to the LORD, "You are my Lord; apart from you I have no good thing."
 
 It is possible to appear good in the sight of humans, but it is impossible to appear good in the eyes of the Lord without a personal relationship with Him.
+#jj 
 
 #### v.3
 >As for the saints who are in the land, they are the glorious ones in whom is all my delight.
@@ -24,7 +25,7 @@ Delight in God also finds expression in a joyful acceptance of "the saints"... T
 >The sorrows of those will increase who run after other gods. I will not pour out their libations of blood or take up their names on my lips.
 
 #### v.5
->The sorrows of those will increase who run after other gods. I will not pour out their libations of blood or take up their names on my lips.
+>Lord you have assigned me my portion and my cup; you have made my lot secure.
 
 The one true, pure, abiding joy is to hold fellowship with God and to live in His love. **The secret of all our unrest is the going out of our desires after earthly things.** They fly forth from our hearts like Noah’s raven, and nowhere amid all the weltering flood can find a resting-place. The secret of satisfied repose is to set our affections thoroughly on God. Then our wearied hearts, like Noah’s dove returning to its rest, will fold their wings and nestle fast by the throne of God. ‘All the happiness of this life,’ said William Law, ‘is but trying to quench thirst out of golden empty cups.’ But if we will take the Lord for ‘the portion of our cup,’ we shall never thirst.
 #maclaren 

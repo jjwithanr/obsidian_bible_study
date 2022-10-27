@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7cb476b677ab7dd",
+            "id": "7d8aa6a5a60ab9ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs14.md",
+                "file": "Old Testament/Proverbs/Proverbs16.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Proverbs14",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs14.md",
+                "file": "Old Testament/Proverbs/Proverbs16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,20 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a7cb476b677ab7dd",
+  "active": "7d8aa6a5a60ab9ce",
   "lastOpenFiles": [
-    "Reading Journals/Perspectives/Perspectives9.md",
-    "Old Testament/1 Kings/1Kings2.md",
-    "Old Testament/Proverbs/Proverbs13.md",
-    "Old Testament/Proverbs/Untitled.md",
-    "Old Testament/Obadiah.md",
-    "Old Testament/Untitled.md",
-    "New Testament/Mark/Mark12.md",
-    "New Testament/2 Timothy/2Timothy2.md",
-    "New Testament/2 Timothy/2Timothy1.md",
-    "New Testament/2 Thessalonians/2Thess3.md"
+    "Old Testament/Proverbs/Proverbs16.md",
+    "Old Testament/Psalm/Psalm37.md",
+    "Old Testament/Psalm/Psalm5.md",
+    "New Testament/Mark/Mark5.md",
+    "Old Testament/Genesis/Genesis11.md",
+    "Old Testament/Zechariah/Zechariah1.md",
+    "Old Testament/Psalm/Psalm16.md",
+    "New Testament/Revelation/Revelation12.md",
+    "Old Testament/Proverbs/Proverbs14.md",
+    "Reading Journals/Perspectives/Perspectives9.md"
   ]
 }

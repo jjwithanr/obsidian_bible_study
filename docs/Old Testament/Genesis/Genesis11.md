@@ -22,8 +22,6 @@ He still deals in mercy with a remnant of the human race, and has visited the ea
 #### v.6
 >The Lord said, "If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.
 
-
-
 #### v.7
 >Come, let us go down and confuse their language so they will not understand each other."
 
