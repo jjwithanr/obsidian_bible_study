@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.2
+>A fool finds no pleasure in understanding but delights in airing his own opinions.
+
 #### v.4
 >The words of a man's mouth are deep waters, but the fountain of wisdom is a bubbling brook.
 

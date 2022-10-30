@@ -37,7 +37,7 @@ The carnal man can “read the office,” and “do duty” as well as anybody e
 
 ### Spurgeon on [Zechariah 12:10](Zechariah12.md#v.10 )
 [Sermon](https://www.spurgeongems.org/sermon/chs1983.pdf)
-The words may be broken and confused, but what are words? Sighs, tears, heaving of the breast, and upward glancings of the eye - these are true prayers, and are very prevalent with God.
+==The words may be broken and confused, but what are words? Sighs, tears, heaving of the breast, and upward glancings of the eye - these are true prayers, and are very prevalent with God.==
 
 The hardness of the heart dies when we see Jesus die in woe so great.
 

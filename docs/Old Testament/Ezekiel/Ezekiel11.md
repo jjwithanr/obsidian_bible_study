@@ -18,7 +18,6 @@ In exile the Lord would continue to be an ever-present sanctuary for his people,
 #### v.18
 >"They will return to it and remove all its vile images and detestable idols.
 
-
 #### v.19
 >I will give them an undivided heart and put a new spirit in them; I will remove from them their heart of stone and give them a heart of flesh.
 

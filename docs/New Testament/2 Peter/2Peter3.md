@@ -61,7 +61,7 @@ To know the Lord Jesus Christ - to possess just views of his person, character, 
 #barnes 
 
 Amen
- Under the law, **Amen** was only said at the declaration of the _curses_ ([Deuteronomy 27:14-26](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Deuteronomy+27.14-26&t=NKJV)). Under the New Covenant, we say “Amen” at the announcement of a great blessing and praise to God.
- #enduringword
+Under the law, **Amen** was only said at the declaration of the _curses_ ([Deuteronomy 27:14-26](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Deuteronomy+27.14-26&t=NKJV)). Under the New Covenant, we say “Amen” at the announcement of a great blessing and praise to God.
+#enduringword
  
  

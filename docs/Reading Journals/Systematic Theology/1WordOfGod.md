@@ -22,7 +22,7 @@ Pages 31-169
 - *Systematic theology rightly studied will not lead to knowledge that "puffs up" (1 Cor. 8:1) but to humility and love for others.* (18).
 
 
-#### 2022-3-20 23:17 Pages 31-48
+#### 2022-3-20 Pages 31-48
 ##### What I learned:
 > So they tore down the altar and stored the stones in a convenient place on the temple hill until there should come a prophet to tell what to do with them"
 > 1 Maccabees 4:45-46
@@ -33,6 +33,51 @@ Pages 31-169
 4. Jerome included the Apocryph in the Vulgate while admitting they were not "books of the canon" but merely "books of the church."
 
 ##### Interesting Quote:
-- ** ()
+- *The Old Testament closes with the expectation of the Messiah to come (Mal. 3:1-4; 4:1-6).* (47)
+
+
+#### 2022-3-20 Pages 49-69
+##### What I learned:
+1. 1 Timothy 5:17-18 shows Paul quoting a portion of Luke's gospel and calling it "Scripture."
+1. Mark, Luke, Acts, Hebrews, and Jude were not written by apostles.
+2. The Thirty-Ninth Paschal Letter of Athanasius, in AD 367, contained a list of the twenty-seven New Testament books we hold onto today.
+3. The Council of Carthage in AD 397 agreed with the eastern churches on the same list for the New Testament canon.
+4. The Gospel of Thomas, which was thought to be a part of the canon for some time, ends pretty absurdedly 😂: 
+>Simon Peter said to them: "Let Mary go away from us, for women are not worthy of life." Jesus said: "Lo, I shall lead her, so that I may make here a male, that she too may become a living spirit, resembling you males. For every woman who makes herself a male will enter the kingdom of heaven."
+ 
+ 5. Scripture show all throughout that the word of the Old Testament was attributed to God Himself.
+##### Interesting Quote:
+- *Moreover, the apostles did much more oral teaching, which had divine authority (see 2 Thess. 2:15) but was not wrriten down and preserved as Scripture.* (50)
+- *Ultimately, then, we base our confidence in the correctness of our present canon on the faithfulness of God.* (54)
+- *In all of these arguments for an ultimate standard of truth, an absolute authority for what to believe, there is an element of circularity involved.* (69)
+
+
+#### 2022-3-20 Pages 70-84
+##### What I learned:
+1. Titus 1:2 and Hebrews 6:18 assures us that God cannot lie.
+1. Psalm 119:89 says every word is fixed in heaven for all eternity.
+1. In John 17:17, we would have expected Jesus him to say, "Your word is true." Jesus chooses not to use the Greek word, alethes (meaning "true"), but uses aletheia (meaning "truth"). God's Word is truth itself.
+2. Truth is what God says.
+
+##### Interesting Quote:
+- *They have recognized that the actual words of Scripture have more spiritual power than any merely human words or human wisdom, and therefore their sermons have focused on explaining the text and then relating real-life stories not merely to entertain but rather to illustrate how the text has made a difference in their own lives and the lives of other believers.* (72)
+
+
+#### 2022-3-20 Pages 85-108
+##### What I learned:
+1. The Doctrine of Inerrancy is consistent with loose or free quotations of the Old Testament. 
+1. 2 Timothy 3:16 says ALL Scripture is profitable for us.
+1. Original copies of Scripture are called autographs.
+2. The Hebrew Old Testament and Greek New Testament we have today are the same as the original manuscripts. MIND BLOWN.
+3. Grudem responds to a controversy arisen by Daniel P. Fuller who said God, "deliberately accomodated his language in nonrevelational matters to the way the original readers viewed the world about them, so as to enhance the communication of revelational truth." His example is the mustard seed NOT being the smallest seed. It is better to understand Jesus referring to it as the smallest of all agricultural seeds.
+4. Grudem resolves seemingly contradictory passages regarding Jesus' charge to his disciples on what supplies they can/cannot bring on their mission trip. He reconciles this by noting Jesus was simply saying to not bring extra supplies.
+
+##### Interesting Quote:
+- *The issue with the doctrine of inerrancy is truthfulness in speech.* (88)
+
+
+ 
+
+
 
 
