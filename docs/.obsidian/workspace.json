@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee8bb81d5480de5",
+        "id": "27f65b69898f77f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2d517f46768a067f",
+            "id": "1f2743eb6250c64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Journals/Systematic Theology/1WordOfGod.md",
+                "file": "Reading Journals/Studies In The Sermon On The Mount.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Systematic Theology/1WordOfGod.md",
+                "file": "Reading Journals/Studies In The Sermon On The Mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d517f46768a067f",
+  "active": "1f2743eb6250c64b",
   "lastOpenFiles": [
+    "Templates/pg.md",
+    "Reading Journals/Studies In The Sermon On The Mount.md",
+    "Reading Journals/Studies in the Sermon Mount/GeneralIntroduction.md",
+    "New Testament/Luke/Luke3.md",
+    "Reading Journals/Systematic Theology/1WordOfGod.md",
     "Topics/prayer.md",
     "Topics/prayerSpirit.md",
     "Old Testament/Proverbs/Proverbs18.md",
-    "Reading Journals/Systematic Theology/1WordOfGod.md",
     "Reading Journals/Perspectives/Perspectives8.md",
-    "Reading Journals/Perspectives/Perspectives7.md",
-    "Reading Journals/Perspectives/Perspectives6.md",
-    "Reading Journals/Perspectives/Perspectives5.md",
-    "Reading Journals/Perspectives/Perspectives4.md",
-    "Reading Journals/Perspectives/Perspectives2.md"
+    "Reading Journals/Perspectives/Perspectives7.md"
   ]
 }
