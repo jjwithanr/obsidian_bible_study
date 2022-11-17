@@ -18,7 +18,8 @@ Aldrich Park.
 #### v.3
 >he restores my soul. He guides me in paths of righteousness for his name's sake.
 
-
+"Righteousness" (GK 7406) here signifies "right" in the sense of "straight," i.e., the paths that bring the sheep most directly to their destination. He does not unnecessarily tire out his sheep. Even when the "right paths" bring the sheep "through the valley of the shadow of death," there is no need to fear.
+#vangemeren 
 
 #### v.4
 >Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.

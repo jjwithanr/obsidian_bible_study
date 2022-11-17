@@ -50,9 +50,9 @@ Loneliness is born out the fleshly heart’s pattern of incorrectly searching to
 Beloved, we are living in a time where I am becoming more and more convinced that we need to welcome wilderness-like seasons that lead us from the herd and to the Shepherd. If you have been struggling with loneliness, here are three practical steps to take NOW:
 
 1.  Go commune with God! Beloved, there is so much to this. We need to understand how important it is that in moments of loneliness, we FLEE to the resting place of God. The cross of Jesus has made an open invitation for you to come before the throne of the Father and encounter the One, True, Living God. (Matthew 5:4)
-    
+
 2.  Develop some brotherly/sisterly accountability. If you are feeling lonely but you are not revealing or being vulnerable about this to anyone, then you will stay lonely. Being vulnerable and leaving room for close brothers/sisters to pour into us in times of weakness allows the Holy Spirit more room to increase the measure of His Spirit in us. (Ephesians 1:17-19, 2 Corinthians 12:9, Philippians 3:7-10, John 3:30)
-    
+
 3.  Choose joy. I consider this a practical step because the Holy Spirit’s indwelling in us has now gifted us the grace to resist sin and CHOOSE to walk in the image of His Son. Beloved, we have to choose joy. The devil is on a mission to steal your joy and take away your blessings from you. Choose to have joy and gratitude towards God in the small instances and in the big moments. (Nehemiah 8:10, Romans 15:13)
 #jonathankim
 

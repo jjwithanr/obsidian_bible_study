@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f2743eb6250c64b",
+            "id": "27ffb88bf5ffbd9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Journals/Studies In The Sermon On The Mount.md",
+                "file": "Old Testament/Psalm/Psalm23.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "never",
+                "query": "#jonathan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Studies In The Sermon On The Mount.md",
+                "file": "Old Testament/Psalm/Psalm23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f2743eb6250c64b",
+  "active": "27ffb88bf5ffbd9a",
   "lastOpenFiles": [
-    "Templates/pg.md",
-    "Reading Journals/Studies In The Sermon On The Mount.md",
-    "Reading Journals/Studies in the Sermon Mount/GeneralIntroduction.md",
-    "New Testament/Luke/Luke3.md",
-    "Reading Journals/Systematic Theology/1WordOfGod.md",
+    "Old Testament/Proverbs/Proverbs28.md",
+    "Old Testament/Jeremiah/Jeremiah6.md",
+    "Old Testament/Proverbs/Proverbs27.md",
+    "Topics/alone.md",
+    "Topics/edward.md",
+    "Reading Journals/Perspectives/Perspectives10.md",
+    "Reading Journals/Perspectives/Pespectives11.md",
+    "New Testament/Romans/Romans6.md",
     "Topics/prayer.md",
-    "Topics/prayerSpirit.md",
-    "Old Testament/Proverbs/Proverbs18.md",
-    "Reading Journals/Perspectives/Perspectives8.md",
-    "Reading Journals/Perspectives/Perspectives7.md"
+    "Old Testament/Ezekiel/Ezekiel14.md"
   ]
 }
