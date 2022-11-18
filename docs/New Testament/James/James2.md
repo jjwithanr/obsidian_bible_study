@@ -21,12 +21,10 @@ Pastor Ed's story of him taking two girls who lost their mother despite being a 
 #### v.26
 >As the body without the spirit is dead, so faith without deeds is dead.
 
-Watchman Nee expands greatly on the body, soul, and spirit in *Spiritual Man*.
-#jj research
-
-The man without a spirit is dead since they can't accept anything or understand anything that is spiritual - that which gives life. This nature is expounded in [1 Corinthians 2:14](1Cor2#v.14)
+The man without a spirit is dead since they can't accept anything or understand anything that is spiritual - that which gives life. This nature is expounded in [1 Corinthians 2:14](1Cor2#v.14).
 
 Believing that we can live the Christian life without the Holy Spirit dwelling inside us is just as false as claiming to have a faith that is without deeds.
+#jj 
 
 #### v.23
 >And the scripture was fulfilled that says, "Abraham believed God, and it was credited to him as righteousness," and **he was called God's friend.**

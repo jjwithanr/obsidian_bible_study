@@ -76,7 +76,34 @@ Pages 31-169
 - *The issue with the doctrine of inerrancy is truthfulness in speech.* (88)
 
 
- 
+#### Pages 109-136
+##### What I learned:
+>the clarity of Scripture means that the Bible is written in such a way that it is able to be understood, but right understanding require time, effort, the use of ordinary means, a willingess to obey, and the help of the Holy Spirit; and our understanding will remain imperfect in this lifetime.
+1. Deut 30:11-14 clearly shows that God expects His people to understand His commands.
+1. Jesus blames the misunderstandings not on the Scriptures themselves but on those who misunderstand or fail to accept them. Examples: Matt. 12:3,5; 19:4, 21:42; 22:29,31; 9:13; John 3:10.
+2. Jesus explicitly rebukes the two disciples on the road to Emmaus when they were slow of heart to believe what the prophets had spoken.
+3. Deeper understanding is given to those who are more mature in their faith.
+4. John 8:43 hits hard.
+5. Requirements for understanding Scripture rightly:
+	1. Time - the Bible emphasizes meditation.
+	2. Effort - Ezra set his heart to *study* the Law of the Lord in Ezra 7:10.
+	3. The Use of Ordinary Means - translation in native language.
+	4. A Willingness to Obey - 1 Corinthians 3:1-3 shows that maturity determines availabilty of konwledge/teaching.
+	5. The Help of the Holy Spirit - Psalm 119:18, 27, 34, 73.
+	6. Humble Recognition that Our Understanding is Imperfect - some of the disciples didn't even understand.
+
+>Without the clarity of Scripture someone could say, "I believe fully in the absolute divine authority of Scripture—but I have no idea what it requires me to believe or how it requires me to live." In this way, if Scripture has no clarity, its authority is effectively nullified in real life.
+
+- The fact that the New Testament frequently quotes from the Greek translation of the Old Testament called the Septuagint justifies the translation of Scripture into other languages.
+- Doctrine of the Clarity of Scripture should lead directly to universal literacy for a nation.
+
+
+
+
+
+  
+
+
 
 
 

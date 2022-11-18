@@ -52,7 +52,7 @@ The design of this passage is, to **prevent people from forming an improper esti
 #### v.6
 >Anyone who receives instruction in the word must share all good things with his instructor.
 
-I have often wondered why all the apostles reiterated this request with such embarrassing frequency… We have come to understand why it is so necessary to repeat the admonition of this verse. When Satan cannot suppress the preaching of the Gospel by force, he tries to accomplish his purpose by striking the ministers of the Gospel with poverty.
+I have often wondered why all the apostles reiterated this request with such embarrassing frequency… We have come to understand why it is so necessary to repeat the admonition of this verse. **When Satan cannot suppress the preaching of the Gospel by force, he tries to accomplish his purpose by striking the ministers of the Gospel with poverty.**
 #luther 
 
 #### v.7-8

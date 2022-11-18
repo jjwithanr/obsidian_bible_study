@@ -21,7 +21,7 @@ I have Yewon and Paul written in my Bible next to this verse. The 2020-2021 scho
 >Night and day we pray most earnestly that we may see you again and supply what is lacking in your faith.
 
 #### v.12
->May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you.
+>May the Lord make your love increase and overflow for each other and for everyone else, **just as ours does for you.**
 
  Cultivating a community increasing and overflowing for one another begins with the leader whose love increases and overflows for them because of Christ's love overflow in their own heart first.
  #jj 

@@ -13,5 +13,4 @@
 #### v.20-21
 >Then the Lord said, "The outcry against Sodom and Gomorrah is so great and their sin so grievous <sup>21</sup>that I will go down and see if what they have done is as bad as the outcry that has reached me. If not, I will know."
 
-cd 
 

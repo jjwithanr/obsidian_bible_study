@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27ffb88bf5ffbd9a",
+            "id": "3e33373ce7778a7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalm/Psalm23.md",
+                "file": "Reading Journals/Systematic Theology/1WordOfGod.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm23.md",
+                "file": "Reading Journals/Systematic Theology/1WordOfGod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27ffb88bf5ffbd9a",
+  "active": "3e33373ce7778a7f",
   "lastOpenFiles": [
-    "Old Testament/Proverbs/Proverbs28.md",
-    "Old Testament/Jeremiah/Jeremiah6.md",
-    "Old Testament/Proverbs/Proverbs27.md",
-    "Topics/alone.md",
-    "Topics/edward.md",
-    "Reading Journals/Perspectives/Perspectives10.md",
-    "Reading Journals/Perspectives/Pespectives11.md",
-    "New Testament/Romans/Romans6.md",
-    "Topics/prayer.md",
-    "Old Testament/Ezekiel/Ezekiel14.md"
+    "Templates/entry.md",
+    "Reading Journals/Systematic Theology/1WordOfGod.md",
+    "Reading Journals/Perspectives/Perspectives13.md",
+    "New Testament/1 Thessalonians/1Thess3.md",
+    "Old Testament/Isaiah/Isaiah58.md",
+    "Old Testament/Genesis/Genesis12.md",
+    "New Testament/Colossians/Colossians2.md",
+    "New Testament/Matthew/Matthew5.md",
+    "Old Testament/Psalm/Psalm118.md",
+    "New Testament/James/James2.md"
   ]
 }

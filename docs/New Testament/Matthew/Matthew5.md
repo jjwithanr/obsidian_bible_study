@@ -1,5 +1,4 @@
 # Matthew 5
-RESEARCH
 ## Overview:
 
 
