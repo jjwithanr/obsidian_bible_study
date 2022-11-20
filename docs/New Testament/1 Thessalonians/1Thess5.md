@@ -76,10 +76,7 @@ Neglect of cultivating the Christian graces, or of prayer, of the Bible, of the 
 #barnes 
 
 #### v.20
->do not treat prophecies with contempt.
-
-#### v.21
->Test everything. Hold on to the good.
+>do not treat prophecies with contempt. <sup>21</sup>Test everything. Hold on to the good.
 
 They were not to receive it on trust; to take it on assertion; to believe it because it was urged with vehemence, zeal, or plausibility.
 
@@ -89,6 +86,11 @@ It is, more than any other form of religion, the friend of free inquiry, and wou
 #barnes 
 
 It is biblical to question the content preached behind the pulpit no matter who stands on the platform. Yet, we are not give ourselves over to cynicism for we are to hold onto the good.
+#jj 
+
+It is significant that Paul tells the Thessalonians to test the prophecies, not the prophets...It is the "prophecies" (plural of Gk. propheteia, "prophecy") that are not to be despised but are to be tested. It is the "good" content in prophecies that they are to "hold fast."
+#grudem
+
 
 #### v.23
 >May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ.

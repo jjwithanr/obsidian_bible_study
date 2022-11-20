@@ -40,8 +40,14 @@ Christians are not to run out of the world, as monks and hermits sought to do, b
 Grace has its discipline, and Grace has its chosen disciples, for you cannot help noticing that while the eleventh verse says that, “the grace of God that brings salvation has appeared to all men,” **yet it is clear that this grace of God has not exercised its holy discipline upon all men and therefore the text changes its “all men” into “us.”** Usually in Scripture when you get a generality you soon find a particularity near it. The text has it, “teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world.” Thus you see that grace has its own disciples. Are you a disciple of the grace of God? Did you ever come and submit yourself to it? Have you learned to spell that word “faith”? Have you childlike trust in Jesus? Have you learned to wash in the laver of atonement? Have you learned those holy exercises which are taught by the grace of God? Can you say that your salvation is of grace? Do you know the meaning of that text, “By grace are you saved through faith; and that not of yourselves: it is the gift of God”?
 #spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) 
 
+**that it is not sin that humbles most, but grace,** and that it is the soul, led through its sinfulness to be occupied with God in His wonderful glory as God, as Creator and Redeemer, that will truly take the lowest place before Him.
+#andrewmurray 
+
+It is grace, not sin, that teaches us to deny ungodliness and live uprightly before Him. If sin was our teacher for living holy lives, it would be because we deny God's justice in dealing with sin. **Sin kills the soul; grace kills the self.**
+#jj 
+
 #### v.15
 >These, then, are the things you should teach. Encourage and rebuke **with all authority**. Do not let anyone despise you.
 
 As I have already reminded you, Titus was a young man, and people are apt to despise the pastoral office when it is held by a young man. Yet they ought always to respect it, whether it be held by a young man or an old man. God knows best who is most fitted for the work of the ministry, and those of us who are getting old must never look with any kind of scorn or contempt upon those who are commencing their service, for we, too, were young once. **You cannot measure a man’s grace by the length of his beard, nor by the number of his years.**
-#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) 
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2416.pdf) [[leadership]]
