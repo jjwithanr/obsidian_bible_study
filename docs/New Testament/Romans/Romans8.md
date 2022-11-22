@@ -13,3 +13,8 @@
 (2) **the desires which he excites in the heart of the Christian are those which are according to his will;** they are such as God wishes to exist; the contrite, humble, and penitent pleading of sinners for mercy.
 (3) he superintends and guards Christians in their prayers.
 #barnes 
+
+#### v.28
+>And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
+
+
