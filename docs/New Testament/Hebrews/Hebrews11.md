@@ -22,6 +22,9 @@ It seems to me, therefore, that the word here has reference to something which *
 *Believing he rewards those who earnestly seek him is* equally necessary as the belief that he exists. If we could not believe that God would hear and answer our prayers, there could be no encouragement to call upon him. It is not meant here that the desire of the reward is to be the motive for seeking God - for the apostle makes no affirmation on that point; but that it is impossible to make an acceptable approach to him unless we have this belief.
 #barnes
 
+#### v.13
+>All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance. And they admitted that they were aliens and strangers on earth.
+
 #### v.16
 >Instead, they were longing for a better country - a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared a city for them.
 

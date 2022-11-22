@@ -97,6 +97,17 @@ Pages 31-169
 - The fact that the New Testament frequently quotes from the Greek translation of the Old Testament called the Septuagint justifies the translation of Scripture into other languages.
 - Doctrine of the Clarity of Scripture should lead directly to universal literacy for a nation.
 
+#### Pages 137-151
+##### What I learned:
+1. According to [[Hebrews11#v.13]], people under the old covenant were also saved through trusting in Christ. It was through a forward-looking faith of His coming Messiah or Redeemer found in the person of Jesus Christ.
+1. [[Matthew4#v.4]], quoting [[Deut8#v.3]], indicates that our spiritual life is maintained by daily nourishment with the Word of God.
+>To neglect regular reading of God's Word is as detrimental ot the health of our souls as the neglect of physical food is detrimental to the health of our bodies. (141)
+
+ 1. According to [[Romans2#v.14-15]], unbelievers are under a law whether they know it or not.
+ 2. Scripture never gives an example that someone can know the gospel through general revelation (creation).
+
+
+
 
 
 

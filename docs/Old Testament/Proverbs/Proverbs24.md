@@ -11,7 +11,7 @@ Get an estate into good order before erecting a house on it. To "build a house" 
 #barnes 
 
 A man should be financially secure before he starts a family. Before entering marriage one should have a well-ordered life. In general we need to keep first things first.
-#barker 
+#allenpross  
 
 #### v.33-34
 >A little sheep, a little slumber, a little folding of the hands to rest - <sup>34</sup>and poverty will come on you like a bandit and scarcity like an armed man.
@@ -20,3 +20,5 @@ Similar to [Proverbs 6:11](Proverbs6#v.11).
 
 The similitude is drawn from the two sources of Eastern terror: the "traveler," i. e., "the thief in the night," coming suddenly to plunder; the "armed man," literally "the man of the shield," the armed robber. **The habit of indolence is more fatally destructive than these marauders.**
 #barnes 
+
+

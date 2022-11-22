@@ -9,7 +9,8 @@
   "note-composer",
   "command-palette",
   "editor-status",
-  "markdown-importer",
   "random-note",
+  "outline",
+  "workspaces",
   "file-recovery"
 ]

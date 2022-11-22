@@ -26,6 +26,9 @@ Consistent with his character in [Ezekiel 33:11](Ezekiel33#v.11).
 One may have a sincere desire that others should not perish, and yet it may be that, in entire consistency with that, they will perish. A parent has a sincere wish that his children should not be punished, and yet he himself may be under a moral necessity to punish them. A lawgiver may have a sincere wish that no one should ever break the laws, or be punished, and yet he himself may build a prison, and construct a gallows, and cause the law to be executed in a most rigorous manner. A judge on the bench may have a sincere desire that no man should be executed, and that everyone arraigned before him should be found to be innocent, and yet even he, in entire accordance with that wish, and with a most benevolent heart, even with tears in his eyes, may pronounce the sentence of the law.
 #barnes
 
+Calvin himself showed moderation and exegetical wisdom, when he suggested that God's love toward the human race is so wonderful that he wants all of them to be saved, and he is prepared to bestow salvation on the lost. Thus the "you" is addressed to human-kind and "not wanting" is used of his will of desire, not of his will of decree (cf. Eze 18:23; 1 Ti 2:4).
+#edwinblum
+
 #### v.10
 >But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be **destroyed by fire**, and the earth and everything in it will be laid bare.
 

@@ -21,12 +21,11 @@ iii. The example of Daniel is also meaningful because Daniel “was a classic ex
 >By your wisdom and understanding you have gained wealth for yourself and amassed gold and silver in your treasuries. <sup>5</sup>By your great skill in trading you have increased your wealth, and because of your wealth your heart has grown proud.
 
 Simple proverbs have enabled the King of Tyre to be successful but he let the affluency grow pride in his heart. His heart was not guarded.
-#jj 
 
 "Where has my heart grown proud, God?"
 
 Ministry. Ministry does not point to YOUR glory. It shows MY glory. Do whatever it takes to give the glory to me alone, JJ.
-#devoJJ
+#jj 
 
 #### v.16
 >Through your widespread trade you were filled with violence, and you sinned. So I drove you in disgrace from the mount of God, and I expelled you, guardian cherub, from among the fiery stones.
