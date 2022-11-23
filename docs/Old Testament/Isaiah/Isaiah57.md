@@ -17,7 +17,7 @@ The Chaldee renders it, '**Thou hast amassed wealth, therefore thou didst not re
 #### v.11
 >"Whom have you so dreaded and feared that you have been false to me, and have neither remembered me nor pondered this in your hearts? Is it not because I have long been silent that you do not fear me?"
 
-The idea here seems to be, that God had been silent a long time, and they had, therefore, been emboldened to sin. He had, as it were, connived at their apostasy and infidelity; and they had thus cast off the fear of him, and given themselves wholly to idolatry. Compare [Ecclesiastes 8:11](Ecclesiastes8#v.11).
+The idea here seems to be, that God had been silent a long time, and they had, therefore, been emboldened to sin. He had, as it were, connived at their apostasy and infidelity; and they had thus cast off the fear of him, and given themselves wholly to idolatry. Compare [Ecclesiastes 8:11](Eccl8#v.11).
 #barnes 
 
 #### v.13
