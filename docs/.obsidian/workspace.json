@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "225100297557b67f",
+        "id": "4e9e65b6e531f0a8",
         "type": "tabs",
         "children": [
           {
-            "id": "01a686e0c94fdde4",
+            "id": "64673ad390fc151a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/2 Peter/2Peter3.md",
+                "file": "New Testament/2 Corinthians/2Cor7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05782ad0cdf597a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Testament/2 Corinthians/2Cor6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7c095c6bd4ed29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Testament/2 Corinthians/2Cor10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -78,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Peter/2Peter3.md",
+                "file": "New Testament/2 Corinthians/2Cor10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/2 Peter/2Peter3.md"
+                "file": "New Testament/2 Corinthians/2Cor10.md"
               }
             }
           }
@@ -115,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01a686e0c94fdde4",
+  "active": "be7c095c6bd4ed29",
   "lastOpenFiles": [
-    "Old Testament/Ecclesiastes/Eccl8.md",
-    "Old Testament/Ecclesiastes/Eccl3.md",
-    "Old Testament/Ecclesiastes/Eccl2.md",
-    "New Testament/Luke/Luke22.md",
-    "Eccl2.md",
-    "Old Testament/Isaiah/Isaiah57.md",
-    "Ecclesiastes8.md",
-    "New Testament/Luke/Luke21.md",
-    "Old Testament/Ecclesiastes/Eccl7.md",
-    "New Testament/Romans/Romans8.md"
+    "New Testament/2 Corinthians/2Cor6.md",
+    "New Testament/2 Corinthians/2Cor7.md",
+    "New Testament/Philippians/Philippians3.md",
+    "Old Testament/Psalm/Psalm23.md",
+    "Old Testament/Ecclesiastes/Eccl9.md",
+    "New Testament/2 Corinthians/2Cor5.md",
+    "Old Testament/Psalm/Psalm31.md",
+    "New Testament/1 John/1John1.md",
+    "Topics/family.md",
+    "New Testament/2 Peter/2Peter3.md"
   ]
 }

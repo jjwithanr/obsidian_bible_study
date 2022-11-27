@@ -6,7 +6,7 @@
 #### v.1
 >The LORD is my shepherd, I shall not be in want.
 
-The emphasis of the psalmist is on "my." The temptation in ancient Israel is also the God of individuals. The metaphor of the shepherd is not only a designation or name of the Lord, but it points toward the relation between God and his covenant-children: "I shall not be in want."
+The emphasis of the psalmist is on "my." The temptation in ancient Israel was to speak only about "our" God (cf. Dt 6:4), forgetting that the God is Israel is also the God of individuals. The metaphor of the shepherd is not only a designation or name of the Lord, but it points toward the relation between God and his covenant-children: "I shall not be in want."
 #vangemeren 
 
 #### v.2

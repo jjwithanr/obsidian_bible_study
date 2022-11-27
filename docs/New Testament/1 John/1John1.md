@@ -15,6 +15,9 @@ This leads to an important idea: if we do _not_ **have fellowship with one anoth
 We can be cleansed, by the blood of Jesus, from **all sin**. The sin we inherited from Adam, the sin we committed as kids, the sins of our growing up; sins against our father, against our mother, against our brother and sister; sins against our husbands or wives, against our children; sins against our employers or our employees, sins against our friends and our enemies; lying, stealing, cheating, adultery, swearing, drugs, booze, promiscuity, murder; sins that haunt us every day, sins we didn’t even know we did – **all sin** can be cleansed by the blood of Jesus.
 #enduringword 
 
+The author is combating the heresy that boasts of knowledge of and communion with God but neglects fellowship with other Christians. True fellowship with God comes through other people; fellowship with them is the proof of fellowship with God.
+#barker 
+
 See more in [[family#Maclaren on 1 John 1 7 1John1 v 7]].
 
 #### v.9
