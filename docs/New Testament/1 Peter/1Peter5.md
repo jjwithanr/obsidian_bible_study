@@ -19,7 +19,12 @@ The elder's calling is not a license to force others into obedience. He is calle
 
 This verse may justify my tendency to put off people's natural desire to elevate a leader for their position. Such a mindset is, first, falsely humble and, second, detrimental to the leader. The leader ought not to put themselves and or have others put them in such positions to "lord over" others.
 
-#### v.
+#### v.5
+>Young men, in the same way be submissive to those who are older. All of you, clothe yourselves with humility toward one another, because, "God opposes the proud but gives grace to the humble."
+
+Also [[Proverbs3#v.34]].
+
+#### v.6
 >Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.
 
 Similar to [Proverbs 15:33](Proverbs15#v.33), [Proverbs 18:12](Proverbs18#v.12), etc.

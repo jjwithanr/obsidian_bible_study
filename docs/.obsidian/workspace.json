@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64673ad390fc151a",
+            "id": "47dcb8dddaef6ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/2 Corinthians/2Cor7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05782ad0cdf597a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Testament/2 Corinthians/2Cor6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7c095c6bd4ed29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Testament/2 Corinthians/2Cor10.md",
+                "file": "Old Testament/Proverbs/Proverbs3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Corinthians/2Cor10.md",
+                "file": "Old Testament/Proverbs/Proverbs3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/2 Corinthians/2Cor10.md"
+                "file": "Old Testament/Proverbs/Proverbs3.md"
               }
             }
           }
@@ -140,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be7c095c6bd4ed29",
+  "active": "47dcb8dddaef6ede",
   "lastOpenFiles": [
+    "New Testament/1 Peter/1Peter5.md",
+    "Old Testament/Proverbs/Proverbs3.md",
+    "New Testament/2 Corinthians/2Cor10.md",
     "New Testament/2 Corinthians/2Cor6.md",
     "New Testament/2 Corinthians/2Cor7.md",
     "New Testament/Philippians/Philippians3.md",
     "Old Testament/Psalm/Psalm23.md",
     "Old Testament/Ecclesiastes/Eccl9.md",
     "New Testament/2 Corinthians/2Cor5.md",
-    "Old Testament/Psalm/Psalm31.md",
-    "New Testament/1 John/1John1.md",
-    "Topics/family.md",
-    "New Testament/2 Peter/2Peter3.md"
+    "Old Testament/Psalm/Psalm31.md"
   ]
 }
