@@ -62,7 +62,7 @@ Those who set aside the positive traits Peter listed have forgotten that they ha
 
 Indeed He describes those that are lacking in godly character as being spiritually blind and short-sighted, having forgotten all the glories that are ours in Christ Jesus - despite the fact that we have already been purified from our former sins.
 
-How sad when believers who have been saved by grace through faith in the finished work of Christ, forget who they are in Christ. How tragic when our eyes become blinded to our sanctified position in Him. What a travesty when we forget that we have been cleansed from all unrighteousness - by faith in His sacrificial death and glorious resurrection../
+How sad when believers who have been saved by grace through faith in the finished work of Christ, forget who they are in Christ. How tragic when our eyes become blinded to our sanctified position in Him. What a travesty when we forget that we have been cleansed from all unrighteousness - by faith in His sacrificial death and glorious resurrection..
 #knowingjesus
 
 #### v.10
