@@ -24,7 +24,11 @@ In exile the Lord would continue to be an ever-present sanctuary for his people,
 Abandoning all idols precedes receiving a heart of flesh from the Lord.
 #jj 
 
+11/29/2022 God is exposing my idolatry for entertainment in YouTube. It's a recurring theme that I stowed away last school year from all the busyness but this seems to be a time of pruning where this thing must truly die for me to bear fruit. Why are tears scarce in this season? There's no doubt the idols I've tolerated in my heart have sown in the sinful nature to which brings only death, not life.
+#jj 
+
 #### v.21
 >But as for those whose hearts are devoted to their vile images and detestable idols, I will bring down on their own heads what they have done, declares the Sovereign Lord."
 
 Do not be deceived: God cannot be mocked. A man reaps what he sows. The one who sows to please his sinful nature, from that nature will reap destruction; the one who sows to please the Spirit, from the Spirit will reap eternal life. see [Galations 6:7-8](Galatians6.md#v.7-8).
+#jj 

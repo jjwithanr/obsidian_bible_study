@@ -148,3 +148,4 @@ In secret - Who is unseen.
 
 Who seeth in secret - Who sees what the human eye cannot see; who sees the real designs and desires of the heart. Prayer should always be offered, remembering that God is acquainted with our real desires; and that it is those real desires, and not the words of prayer, that he will answer.
 #barnes 
+

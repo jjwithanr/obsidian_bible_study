@@ -36,6 +36,10 @@ See more in [[self-control#1 Peter 1 13 1Peter1 v 13]].
 The main idea behind _holiness_ is not moral purity but it is the idea of “_apartness_.” The idea is that God is _separate_, different from His creation, both in His essential nature and in the perfection of His attributes.
 #enduringword 
 
+Many Christians have what we might call a "cultural holiness." They adapt to the character and behavior pattern of Christians around them. As the Christian culture around them is more or less holy, so these Christians are more or less holy. But God has not called us to be like those around us. He has called us to be like Himself. Holiness is nothing less than conformity to the will of God.
+#jerrybridges
+
+
 #### v.22
 >Now that you have **purified yourselves by obeying the truth** so that you have sincere love for your brothers, **love one another deeply**, from the heart.
 

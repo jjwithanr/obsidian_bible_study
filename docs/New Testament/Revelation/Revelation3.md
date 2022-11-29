@@ -8,7 +8,7 @@
 >"To the angel of the church in Sardis write:
 >These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; **you have a reputation of being alive, but you are dead.**"
 
-Despite the city’s paganism, the Christian community there seems to have experienced no persecution— and no spiritual life. Sardis had a large, powerful and wealthy Jewish community that had long been a respected part of civic life; their \*synagogue was roughly the length of a football field, with some of the city’s best real estate. Like the Jewish community, the church was probably tolerated.
+Despite the city’s paganism, the Christian community there seems to have experienced no persecution—and no spiritual life. Sardis had a large, powerful and wealthy Jewish community that had long been a respected part of civic life; their \*synagogue was roughly the length of a football field, with some of the city’s best real estate. Like the Jewish community, the church was probably tolerated.
 #craigkeener 
 
 “The great characteristic of Sardis was that, even on pagan lips, Sardis was a name of contempt. Its people were notoriously loose-living, notoriously pleasure-and luxury loving. Sardis was a city of the decadence.” (Barclay)
@@ -16,7 +16,7 @@ Despite the city’s paganism, the Christian community there seems to have exper
 
 
 #### v.2
->Wake up! Strengthen whwat remains and is about to die, for I have not found your deeds complete in the sight of my God.
+>Wake up! Strengthen what remains and is about to die, for I have not found your deeds complete in the sight of my God.
 
 In its history, the city of Sardis was easily conquered twice before. It wasn’t that the attacking armies overwhelmed Sardis, but because overconfidence made them stop being **watchful**. The spiritual state of the church in Sardis was a reflection of the city’s historical character.
 #enduringword 
@@ -36,7 +36,7 @@ But what shall be done with such persons as live in the church, but are not of i
 #### v.7
 >What he opens no one can shut, and what he shuts no one can open.
 
- A man once came to Spurgeon and asked how he could win others to Jesus. Spurgeon asked him, “What are you? What do you do?”
+A man once came to Spurgeon and asked how he could win others to Jesus. Spurgeon asked him, “What are you? What do you do?”
 
 The man said, “I’m an engine driver on a train.”
 
@@ -50,7 +50,7 @@ The man said, “I’m an engine driver on a train.”
 #### v.8
 >I know your deeds. See, I have placed before you an open door that no one can shut. I know that you have little strength, yet **you have kept my word and have not denied my name.**
 
-The term **a little strength** does not imply weakness, but _real_**strength**. They were weak enough to be strong in the Lord. We can be “too strong” or “too big” or too sure of ourselves for God to really use us. The church in Philadelphia had the poverty of spirit to know they really needed God’s strength.
+The term **a little strength** does not imply weakness, but _real_ **strength**. They were weak enough to be strong in the Lord. We can be “too strong” or “too big” or too sure of ourselves for God to really use us. The church in Philadelphia had the poverty of spirit to know they really needed God’s strength.
 
 “It is not a matter of great strength, not great ability but great dependability. Samson had great ability but poor dependability. A little strength faithfully used means more than much strength flashily and fitfully used.” (Havner)
 #enduringword 

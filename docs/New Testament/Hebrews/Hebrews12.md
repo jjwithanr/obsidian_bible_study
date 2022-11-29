@@ -69,6 +69,9 @@ Spurgeon described four types of people who try to get on without holiness:
 · The _opinionist_: Their Christian life is all about believing the right doctrines and is unconcerned about the way one lives.
 #enduringword 
 
+Scripture speaks of both a holiness which we have in Christ before God, and a holiness which we are to strive after. These two aspects of holiness complement one another, for our salvation is a salvation to holiness: "For God did not call us to be impure but to live  a holy life" ([1 Thessalonians 4:7](1Thess4#v.7)). To the Corinthians Paul wrote: "To the church of God in Corinth, to those sanctified in Christ Jesus and called *to be holy*" ([1 Corinthians 1:2](1Cor1#v.2)) The word *sanctified* here means "made holy." That is, we are through Christ *made* holy in our standing before God, and *called* to be holy in our daily lives.
+#jerrybridges 
+
 #### v.15
 >See to it that no one misses the grace of God and that no bitter [root](Deuteronomy29#v.18) grows up to cause trouble and defile many.
 

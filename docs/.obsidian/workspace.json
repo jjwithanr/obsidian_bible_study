@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs3.md",
+                "file": "New Testament/2 Peter/2Peter1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jcryle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs3.md",
+                "file": "New Testament/2 Peter/2Peter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs3.md"
+                "file": "New Testament/2 Peter/2Peter1.md"
               }
             }
           }
@@ -117,15 +118,15 @@
   },
   "active": "47dcb8dddaef6ede",
   "lastOpenFiles": [
-    "New Testament/1 Peter/1Peter5.md",
-    "Old Testament/Proverbs/Proverbs3.md",
-    "New Testament/2 Corinthians/2Cor10.md",
-    "New Testament/2 Corinthians/2Cor6.md",
-    "New Testament/2 Corinthians/2Cor7.md",
-    "New Testament/Philippians/Philippians3.md",
-    "Old Testament/Psalm/Psalm23.md",
-    "Old Testament/Ecclesiastes/Eccl9.md",
-    "New Testament/2 Corinthians/2Cor5.md",
-    "Old Testament/Psalm/Psalm31.md"
+    "New Testament/Hebrews/Hebrews12.md",
+    "New Testament/1 Peter/1Peter1.md",
+    "Topics/growth.md",
+    "Old Testament/Ezekiel/Ezekiel11.md",
+    "New Testament/Philippians/Philippians2.md",
+    "New Testament/Revelation/Revelation3.md",
+    "Reading Journals/Perspectives/Perspectives13.md",
+    "Reading Journals/Perspectives/Perspectives14.md",
+    "Untitled.md",
+    "Reading Journals/Perspectives/Perspectives11.md"
   ]
 }

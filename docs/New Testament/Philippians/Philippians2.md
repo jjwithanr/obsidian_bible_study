@@ -7,8 +7,6 @@
 #### v.1-2
 >If you have any encouragement from being united with Christ, if any comfort from his love, if any fellowship with the Spirit, if any tenderness and compassion, <sup>2</sup>then make my joy complete by being like-minded, having the same love, being one in spirit and purpose.
 
-
-
 #### v.3
 >Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves.
 
