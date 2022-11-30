@@ -15,7 +15,9 @@
 #### v.10
 >For we must all appear before the judgment seat of Christ, that each one may receive what is due him for the things done while in the body, whether good or bad.
 
+#### v.21
+>God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
 
-
-
+The Holy Spirit makes us more aware of our lack of holiness to stimulate us to deeper yearning and striving for holiness. But Satan will attempt to use the Holy Spirit's work to discourage us. One of Satan's attacks is to try to convince you that you are not a genuine Christian after all... You, too, if you diligently pursue holiness, must often flee to the Rock of your salvation. You flee there, not to be saved again, but to confirm in you heart that you are saved through His righteousness alone.
+#jerrybridges 
 
