@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e9e65b6e531f0a8",
+        "id": "b9924767f3daee2b",
         "type": "tabs",
         "children": [
           {
-            "id": "3a55e3e7095853bd",
+            "id": "0c47372d3548f47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Testament/John/John5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -58,13 +54,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 235.51103591918945,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "219162062c6e662e",
@@ -80,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/John/John5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New Testament/John/John5.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -117,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a55e3e7095853bd",
+  "active": "0c47372d3548f47a",
   "lastOpenFiles": [
-    "New Testament/Luke/Luke16.md",
+    "New Testament/John/John6.md",
+    "Old Testament/Ecclesiastes/Eccl4.md",
+    "Reading Journals/Perspectives/Perspectives14.md",
+    "Reading Journals/Perspectives/Perspectives5.md",
     "New Testament/John/John5.md",
+    "New Testament/Luke/Luke16.md",
     "New Testament/Hebrews/Hebrews4.md",
     "Old Testament/Psalm/Psalm37.md",
     "New Testament/Romans/Romans6.md",
-    "New Testament/2 Corinthians/2Cor5.md",
-    "Reading Journals/Perspectives/Perspectives14.md",
-    "New Testament/2 Peter/2Peter1.md",
-    "Old Testament/Ecclesiastes/Eccl2.md",
-    "New Testament/John/John4.md"
+    "New Testament/2 Corinthians/2Cor5.md"
   ]
 }
