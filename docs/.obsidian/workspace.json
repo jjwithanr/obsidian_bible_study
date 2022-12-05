@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c47372d3548f47a",
+            "id": "f69f17699dbc82c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Old Testament/Proverbs/Proverbs11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mikebickle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Old Testament/Proverbs/Proverbs11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Old Testament/Proverbs/Proverbs11.md"
+              }
             }
           }
         ],
@@ -108,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c47372d3548f47a",
+  "active": "f69f17699dbc82c9",
   "lastOpenFiles": [
+    "Old Testament/Ecclesiastes/Eccl7.md",
+    "New Testament/John/John8.md",
+    "Old Testament/Ecclesiastes/Eccl5.md",
     "New Testament/John/John6.md",
+    "Old Testament/Psalm/Psalm39.md",
+    "New Testament/Matthew/Matthew5.md",
     "Old Testament/Ecclesiastes/Eccl4.md",
     "Reading Journals/Perspectives/Perspectives14.md",
     "Reading Journals/Perspectives/Perspectives5.md",
-    "New Testament/John/John5.md",
-    "New Testament/Luke/Luke16.md",
-    "New Testament/Hebrews/Hebrews4.md",
-    "Old Testament/Psalm/Psalm37.md",
-    "New Testament/Romans/Romans6.md",
-    "New Testament/2 Corinthians/2Cor5.md"
+    "New Testament/John/John5.md"
   ]
 }

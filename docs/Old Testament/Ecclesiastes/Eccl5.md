@@ -21,7 +21,7 @@ The emphasis in v.2 is on rashness and haste. Prayer is not reciting a list as q
 As personal and business cares produce dreams, which are unsubstantial things, so many words produce foolish and empty prayer. When we come before God, our minds are full of our own business rather than with the worship of God. When we talk too much, we usually talk like fools. This can especially bad in the house of God.
 #jstaffordwright 
 
-I had personally wrestled with the part of my nature that talks a lot. I seem to say whatever comes to my mind. I reasoned that if God created me this way, He would not deem something inherent as sinful. Yet, as I comb through Scriptures (esp. Proverbs), I am realizing that speaking many words can be dangerous. I am learning to die to self so I can speak words that brings wisdom, healing, and most importantly glory to God.
+I had personally wrestled with the part of my nature that talks a lot. I seem to say whatever comes to my mind. I reasoned that if God created me this way, He would not deem something inherent as sinful. Yet, as I comb through Scriptures (esp. Proverbs), I am realizing that speaking many words is dangerous. I am learning to die to self so I can speak words that brings wisdom, healing, and most importantly, glory to God.
 #jj 11/18/2022
 
 #### v.4

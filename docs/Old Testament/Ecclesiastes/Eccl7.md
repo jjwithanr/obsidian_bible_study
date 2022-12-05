@@ -9,6 +9,9 @@
 #### v.4
 >The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure.
 
+This verse indicates that a life of enjoyment, does not mean the abandonment of ourselves to pleasures, but the thankful and sober use of the beautiful things which God gives us.
+#barnes 
+
 #### v.10
 >Do not say, "Why were the old days better than these?" For it is not wise to ask such questions.
 
@@ -18,8 +21,13 @@ People have always looked back to the good old days. Even Christians sometimes o
 #### v.13-14
 >Consider what God has done: Who can straighten what he has made crooked? <sup>14</sup>When times are good, be happy; but when times are bad, consider: God has made the one as well as the other. Therefore, a man cannot discover anything about his future.
 
-The reference to God's "making crooked" (GK 6430) stresses his sovereign control over all events. There are some things that we cannot alter. As children of God, we commonly experience both good and bad and may even thank God for allowing hardships rather than givign us an entirely smooth passage (cf. Mt 8:20; Lk 10:38; 2Co 1:4-7). Part of the life of faith is accepting prosperity and adversity from God's hand without being able to explain just how everything will be worked out for the future ([Ro 8:28](Romans8#v.28)).
+The reference to God's "making crooked" (GK 6430) stresses his sovereign control over all events. There are some things that we cannot alter. As children of God, we commonly experience both good and bad and may even thank God for allowing hardships rather than giving us an entirely smooth passage (cf. Mt 8:20; Lk 10:38; 2Co 1:4-7). Part of the life of faith is accepting prosperity and adversity from God's hand without being able to explain just how everything will be worked out for the future ([Ro 8:28](Romans8#v.28)).
 #jstaffordwright 
+
+#### v.16
+>Do not be overrighteous, neither be overwise—why destroy yourself?
+
+
 
 #### v.18
 >It is good to grasp the one and not let go of the other. The man who fears God will avoid all \[extremes\].

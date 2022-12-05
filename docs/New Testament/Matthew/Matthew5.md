@@ -12,6 +12,13 @@ See more in [[meekness,greatness#Barnes on Matthew 5 3 Matthew5 v 3]].
 We are rich in terms of our legal position before God. But, in terms of our living conditions, we are poor.
 #mikebickle
 
+Those who have been brought low enough to be humble enough to be ready to receive.
+
+You could decide that you were going to be friends with what you knew or you could friends with what you didn't know. If you're friends with what you know, you try to prove your point all the time.
+
+Jung said, "Modern men do not see God because they do not look low enough."
+#jordanpeterson 
+
 #### v.4
 >Blessed are those who mourn, for they will be comforted.
 
@@ -32,7 +39,7 @@ Meekness produces peace. It is proof of true greatness of soul. It comes from a 
 Those who are perishing for want of righteousness; those who feel that they are lost sinners and strongly desire to be holy, shall be thus satisfied. Never was there a desire to be holy which God was not willing to gratify, and the gospel of Christ has made provision to satisfy all who truly desire to be holy.
 #barnes 
 
-God promises to fill every holy desire He starts within us through our regeneration from the Holy Spirit.
+God promises to fill every holy desire He starts within us through the Holy Spirit.
 #jj 
 
 Although I loved the poetry of Jesus’ Sermon on the Mount, I remained oblivious to its truth. People who already feel righteous don’t hunger and thirst for it.

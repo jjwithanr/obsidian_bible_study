@@ -12,6 +12,8 @@
 One should hold one's tongue rather than deride a neighbor. The wise man is a "man of discernment"; the other one "lacks judgement." How one treats a neighbor is significant in Proverbs—one was expected to be a good neighbor.
 #allenpross 
 
+bibleref?
+
 #### v.24
 >One man gives freely, yet gains even more; another witholds unduly, but comes to poverty.
 
