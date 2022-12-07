@@ -24,6 +24,10 @@ There is rebuke in His question, but how tender a rebuke it is! He rebukes witho
   
 Thank God that our answer may be cast into the words of His own promise: ‘I say not unto thee, until seven times; but until seventy times seven.’ ‘Bear with me till Thou hast perfected me; and then bear me to Thyself, that I may be with Thee for ever, and grieve Thy love no more.’ So may it be, for ‘with Him is plenteous redemption,’ and His forbearing ‘mercy endureth for ever.’
 
-### on []()
+### Spurgeon
+You believe it, you say. Well, but how do you know? Upon what authority do you make so sure? Who told you? “Oh, I believe it.” Yes, but we must mind what we believe. Have you any clear evidence of a special interest in the blood of Jesus? Can you give any spiritual reasons for believing that Christ has set you free from sin? I am afraid that some have a hope that has not got any ground, like an anchor without any barbs, nothing to grasp, nothing to lay hold upon. They say they are saved and they stick to it they are, and think it wicked to doubt it. But yet they have no reason to warrant their confidence. 
 
-### on []()
+When the sons of Kohath carried the Ark, and touched it with their hands, they did rightly, but when Uzzah touched it, he died. There are those who are ready to be fully assured, there are others to whom it will be death to talk of it. There is a great difference between presumption and full assurance. Full assurance is reasonable, it is based on solid ground. Presumption takes for granted and with brazen face pronounces that to be its own to which it has no right whatever.
+#spurgeon 
+
+
