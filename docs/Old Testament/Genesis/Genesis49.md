@@ -24,6 +24,4 @@ You shall have enough of God’s comfort to keep you alive, but not enough to gi
 Then observe that the strength of God’s Joseph is divine strength. His arms were made strong by God. Why does one of God’s ministers preach the Gospel powerfully? Because God gives him assistance. Why does Joseph stand against temptation? Because God gives him aid. The strength of a Christian is divine strength.
 #spurgeon 
 
-#### v.
->
 

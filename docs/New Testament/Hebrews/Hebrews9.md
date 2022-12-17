@@ -23,7 +23,7 @@ Beloved, if our consciences were more fully developed than they are, we should h
 >In fact, the law requires that nearly everything be cleansed with blood, and without the shedding of blood there is no forgiveness.
 
 
-#### v.28
->so Christ was sacrificed once to take away the sins of many people; and he will appear a second time, not to bear sin, but to bring salvation to those **who are waiting for him**.
+#### v.27-28
+>Just as man is destined to die once, and after that to face judgement, <sup>28</sup>so Christ was sacrificed once to take away the sins of many people; and he will appear a second time, not to bear sin, but to bring salvation to those **who are waiting for him**.
 
 See [Titus 2:11-13](Titus2#v.11-13).
