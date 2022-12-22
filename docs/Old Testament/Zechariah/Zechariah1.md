@@ -9,7 +9,7 @@
 Because a holy and just God must deal with sin, Zechariah began his message by reminding his people of how angry their faithful, covenant God had been with the covenant-breaking sins of their unfaithful preexilic ancestors. Zechariah's hearers well knew that the Exile they had recently returned from was the direct result of God's wrath against their ancestors, and that the temple they were now rebuilding had been destroyed because of their sins.
 
 The divine wrath is followed by the availability of divine grace. **Repentance is one of the conditions for the personal experience of God's full blessing**...The emphasis is on personal relationship and allegiance.
-#barker 
+#barker
 
 #### v.6
 >But did not my words and my decrees, which I commanded my servants the prophets, overtake your forefathers? "Then they repented and said, 'The LORD Almighty has done to us what our ways and practices deserve, just as he determined to do.'"

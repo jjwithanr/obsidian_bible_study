@@ -27,6 +27,9 @@
 This verse implies that an extended period of time is needed for its fulfillment—an idea consistent with Luke's twofold emphasis on a period of waiting along with an expectation of Christ's imminent return. It also implies an end to the period when Gentiles are prominent in God's plan (cf. Ro 11:11-27).
 #walterliefield 
 
+#### v.28
+>When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near."
+
 #### v.32
 >"I tell you the truth, this generation will certainly not pass away until all these things have happened.
 

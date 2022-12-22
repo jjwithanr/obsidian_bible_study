@@ -66,7 +66,7 @@ Pages 169-562
 ##### What I learned:
 1. If the Arminian God has to allow for a freedom to choose evil, it implies God will have to allow the possibility of sinful choices in heaven eternally.
 2. The two unanswered questions of Calvinism are "Exactly how can God not be blamed for evil when he ordains that we do evil willingly?" and "Exactly how can God cause us to choose something willingly?"
-3. The church in Galatia also had members working miracles as implied in Galatians 3:5.
+3. The church in Galatia also had members working miracles as implied in [Galatians 3:5](Galatians3#v.5).
 
 ##### Interesting Quote:
 - *Therefore, even if we understand the "signs of an apostle" to be miracles, we should recognize that those who use this passage to argue that miracles cannot be done through Christians today are taking the phrase "signs of an apostle" out of its context and using it in a way that Paul never intended.* (478)

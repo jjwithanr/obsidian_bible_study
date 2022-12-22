@@ -21,6 +21,9 @@ Set your face as flint. It is the one who stands firm who will persevere. Not th
 The gospel is testimony to all nations. It proclaims the universal sinfulness of mankind and claims to have the answer to the most dire need of the human soul. It is for everyone.
 #jj 
 
+#### v.26-27
+>"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it. <sup>27</sup>For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.
+
 #### v.35
 >Heaven and earth will pass away, but my words will never pass away.
 

@@ -14,5 +14,5 @@
 >And the Lord commanded the fish, and it vomited Jonah onto dry land.
 
 Unlike the prophet, the fish responded promptly, as soon as it knew God's will.
-#barker 
+#ellison 
 

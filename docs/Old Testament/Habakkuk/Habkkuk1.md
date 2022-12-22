@@ -13,7 +13,7 @@
 >"Look at the nations and watch - and be utterly amazed. For I am going to do something in your days that you would not believe, even if you were told.
 
 To be "amazed" is a human response to an event that utterly confounds all previous expectations; it runs counter to what the listeners "believe." The destruction of Jerusalem was such an event, creating both a national and theological crisis among God's people.
-#barker 
+#armerding 
 
 #### v.12
 >O Lord, are you not from everlasting? My God, my Holy One, we will not die. O Lord, you have appointed them to execute judgement; O Rock, you have ordained them to punish.

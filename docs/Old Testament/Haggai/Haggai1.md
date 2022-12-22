@@ -10,7 +10,7 @@
 >"You expected much, but see, it turned out to be little. What you brought home, I blew away. Why?" declares the Lord Almighty. "Because of my houe, which remains a ruin, while each of you is busy with his own house.
 
 The harvest was poor because each man was busy with his own house, and no one cared for the house of God.
-#barker 
+#alden 
 
 #### v.12
 >Then Zerubbabel son Shealtiel, Joshua son of Jehozadak, the high priest, and the whole remnant of the people obeyed the voice of the Lord their God and the message of the prophet of Haggai, because the Lord their God had sent him. And the people feared the Lord.

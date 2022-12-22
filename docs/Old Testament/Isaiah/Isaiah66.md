@@ -14,5 +14,5 @@
 >But whoever sacrifices a bull is like one who kills a man, and whoever offers a lamb, like one who breaks a dog's neck; whoever makes a grain offering is like one who presents pig's blood, and whoever burns memorial incense, like one worships an idol. They have chosen their own ways, and their souls delight in their abominations;
 
 The most sacred exercises of true God-given religion are like the worst of sins when they are divorced from humility of spirit.
-#barker 
+#geoffreygrogan  
 

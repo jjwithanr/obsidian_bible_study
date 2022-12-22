@@ -18,7 +18,7 @@ Only the poor in spirit are willing to consume the bread of life without a prefe
 #jj 
 
 Before beginning his ministry, Ezekiel was to symbolize his complete acceptance of the Lord's message by eating the scroll. The nature of the message he would proclaim was written on the scroll: funeral dirges, mournings, and lamentations. Certainly not a joyous note on which to begin. But even when the ministry would seem difficult and distasteful, the Lord would cause his word to be as sweet as honey.
-#barker 
+#ralphalexander 
 
 #### v.17
 >"Son of man, I have made you a watchman for the house of Israel; so hear the word I speak and give them warning from me.

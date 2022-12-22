@@ -13,7 +13,7 @@
 >Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.
 
 Prayer and fellowship with the Lord had safeguarded him from the corrupting influences of Babylonian culture. To preserve his in government and to save his own life, he would have to compromise his integrity by ceasing to pray to God or by praying privately. But faithful Daniel could not compromise. He would trust the Lord for deliverance. His habit had been to pray regularly toward Jerusalem, the focal point of his hopes and prayers for the progress of the kingdom of God.
-#barker 
+#gleasonarcher
 
 #### v.11
 >Then these men went as a group and found Daniel praying and asking God for help.
@@ -25,4 +25,4 @@ Prayer and fellowship with the Lord had safeguarded him from the corrupting infl
 >So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
 
 After this, Daniel apparently retired from public service and gave himself to the study of the Scriptures and to prayer. He received the revelations of chs. 10-12 in the third year of Cyrus (cf 10:1).
-#barker 
+#gleasonarcher  

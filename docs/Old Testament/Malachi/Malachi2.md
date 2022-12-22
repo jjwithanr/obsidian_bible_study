@@ -22,7 +22,7 @@ Preserve. They are not to ideate or generate knowledge and revelations apart fro
 #jj 
 
 The priests wre the custodians of learning, both the preservers and the pioneers of scholarship.
-#barker 
+#alden  
 
 #### v.8
 >But you have turned from the way and by your teaching have caused many to stumble; you have violated the covenant with Levi," says the LORD Almighty.
@@ -31,7 +31,7 @@ Teachers have more influence and thus have a stricter judgement. See also [[Jame
 #jj 
 
 But those who sought to drink at those wells found them either dry or poisoned. Instead of turning people into "the way," the priests did the opposite. Such irresponsibility violated the covenant of Levi. Sins of omission were compounded with sins of comission. Malachi made it clear that God could tolerate the situation no longer.
-#barker 
+#alden 
 
 #### v.10
 >Have we not all one Father? Did not one God create us? Why do we profane the covenant of our fathers by breaking faith with one another?
@@ -48,7 +48,7 @@ Other versions translate "broken faith" into "dealt treacherously": acted deceit
 #jj 
 
 The implications of "breaking faith with one another" probably are broader than simply the matter of divorce. All betrayals, from the slightest unkindness to the grossest injustice, merit God's diapproval.
-#barker 
+#alden 
 
 #### v.15
 >Has not \[the LORD\] made them one? In flesh and spirit they are his. And why one? **Because he was seeking godly offspring.** So guard yourself in your spirit, and do not break faith with the wife of your youth.
@@ -69,7 +69,7 @@ How can we weary the Lord?
 #jj 
 
 God was tired of hypocrisy, inverted morals, spiritual blindness, and obduracy.
-#barker 
+#alden 
 
 
 

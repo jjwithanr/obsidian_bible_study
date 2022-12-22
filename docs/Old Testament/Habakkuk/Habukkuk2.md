@@ -10,7 +10,7 @@
 >For the revelation awaits an appointed time; it speaks of the end and will prove false. Though it linger, wait for it; it will certainly come and will not delay.
 
 There is an "appointed time" for the "revelation's" fulfillment, determined by the Lord; and it will not "prove false" or disappoint but "will certainly come." Thus the reader may run with confidence and perseverance the race marked out for him (cf. 1Co 15:58). **The logical outcome of this "revelation" is that one should "wait".**
-#barker 
+#armerding  
 
 #### v.4
 >"See, he is puffed up; his desires are not upright - but the righteous will live by his faith -
@@ -19,7 +19,7 @@ There is an "appointed time" for the "revelation's" fulfillment, determined by t
 >"Woe to him who builds a city with bloodshed and establishes a town by crime!
 
 The third "woe" reiterates the indictment of ruthless self-aggrandizement achieved by "bloodshed," applying it to the construction of the Babylonian capital.
-#barker 
+#armerding 
 
 #### v.13
 >Has not the Lord Almighty determined that the people's labor is only fuel for the fire, that the nation's exhaust themselves for nothing?

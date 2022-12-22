@@ -33,6 +33,9 @@ Wya JWs, Mormons, and Unitarians?
 #### v.21
 >For just as the Father raises the dead and gives them life, even so the Son gives life to whom he is pleased to give it.
 
+#### v.24
+>"I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.
+
 #### v.28-29
 >"Do not be amazed at this, for a time is coming when all who are in their graves will hear his voice <sup>29</sup>and come out—those who have done good will rise to live, and those who have done evil will rise to be condemned.
 

@@ -24,6 +24,9 @@ Jesus did away with the Old Covenant by becoming the perfect, blameless sacrific
 It cannot mean that those for whom he died are made at once perfectly holy, for that is not true; but the idea is, that the offering was complete, and did not need to be repeated; and that it was of such a nature as entirely to remove the penalty due to sin, and to lay the foundation for their final and eternal holiness. The offerings made under the Jewish Law were so defective that there was a necessity for repeating them every day; the offering made by the Saviour was so perfect that it needed not to be repeated, and that it secured the complete and final salvation of those who availed themselves of it..**.The doctrine taught in this verse is, that all those who are in any measure sanctified will be perfected forever.** It is not a temporary work which has been begun in their souls, but one which is designed to be carried forward to perfection. In the atonement made by the Redeemer there is the foundation laid for their eternal perfection, and it was with reference to that, that it was offered.
 #barnes 
 
+#### v.17
+>Then he adds: "Their sins and lawless acts I will remember no more."
+
 #### v.22
 >let us draw near to God with a **sincere heart** in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.
 

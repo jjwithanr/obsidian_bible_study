@@ -26,6 +26,9 @@ Nothing pleases you. So, said Christ, is this generation of people. "John" came 
 for he sought not his own glory, but their good: all he did was, in order to bring men to repentance of their sins, and faith in himself, that they might be saved.
 #gill 
 
+#### v.22
+>But I tell you, it will be more bearable for Tyre and Sidon on the day of judgement than for you.
+
 #### v.28-30
 >"Come to me, all you who are weary and burdened, and I will give you rest. <sup>29</sup>Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. <sup>30</sup>For my yoke is easy and my burden is light."
 

@@ -22,5 +22,5 @@
 >So he said, “Do you know why I have come to you? Soon I will return to fight against the prince of Persia, and when I go, the prince of Greece will come;
 
 It is encouraging to know that God has mighty champions among the holy angels to defend the saints against the attacks of the Evil One.
-#barker 
+#gleasonarcher 
 

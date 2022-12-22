@@ -13,7 +13,7 @@ Compare yourself to who you were yesterday, not to who someone else is today.
 >"Therefore say: 'This is what the Sovereign Lord says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries where they have gone.'
 
 In exile the Lord would continue to be an ever-present sanctuary for his people, making provisions for them no matter where they were scattered. This is the same ever-present God who today meets the needs of those who trust him, regardless of their circumstances.
-#barker 
+#ralphalexander  
 
 #### v.18
 >"They will return to it and remove all its vile images and detestable idols.

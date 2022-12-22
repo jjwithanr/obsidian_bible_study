@@ -9,6 +9,9 @@
 #### v.3
 >Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?
 
+#### v.5
+>Does God give you the Spirit and work miracles among you because you observe the law, or because you believe what you heard?
+
 #### v.8
 >The Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: "All nations will be blessed through you."
 

@@ -89,10 +89,11 @@ Pages 1047-1343
 ##### What I learned:
 1. The "prophets" in [Ephesians 2:20](Ephesians2#v.20) and [3:5](Ephesians3#v.5) refer to a small group of individuals who weren't apostles but were closley connected to them and played a foundational role in the beginning of the church.
 2. Timothy was told to **teach** Paul's instructions to the church and the Thessalonians were told to affirm the tradition they were **taught** by Paul. Teachers, not prophets, were the leaders of the early church. 
-3. Matthew quotes Isaiah 53:4-5 with reference to physical healings performed by Jesus.
-4. 2 Chronicles 16:12-13 illustrate how it was wrong for King Asa to rely on doctors or medicine instead of relying on the Lord.
-5. According Zephaniah 3:9, we will all "pure speech" and call upon the name of the Lord in the with one accord. We will all speak the same language in heaven (in addition to our current ones on Earth).
-6. Grudem explains 1 Corinthians 14:20-25 really well. Paul's quotation of Isaiah 28 gives context to what he means by a "sign". ADFDALSJF;LDSJFLDAKFJL;DSF
+3. Matthew quotes [Isaiah 53:4-5](Isaiah43#v.4-5) with reference to physical healings performed by Jesus.
+4. [2 Chronicles 16:12-13](2Chron16#v.12-13) illustrate how it was wrong for King Asa to rely on doctors or medicine instead of relying on the Lord.
+5. According [Zephaniah 3:9](Zephaniah3#v.9), we will all have "pure speech" and call upon the name of the Lord in the with one accord. We will all speak the same language in heaven (in addition to our current ones on Earth).
+6. Grudem explains [1 Corinthians 14:20-25](1Cor14#v.22) really well. Paul's quotation of Isaiah 28 gives context to what he means by a "sign".
+7. Sign is used to mean "sign of God's attitude." Tongues are a sign of judgement to unbelievers because they would only hear unintelligible speech and will certainly not be saved. Prophecy, on the other hand, is a sign of blessing for believers. 
 
 ##### Interesting Quote:
 - *The healing miracles of Jesus certainly demonstrate that at times God is willing to grant a partial foretaste of the perfect health that will be ours for eternity.* (1315)
@@ -102,9 +103,9 @@ Pages 1047-1343
 ##### What I learned:
 1. The gift of words of wisdom and knowledge are not based on a special revelation spontaneously given by the Holy Spirit. It is based on wisdom acquired throughout life.
 1. "Personal eschatology" is the study of the future events that will happen to individuals. "General eschatology" is the study of the last days' events like the Second Coming, the millenium, final judgement, etc.
-1. We know Jesus' Second Coming will be a personal and bodily return based on Acts 1:11 when it says He will come in the same way as the disciples saw him ascend into heaven.
+1. We know Jesus' Second Coming will be a personal and bodily return based on[ Acts 1:11](Acts1#v.11) when it says He will come in the same way as the disciples saw him ascend into heaven.
 2. We should still commit to long-term activities despite knowing Christ can return at any moment. This is also why he did not share exactly when he would return. 
-3. The Jehovah Witnesses have wrongly predicted certain dates of Jesus' return. They justify that He returned on October 1, 1914 in an invisible way, but that does not stay true to Acts 1:11. 
+3. The Jehovah Witnesses have wrongly predicted certain dates of Jesus' return. They justify that He returned on October 1, 1914 in an invisible way, but that does not stay true to [Acts 1:11](Acts1#v.11). 
 
 ##### Interesting Quote:
 - *To some extent, the degree to which we actually long for Christ's return is a measure of the spiritual condition of our lives at the moment.* (1345)

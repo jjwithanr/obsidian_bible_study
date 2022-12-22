@@ -10,4 +10,4 @@
 >"Should it be said, O house of Jacob: "Is the Spirit of the Lord angry? Does he do such things?" "Do not my words do good to him whose ways are upright?
 
 If the ungodly people of his day would have lived according to the covenantal standards of the Lord, Micah's words would have had a benign effect on their lives as well as on the life of the nation; and the reproach and disgrace that they felt as he prophesied to them would have become a means of blessing.
-#barker 
+#mccomiskey  

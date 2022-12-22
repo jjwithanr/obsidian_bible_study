@@ -6,7 +6,7 @@
 >“In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence.
 
 v.13 is the most frequently quoted verse from Daniel in the NT... Moreover, v.13 is the only place in the OT where "son of man" is used of a divine personage rather than a human being. 
-#barker 
+#gleasonarcher 
 
 #### v.14
 >He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.

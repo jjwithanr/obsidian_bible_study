@@ -37,7 +37,7 @@ In his winepress the Lord has trampled
     Virgin Daughter Judah.
 
 So bitter is the experience that Jerusalem does not use the name "Lord" (yahweh), with its covenant associations (cf. Ex 3:14), but "Lord" (adonay). Thus the poet is saying: "The Lord has rejected all the warriors in my midst," treating them like chaff: "he has summoned \[a festival\] against me to crush my young men," not merely to thresh them; and "in his winepress the Lord has trampled the Virgin Daughter of Judah," to provide the wine of rejoiccing.
-#barker 
+#ellison 
 
 #### v.16
 >“This is why I weep  
@@ -48,4 +48,4 @@ My children are destitute
     because the enemy has prevailed.”
 
 Jerusalem's heartbroken sob is that "the enemy has prevailed." Defeat is bitter, but doubly so when the victors are God's enemies.
-#barker 
+#ellison 

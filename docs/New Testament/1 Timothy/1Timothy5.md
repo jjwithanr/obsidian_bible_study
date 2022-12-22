@@ -59,6 +59,3 @@ The sins that were secret or in the heart made evaluation (5:22) difficult, as m
 
 #### v.25
 >In the same way, good deed are obvious, and even those that are not cannot be hidden.
-
-oap.
-#jj 

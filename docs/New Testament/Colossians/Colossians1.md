@@ -4,8 +4,8 @@
 The church in Colossae stirs gratitude and comfort in Paul's heart as he remembers them in this letter. He encourages them to continue to live a life worthy of the Lord and reminds them of the deity and mystery of Jesus Christ - the reason Paul has sufferrred so much. 
 
 
-#### v.5
->the faith and love that spring from the hope that is stored up for you in heaven and that you have already heard about in the word of truth, the gospel
+#### v.5-6
+>the faith and love that spring from the hope that is stored up for you in heaven and that you have already heard about in the word of truth, the gospel <sup>6</sup>that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and understood God's grace in all its truth.
 
 #### v.7
 >You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,

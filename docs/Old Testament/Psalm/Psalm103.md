@@ -26,6 +26,9 @@ See [[Luke7#v 47]].
 #### v.11
 >For as high as the heavens are above the earth, so great is his love for those who fear him;
 
+#### v.12
+>as far as the east is from the west, so far has he removed our transgressions from us.
+
 #### v.13
 >As a father has compassion on his children, so the LORD has compassion on those who fear him;
 

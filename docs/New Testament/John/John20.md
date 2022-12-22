@@ -4,7 +4,7 @@
 
 
 #### v.17
->Jesus said, "Do not hold on to me, for I have not yet returned to the Father. Go instead to my brothers and tell them, `I am returning to my Father and your Father, to my God and your God.'"
+>Jesus said, "Do not hold on to me, for I have not yet returned to the Father. Go instead to my brothers and tell them, 'I am returning to my Father and your Father, to my God and your God.'"
 
 #### v.21
 >Again Jesus said, "Peace be with you! As the Father has sent me, I am sending you."
