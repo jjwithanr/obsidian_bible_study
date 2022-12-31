@@ -36,7 +36,7 @@ The best means of leading a faithful Christian life amidst the opposition which 
  <sup>6</sup>because the Lord disciplines those he loves,
   and he punishes everyone he accepts as a son."
 
-Same as [Proverbs 3:11-12](Proverbs3#v.11-12).
+Same as [Proverbs 3:11-12](Proverbs3.md#v.11-12).
  Much difficulty in the Christian life comes from those three words: **you have forgotten**. Perhaps it is some principle we remember in the mind, but **have forgotten** in the heart – and we must remember it again.
  #enduringword 
  

@@ -36,3 +36,9 @@ The community of Christians had a marvelous reputation for integrity, and everyb
 #### v.41
 >The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.
 
+#### v.42
+>Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Christ.
+
+Since the early church, the good news was never solely confined to the church's gathering place. It was taught in homes—day after day. Lord, make this normal again.
+#jj 
+

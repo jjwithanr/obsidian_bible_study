@@ -4,9 +4,6 @@
 
 
 
-#### v.
->
-
 #### v.12
 >They have harps and lyres at their banquets, tambourines and flutes and wine, but they have no regard for the deeds of the Lord, no respect for the work of his hands.
 

@@ -20,6 +20,9 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.24
 >When they heard this, they raised their voices together in prayer to God. "Sovereign Lord," they said, "you made the heaven and the earth and the sea, and everything in them.
 
+#### v.28
+>They did what your power and will had decided beforehand should happen.
+
 #### v.29-30
 >Now, Lord, consider their threats and enable your servants to speak your word with great boldness. <sup>30</sup>Stretch out your hand to heal and perform miraculous signs and wonders through the name of your holy servant Jesus."
 
@@ -29,10 +32,14 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.32
 >All the believers were one in heart and mind. No one claimed that any of his possessions was his own, but they shared everything they had.
 
+Theologically, the early believers considered themselves the righteous remnant within Israel. So Dt 15:4 was undoubtedly in their mind, that if they wanted God to bless them, there should be no poor among them.
+#longnecker
+
 #### v.33
 >With great power, the apostles continued to testify to the resurrection of the Lord Jesus, and **much grace was upon them all.**
-
 
 #### v.36-37
 >Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means Son of Encouragement), sold a field he owned and brought the money and put it at the apostle's feet.
 
+Barnabas is the redeemed rich young ruler. Only with God is this possible.
+#jj 

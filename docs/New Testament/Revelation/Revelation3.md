@@ -60,7 +60,7 @@ See more in [[meekness,greatness#EnduringWord on successful Christian work Revel
 #### v.11
 >I am coming soon. Hold on to what you have, so that no one will take your crown.
 
-“Never forget that the man most likely to steal your crown is _yourself_. ‘Keep thy heart with all diligence, for out of it are the issues of life’ ([Proverbs 4:23](Proverbs4#v.23)). You are in no greater danger from anyone or anything than from yourself.” (Havner)
+“Never forget that the man most likely to steal your crown is _yourself_. ‘Keep thy heart with all diligence, for out of it are the issues of life’ ([Proverbs 4:23](Proverbs4.md#v.23)). You are in no greater danger from anyone or anything than from yourself.” (Havner)
 #enduringword 
 
 #### v.12

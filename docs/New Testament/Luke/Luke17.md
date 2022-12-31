@@ -10,9 +10,8 @@
 This was the disciple's response to Jesus' high call for them to be generous in forgiving those who sin against them. Yet, when the disciples recognize their great lack in faith to forgive, Jesus does not demand such great degree of faith from His disciples; he desires sincere faith. The smallest faith, as long as it is sincere, can do accomplish great things as it is already.
 #jj *can't remember where I read this insight from*
 
-#### v.
->
+#### v.10
+>So you also, when you have done everything you were told to do, should say, 'We are unworthy servants; we have only done our duty.' "
 
-#### v.
->
+
 

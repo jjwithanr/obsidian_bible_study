@@ -27,7 +27,7 @@ Also [[Proverbs3#v.34]].
 #### v.6
 >Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.
 
-Similar to [Proverbs 15:33](Proverbs15#v.33), [Proverbs 18:12](Proverbs18#v.12), etc.
+Similar to [Proverbs 15:33](Proverbs15.md#v.33), [Proverbs 18:12](Proverbs18.md#v.12), etc.
 
 #### v.7
 >Cast all your anxiety on him because he cares for you.

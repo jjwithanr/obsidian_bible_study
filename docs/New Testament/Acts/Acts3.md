@@ -2,6 +2,13 @@
 
 ## Overview:
 
+
+#### v.5
+>So the man gave them his attention, expecting to get something from them.
+
+Lord, I repent of making my time with you transactional. I know you are my Father in heaven who loves me, knows what I need, cares after my needs, and leads me in this life. I repent of solely giving you attention just so I can get something from you. Lord, take me back to my first love where all I want is you.
+#jj 12/22/22
+
 #### v.6
 >Then Peter said, "Silver or gold I do not have, but what I have I give you. In the name of Jesus Christ of Nazareth, walk."
 
@@ -31,9 +38,14 @@ Later Jewish teachers sometimes said hyperbolically that the entire message of t
 #### v.22-23
 >For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you. <sup>23</sup>Anyone who does not listen to him will be completely cutoff from among his people.'
 
+Evidence against limited atonement? Unbelievers are condemned for their sin of rejecting Christ, not because Christ did not pay the penalty for their sins.
+#jj 
+
 #### v.26
 >When God raised up his servant, he sent him **first to you** to bless you by turning each of you from your wicked ways.
 
 Peter's hearers are spiritually "heirs of the prophets"; on the prophecies, see comment on 3:18. Because Abraham's blessing for the nations/families of the earth (Gen 12:3; 22:18) was to come through Israel, the servant (3:13) had been sent to be the blessing to them first.
 #craigkeener 
 
+Thank you, Lord, for your discipline. Thank you for blessing me by turning me from my addiction of YouTube, gluttony, indolence, pride, etc. What a blessing to hear your voice! Even when it is disciplinary.
+#jj 12/22/2022
