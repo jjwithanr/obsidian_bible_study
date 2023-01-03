@@ -18,6 +18,11 @@ From the beginning, **Satan has tried to undermine God’s people by undermining
 Talks with Katlyn: When we approach God with our minds before hearts, the knowledge we obtain puffs our view of seeing him purely from the heart. Similarly, it considers the crafty logic of Satan first before trusting in God's character in the commands He gives His people.
 #jj 
 
+#### v.5
+>"For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil."
+
+Ironically, that which the snake promised did, in fact, come about: the man and the woman became "like God" as soon as they ate of the fruit. The irony, however, lies in the fact that they were already "like God" because they had been created in his image (1:26).
+#sailhamer 
 
 #### v.6
 >When the woman saw that the fruit of the tree was good for food and **pleasing to the eye**, and **also desirable** for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.
@@ -28,8 +33,11 @@ Sin is always pleasing to the eye, yet leading to death, and also desireable, ye
 Eve surrendered to this temptation in exactly the way John describes in [1 John 2:16](1John2#v.16). First, she gave in to the lust of the flesh (**saw that it was good for food**), then she gave in to the lust of the eyes (**pleasant to the eyes**), then she gave in to the pride of life (**desirable to make one wise**).
 #enduringword 
 
-Eternal life also eludes *Gilgamesh. In the famous epic about him, the death of his friend Enkidu leads him in a search for immortality, which he discovers is unattainable. In both of these accounts, being like the gods is viewed in terms of achieving immortality, whereas in the biblical account it is understood in terms of wisdom.
+Eternal life also eludes \*Gilgamesh. In the famous epic about him, the death of his friend Enkidu leads him in a search for immortality, which he discovers is unattainable. In both of these accounts, being like the gods is viewed in terms of achieving immortality, whereas in the biblical account it is understood in terms of wisdom.
 #johnwalton
+
+The woman's thoughts in the last moments before the Fall were that she "saw that the ...tree was good." Up until now the expression has only been used of God. Thus the temptation is not presented as a general rebellion from God's authority but rather a quest for wisdom and "the good" (GK 3202) apart from God's provision.
+#sailhamer
 
 #### v.7
 >Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves.
@@ -40,13 +48,17 @@ Both [Psalm 104:2](https://www.blueletterbible.org/search/preSearch.cfm?Criteria
 It is more than probable that they were **clothed in light before the fall**, and **when they sinned the light went out.**
 #barnhouse 
 
-
-
 #### v.9
 >But the Lord God called to the man, "Where are you?"
 
-How fitting is the question to the character of God. He convicts us of the guilt of our hidden sin. Yet, He beckons us a loving Father to confess it unto Him and go to Him out of our hiding. "You aren't where you belong" captures the tone and affection of God.
+How fitting is the question to the character of God. He convicts us of the guilt of our hidden sin. Yet, He beckons us as a loving Father to confess it unto Him and go to Him out of our hiding. "You aren't where you belong" captures the tone and affection of God.
 #jj 
+
+#### v.12
+>The man said, "The woman you put here with me—she gave me some fruit from the tree, and I ate it."
+
+The man's words are an ironic reminder of God's original intention in 2:18. As a measure of the extent of man's fall, he now sees God's good gift as the source of his trouble.
+#sailhamer 
 
 #### v.15
 >And I will put enmity between you and the woman, and between your offspring and hers; **he will crush your head, and you will strike his heel.**"

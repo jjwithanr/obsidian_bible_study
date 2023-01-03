@@ -7,7 +7,8 @@ Jesus' perfect sacrifice undermines the Old Covenant system of atonement sacrifi
 #### v.1
 >The law is only a shadow of the good things that are coming - not the realities themselves. For this reason it can never, by the same sacrifices repeated endlessly year after year, make perfect those who draw near to worship.
 
-Wow. Since the Old Covenant was only a shadow, establishing the New Covenant is a way of God saying, "I want you to be a little closer to heaven." We live in a fallen world and [see but a poor reflection] of the age to come, but his New Covenant flips the paradigm - bringing heaven down to earth rather earth to heaven. 
+Wow. Since the Old Covenant was only a shadow, establishing the New Covenant is a way of God saying, "I want you to be a little closer to heaven." We live in a fallen world and [see but a poor reflection](1Cor13#v.12) of the age to come, but his New Covenant flips the paradigm - bringing heaven down to earth rather earth to heaven. The good things God intends to bring comes from a place where there are no more shadows.
+#jj 
 
 #### v.4
 >because it is impossible for the blood of bulls and goats to take away sins.
@@ -30,7 +31,7 @@ It cannot mean that those for whom he died are made at once perfectly holy, for 
 #### v.22
 >let us draw near to God with a **sincere heart** in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.
 
-Drawing near to God *with a sincere heart* might also imply for us to draw near without any personal agendas and idolization of self in worship. It's not about us; it wasn't us that granted us this access to worship Him in spirit and truth. Even our guilt in how we ought to be or how we ought to atone for the sins we've committed prior to drawing near to Him must be **cleansed** from our *guilty conscience*.
+Drawing near to God *with a sincere heart* means for us to draw near without any personal agendas or idolization of self. It's not about us; it wasn't us that granted us this access to worship Him in spirit and truth. Even our guilt in how we ought to be or how we ought to atone for the sins we've committed prior to drawing near to Him must be **cleansed** from our *guilty conscience*.
 #jj 
 
 #### v.23
@@ -73,3 +74,4 @@ We hold fast not out of sheer determination and discipline; there is a goal that
 “Cast not away your confidence.” But, brethren, there is something more. The apostle says, “You have need of patience, after you have done the will of God.” But why, you will say, is patience so indispensable at this juncture of experience? Doubtless you all know that we are never so subject to impatience as when there is nothing we can do. All the while the farmer is occupied with plowing, harrowing, tilling, drilling, hoeing, and the like, he is too busy to be fretful. **It is when the work is done, and there is nothing more to occupy his hands that the very leisure he has to endure gives occasion to secret qualms and lurking cares.**
 #spurgeon [sermon link](https://www.spurgeongems.org/sermon/chs1025.pdf)
 
+^ Spurgeon speaking truth of my post-grad season. 1/2/23
