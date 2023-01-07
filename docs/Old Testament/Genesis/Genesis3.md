@@ -83,3 +83,10 @@ This curse of the earth was on his head, and wounded him full sore. Was he crown
 
 Some creature had to die in order to provide them with garments, and you know who it is that died in order that we might be robed in his spotless righteousness. **The Lamb of God has made for us a garment which covers our nakedness so that we are not afraid to stand even before the bar of God.**
 #spurgeon 
+
+#### v.22
+>And the Lord God said, "The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever."
+
+Unlike us, predators have no comprehension of their fundamental weakness, their fundamental vulnerability, their own subjugation to pain and death. But we know exactly how and where we can be hurt, and why. That is as good a definition as any of self-consciousness. We are aware of our own defencelessness, finitude and mortality. We can feel pain, and self-disgust, and shame, and horror, and we know it. We know what makes us suffer. ==We know how dread and pain can be inflicted on us—and that means we know exactly how to inflict it on others.== We know how we are naked, and how that nakedness can be exploited—and that means we know how others are naked, and how they can be exploited. We can terrify other people, consciously. We can hurt and humiliate them for faults we understand only too well. We can torture them—literally—slowly, artfully and terribly. That’s far more than predation. That’s a qualitative shift in understanding. That’s a cataclysm as large as the development of self-consciousness itself. That’s the entry of the knowledge of Good and Evil into the world. That’s a second as-yet-unhealed fracture in the structure of Existence. That’s the transformation of Being itself into a moral endeavour—all attendant on the development of sophisticated self-consciousness.
+#jordanpeterson 
+

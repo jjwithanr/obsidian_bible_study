@@ -17,6 +17,11 @@
 #### v.11
 >"I am the good shepherd. The good shepherd lays down his life for the sheep.
 
+In claiming to be the good shepherd, there is little question as to what Jesus is referring. This claim of Jesus is why the crowd was so divided—could He really be the one Ezekiel 34 talked about?
+
+Although it is true that being a shepherd would communicate ideas of love and leadership, the main reason John includes this passage is to show us that Jesus was claiming to be the Messianic Son of God. Jesus was the one whom God had appointed as the leader and shepherd of Israel in [Ezekiel 34](Ezekiel34). He was the descendant of David, the shepherd for all of Israel—a divine figure.
+#goeman 
+
 #### v.13
 >The man runs away because he is a hired man and cares nothing for the sheep.
 
