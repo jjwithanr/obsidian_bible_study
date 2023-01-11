@@ -13,7 +13,7 @@ The evil referred to is that where many desired to be teachers, though but few c
 #### v.6
 >The tongue also is a fire, a world of evil among the parts of the body. It corrupts the whole person, sets the whole course of his life on fire, and is itself on fire by hell.
 
-See [Proverbs 10:19](Proverbs10.md#v.19).
+See [Proverbs 10:19](Proverbs10#v.19).
 
 #### v.12
 >My brothers, can a fig tree bear olives, or a grapevine bear figs?

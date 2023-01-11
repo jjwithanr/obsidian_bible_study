@@ -28,7 +28,7 @@ Support for interim judgement?
 #### v.8
 >But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.
 
-The Christian must be very aware of the words that come out of their mouths. Speech and conduct is to be watched closely ([James 3:6](James3#v.6), [Proverbs 10:19](Proverbs10.md#v.19), etc.)
+The Christian must be very aware of the words that come out of their mouths. Speech and conduct is to be watched closely ([James 3:6](James3#v.6), [Proverbs 10:19](Proverbs10#v.19), etc.)
 
 #### v.10
 >and have put on the new self, which is being renewed in knowledge in the image of its Creator.

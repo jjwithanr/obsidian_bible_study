@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa831df02f20f39d",
+        "id": "4d6637a783e99a90",
         "type": "tabs",
         "children": [
           {
-            "id": "20807eef07158e82",
+            "id": "831a2628ce82c29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4eac177537b74be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Testament/Proverbs/Proverbs6.md",
+                "file": "Old Testament/Proverbs/Proverbs11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs6.md",
+                "file": "Old Testament/Proverbs/Proverbs11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +103,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs6.md"
+                "file": "Old Testament/Proverbs/Proverbs11.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c4eac177537b74be",
+  "active": "831a2628ce82c29e",
   "lastOpenFiles": [
-    "Old Testament/Proverbs/Proverbs5.md",
-    "Old Testament/Psalm/Psalm73.md",
-    "New Testament/Acts/Acts17.md",
-    "Old Testament/Genesis/Genesis3.md",
-    "New Testament/John/John10.md",
-    "Old Testament/Psalm/Psalm115.md",
-    "Old Testament/1 Samuel/1Samuel13.md",
-    "Old Testament/Ezekiel/Ezekiel9.md",
-    "New Testament/Acts/Acts14.md",
-    "New Testament/Hebrews/Hebrews10.md"
+    "New Testament/Acts/Acts23.md",
+    "Old Testament/Psalm/Psalm78.md",
+    "Old Testament/Proverbs/Proverbs10.md",
+    "Old Testament/2 Chronicles/2Chron9.md",
+    "Old Testament/2 Chronicles/2Chron7.md",
+    "Old Testament/Proverbs/Proverbs13.md",
+    "New Testament/James/James3.md",
+    "New Testament/Colossians/Colossians3.md",
+    "New Testament/1 Peter/1Peter4.md",
+    "New Testament/Acts/Acts20.md"
   ]
 }

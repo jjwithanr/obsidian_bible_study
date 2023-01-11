@@ -12,7 +12,13 @@
 One should hold one's tongue rather than deride a neighbor. The wise man is a "man of discernment"; the other one "lacks judgement." How one treats a neighbor is significant in Proverbs—one was expected to be a good neighbor.
 #allenpross 
 
-bibleref?
+It is foolish to deride one's neighbor. This comes from the Hebrew term _buwz_, which implies contempt or a sneering form of spite. Snide, derogatory attitudes towards other people cause friction and hard feelings. If a man has good judgment, he will remain silent instead of deriding his neighbor. A flurry of insults never gains peace; refusing to say mean things about a neighbor contributes to a good, peaceful relationship (Proverbs 10:19; 29:20). At minimum, the choice to hold one's tongue gives opportunity to rethink before saying something which cannot be taken back.
+
+It is foolish to deride one's neighbor. This comes from the Hebrew term _buwz_, which implies contempt or a sneering form of spite. Snide, derogatory attitudes towards other people cause friction and hard feelings. If a man has good judgment, he will remain silent instead of deriding his neighbor. A flurry of insults never gains peace; refusing to say mean things about a neighbor contributes to a good, peaceful relationship (Proverbs 10:19; 29:20). At minimum, the choice to hold one's tongue gives opportunity to rethink before saying something which cannot be taken back.
+#bibleref 
+
+#### v.23
+>The desire of the righteous ends only in good, but the hope of the wicked only in wrath.
 
 #### v.24
 >One man gives freely, yet gains even more; another witholds unduly, but comes to poverty.
@@ -25,6 +31,11 @@ The paradox presented here does not refer to financial investments. Rather, in G
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NvIguXC_PjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### v.27
+>He who seeks good finds goodwill, but evil comes to him who searches for it.
+
+Whoever seeks good is seeking divine favor.
+#allenpross 
 
 #### v.30
 >The fruit of the righteous is a tree of life, and he who wins soul is wise.

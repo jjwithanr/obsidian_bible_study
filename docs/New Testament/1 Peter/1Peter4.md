@@ -33,7 +33,7 @@ See more in [[self-control#1 Peter 4 7 1Peter4 v 7]].
 #barnes 
 
 *You can't love someone when you're always focused on the their weaknesses.*
-Similar to [James 5:20](James5#v.20) and taken from [Proverbs 10:12](Proverbs10.md#v.12).
+Similar to [James 5:20](James5#v.20) and taken from [Proverbs 10:12](Proverbs10#v.12).
 #jj 
 
 This is how we cultivate [[family]].
