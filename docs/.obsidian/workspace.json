@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "831a2628ce82c29e",
+            "id": "7029466bd79cad1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs11.md",
+                "file": "Old Testament/Proverbs/Proverbs14.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs11.md",
+                "file": "Old Testament/Proverbs/Proverbs14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs11.md"
+                "file": "Old Testament/Proverbs/Proverbs14.md"
               }
             }
           }
@@ -126,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "831a2628ce82c29e",
+  "active": "7029466bd79cad1c",
   "lastOpenFiles": [
-    "New Testament/Acts/Acts23.md",
-    "Old Testament/Psalm/Psalm78.md",
-    "Old Testament/Proverbs/Proverbs10.md",
-    "Old Testament/2 Chronicles/2Chron9.md",
-    "Old Testament/2 Chronicles/2Chron7.md",
+    "Old Testament/Proverbs/Proverbs19.md",
+    "Old Testament/Proverbs/Proverbs14.md",
+    "Old Testament/2 Chronicles/2Chron13.md",
+    "New Testament/1 John/1John4.md",
     "Old Testament/Proverbs/Proverbs13.md",
-    "New Testament/James/James3.md",
-    "New Testament/Colossians/Colossians3.md",
-    "New Testament/1 Peter/1Peter4.md",
-    "New Testament/Acts/Acts20.md"
+    "Old Testament/Proverbs/Proverbs12.md",
+    "Untitled.md",
+    "New Testament/Acts/Acts24.md",
+    "Old Testament/Proverbs/Proverbs11.md",
+    "New Testament/Acts/Acts23.md"
   ]
 }

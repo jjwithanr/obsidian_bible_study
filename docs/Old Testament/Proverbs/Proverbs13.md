@@ -5,6 +5,12 @@
 #### v.3
 >He who guards his lips guards his life, but he who speaks rashly will come to ruin.
 
+#### v.4
+>The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.
+
+#### v.10
+>Pride only breeds quarrels, but wisdom is found in those who take advice.
+
 #### v.12
 >Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.
 

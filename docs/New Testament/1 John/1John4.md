@@ -31,6 +31,12 @@ There is love in many places, like wandering beams of light; but as for the sun,
 The completeness of love means we do not cower in fear before God, dreading His judgment, either now or **in the day of judgment**.
 #enduringword 
 
+The fear that sprouts in my heart when I feel the inkling to evangelize to someone reveals that my motive is not rooted in love. It's rooted in doing something godly—without love. Lord, help me get the first things first.
+#jj 
+
+If we truly abide in the Father's love, we will be without fear... Love and fear are incompatible. They cannot coexist... The faer spoken of here is not to be confused with reverence for God. Reverence will only deepen through the experience of God's love.
+#barker 
+
 #### v.19
 >We love because he first loved us.
 
