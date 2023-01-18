@@ -19,10 +19,16 @@
 Goodness has power to charm and win even enemies to itself.
 #barnes 
 
+This verse speaks against martyr's syndrome where the presence of persecution is what solely qualifies someone being used by God.
+#jj 
+
 #### v.9
 >In his heart a man plans his course, but the Lord determines his steps.
 
 See also [[Psalm37#v.23-24]].
+
+The Bible in general teaches that only those plans that are approved by God will succeed.
+#allenpross 
 
 #### v.21
 >The wise in heart are called discerning, and pleasant words promote instruction.

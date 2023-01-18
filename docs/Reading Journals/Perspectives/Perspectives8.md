@@ -25,7 +25,7 @@
 - Taylor took his parent's advice to "develop the resources of body, mind, heart, and soul" while waiting for God's guidance in his mission endeavors. He would exercise, remove his feather bed, and actively serve in whatever capacity in his church.
 - Taylor became an assistant to a doctor after medical and surgical training. In his own time, he would study the Word of God, visit the poor, and evangelize on summer evenings.
 - He made the imminent coming of Christ the source of his blessed hope and conviction to tidy everything in his life that made him sorry to give account to Jesus. He donated accumulated possessions and clothes lamenting how the Church of God ought to utilize more of her resources!
-- *In the study of that Divine Word I learned that, to obtain successful laborers, not elaborate appeals for help, but, first, earnest prayer to God to thrust forth laborers, and, second, the deepening of the spiritual life of the Church, so that men should be able to stay at home, were what was needed. I saw that the apostolic plan was not raise ways and means, but to go and do the work, trusting in His sure Word who has said, "Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you."* (321)
+>In the study of that Divine Word I learned that, to obtain successful laborers, not elaborate appeals for help, but, first, earnest prayer to God to thrust forth laborers, and, second, the deepening of the spiritual life of the Church, so that men should be able to stay at home, were what was needed. I saw that the apostolic plan was not raise ways and means, but to go and do the work, trusting in His sure Word who has said, "Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you." (321)
 - Taylor's had unbelief for God to use him to seek from Him the needed workers. He delayed until a blood-guiltiness washed over him when seeing a congregation of thousands worshipping in security while knowing millions were perishing for the ignorance of the Gospel. Overcoming the unbelief led him to write "China's Spiritual Need and Claims."
 
 
@@ -37,7 +37,7 @@
 	- Partnership: collaboration between Western and Majority World churches and missions can yield much fruit.
 	- Unity: demonstrate the reconciling power of the gospel.
 	- Prayer: the state of the gospel changes by prayer.
-- *The motto of Operation World is ,"When man workds, man workds, but when man prays, God works. We can strategize, harmonize, dialogue, and worship—we can equip ourselves with the best financial resources and the most astute missiology available—but without prayer, we will not see spiritual strongholds broken down, nor the unevangelized peoples experiencing the gospel. ==The state of the gospel changes by prayer.=="* (368)
+- *The motto of Operation World is ,"When man works, man works, but when man prays, God works. We can strategize, harmonize, dialogue, and worship—we can equip ourselves with the best financial resources and the most astute missiology available—but without prayer, we will not see spiritual strongholds broken down, nor the unevangelized peoples experiencing the gospel. ==The state of the gospel changes by prayer.=="* (368)
 
 
 ### Women in Mission
