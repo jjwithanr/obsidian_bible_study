@@ -8,7 +8,7 @@ Paul warns of a great apostasy taking place in the end times where people mispla
 
 "without love" in verse 3 comes from the Greek word, *astorgos* , literally translated as "without natural affection." The only other time this specific word is used is in [Romans 1:31](Romans1#v.31) as the word, "heartless." Paul seems to repeatedly measure one's character by their love and respect for their immediate family.
 
-This could possibly be connected to why Paul prays the [Philippians'](Philippians1) love would abound more and more in knowledge and depth of insight so that they wouldn't misplace their love and leave the sound teachings he left them with.
+This could possibly be connected to why Paul prays the Philippians' love would abound more and more in knowledge and depth of insight so that they wouldn't misplace their love and leave the sound teachings he left them with.
 #jj 
 
 The "list of vices" vividly describes the negative impact of those who were opposing Paul and Timothy. The list begins and ends with references to *misplaced love*💔 - i.e., people who are **lovers of self**, **lovers of money**, and **lovers of pleasure rather than lovers of God**

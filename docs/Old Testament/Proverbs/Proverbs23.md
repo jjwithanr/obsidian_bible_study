@@ -17,3 +17,16 @@ A "fool" despises wisdom; so it is a waste of time to try to teach him. A fool r
 
 The contrast is between right and wrong envy; the one is spiritual exercise, the other a disease. The difficulty is that the sinful world seems more attractive. Thus the motivation provided is that the future belongs to the righteous.
 #allenpross 
+
+#### v.20-21
+>Do not join those who drink too much wine or gorge themselves on meat, <sup>21</sup>for drunkards and gluttons become poor, and drowsiness clothes them in rags.
+
+Those who associate with "drunkards" and "gluttons" will become poor. These two represent the epitome of the lack of discipline. Excessive eating and drinking are usually symptoms of deeper problems; today, we usually focus more on the drinking because it is a dangerous social problem with far-reaching consequences.
+#allenpross 
+
+#### v.23
+>Buy the truth and do not sell it; get wisdom, discipline and understanding.
+
+Getting truth means acquiring training in the truth, and gaining understanding means developing the perception and practical knowledge of the truth.
+#allenpross 
+

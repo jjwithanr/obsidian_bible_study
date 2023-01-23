@@ -30,13 +30,13 @@ Avoid personal debt so that you are not a servant to someone other than God.
 #### v.10
 >Drive out the mocker, and out goes strife; quarrels and insults are ended.
 
-If I were not present, would strife, quarrels, and insults be ended? The fear of the Lord strikes my heart at the searching question. Lord, help me be an edifying member of your church who is quick to forgive and humble myself.
+If I were not present, would strife, quarrels, and insults be ended? The fear of the Lord strikes my heart at this searching question. Lord, help me be an edifying member of your church who is quick to forgive and humble myself.
 #jj 
 
 #### v.11
 >He who loves a pure heart and whose speech is gracious will have the king for his friend.
 
-My heart strays from purity when my speech strays grace-filled words. Lord, help me.
+I know my heart strays from purity when my speech strays from grace-filled words. Lord, help me.
 #jj 
 
 
@@ -45,7 +45,6 @@ My heart strays from purity when my speech strays grace-filled words. Lord, help
 
 Jesus is called friend of sinners but not friend of hot-tempered men.
 #jj 
-
 
 #### v.29
 >Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure men.
