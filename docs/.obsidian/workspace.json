@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f76729c95fb87cb",
+            "id": "052a771585c6d8cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs23.md",
+                "file": "Old Testament/Proverbs/Proverbs25.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs23.md",
+                "file": "Old Testament/Proverbs/Proverbs25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs23.md"
+                "file": "Old Testament/Proverbs/Proverbs25.md"
               }
             }
           }
@@ -126,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3f76729c95fb87cb",
+  "active": "052a771585c6d8cd",
   "lastOpenFiles": [
+    "Old Testament/2 Chronicles/2Chron24.md",
+    "Old Testament/Proverbs/Proverbs25.md",
+    "Old Testament/2 Chronicles/2Chron23.md",
+    "Old Testament/Proverbs/Proverbs23.md",
     "Old Testament/Psalm/Psalm90.md",
     "New Testament/2 Timothy/2Timothy3.md",
     "Old Testament/Proverbs/Proverbs22.md",
-    "Old Testament/Proverbs/Proverbs23.md",
     "Old Testament/Proverbs/Proverbs21.md",
     "Old Testament/Proverbs/Proverbs20.md",
-    "Old Testament/Proverbs/Proverbs19.md",
-    "Old Testament/Psalm/Psalm86.md",
-    "Old Testament/Proverbs/Proverbs18.md",
-    "Old Testament/Proverbs/Proverbs8.md"
+    "Old Testament/Proverbs/Proverbs19.md"
   ]
 }
