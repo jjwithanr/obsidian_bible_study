@@ -1,8 +1,29 @@
 # Genesis 1
 
 ## Overview:
+Chapters 1-11: The story of man's fall
+Four major events: Creation / Fall / Flood / Babel
 
+Chapters 12-50: the story of God's redemption.
+Four major persons: Abraham / Isaac / Jacob / Joseph (the patriarchs)
 
+Purpose:
+A. Show the origin of mankind and the origin of mankind's problem.
+B. Show that God is the original creator.
+C. Show God's original design for humans.
+D. Show the origin of Israel.
+
+Message:
+A. God created a good creation.
+	Everything created was good. Evil is taking something good and then twisting it out of its shape and pattern.
+B. The original sin was disobedience.
+	Disobedience is the hinge on the door where God is trying to bring us back to obedience.
+C. Man is separated from God.
+D. God works with us through covenant.
+E. God is a good father and works to restore us every step of the way.
+	God, from the beginning and proceeding the fall, loves us. 
+
+#theosu
 
 #### v.1
 >In the beginning God created the heavens and the earth.

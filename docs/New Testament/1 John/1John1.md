@@ -1,7 +1,30 @@
 # 1 John 1
 
 ## Overview:
+Theme: Love.
+Key Words: Love (x46), Know (x42), Sin (x28), World (x23), Life (x15), Abide (x12).
 
+Key Verse: [4:7-8](John4#v.708)
+Love comes from God. It's used constantly in  society, but love is a Christian revelation of who God is. A lot of us in society are unconscious Christian in that way.
+
+Chapters 1-2: God is light.
+Chapters 3-4: God is Love.
+Chapter 5: God is Life.
+
+Purpose:
+1. To refute the heresy of Gnosticism born out of apostate Judaism and corrupt Paganism.
+	1. John is ridding of the Gnostic idea of dualism supposing a cosmic battle betwen darkness and light.
+2. To exhort the believer concerning his relationship to God, the brethen, the world, and sin. 
+	1. How do we get rid of sin? Confessing our sin and repenting of it so God can cleanse it.
+3. To show that the true knowledge of God involves a personal relationship with Him.
+	1. Knowing God is the goal of the Christian life.
+
+Message:
+1. If we truly know God and are in fellowship with him, then we will not love the world.
+	1. If you love the world, you do not love God. John is mystical but NOT mushy. Friendship with the world nullifies friendship with God.
+2. If the believer abides in life he will not live in sin.
+	1. Believer lives and move in light. We do not continue to practice and live in sin.
+#theosu 
 
 #### v.3
 >We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.

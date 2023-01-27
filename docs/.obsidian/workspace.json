@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d95e84a2f64afd9b",
+        "id": "16b0471bbec5d8d8",
         "type": "tabs",
         "children": [
           {
-            "id": "052a771585c6d8cd",
+            "id": "472be2341f7efb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs25.md",
+                "file": "Topics/hermeneutics.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs25.md",
+                "file": "Topics/hermeneutics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs25.md"
+                "file": "Topics/hermeneutics.md"
               }
             }
           }
@@ -126,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "052a771585c6d8cd",
+  "active": "472be2341f7efb03",
   "lastOpenFiles": [
-    "Old Testament/2 Chronicles/2Chron24.md",
-    "Old Testament/Proverbs/Proverbs25.md",
-    "Old Testament/2 Chronicles/2Chron23.md",
-    "Old Testament/Proverbs/Proverbs23.md",
-    "Old Testament/Psalm/Psalm90.md",
-    "New Testament/2 Timothy/2Timothy3.md",
-    "Old Testament/Proverbs/Proverbs22.md",
-    "Old Testament/Proverbs/Proverbs21.md",
-    "Old Testament/Proverbs/Proverbs20.md",
-    "Old Testament/Proverbs/Proverbs19.md"
+    "Old Testament/Genesis/Genesis1.md",
+    "Old Testament/Exodus/Exodus1.md",
+    "Old Testament/Leviticus/Leviticus1.md",
+    "Old Testament/Numbers/Numbers1.md",
+    "Old Testament/Deuteronomy/Deut1.md",
+    "Old Testament/Numbers/Number11.md",
+    "New Testament/1 John/1John4.md",
+    "New Testament/1 John/1John1.md",
+    "Old Testament/Ezekiel/Ezekiel3.md",
+    "Old Testament/Exodus/Exodus3.md"
   ]
 }
