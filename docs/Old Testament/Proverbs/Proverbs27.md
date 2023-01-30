@@ -16,6 +16,12 @@ The verse is not ruling out wise planning for the future, only one's overconfide
 JJ, you are allowed to receive affirmations and encouragements said about you. Just don't let it get to your head or repeat for self-praise.
 #jj 10/3/2022 revisited
 
+#### v.6
+>Wounds from a friend can be trusted, but an enemy multiplies kisses.
+
+Reproof given in love is superior to insincere expressions of affection. The wounds of a friend "can be trusted" because they are meant to correct (see 25:12; Dt 7:9; Job 12:20).
+#allenpross 
+
 #### v.7
 >He who is full loathes honey, but to the hungry even what is bitter tastes sweet.
 
@@ -25,13 +31,22 @@ The special instance covers the general law, that indulgence in pleasure of any 
 #### v.14
 >If a man loudly blesses his neighbor early in the morning, it will be taken as a curse.
 
-How, when, and why we say is important. On the surface this erse appears to be describing someone who comes in early and loud with a blessing or greeting; such a one is considered a nuisance ("it will be taken as a curse"). 
+How, when, and why we say is important. On the surface this verse appears to be describing someone who comes in early and loud with a blessing or greeting; such a one is considered a nuisance ("it will be taken as a curse"). 
 #allenpross 
 
 #### v.18
 >He who tends a fig tree will eat its fruit, and he who looks after his master will be honored.
 
 See also [[Galatians6#v 7-8]].
+
+#### v.19
+>As water reflects a face, so a man's heart reflects the man.
+
+#### v.20
+>Death and Destruction are never satisfied, and neither are the eyes of man.
+
+#### v.21
+>The crucible for silver and the furnace for gold, but man is tested by the praise he receives.
 
 #### v.22
 >Though you grind a fool in a mortar, grinding him like grain with a pestle, you will not remove his folly from him.

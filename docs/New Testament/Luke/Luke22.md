@@ -18,7 +18,6 @@
 #### v.40
 >On reaching the place, he said to them, "Pray that you will not fall into temptation."
 
-
 #### v.45
 >When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow.
 

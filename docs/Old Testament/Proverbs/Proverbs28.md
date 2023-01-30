@@ -9,7 +9,6 @@
 #### v.2
 >When a country is rebellious, it has many rulers, but a man of understanding and knowledge maintains order.
 
-
 #### v.5
 >Evil men do not understand justice, but those who seek the Lord understand it fully.
 
@@ -22,11 +21,23 @@ The deep interdependence of morality and intellect. **We have a right judgment i
 Story of Thomas and mechanical keyboard.
 #jj 
 
+#### v.9
+>If anyone turns a deaf ear to the law, even his prayers are detestable.
+
+God will not listen to the prayers of those who will not listen to him.
+#allenpross 
+
 #### v.11
 >A rich man may be wise in his own eyes, but a poor man who has discernment sees through him.
 
 Wealth blunts, poverty sharpens, the critical power of intellect.
 #barnes 
+
+#### v.14
+>How blessed is the man who is always in dread, But he who hardens his heart will fall into calamity
+
+In other words, the one who is always apprehensive about sin and its results will be more successful at avoiding it and finding God's blessing.
+#allenpross 
 
 #### v.20
 >A faithful man will be richly blessed, but one eager to get rich will not go unpunished.
@@ -56,3 +67,8 @@ See also [[Jeremiah6#v.16]].
 
 Security comes from a life of wisdom, not from self-sufficiency. One who trusts in oneself stands in stark contrast to one who follows the wisdom from above that this book has been teaching.
 #allenpross 
+
+
+#### v.27
+>He who gives to the poor will lack nothing, but he who closes his eyes to them receives many curses.
+

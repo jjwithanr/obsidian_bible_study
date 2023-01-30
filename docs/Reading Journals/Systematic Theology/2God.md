@@ -99,7 +99,7 @@ Pages 169-562
 #### 2022-07-15 22:02 Pages 540-560
 ##### What I learned:
 1. *Jesus explains that his power over demons is a distinguishing mark on his ministry to inaugurate the reign of the kingdom of God among mankind in a new and powerful way:* [Matthew 12:28-29](Matthew12#v.28-29) (540)
-2. Grudem pushes back on SAFA's core vision: *in no instance does anyone in the New Testament...teach by word or example that ceratin "demonic strongholds" over a city have to be broken before the gospel can be proclaimed with effectiveness. Rather, Christians just preach the gospel, and it comes with power to change lives!* (542-543)
+2. Grudem pushes back on SAFA's core vision: *in no instance does anyone in the New Testament...teach by word or example that certain "demonic strongholds" over a city have to be broken before the gospel can be proclaimed with effectiveness. Rather, Christians just preach the gospel, and it comes with power to change lives!* (542-543)
 3. The result of satanic or demonic activity is destroying parts of God's creation and those made in the image of God.
 4. Phillip wasn't an apostle.
 5. Rebukes against demons would have to be spoken audibly given that demons cannot read our minds—only God can.

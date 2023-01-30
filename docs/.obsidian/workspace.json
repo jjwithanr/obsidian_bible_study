@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16b0471bbec5d8d8",
+        "id": "1e74b4028977ae78",
         "type": "tabs",
         "children": [
           {
-            "id": "472be2341f7efb03",
+            "id": "10bb41aacc39bd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/hermeneutics.md",
+                "file": "Old Testament/Proverbs/Proverbs30.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/hermeneutics.md",
+                "file": "Old Testament/Proverbs/Proverbs30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/hermeneutics.md"
+                "file": "Old Testament/Proverbs/Proverbs30.md"
               }
             }
           }
@@ -126,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "472be2341f7efb03",
+  "active": "10bb41aacc39bd24",
   "lastOpenFiles": [
-    "Old Testament/Genesis/Genesis1.md",
-    "Old Testament/Exodus/Exodus1.md",
-    "Old Testament/Leviticus/Leviticus1.md",
-    "Old Testament/Numbers/Numbers1.md",
+    "Old Testament/2 Chronicles/2Chron30.md",
+    "Topics/hermeneutics.md",
     "Old Testament/Deuteronomy/Deut1.md",
-    "Old Testament/Numbers/Number11.md",
-    "New Testament/1 John/1John4.md",
-    "New Testament/1 John/1John1.md",
-    "Old Testament/Ezekiel/Ezekiel3.md",
-    "Old Testament/Exodus/Exodus3.md"
+    "Old Testament/Proverbs/Proverbs29.md",
+    "Old Testament/Proverbs/Proverbs28.md",
+    "New Testament/Revelation/Revelation13.md",
+    "Reading Journals/Systematic Theology/2God.md",
+    "New Testament/Matthew/Matthew12.md",
+    "Old Testament/Genesis/Genesis16.md",
+    "New Testament/Luke/Luke22.md"
   ]
 }

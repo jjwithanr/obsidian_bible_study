@@ -10,13 +10,13 @@
 - Kenneth Scott Latourette's *History of Christianity*.
 - When Chrisitanity became the official religion of Europe in 375 A.D., it ironically alienated peoples who were anti-Rome. Islam soon became an alternative religion. *In one snese Islam was a cultural breakaway from Christianity just as Christianity had been a breakaway from the Jewish form of the biblical faith.* (216)
 - Gothic Barbarians did not physically devastate Rome since they were very respectful of churches because they had heard an antagnostic Arian form of Christianity. If only Western form had missionary work!
-- *The rise of monasticism was, after Christ's commission to his disciples, the most important—and in many ways the most beneficial—institutional event in the history of Christianity. (p.84)* from Wheaton professor Mark A. Noll
+>*The rise of monasticism was, after Christ's commission to his disciples, the most important—and in many ways the most beneficial—institutional event in the history of Christianity. (p.84)* from Wheaton professor Mark A. Noll
 - The phrase *Third World* comes from the days when Greek and Latin were the first two worlds and the northern barbarians were the *Third World.*
-- Charlemagne was a second Constantine. He made the first serious attempt at public education by elnisting literate Christians—including former barbarian Irish teachers—to teach Latin in Rome. 
-- *Once more, when Christian did not reach out to them, pagan peoples came after what the Christian possessed. And once more, the phenomenal power of Christianity manifested itself: the conquerors became conquered by the faith of their captives.* (220)
+- Charlemagne was a second Constantine. He made the first serious attempt at public education by enlisting literate Christians—including former barbarian Irish teachers—to teach Latin in Rome. 
+>*Once more, when Christian did not reach out to them, pagan peoples came after what the Christian possessed. And once more, the phenomenal power of Christianity manifested itself: the conquerors became conquered by the faith of their captives.* (220)
 - The Cluny revival produced a new reforming attitude towards society as a whole. Its fruit include Hildebrand and Pope Innocent III who authorized the first mobile mission orders—the Friars.
 - The Crusuades were a result of the Viking spirit in the Christian church. All of the major crusuades were led by Viking descendants.
-- *The great lesson of the Crusuades is that goodwill, even sacrificial obedience to God, is not substitute for a clear understanding of His will.* (222)
+>*The great lesson of the Crusuades is that goodwill, even sacrificial obedience to God, is not substitute for a clear understanding of His will.* (222)
 - Catholic missionaries were writing off the Protestant movement as apostate since they were not sending missionaries. 
 
 ### Asian Christianity
@@ -35,12 +35,12 @@
 
 ### The History of Mission Strategy
 **R. Pierce Beaver**
-- Boniface was the first to includ women in misisonary work when he employed them in the  domestic science institutions.
+- Boniface was the first to includ women in misisonary work when he employed them in the domestic science institutions.
 - The Jesuits were creative in their missionary efforts as they engulfed themselves in the foreign culture that they might win coverts to Christ. Rome ruled against the Jesuits' principles and banned these practices until they were abolished two centuries later.
-- *The missionaries delivered heavily doctrinal sermons stressing the wrath of God and the pains of hell, just like those sermons given in an English congregation. But David Brainerd, who like the Moravians preached the love of God rather than His wrath, was extremely effective in moving people to repentance.* (231)
+>*The missionaries delivered heavily doctrinal sermons stressing the wrath of God and the pains of hell, just like those sermons given in an English congregation. But David Brainerd, who like the Moravians preached the love of God rather than His wrath, was extremely effective in moving people to repentance.* (231)
 - There was debate in what objective to prioritize in more primitive peopele groups: civilizing or Christianizing?
 - Henry Venn and Rufus Anderson both arrived to the same "three-self" forumla of Protestant missions strategy. The three-self goal os mission was to plan and develop churches, which would be self-governing, self-supporting, and self-propagating.
-- *It was with the same spirit of helpfulness and good will, along with a desire to improve the economic base of the church, that missionaries introduced improved poultry an livestock, better seeds and new crops. The **great orchard industry in Shantung** got started in this way* (236)
+>*It was with the same spirit of helpfulness and good will, along with a desire to improve the economic base of the church, that missionaries introduced improved poultry an livestock, better seeds and new crops. The **great orchard industry in Shantung** got started in this way* (236)
 
 ### The Two Structures of God's Redemptive Mission
 **Ralph D. Winter**

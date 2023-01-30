@@ -10,7 +10,6 @@
 **Those who are truly zealous for God frequently reach for fruit without first dying.** Unfortunately much Christian work is done in this way, and while there is conception, the child that is born can never be the heir. **Christian work that is done merely through the zeal of human effort without counting the body as dead**, and Sarai as good as dead, may produce great revival campaigns with but a **few genuinely saved**, large church memberships with many tares among the wheat
 #barnhouse 
 
-
 #### v.13
 >She gave this name to the Lord who spoke to her: "You are the God who sees me," for she said, "I have now seen the One who sees me."
 

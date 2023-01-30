@@ -54,5 +54,32 @@ Mark 2:4 - individuals with the sick man cannot get near Jesus because of the cr
 **Static character** - does not change much throughout time. i.e. Sadducees and crowd.
 **Dynamic character** - change as the narrative develops. i.e. Nicodemus in John 3:2 is "still in the darkness". In 7:51, he speaks up for Jesus. In 19:38, he recognizes Jesus' kingship and comes out of the darkness (contrasted with Joseph of Arimathea who also came secretly).
 
+#### Setting
+John 3:37 → John 8:12 → Jesus refers to himself as the Light of the World and as Living Water at a festival that was characterized by the pouring out of water and the lights of lamps. Details made by John.
 
+#### Intertextuality
+the varied ways that writers of the NT engage the OT and the studies of those connections.
 
+*from The Name of the Rose →* books always speak of other books. every story tells another story that has already been told.
+
+New Testament is affected by the Old Testament. i.e. Preachers reflect their influences.
+
+Three ways:
+1. Citations → i.e. Acts 1:20, Luke 4:18-19
+2. Allusions - NT reference to OT text consisting of just a few words, often including a thematic connection that assists in its recognition. Not a direct quote.
+	1. Jesus indicts the temple in Mark 11:17 by referring to Jeremiah 7 who warned against the false hope of the indestructability of the temple. He calls it a den of robbers which foreshadows the temple's destruction in 586 B.C. by the Babylonians. Jesus predicts the temple's downfall in 70 A.D.
+3. Echo - NT reference to OT text made by implicit evocation more than through verbal linkages. These connections are usually subtle and often recognized only as related echoes accumulated across a NT book.
+	1. Metalepsis - a concept in literary theory that suggests that references to earlier text evokes a wider context beyond the precursor.
+		1. Luke 22:20 → Jesus uses the phrase New Covenant. The only time it is used in OT is in Jeremiah 31. Jesus' audience hears Jeremiah's New Covenant.
+		2. Why NT writers use OT?
+			1. To show God was at work now as He was then.
+			2. To develop Christology. Christ's work is a continuation of what happened in OT.
+			3. Impacts the readers.
+
+Examples in John:
+John 1:1 → uses language from Genesis 1:1
+1:5 → Genesis 1:3
+John intro Jesus through the story of Creation. It alludes Creation is being made new again through Jesus.
+John 19:41 → John gives interesting detail that Christ's crucifixion happened in a garden (Genesis 2:7). He is the only Gospel writer who mentions this detail in the setting. By highlighting the garden setting for the passion and resurrection, he's suggesting Jesus' death and resurrection inaugurate a time of new creation. 
+John 19:5 → John's detail concerning Herod's comment concerning Jesus as a man may hint at a deeper meaning that he's presenting a new man through the crucifixion (Genesis 1:27).
+John 20:19 → John suggests that a new week of human history has begun because of the work of Christ (Genesis 2:2-3). Re-creation has begun. 
