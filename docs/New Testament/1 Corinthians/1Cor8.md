@@ -9,6 +9,9 @@
 Knowledge is that act of passing from a state of unconscious ignorance to a state of conscious ignorance.
 #lewischafer
 
+Thinking in isolation and with pride ends in being an idiot. Every man who will not have softening of the heart msut at least have softening of the brain.
+#gkchesterton 
+
 #### v.3
 >But the man who loves God is known by God.
 
