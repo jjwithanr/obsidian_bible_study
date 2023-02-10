@@ -1,14 +1,14 @@
 # Exodus 1
 
 ## Overview:
-Exodus Theme: Redemption
-Key Scripture: 3:14
+Theme: Redemption
+Key Scripture: [3:14](Exodus3#v.14)
 
 Exodus 1-18: The Exodus from Egypt. The Presence of God
 Exodus 19-24: The Law is given. The Holiness of God
 Exodus 25-40: The Tabernable is made. The Worship of God
 
-Purpose:
+Purposes:
 1. To show how God delivered His People (Israel) from Slavery.
 2. To show the origin of the Jewish religion under the Mosaic Covenant.
 
@@ -20,18 +20,5 @@ Message:
 3. God is supreme over every other god.
 
 #theosu 
-#### v.
->
 
-#### v.
->
-
-#### v.
->
-
-#### v.
->
-
-#### v.
->
 

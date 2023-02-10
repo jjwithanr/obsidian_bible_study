@@ -25,7 +25,7 @@ Pages 169-562
 #### 2022-07-07 21:19 Pages 380-400
 ##### What I learned:
 1. There is no gap between Genesis [1:1](Genesis1#v.1) and [1:2](Genesis1#v.2). Gap theory falls apart when we realize God will have looked at all the demonic beings and call His creation "very good."
-1. Biblical geneologies have gaps in them which opens up the possibility of an older Earth.
+1. Biblical genealogies have gaps in them which opens up the possibility of an older Earth.
 1. There is much debate over whether *yom* in Genesis 1 is a literal twenty-four hour day or a long period of time.
 
 ##### Interesting Quote:

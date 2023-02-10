@@ -1,8 +1,20 @@
 # Nehemiah 1
 
 ## Overview:
+continued from [[Ezra1]]
+Nehemiah in Hebrew → consolation; Jehovah is comfort
 
+Theme: Reconstruction
+Key Scripture: 4:17
 
+Chapters 1-7: The Return of 
+Chapter 7-10: Ezra's Memoirs
+Chapters 10-13: Nehemiah's Memoirs
+
+Message:
+1. Sometimes we have to battle and build at the same time
+
+#theosu
 
 #### v.11
 > O Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man.

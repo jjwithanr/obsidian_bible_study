@@ -78,8 +78,8 @@ Three ways:
 
 Examples in John:
 John 1:1 → uses language from Genesis 1:1
-1:5 → Genesis 1:3
+- 1:5 → Genesis 1:3
 John intro Jesus through the story of Creation. It alludes Creation is being made new again through Jesus.
-John 19:41 → John gives interesting detail that Christ's crucifixion happened in a garden (Genesis 2:7). He is the only Gospel writer who mentions this detail in the setting. By highlighting the garden setting for the passion and resurrection, he's suggesting Jesus' death and resurrection inaugurate a time of new creation. 
-John 19:5 → John's detail concerning Herod's comment concerning Jesus as a man may hint at a deeper meaning that he's presenting a new man through the crucifixion (Genesis 1:27).
-John 20:19 → John suggests that a new week of human history has begun because of the work of Christ (Genesis 2:2-3). Re-creation has begun. 
+- 19:41 → John gives interesting detail that Christ's crucifixion happened in a garden (Genesis 2:7). He is the only Gospel writer who mentions this detail in the setting. By highlighting the garden setting for the passion and resurrection, he's suggesting Jesus' death and resurrection inaugurate a time of new creation. 
+- 19:5 → John's detail concerning Herod's comment concerning Jesus as a man may hint at a deeper meaning that he's presenting a new man through the crucifixion (Genesis 1:27).
+- 20:19 → John suggests that a new week of human history has begun because of the work of Christ (Genesis 2:2-3). Re-creation has begun.

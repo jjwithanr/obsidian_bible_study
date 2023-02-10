@@ -2,7 +2,7 @@
 
 ## Overview:
 Theme: Wandering
-Key Verse: 14:28-35
+Key Verse: [14:28-35](Numbers14)
 
 Chapters 1-14: The Old Generation → the generation that came out of Egypt and received the Law from Moses descending Mount Sinai.
 Chapters 15-20: The Wandering

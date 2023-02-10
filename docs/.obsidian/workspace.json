@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e74b4028977ae78",
+        "id": "99fbab986f066018",
         "type": "tabs",
         "children": [
           {
-            "id": "10bb41aacc39bd24",
+            "id": "2c1124ebe532d115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs31.md",
+                "file": "Old Testament/2 Samuel/2Samuel1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs31.md",
+                "file": "Old Testament/2 Samuel/2Samuel1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Proverbs/Proverbs31.md"
+                "file": "Old Testament/2 Samuel/2Samuel1.md"
               }
             }
           }
@@ -126,17 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10bb41aacc39bd24",
+  "active": "2c1124ebe532d115",
   "lastOpenFiles": [
-    "Old Testament/Proverbs/Proverbs27.md",
+    "Old Testament/1 Samuel/1Samuel1.md",
+    "Old Testament/1 Kings/1Kings1.md",
+    "Old Testament/Psalm/Psalm131.md",
     "New Testament/John/John3.md",
     "New Testament/1 Corinthians/1Cor8.md",
-    "Old Testament/Psalm/Psalm131.md",
-    "Old Testament/Psalm/Psalm143.md",
-    "psalm137.md",
-    "Old Testament/Proverbs/Proverbs30.md",
+    "Old Testament/2 Chronicles/2Chron26.md",
     "Old Testament/2 Chronicles/2Chron30.md",
-    "Topics/hermeneutics.md",
-    "Old Testament/Deuteronomy/Deut1.md"
+    "Old Testament/2 Chronicles/2Chron33.md",
+    "Old Testament/Esther/Esther1.md",
+    "Old Testament/Nehemiah/Nehemiah1.md"
   ]
 }

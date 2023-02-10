@@ -27,8 +27,6 @@ The reference to God's "making crooked" (GK 6430) stresses his sovereign control
 #### v.16
 >Do not be overrighteous, neither be overwise—why destroy yourself?
 
-
-
 #### v.18
 >It is good to grasp the one and not let go of the other. The man who fears God will avoid all \[extremes\].
 

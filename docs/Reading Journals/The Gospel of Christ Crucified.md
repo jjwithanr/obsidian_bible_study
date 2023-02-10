@@ -190,7 +190,7 @@
 
 #### 2022-07-26 18:31 Pages 126-131
 ##### What I learned:
-1. Seth and Noah are the only names in the geneology that the Bible provides commentary for, and it is done so in messianic terms. 
+1. Seth and Noah are the only names in the genealogy that the Bible provides commentary for, and it is done so in messianic terms. 
 1. Jesus is the son of Abraham which means he is the fulfillment of the Abrahmic covenant where all the families of the earth will be blessed.
 1. [[Genesis3]], [[Genesis12]], and [[2Samuel7]] are the most important chapters in the Scriptures concerning messianic expectation. [[Psalm89]] puts into light how 2 Samuel 7 was understood in the generations following David.
 

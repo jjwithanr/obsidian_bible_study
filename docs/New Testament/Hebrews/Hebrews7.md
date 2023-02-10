@@ -1,7 +1,7 @@
 # Hebrews 7
 
 ## Overview:
-Jesus' identity as high priest is better understood when reading into the history of Melchizedek. He was unique - both a king and priest without geneology. Yet, the whole system of priesthood and issuing the law could not making anything perfect. That's why Jesus is the gurantee of a better covenant since he is the ultimate high priest who willingly became the sacrifice himself for all peoples. 
+Jesus' identity as high priest is better understood when reading into the history of Melchizedek. He was unique - both a king and priest without genealogy. Yet, the whole system of priesthood and issuing the law could not making anything perfect. That's why Jesus is the gurantee of a better covenant since he is the ultimate high priest who willingly became the sacrifice himself for all peoples. 
 
 
 #### v.18-19
