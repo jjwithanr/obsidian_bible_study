@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Song of Solomon/Song1.md",
+                "file": "Old Testament/Proverbs/Proverbs1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Song of Solomon/Song1.md",
+                "file": "Old Testament/Proverbs/Proverbs1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Song of Solomon/Song1.md"
+                "file": "Old Testament/Proverbs/Proverbs1.md"
               }
             }
           }
@@ -128,11 +128,11 @@
   },
   "active": "eb095126dbceb93f",
   "lastOpenFiles": [
+    "Old Testament/Proverbs/Proverbs1.md",
     "Old Testament/Song of Solomon/Song1.md",
     "Old Testament/Song of Solomon/Song2.md",
     "Old Testament/Ecclesiastes/Eccl1.md",
     "Old Testament/Ecclesiastes/Eccl12.md",
-    "Old Testament/Proverbs/Proverbs1.md",
     "Old Testament/Psalm/Psalm1.md",
     "Old Testament/Psalm/Psalm23.md",
     "Old Testament/Job/Job1.md",
