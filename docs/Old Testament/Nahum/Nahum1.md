@@ -1,7 +1,20 @@
 # Nahum 1
 
 ## Overview:
+Sequel to Jonah (regarding Ninevah 150 years later)
+Time of Writing: 655-650 B.C. (King Manasseh, King Amon, and King Josiah of Judah)
+Theme: Judgement
+Key Scripture: 1:2-3
 
+Chapter 1:1-8 → Prologue
+Chapter 1:9-2:2 → The Doom of Ninevah and the Deliverance of Judah
+Chapter 2:3-3:19 → The Siege and Destruction of Ninevah
+
+Purpose: To pronounce God's judgement on Ninevah and her coming destruction
+
+Message: Divine vengeance comes upon those who reject God's mercy. Destruction follows apostasy.
+
+#theosu 
 
 #### v.2
 >The Lord is a jealous and avenging God; the Lord takes vengeance and is filled with wrath. The Lord takes vengeance on his foes and mountains his wrath against his enemies.

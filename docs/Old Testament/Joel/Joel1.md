@@ -1,14 +1,21 @@
 # Joel 1
 
 ## Overview:
+Theme: Repentance
+Prophet to Judah
+Key Scripture: [2:28-29](Joel2#v.28-29) (repetance from sin precedes revival in God)
 
+Chapter 1: The Current Locust Plague
+Chapter 2: The Escalation of the Locust Plague
+Chapter 3: The Future Day of the Lord 
 
+Purpose:
+1. To tell Israel that the judgement can get worse, and to repent because God is merciful.
 
-#### v.
->
+Message:
+1. Repentance precedes revival
 
-#### v.
->
+#theosu 
 
 #### v.20
 >Even the wild animals pant for you; the streams of water have dried up and fire has devoured the open pastures.

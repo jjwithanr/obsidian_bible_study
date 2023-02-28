@@ -2,6 +2,24 @@
 
 ## Overview:
 
+Theme: The Book of Mourning
+Key Scripture: [3:22-23](Lamentations3#v.22)
+
+Chapter 1: The First Poem - Anguish of Jersusalem's Desolation
+Chapter 2: The Second Poem - Anguish for Jerusalem Destroyed in God's Wrath
+Chapter 3: The Thrid Poem - Jeremiah's Grief and Hope
+Chapter 4: The Fourth Poem - The Horror of the Siege
+Chapter 5: The Fifth Poem - Prayer for Restoration
+
+Purposes:
+1. To express through the prophet in a series of lamentations the sorrow of the heart of God over Jerusalem
+2. To record the affliction and desolation of Jerusalem
+
+Messages:
+1. The sin of disobedience to God's Laws brings desolation and the wrath of God.
+2. Though God loves His own people and has compassion for His people, He must yet punish the willfully obstinate and disobedient.
+
+#theosu 
 
 #### v.2
 >Bitterly she weeps at night,  
@@ -11,7 +29,7 @@ Among all her lovers
 All her friends have betrayed her;  
     they have become her enemies.
 
-In the "night" of her desolation, Jerusalem is pictured as weeping, not merely because of her sufferings, but even more because she had been by her "lovers" and "friends." These terms (cf. Jer 4:30; 30:14) are best explained by Ezek 23 and Hos 8:9-10. The suggestions is that once the monarchy was firmly established, Israel was always faced with an inescapable choice. She could rely on God for her safety against external aggression, or she could turn to allies great and small (cf. Hos 5:13, 8:8, 11; 14:3), but both the northern and the southern leaders would not listen. Judah had learned that such friends were a broken reed (Ezek 29:6-7).
+In the "night" of her desolation, Jerusalem is pictured as weeping, not merely because of her sufferings, but even more because she had been betrayed by her "lovers" and "friends." These terms (cf. Jer 4:30; 30:14) are best explained by Ezek 23 and Hos 8:9-10. The suggestions is that once the monarchy was firmly established, Israel was always faced with an inescapable choice. She could rely on God for her safety against external aggression, or she could turn to allies great and small (cf. Hos 5:13, 8:8, 11; 14:3), but both the northern and the southern leaders would not listen. Judah had learned that such friends were a broken reed (Ezek 29:6-7).
 #ellison 
 
 Jeremiah’s sorrow is deep and plain; even though Jerusalem’s conquest vindicated Jeremiah’s many prophecies, he has no sense of triumph or “I told you so.” Jeremiah deeply sorrows with the sorrow of Jerusalem and Judah.

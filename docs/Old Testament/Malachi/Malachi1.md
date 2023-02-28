@@ -1,7 +1,20 @@
 # Malachi 1
 
 ## Overview:
+Time of Writing: 435-410 B.C. (Governorship of Nehemiah)
+Theme: True Worship
+Key Scripture: [3:1](Malachi3#v.1)
 
+Chapters 1-2: The Sin of Israel
+Chapters 3-4: Judgement of the Wicked and Blessing on the Repentant
+
+Purpose: To call the colonists and leadership to serve God whole-heartedly
+
+Message:
+1. Sins of hypocrisy harden and blind the heart.
+2. Obedience brings blessing and disobedience brings cursing (summary of OT)
+
+#theosu 
 
 #### v.2-3
 >An oracle: The word of the LORD to Israel through Malachi. <sup>2</sup>"I have loved you," says the LORD. "But you ask, 'How have you loved us?' "Was not Esau Jacob's brother?" the LORD says. "Yet I have loved Jacob,

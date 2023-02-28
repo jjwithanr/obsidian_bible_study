@@ -16,3 +16,8 @@
 #### v.25
 >"I will repay you for the years the locusts have eaten—the great locust and the young locust, the other locusts and the locust swarm—my great army that I sent among you."
 
+#### v.28-29
+>'And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions. <sup>29</sup>Even on my servants, both men and women, I will pour out my Spirit in those days.
+
+
+

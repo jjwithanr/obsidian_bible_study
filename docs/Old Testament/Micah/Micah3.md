@@ -18,3 +18,10 @@ The realistic aspects of preparing the flesh and cracking the bones for their ma
 The word "feeds" (lit., "bites"; GK 5966) is always used in the OT for the bite of a serpent - except where the root reflects the secondary connotation of paying interest on loaned money. Its primary use has led some to interpret the phrase as describing the harm inflicted on the people by the lying prophets, whose false message of peace was as harmful as a serpent's bite.
 #mccomiskey 
 
+#### v.8
+>But as for me, I am filled with power, with the Spirit of the Lord, and with justice and might, to declare to Jacob his transgression, to Israel his sin.
+
+
+
+
+

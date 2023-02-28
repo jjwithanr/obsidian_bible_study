@@ -27,6 +27,11 @@ E. God is a good father and works to restore us every step of the way.
 #### v.1
 >In the beginning God created the heavens and the earth.
 
+Verse 1 depicts an initial creation event. Verse 2 depicts that state of events immediately prior to the first creation day. Verse 3 shows God beginning to fashion the earth. There is a clear pattern unique to the seven creation days, marking them off as a separate process. Verses 1 and 2 are totally different.
+
+Long prior to the seven days of creation but after his initial act of creation (an indefininte period), God had created a heavenly council of divine beings, one of whom rebelled. The clear account of the Genesis account is that the universe is older than the earth, or at least older than life on earth.
+#theosu 
+
 #### v.2
 >Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
 
@@ -35,7 +40,6 @@ When God began to transform the earth into something beautiful and compatible wi
 
 **The first divine act in fitting up this planet for the habitation of man was for the Spirit of God to move upon the face of the waters.** Till that time, all was formless, empty, out of order, and in confusion. In a word, it was chaos; and to make it into that thing of beauty which the world is at the present moment, even though it is a fallen world, it was needful that the movement of the Spirit of God should take place upon it.
 #spurgeon 
-
 
 #### v.26
 >Then God said, "Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the creatures that move along the ground."

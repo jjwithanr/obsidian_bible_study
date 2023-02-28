@@ -1,8 +1,23 @@
 # Acts 1
 
 ## Overview:
-Shortly before his ascent ot heaven, Jesus tells his disciples to wait in Jerusalem. They cast lots and replace Judas with Matthias.
+Theme: The Holy Spirit
+Key Scripture: 1:8
+Time of Writing: Around 63 A.D.
 
+Chapters 1-12: The Acts of Peter (apostle to the Jews)
+Chatpers 13-28: The Acts of Paul (apostle to the Gentiles)
+
+Purpose:
+1. To show Gentile audience that Christianity was not a law-breaking Jewish sect but rather an inclusive message of grace perpetrated by law-abiding, reasonable men who were full of the supernatural power of God.
+
+Messages:
+1. The Church, as the Body of Christ, can not function apart from the ministry of the Holy Spirit. (key to Church is the gospel; key to the gospel is the Holy Spirit)
+2. Only by the power of the Holy Spirit can the Great Commission be fulfilled.
+
+#theosu 
+
+Shortly before his ascent ot heaven, Jesus tells his disciples to wait in Jerusalem. They cast lots and replace Judas with Matthias.
 
 #### v.4-5
 >On one occasion, whlie he was eating with them, he gave them this command: "Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. For John baptized with water, but in a few days you will be baptized with the Holy Spirit."

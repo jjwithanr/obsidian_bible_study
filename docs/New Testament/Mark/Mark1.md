@@ -1,7 +1,25 @@
 # Mark 1
 
 ## Overview:
+Written by John Mark (Peter's Gospels)
+Time of Writing: 45-60 A.D.
+Theme: Christ is the Servant of Man
+Key Scripture: [10:45](Mark10#v.45)
+"Immediately" or "straight away" mentioned 40 times. Fast-paced and action driven.
 
+Chapters 1-9: Intro and Ministry in Galilee
+Chapter 10: Journey to Jerusalem
+Chapters 11-16: Ministry in Jeru leading up to Jesus' Death and Resurrection
+
+Purposes:
+1. To show the Romans that Jesus is God
+2. His Authoratative Action over nature, sin, and religion confirms this
+
+Message:
+1. Christian Authority is to be used for servanthood (opposite of Roman Empire)
+2. Christ's ministry was his mission
+
+#theosu 
 
 #### v.4
 >And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.

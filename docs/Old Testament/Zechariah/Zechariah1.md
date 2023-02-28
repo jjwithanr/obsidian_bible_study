@@ -1,7 +1,19 @@
 # Zechariah 1
 
 ## Overview:
+Time of Writing: 500-470 B.C.
+Theme: Hope
+Key Scripture [4:6](Zechariah4#v.6)
 
+Chapters 1-6: The Call to Repent and Zechariah's Visions
+Chapters 7-8: Zechariah's Messages
+Chapters 9-14: The Messiah, Israel's Restoration, and the Day of the Lord
+
+Purpose: To reassure and encourage the Jewish community that God will restore the temple and His favor as they continue in repentane, unlike the previous generations
+
+Message: God cares about the Heart (Temple).
+
+#theosu 
 
 #### v.3
 >Therefore tell the people: This is what the LORD Almighty says: 'Return to me,' declares the LORD Almighty, 'and I will return to you,' says the LORD Almighty.

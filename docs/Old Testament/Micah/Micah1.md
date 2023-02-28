@@ -1,7 +1,20 @@
 # Micah 1
 
 ## Overview:
+Ministered to both Northern and Southern Kingdom. Also witnessed the captivity of Northern Israel by Assyria.
+Time of Writing: 750-700 B.C.
+Theme: Corruption and Injustice
+Key Scripture: [3:8](Micah3#v.8)
 
+Chapters 1-2: A Corrupt People
+Chapters 3-5: A Corrupt Leadership
+Chapter 6-7: A Corrupt Nation
+
+Purpose: To convict Israel and Judah of their sin and to show their subsequent judgements.
+
+Message: God hates transgression (sin) but delights in pardon.
+
+#theosu 
 
 #### v.13
 >You who live in Lachish, harness the team to the chariot. You were the beginning of sin to the Daughter of Zion, for the transgressions of Israel were found in you.

@@ -2,6 +2,24 @@
 
 ## Overview:
 
+Daniel classified as Prophetic Literature but also considered a Historical book
+Theme: The Book of Judgement
+
+Chapters 1-6: Book of History (written in Chaldee)
+Chapters 7-12: Book of Prophecy (written in Hebrew)
+
+Purposes:
+1. To illustrate God's care for His people even in their captivity
+2. To prove the Kingdom of God to be higher than any earthly kingdom
+3. To show how God controls and directs the history of the nations
+4. To show God as the only fixed and unchanging source and those who trust Him will never be shaken by the shaking up of the political world
+
+Messages:
+1. The sovereignty of the "most High God" is universal.
+2. God reveals His secrets to His sevants, He does leave them in the dark.
+3. 
+
+#theosu 
 
 #### v.4
 >young men without any physical defect, handsome, showing aptitude for every kind of learning, well informed, quick to understand, and qualified to serve in the king’s palace. He was to teach them the language and literature of the Babylonians.
