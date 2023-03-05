@@ -1,6 +1,31 @@
 # 1 Timothy 1
 
 ## Overview:
+Theme: Ministry
+Faith 35; Good 23; Charge 11; Godliness 9; Doctrine 9
+Key Scripture: [4:16](1Timothy4#v.15-16)
+Time of Writing: 62-66 A.D.
+
+Chapter 1: Charge Concerning Sound Doctrine
+Chapter 2: Charge Concerning Public Worship
+Chapter 3: Charge Concerning Church Officers
+Chapter 4: Charge Concerning False Teachers
+Chapter 5: Charge Concerning Members of the Congregation
+Chapter 6: Charge Concerning the Minister Himself (Timothy)
+
+Purposes:
+1. To warn against false teachers
+2. To give instruction regarding sound doctrine
+3. To set forth the qualifications of elders and deacons
+4. To encourage Timothy concerning his ministry
+
+Messages:
+1. The minister that is given to godliness will be good and faithful.
+2. The true minister will teach sound doctrine and be faithful with the charge given him.
+3. The relationship between older and younger ministries is to be a "father-son" relationship.
+
+#theosu 
+
 Paul opens this letter by urging Timothy to continue his ministry in Ephesus where Paul left him. Despite all that is not well, Paul denounces the sin taking place in the church there and commands Timothy to do so as well out of a *pure heart, good conscience, and sincere faith*. In the same line, he reminds Timothy of the purpose of the law and its relation to the glorious gospel that saved Paul himself.
 He spends the latter part of this chapter reminding Timothy that he is the worst of sinners, yet God can still use hiim so extensively. For that reason, Paul encourages Timothy all the more to continue in his journey of faith by *fighting the good fight*.
 

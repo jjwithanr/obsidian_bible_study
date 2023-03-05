@@ -1,7 +1,27 @@
 # Philippians 1
 
 ## Overview:
+Theme: Joy
+Joy/Rejoice 18 times; Mind 10 times;
+Key Scripture: [3:8](Philippians3#v.8-9)
+Time of Writing: 62 A.D.
 
+Chapters 1-2: Opening Greetings, Exhortations, and Thanks
+Chapter 3: Warning against the Judaizers with an Autobiographical Account
+Chapter 4: Final Greetings, Exhortations, and Thanks
+
+Purposes:
+1. To thank the church for their gifts and to inform them of Paul's intended visit
+2. To warn them against the Judaizing false teachers
+3. To exhort them to be like-minded by having the mind of Christ
+4. To encourage them to rejoice in all circumstances
+
+Messages:
+1. The Christian life is one of joy which is independent of all circumstances and suffering.
+2. The key to unity (being like-minded) is having the mind of Christ.
+
+
+#theosu 
 
 #### v.3
 >I thank my God every time I remember you.

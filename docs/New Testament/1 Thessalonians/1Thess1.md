@@ -1,10 +1,30 @@
 # 1 Thessalonians 1
 
 ## Overview:
+Theme: Second Coming of Christ in Comfort
+Faith 12 times; Joy 7 times; Love 6 times; Comfort 6 times
+Key Scripture: [4:3](1Thess4#v.3)
+Time of Writing: 50-51 A.D.
+
+Chapters 1-3: Congratulations for their Notorious Faith
+Chapters 4-5: Teaching on Sanctification and Christ's Return
+
+Purposes:
+1. To correct mistaken views and establish the doctrine of the second coming of Christ
+2. To exhort the believer to display the three chief Godly virtues: faith, hope, and love
+3. To confirm the purity of Paul's ministry among the Thessalonians
+
+Messages:
+1. The coming of Christ for his people is a comfort to those who look and patiently wait for him.
+2. The doctrine of the second coming is a great incentive to holiness.
+3. The Lord's return will be as a thief in the night to those that are in darkness, not to those that are in the light.
+
+#theosu 
+
 Paul's memory of the Thessalonians encourages him since he remembered the testimonies coming from their church and how God encountered and sustained them despite severe sufferring.
 
 #### v.3
->We continually remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our lord Jesus Christ.
+>We continually remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.
 
 Their **love** produced **labor**. There are two different ancient Greek words for work: _ergon_ and _kopos_. _Ergon_ “may be pleasant and stimulating,” but _kopos_ “implies toil that is strenuous and sweat-producing.
 #hiebert *kopos is used in this verse*

@@ -10,6 +10,9 @@ Paul's struggle for the church in Colossae is motivated by his desire for them t
 #### v.3
 >in whom are hidden all the treasures of wisdom and knowledge.
 
+#### v.6-7
+>So then, just as you received Christ Jesus as Lord, continue to live in him, <sup>7</sup>rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.
+
 #### v.20-23
 >Since you died with Christ to the basic principles of this world, why, as though you still belonged to it, do you submit to its rule: <sup>21</sup>"Do not handle! Do not taste! Do not touch!"? <sup>22</sup>These are all destined to perish with use, because they are based on human commands and teachings. <sup>23</sup>Such regulations indeed have an appearance of wisdom with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.
 

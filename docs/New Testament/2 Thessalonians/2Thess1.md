@@ -1,8 +1,26 @@
 # 2 Thessalonians 1
 
 ## Overview:
+Theme: the Second Coming of Christ
+Faith 8; Love 6; Revealed 4; Command 4
+Key Scripture: [3:16](2Thess3#v.16)
+Time of Writing: 50's A.D.
 
+Chapter 1: Prayers for and Encouragement to the Persecuted Church
+Chapter 2: The Coming Return of Christ
+Chapter 3: Church Housekeeping
 
+Purposes:
+1. To give further details concerning the events surrounding the coming of the Lord
+2. To encourage the believers in the midst of severe persecution
+3. To command them to continue in their occupation and well doing until the coming of the Lord
+
+Messages:
+1. The coming of Christ is a judgement upon those who do not know God.
+2. The Spirit of the Anti-Christ is already at work within the world.
+3. In light of the comings of both Christ and the Anti-Christ, the believer should now walk orderly.
+
+#theosu 
 
 #### v.3
 >We ought always to thank God for you, brothers, and rightly so, because your faith is growing more and more and the love every one of you has for each other is increasing.

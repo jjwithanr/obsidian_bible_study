@@ -1,7 +1,27 @@
 # Galations 1
 
 ## Overview:
+Theme: Christian Liberty
+Law 32 times; Faith 22 times; Flesh 18 times; Spirit 18 times
+Key Scripture: 1:6-8
+Time of Writing: 57 A.D.
 
+Chapters 1:1-2:21 → Paul's Story of Finding Grace in Jesus
+Chapters 3:1-5:12 → Paul's Principles: Law or Grace?
+Chapters 5:13-6:10 → Paul's Principles: Liberty or License?
+
+Purposes:
+1. To prove the authenticity of the Gospel according to Paul
+2. To refute the legalism of the Judaizers under the Old Covenant
+3. To establish the doctrine of Christian liberty under the New Covenant
+4. To show the superiority of the Abrahamic and New Covenants over the Mosaic Covenant
+
+Messages:
+1. **True liberty in Christ is neither the legalism of the Old Law nor the license of the Old Flesh.**
+2. Life and righteousness come only by grace through faith.
+3. Having received the Spirit we must also walk in the Spirit.
+
+#theosu 
 
 #### v.4
 >who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,

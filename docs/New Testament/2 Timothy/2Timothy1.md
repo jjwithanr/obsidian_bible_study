@@ -1,6 +1,28 @@
 # 2 Timothy 1
 
 ## Overview:
+Theme: Doctrine
+Faith 12 times; Doctrine 8 times; Word 7 times; Truth 6 times
+Key Scripture: [4:3-4](2Timothy4#v.3)
+Time of Writing: 67-68 A.D.
+
+Chapter 1: Charge Concerning the Testimony of Christ
+Chapter 2: Charge Concerning the Service of Christ
+Chapter 3: Charge Concerning Apostasy from Christ
+Chapter 4:1-5 → Charge Concerning the Word of Christ
+Chapter 4:6-11: Paul's Farewell
+
+Purposes:
+1. To summon Timothy to come to Rome
+2. To direct Timothy as to proper course of action in a time of apostasy
+
+Messages:
+1. The true minister of Christ should not be ashamed.
+2. The true minister will be faithful in times of apostasy.
+3. The trust minister will be sound in doctrine, teaching, and preaching the word of truth.
+
+#theosu 
+
 Paul's introduction in this letter is slightly different as he includes *mercy* in the opening thanksgiving statement. Enduring word expands on this subtle addition as a call for ministers, like that of Timothy, to seek after God's mercy all the more since they are doing God's work.
 Then he recalls Timothy's background and encourages him to stay faithful in his present sufferings by reminding him of the reason they are suffering - the Gospel. In light of the adversity, Paul commands Timothy to "guard the good deposit that was entrusted to you." - where the good deposity is sound doctrinal teaching.
 After mentioning how he was abandoned in Asia all to himself, Paul lists people who have either deserted him or refereshed him.

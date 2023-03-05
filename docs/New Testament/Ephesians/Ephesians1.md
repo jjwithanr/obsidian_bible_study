@@ -1,8 +1,25 @@
 # Ephesians 1
 
 ## Overview:
+Theme: The Church
+Love 19 times; Grace 12 times; Faith 10 times; Body 10 times
+Key Scripture: [4:15](Ephesians4#v.15)
+Time of Writing: 59-63 A.D.
 
+Chapters 1-3: The Spiritual Privileges of the Church
+Chapters 4-6: The Spiritual Responsibilities of the Church
 
+Purposes:
+1. To strengthen the believers in their love and faith in Christ
+2. To encourage the believers to put off the old man and put on the new man
+3. To show the unity of both Jew and Gentile in the one body of Christ
+4. To set forth the purpose of the mystery of Christ and the Church
+
+Messages:
+1. The believer as a member of the body of Christ is seated in heavenly places in Christ, but yet is to walk in practical love on earth.
+2. The Church is a time manifestation of God's eternal purpose in Christ.
+
+#theosu 
 
 #### v.3
 >Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ.

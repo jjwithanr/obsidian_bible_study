@@ -83,3 +83,6 @@ Adam Clarke points out that the ancient Greek word translated **continues** is _
 
 #### v.27
 >Religion is that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and **to keep oneself from being polluted by the world**.
+
+Verses 26 and 27 pretty much sum up my spiritual journey since my internship at Liferay ended.
+#jj  3/1/23

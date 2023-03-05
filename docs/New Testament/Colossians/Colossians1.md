@@ -1,6 +1,26 @@
 # Colossians 1
 
 ## Overview:
+Theme: The Head of the Body
+Body 8; Fullness/Complete 7; Wisdom 6; Mystery 4
+Key Scripture: [2:6-7](Colossians2#v.6-7)
+Time of Writing: 50's A.D.
+
+Chapters 1-2: A Doctrine of Christ's Preeminence
+Chapters 3-4: The Implications of Christ's Lordship in Daily Living
+
+Purposes:
+1. To warn them against the heresies concerning the person and nature of Christ
+2. To warn them against ritualism and asceticism
+3. To present Christ as the Head of the Church in His Deity and Humanity
+4. To exhort them to put off the old man and to put on the new man
+
+Messages:
+1. Christ is in all, through all, and above all. He is the fullness of the Godhead bodily.
+2. We are to set our affections on things above and not on things on the earth.
+
+#theosu 
+
 The church in Colossae stirs gratitude and comfort in Paul's heart as he remembers them in this letter. He encourages them to continue to live a life worthy of the Lord and reminds them of the deity and mystery of Jesus Christ - the reason Paul has sufferrred so much. 
 
 
