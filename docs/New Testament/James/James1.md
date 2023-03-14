@@ -1,8 +1,31 @@
 # James 1
 
 ## Overview:
-James exhorts his audience to consider it joy whenever they face adversity since we know God is for their growth and edification. God is not the source of our temptations and trying to make us disobey. Rather, he desires that we persevere and that our character would align with his.
+Theme: Faith and Works
+Faith 16 times; Works 16 times; Law 10 times
+Key Scripture: [2:17](James2#v.17)
+Time of Writing: 40-50 A.D. (first New Testament book ever written?)
 
+Chapter 1:1-21 → Faith Tested and Shown by our Temptations
+Chapter 1:22-2:26 → Faith Shown by our Works
+Chapter 3:1-18 → Faith Shown by our Words
+Chapter 4:1-5:6 → Faith Shown by our Unworldliness
+Chapter 5:7-12 → Faith Shown by our Patience
+Chapter 5:13-20 → Faith Shown by our Prayers
+
+Purpose:
+1. To comfort and encourage Hebrew believers who were going through trials and temptations
+2. To correct some disorders and misconceptions among the Hebrew believers' assemblies
+3. To refute the tendency to divorce faith and works (**faith justifies your soul; works justify your faith**)
+
+Message:
+1. Trial and striving is God's way of maturing the believer.
+2. True faith is shown by its good works.
+3. Good works are not a means to justification, but rather a product of sanctification and the means to glorification.
+
+#theosu 
+
+James exhorts his audience to consider it joy whenever they face adversity since we know God is for their growth and edification. God is not the source of our temptations and trying to make us disobey. Rather, he desires that we persevere and that our character would align with his.
 
 #### v.2-3
 >Consider it **pure joy**, my brothers, whenever you face trials of many kinds, <sup>3</sup>because you know that the **testing of your faith** develops perseverance.

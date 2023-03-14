@@ -46,6 +46,9 @@ As long as \[the temple\] was not serving as a meeting place for God and his peo
 Is God pleased with campus ministries today? Does He not shut down those who produce useless fires? It all traces back to their leaders.
 #jj
 
+#### v.13
+>And you say, 'What a burden!' and you sniff at it contemptuously," says the LORD Almighty. "When you bring injured, crippled or diseased animals and offer them as sacrifices, should I accept them from your hands?" says the LORD.
+
 #### v.14
 >"Cursed is the cheat who has an acceptable male in his flock and vows to give it, but then sacrifices a blemished animal to the Lord. For I am a great king," says the LORD Almighty, "and my name is to be feared among the nations.
 

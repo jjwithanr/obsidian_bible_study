@@ -1,13 +1,31 @@
 # Philemon
 
 ## Overview:
+Theme: Reconciliation
+Brother 4 times; Receive 3 times; Love 3 times
+Key Scipture: 1:15-16
+Time of Writing: 61 A.D.
+
+Verses 1-7: Greeting and Thanksgiving for Philemon
+Verses 8-25: Plea for Onesimus, Benediction
+
+Purposes:
+1. To persuade Philemon to receive Onesimus as a brother rather than as a runaway slave
+2. To inform Philemon that Paul would soon be released from prison and would visit him
+
+Messages:
+1. We are to receive one another as Christ also has received us.
+2. Regardless of our social position we are all brethren in the Lord.
+
+#theosu 
+
 Unlike his other letters, Paul does not introduce himself to his readers as an apostle for Christ Jesus; rather, he appeals to Philemon as a dear friend. He expresses his love for him and the abundant love he's received. After, he appeals to Philemon to accept his runaway slave, Onesimus, back as if he were accepting Paul back. 
 
 #### v.1
 >Paul, a prisoner of Christ Jesus, and Timothy our brother,
 	To Philemon, our dear friend and fellow worker,
 
-Paul’s friendship with Philemon is shown by something **significantly missing** in his greeting. Of the 13 letters Paul wrote to churches or individuals, in 9 of them he called himself an **apostle** in the opening verse. In this letter (along with Philippians and 1 and 2 Thessalonians), Paul appealed to his reader more **as a friend** and less an apostle.
+Paul’s friendship with Philemon is shown by something **significantly missing** in his greeting. Of the 13 letters Paul wrote to churches or individuals, in 9 of them he called himself an **apostle** in the opening verse. In this letter (along with Philippians and 1&2 Thessalonians), Paul appealed to his reader more **as a friend** and less an apostle.
 #enduringword 
 
 #### v.7

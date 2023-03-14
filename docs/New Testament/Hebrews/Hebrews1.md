@@ -1,8 +1,25 @@
 # Hebrews 1
 
 ## Overview:
+Theme: Christ's Priesthood
+Priest 37 times; Faith 32 times; Blood 22 times; Heaven 16 times; Perfect 14 times
+Key Scripture: [3:12-13](Hebrews3#v.12)
+Time of Writing: between 60-70 A.D.
 
+Chapters 1-4: Superiority of Jesus
+Chapters 4-10: Jesus' Priestly Office and Work
+Chapters 11-13: Encouragement to Draw Near, Hold Fast, Believe, and Love
 
+Purpose:
+1. To wean Hebrew Christians from Judaism to Christianity and to warn them against apostasy
+2. To present the Lord Jesus in His absolute pre-eminence as the complete revelation of God
+3. To set forth the Promise, Sacrifice, Priesthood, and Sanctuary of the New Covenant in Christ
+
+Message:
+1. The cure for spiritual relapse and apostasy is a right conception of the Glory and Work of Christ.
+2. Faith in the blood of our eternal perfect, and heavenly priest is better than that which was foreshadowed forth in the Old Covenant. (everything that Jesus did was better)
+
+#theosu 
 
 #### v.1-2
 >In the past God spoke to our forefathers through the prophets at many times and in various ways, <sup>2</sup>but in these last days **he has spoken to us by his Son**, whom he appointed heir of all things, and through whom he made the universe.
@@ -10,7 +27,7 @@
 The Book of Hebrews (for the most part) does not present Jesus speaking of Himself. There is a sense in which the Son does not speak in Hebrews; the Father speaks concerning the Son. The book of Hebrews is God the Father telling us what God the Son is all about. “If men cannot learn about God from the Son, no amount of prophetic voices or actions would convince them.” (Guthrie)
 #enduringword 
 
-Christ is probably presented here as the ultimate Word of God; ancient Judaism identified God’s Word with his Wisdom (cf. Sirach 24:1, 23; Baruch 3:28–4:1). That God had created all things through Wisdom or his Word was noted in the *Old Testament (e.g., Prov 8:30; Ps 33:6, alluding to Gen 1) and developed further in Judaism. As the fullness of the Word, Christ was superior to the authentic but partial revelation of God in the law.
+Christ is probably presented here as the ultimate Word of God; ancient Judaism identified God’s Word with his Wisdom (cf. Sirach 24:1, 23; Baruch 3:28–4:1). That God had created all things through Wisdom or his Word was noted in the \*Old Testament (e.g., Prov 8:30; Ps 33:6, alluding to Gen 1) and developed further in Judaism. As the fullness of the Word, Christ was superior to the authentic but partial revelation of God in the law.
 #craigkeener 
 
 A newspaper is read; a poem; a novel; a play; a history of battles and sieges; but the New Testament is neglected, and there are thousands even in Christian lands who have not even read through the Sermon on the Mount! Few also listen to the truths which the Redeemer taught when they are proclaimed in the sanctuary. Multitudes never go to the place where the gospel is preached; multitudes when there are engaged in thinking of other things, or are wholly inattentive to the truths which are proclaimed. Such a reception has the Son of God met with in our world! The most wonderful of all events is, that he should have come from heaven to be the teacher of mankind; next to that, the most wonderful event is that, when he has come, people feel no interest in the fact, and refuse to listen to what he says of the unseen and eternal world. **What a man will say about the possibility of making a fortune by some wild speculation will be listened to with the deepest interest; but what the Redeemer says about the “certainty” of heaven and eternal riches there, excites no emotion:** what one from the dead might say about the unseen world would excite the profoundest attention; what he has said who has always dwelt in the unseen world, and who knows all that has occurred there, and all that is yet to occur, awakens no interest, and excites no inquiry. Such is man. The visit, too, of an illustrious stranger - like Lafayette to America - will rouse a nation, and spread enthusiasm everywhere; **the visit of the Son of God to the earth on a great errand of mercy is regarded as an event of no importance, and excites no interest in the great mass of human hearts.**

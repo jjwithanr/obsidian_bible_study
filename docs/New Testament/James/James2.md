@@ -14,6 +14,10 @@ Moffatt translates this, “The merciful life will triumph in the face of judgme
 >If any one of you says to him, "Go, I wish you well; keep warm and well fed," but does nothing about his physical needs, what good is it?
 
 Pastor Ed's story of him taking two girls who lost their mother despite being a poor youth pastor with two young children.
+#jj 
+
+#### v.17
+>In the same way, faith by itself, if it is not accompanied by action, is dead.
 
 #### v.19
 >You believe that there is one God. Good! Even the demons believe that - and shudder.

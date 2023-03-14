@@ -1,6 +1,27 @@
 # Titus 1
 
 ## Overview:
+Theme: Ministry / Godliness
+Good 11 times; Work 8 times; Savior 6 times; Sound 5 times
+Key Scripture: [2:11-13](Titus2#v.11-13)
+Time of Writing: 60's A.D.
+
+Chapter 1: Godliness in the Church Leader: Qualifications
+Chapter 2: Godliness in the Believer: Character
+Chapter 3: Godliness in Society: Conduct
+
+Purposes:
+1. To give to Titus specific instructions as to the qualifications of elders in the churches of Crete
+2. To show the life of godliness that is to be lived by God's grace
+3. To exhort Titus to teach sound doctrine
+
+Messages:
+1. The teaching of sound doctrine leads to godliness of character and to good works.
+2. True godliness is embodied not in what we say but in what we are and do.
+3. A true appreciation of the grace of God will provide motivation for good works.
+
+#theosu 
+
 Paul starts and finishes this chapter with a clear plumbline of the conduct of a true minister of Christ's gospel. His first command to Titus is for him to appoint qualified elders in every town. This is likely in response to the influx of many false teachers. Thus, Paul's second command is for Titus to rebuke all them so they can have sound doctrine.
 
 
