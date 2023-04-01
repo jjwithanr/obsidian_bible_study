@@ -1,6 +1,28 @@
 # 2 Peter 1
 
 ## Overview:
+Theme: True Knowledge (Paul's last epistle also talked about knowledge and what we teach/think about Jesus)
+Know 16 times; Day 12 times; Righteous 8 times; Judgement 4 times; Remembrance 4 times; Corruption 4 times
+Key Scripture: [3:9](2Peter3#v.9)
+Time of Writing: Between 67-68 A.D.
+
+Chapter 1: True Christian Belief
+Chapter 2: False Teachers
+Chapter 3: Christ's Return
+
+Purpose:
+1. To stir the saints to godliness
+2. To warn them of false teachers and scoffers within
+3. To contrast true and false knowledge
+4. To describe the judgements relative to the day of the Lord
+
+Message:
+1. True knowledge is evidenced by growth in godliness (obedience unlocks true knowledge of God).
+2. The believer must remain pure and loyal in days of corruption and apostasy.
+3. All doctrinal and moral corruption will be judged at the day of the Lord.
+
+#theosu 
+
 Peter reminds his audience of some foundational Christian teachings and defends the prophetic Scriptures.
 
 #### v.1

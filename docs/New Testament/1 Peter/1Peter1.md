@@ -1,8 +1,30 @@
 # 1 Peter 1
 
 ## Overview:
-Peter is writing to Jewish Christians scattered around the world who are suffering under persecution.
+Theme: Suffering and Glory
+Suffer 16 times; Glory 16 times; Grace 10 times; Precious 5 times; Hope 5 times
+Key Scripture: [4:12](1Peter4#v.12-13)
+Time of Writing: Mid 60's A.D.
 
+Chapters 1-2: Suffering in relation to salvation
+Chapters 2-4: Suffering in relation to conduct
+Chapter 5: Suffering in relation to attitude
+
+Purpose:
+1. To encourage the Christians suffering under persecution
+2. To prepare the Christians for greater trial ahead
+3. To show the Christians the hope of glory that lies ahead
+4. To exhort them to fulfill practical Christian duties
+
+Message:
+1. God will balance out the believers' sufferings with glory and their glories with suffering.
+2. Suffering purifies and proves the believer's faith and character.
+3. Christ is the "pattern-stone" of suffering and glory.
+4. The cause of the believer's suffering should only be his godliness and not his lack of discretion.
+
+#theosu 
+
+Peter is writing to Jewish Christians scattered around the world who are suffering under persecution.
 
 #### v.4-5
 >and into an inheritance that can never perish, spoil, or fade - kept in heaven for you, <sup>5</sup>who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time.

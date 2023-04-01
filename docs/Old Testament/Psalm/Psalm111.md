@@ -6,6 +6,9 @@
 #### v.2
 >Great are the works of the Lord; they are pondered by all who delight in them.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB_jbq36Ma0?clip=UgkxWZagyGTLiUsYenAb2kJ4kZHeSR-hVubP&amp;clipt=ELDzexiQyH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 #### v.4
 >He has caused his wonders to be remembered; the Lord is gracious and compassionate
 

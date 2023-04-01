@@ -44,6 +44,9 @@ This is how we cultivate [[family]].
 No one is bound to go beyond his ability; everyone is required to come up to it. Compare [Mark 14:8](Mark14#v.8); [Luke 17:10](Luke17#v.10).
 #jj 
 
+#### v.12-13
+>Dear friends, do not be surprised at the painful trial you are suffering, as though something strange were happening to you. <sup>13</sup>But rejoice that you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.
+
 #### v.14
 >If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you
 

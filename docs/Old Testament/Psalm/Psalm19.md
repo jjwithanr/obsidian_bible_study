@@ -33,7 +33,7 @@ Thus the Lord has made the sun for light in creation and given his word for ligh
 #### v.11
 >By them is your servant warned; in keeping them there is great reward.
 
-Is this not true faith? Faith demands belief in His existence—implying the truthfulness of His word—and the expectation that God rewards those who earnestly seek Him. See [[Hebrews11#v 6]].
+Is this not true faith? Faith demands belief in His existence—implying the truthfulness of His word—and the expectation that God rewards those who earnestly seek Him. See [Hebrews 11:6](Hebrews11#v.6).
 #jj 
 
 #### v.14
