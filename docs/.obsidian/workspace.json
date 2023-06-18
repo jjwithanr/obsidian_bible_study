@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom6.md",
+                "file": "New Testament/Colossians/Colossians2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom6.md",
+                "file": "New Testament/Colossians/Colossians2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom6.md"
+                "file": "New Testament/Colossians/Colossians2.md"
               }
             }
           }
@@ -128,8 +128,11 @@
   },
   "active": "031fd7ac28e548f7",
   "lastOpenFiles": [
-    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
+    "New Testament/Luke/Luke17.md",
+    "Old Testament/Deuteronomy/Deut1.md",
+    "Old Testament/Joshua/Joshua1.md",
     "Apocrypha/Wisdom of Solomon/Wisdom6.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha",
     "New Testament/3John.md",
@@ -152,9 +155,6 @@
     "New Testament/Hebrews/Hebrews3.md",
     "New Testament/Philemon.md",
     "New Testament/Titus/Titus1.md",
-    "New Testament/Titus/Titus2.md",
-    "New Testament/2 Timothy/2Timothy1.md",
-    "New Testament/Jude.md",
-    "New Testament/1 Timothy/1Timothy1.md"
+    "New Testament/Titus/Titus2.md"
   ]
 }
