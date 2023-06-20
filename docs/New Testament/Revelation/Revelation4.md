@@ -4,7 +4,7 @@
 
 
 #### v.1
->After this I looked, and there before me was a door standing open in heaven. And the voie I had first heard speaking to me like a trumpet said, "Come up here, and I will show you what must take place after this."
+>After this I looked, and there before me was a door standing open in heaven. And the voice I had first heard speaking to me like a trumpet said, "Come up here, and I will show you what must take place after this."
 
 #### v.6
 >Also before the throne there was what looked like a sea of glass, clear as crystal.

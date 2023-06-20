@@ -30,7 +30,7 @@ The church in Colossae stirs gratitude and comfort in Paul's heart as he remembe
 #### v.7
 >You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,
 
-Epaphras preached the gospel to the Colossians and stayed earnestly praying for them in [Colossians 4:12](Colossians4#v.12).
+Epaphras founded the Colossian church and earnestly remained praying for them.
 #jj 
 
 #### v.9-11

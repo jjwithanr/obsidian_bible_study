@@ -3,6 +3,11 @@
 ## Overview:
 After establishing the true nature of Christ and the riches of knowing Him, Paul lays out what a life lived worthy of such a manner looks like. His instructions aren't just mere rules and suggestions; rather, they're lifestyles inspired and breathed by the Holy Spirit.
 
+#### v.1
+>Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.
+
+To set the heart (lit., "seek"; GK 2426) things above is to desire and to strive for heavenly things. It is to see to it that one's interests are constantly centered in Christ, that one's attitudes, ambitions, and whole outlook on life are molded by Christ's relationship to the believer, and that one's allegiance to him takes precedence over all earthly allegiances.
+#curtisvaughun 
 
 #### v.2
 >Set your minds on things above, not on earthly things.
@@ -10,20 +15,25 @@ After establishing the true nature of Christ and the riches of knowing Him, Paul
 Since we are raised from the death of sin, and are made to live anew, the great object of our contemplation should be the heavenly world.
 #barnes 
 
+Setting the heart on things above (v.1) is descriptive of one's aim for the practical pursuit of the Christian life. Setting the mind (v.2) on things above refers more to one's inner disposition. There is, of course, an intimate connection between the two.
+To set the mind on (lit., "think on"; GK 5858) things above has the connotation of giving heavenly things a large place in one's thought life—seeing to it that the governing tendency of thought and will is toward God.
+#curtisvaughun 
+
 #### v.3
 >For you died, and your life is now hidden with Christ in God.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQaRbBMX-1s?start=590" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+At the present time our connection with God and Christ is a matter of inner experience; one day it will come into full and open manifestation.
+#curtisvaughun 
 
 #### v.5
->Put to death therefore whatever belongs to your earhtly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.
+>Put to death therefore whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.
+
+Now we are charged to "put to death" (GK 3739; lit,. "to make dead") the old life in everyday practice. This verb suggests that we must not simply suppress or control evil acts and attitudes; rather, we are to wipe them out and completely exterminate the old way of life. The verb also suggests that we must do so in a vigorous, possibly painful act of personal determination (cf. the principle taught in Mt 18:8-9).
 
 #### v.6
 >Because of these, the wrath of God is coming.
-
-Support for interim judgement?
-#jj 
 
 #### v.8
 >But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.
@@ -39,8 +49,11 @@ But especially had he that knowledge which is the fear of the Lord; that knowled
 #### v.12
 >Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.
 
-This is how become dressed in the white garments of Revelation 3:5. Here's the secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed!
+This is how we become dressed in the white garments of Revelation 3:5. Here's the secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed!
 #bobsorge 
+
+"Humility" (GK 5425) and "gentleness" (GK 4559), which are related terms, were not considered virtues by the pagan world. The NT, however deepened and enriched their meanings and made them two of the noblest of Christian graces. Humility denotes a humble disposition (cf. Php 2:4-8). Gentleness is the opposite of pride and self-assertiveness and is the special mark of the one who has a delicate consideration for the rights and feeling of others. It is a characteristic of Christ (Mt 11:29), a fruit of the Spirit (Gal 5:23), and a distinctive trait of those who belong to Christ (Mt 5:5).
+#curtisvaughun 
 
 #### v.13
 >Bear with each other and forgive whatever grievances you may have against one another. Forgive as the Lord forgave you.
@@ -73,7 +86,10 @@ When I started using my phone during my internship, I got convicted that my work
 >Whatever you do, work at it with all your heart, as working for the Lord, not for men,
 
 #### v.25
->Anyone who does wrong will be repaid for his wrong, and there is no favortism.
+>Anyone who does wrong will be repaid for his wrong, and there is no favoritism.
 
-This is a more description of favoritsm to God. It's not that He is unable to show favor but that He consistent in His judgements.
+This is a more clear description of favoritism to God. It's not that He is unable to show favor but that He consistent in His judgements.
 #jj 
+
+Doubtless Paul meant this as a warning to Christian slaves not to presume on their position before God and to think that he would overlook their misdeeds, even if they were acting unscrupulously because of being treated unfairly. In the parallel passage in Ephesians it is the master who is reminded that there is no partiality with God (Eph 6:9).
+#curtisvaughun 
