@@ -30,7 +30,9 @@ See more in [[wealth,work#Barnes on 1 Thessalonians 4 11 1Thess4 v 11]].
 ii. “Paul, however, does not mean that every individual is to mind his own business in such a way that all are to live apart from one another and have no concern for others, but **simply wants to correct the idle triviality** which makes men open disturbers of the peace, when they ought to lead a quiet life at home.” (Clarke)
 #enduringword 
 
+His exhortation to "mind your own business" implies that the meddlesome spirit that often goes with restlessness was troubling them. Busybodies were active (2Th 3:11) and needed a reprimand. But Paul means more than telling them to stay out of other people's affairs; he also wants them to keep their own affairs in order. A third exhortation, "work with your hands," suggests that idleness was likely a problem among the Thessalonians. In a Greek culture that degraded manual labor, Christianity joined with Judaism in viewing work as an honorable pursuit. Most of the Thessalonians believers earned their living with their hands. Paul tells them to continue supporting themselves and thus avoid the pitfalls of idleness.
+#robertthomas 
+
 #### v.15
 >According to the Lord's own word, we tell you that we who are still alive, who are left till the coming of the Lord, will certainly not precede those who have fallen asleep. 
-
 
