@@ -7,6 +7,17 @@
 #### v.1-2
 >I urge, then, fist of all, that requests, prayers, intercession and thanksgiving be made <sup>2</sup>for **[everyone](Ephesians6.md#v.18)** - for kings and **all those in authority**, that we may live peaceful and quiet lives in all [godliness](godliness) and holiness.
 
+#### v.8
+>I want men everywhere to lift up holy hands in prayer, without anger or disputing.
+
+Lifting up one's hands in prayer is often mentioned in the OT (e.g., 1 Ki 8:22; Pss 141:2; 143:6). It is a natural gesture, indicating earnest desire... We cannot pray effectively unless our lives are clean and committed to our Lord Jesus Christ. Nothing does more to alienate the mind from sincere prayer than an attitude of anger and a quarrelsome spirit.
+#ralphearle 
+
+#### v.11-12
+>A woman should learn in quietness and full submission. <sup>12</sup>I do not permit a woman to teach or to have authority over a man; she must be silent.
+
+Some have said that the apostle's prohibition excludes women even from teaching Sunday school classes. But he is talking about public assemblies of the church. Paul speaks appreciatively of the fact that Timothy himself had been taught by his godly mother and grandmother (2Ti 1:5; 3:15). He also writes to Titus that the older women are to train the younger (Tit 2:3-4). Women have always carried the major responsibility for teaching small children, in both home and church school. And what could we have done without them!
+#ralphearle
 
 #### v.13-15
 >For Adam was formed first, then Eve. <sup>14</sup>And Adam was not the one deceived; it was the woman who was decieved and became a sinner. <sup>15</sup>But women will be saved through childbearing - if they contniue in faith, love and holiness with propriety.
@@ -32,3 +43,13 @@ In Timothy's situation, **heretical teaching undermined the validity of marriage
 Thus women are and will be saved, even as they perform those domestic and maternal roles expected of women in the social-historical context, but rejected by the heretical teachers. **It is possible that the heretical teachers and the women who had been deceived by them saw a rejection of normal domestic and maternal roles as evidence that they were only truly saved and spiritual.** Such a situation makes Paul's strong and difficult restrictive injunctions to the women in Ephesus absolutely necessary, for the heretical teaching and its consequences represented a comprehensive misunderstanding and denial of the gospel. 
 #hardsayingsofthebible
 
+The apostle adds that the wife's role of submission to her husband is inherent in creation. Adam was created first, and then Eve (the story of Ge 2:21-23, where God made Eve from a rib taken from Adam). **Many commentators have noted regarding this story that Eve was not made out of Adam's head to rule over him, nor out of his feet to be trampled upon by him, but out of his side to be equal with him and near his heart to be loved by him.** This expresses perfectly the ideal of a happy married life. The husband who has this concept will usually find his wife eager to please him. 
+Paul makes one further point. It was the woman who was deceived by Satan and who disobeyed God (cf. Ge 3:1-6). Since she was so easily deceived, she should not be trusted as a teacher.
+#ralphearle 
+
+#### v.15
+>But women will be saved through childbearing—if they continue in faith, love and holiness with propriety.
+
+The verb "save" (GKL 5392) is used in the NT for both physical healing (mostly in the Gospels) and spiritual salvation (mostly in the letters). Perhaps it carries both connotations here. The wife may find both physical health and a higher spiritual state through the experience of bearing and rearing children...
+By begetting children and thus fulfilling the designs God appointed for women, a woman will be saved from becoming a prey to the social evils of her day and will take her part in the local church.
+#ralphearle 

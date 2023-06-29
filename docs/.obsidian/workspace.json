@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/1 Thessalonians/1Thess4.md",
+                "file": "New Testament/1 Timothy/1Timothy2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Thessalonians/1Thess4.md",
+                "file": "New Testament/1 Timothy/1Timothy2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/1 Thessalonians/1Thess4.md"
+                "file": "New Testament/1 Timothy/1Timothy2.md"
               }
             }
           }
@@ -136,6 +136,7 @@
   },
   "active": "6a9425fc95a453b1",
   "lastOpenFiles": [
+    "New Testament/1 Thessalonians/1Thess4.md",
     "New Testament/1 Thessalonians/1Thess2.md",
     "New Testament/Colossians/Colossians4.md",
     "New Testament/Colossians/Colossians1.md",
@@ -161,7 +162,6 @@
     "Old Testament/Ezekiel/Ezekiel43.md",
     "Old Testament/Numbers/Numbers11.md",
     "Topics/growth.md",
-    "New Testament/Luke/Luke7.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]
