@@ -22,6 +22,12 @@ Paul prophesies a time where there is an increased spiritual, or rather anti-spi
 Jewish people always praised God before their meal; the normal blessing included praise for the God who “created” the fruit of the vine. Another blessing, possibly standardized in the early second century, was used after meals and included the statement **"God is good and does good."** This Jewish custom was an appropriate way to show gratitude to God for his provisions. The food was in a sense sanctified by the word of God (Gen 1:30-31) as well as by such prayer; there was thus no need to abstain from it. **Faith rather than something intrinsic to the food made the latter pure** ([Tit 1:15](Titus1.md#v.15); cf. [Mk 7:19](Mark7#v. 19); [Rom 14:14](Romans14#v.1 4)).
 #craigkeener 
 
+#### v.6
+>If you point these things out to the brothers, you will be a good minister of Christ Jesus, brought up in the truths of the faith and of the good teaching that you have followed.
+
+Paul also identifies an aspect of a "good servant" as one who is knowledgeable and experienced in the truths of the Christian faith. In order for a person to know the truth, teach the truth, and defend the truth, they have to have experience with the truth. This means a knowledge of the Scriptures, and an understanding of how they are meant to be lived out. This living out of what we study is a core part of what it means to "follow" the teachings of Christ.
+#bibleref 
+
 #### v.7
 >Have nothing to do with godless myths and old wives' tales; rather, train yourself to be godly.
 
@@ -34,8 +40,18 @@ Do not occupy your time and attention with them, but rather cultivate piety, and
 Do more walking than talking.
 #jj 
 
+#### v.10
+>(and for this we labor and strive), that we have put our hope in the living God, who is the Savior of all men, and especially of those who believe.
+
+To interpret this in terms of universal salvation would be contrary to the whole tenor of Scripture. What Paul means is that God is potentially the Savior of all men because of Calvary, but actually the Savior of only those who truly believe.
+#ralphearle 
+
+The more reasonable interpretation is that Paul means to highlight the unity between Jew and Gentile (1 Timothy 2:1). Paul was encouraged by the fact that Jesus is King of kings and Lord of lords (Philippians 2:9–11), the same ruler over all people and for all time.  
+"Especially of those who believe" simply places an emphasis on Jesus as Savior to believers, though He is also the one, true God.
+#bibleref 
+
 #### v.11-14
-> Command and teach these things. <sup>12</sup>Don't let anyone look down on you because you are young, but set an example for the believers in **speech**, in **life**, in **love**, in **faith**, and in **purity**. <sup>13</sup>Until I come, devote yourself to the public reading of Scriputre, to preaching and to teaching. <sup>14</sup>*Do not neglect your gift*, which was given you through a prophetic message when the body of elders laid their hands on you.
+> Command and teach these things. <sup>12</sup>Don't let anyone look down on you because you are young, but set an example for the believers in **speech**, in **life**, in **love**, in **faith**, and in **purity**. <sup>13</sup>Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching. <sup>14</sup>*Do not neglect your gift*, which was given you through a prophetic message when the body of elders laid their hands on you.
 
 See more in [[preaching#Matthew Henry on 1 Timothy 4 11-16 1Timothy4 v 11-14]].
 

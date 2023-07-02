@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/1 Timothy/1Timothy2.md",
+                "file": "New Testament/1 Timothy/1Timothy5.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Timothy/1Timothy2.md",
+                "file": "New Testament/1 Timothy/1Timothy5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/1 Timothy/1Timothy2.md"
+                "file": "New Testament/1 Timothy/1Timothy5.md"
               }
             }
           }
@@ -136,6 +136,10 @@
   },
   "active": "6a9425fc95a453b1",
   "lastOpenFiles": [
+    "Topics/preaching.md",
+    "New Testament/1 Timothy/1Timothy4.md",
+    "New Testament/1 Timothy/1Timothy3.md",
+    "New Testament/1 Timothy/1Timothy2.md",
     "New Testament/1 Thessalonians/1Thess4.md",
     "New Testament/1 Thessalonians/1Thess2.md",
     "New Testament/Colossians/Colossians4.md",
@@ -158,10 +162,6 @@
     "Apocrypha/Wisdom of Solomon/Wisdom6.md",
     "Topics/law.md",
     "Old Testament/Isaiah/Isaiah23.md",
-    "Old Testament/Ezekiel/Ezekiel18.md",
-    "Old Testament/Ezekiel/Ezekiel43.md",
-    "Old Testament/Numbers/Numbers11.md",
-    "Topics/growth.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]

@@ -51,11 +51,12 @@ Used to affirm that New Testament is regarded as Scripture.
 Jewish teachers would “lay their hands” (cf. nasb) on their \*disciples to “ordain” (nrsv) them (see comment on 4:14), and that is what Paul has in view here: ordaining an elder who had not first been tested (see comment on 3:10) made one responsible for his subsequent exposure if he turned out to be ungodly. Keeping oneself “pure” (literally) “from sin” was a \*Stoic virtue as well as a Jewish one.
 #craigkeener 
 
-#### v.24
->The sins of some men are obvious, reaching the place of judgement ahead of them; the sins of others trail behind them.
+#### v.24-25
+>The sins of some men are obvious, reaching the place of judgement ahead of them; the sins of others trail behind them. <sup>25</sup>In the same way, good deed are obvious, and even those that are not cannot be hidden.
 
 The sins that were secret or in the heart made evaluation (5:22) difficult, as many ancient writers acknowledged.
 #craigkeener 
 
-#### v.25
->In the same way, good deed are obvious, and even those that are not cannot be hidden.
+In the context about avoiding hasty ordination, Paul is saying that some people's sins are so evident that there is no question about rejecting them as candidates. Their sins precede them to judgement—first Timothy's judgement and finally divine judgement. The sins of others do no show up soon but careful investigation will discover them. In the same way, the good deeds of qualified candidates will be easily seen. Those that seem less obvious will still appear on further search; they cannot be hidden.
+#ralphearle 
+
