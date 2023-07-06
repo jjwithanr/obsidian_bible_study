@@ -1,7 +1,13 @@
 # 2 Timothy 3
 
 ## Overview
-Paul warns of a great apostasy taking place in the end times where people misplace their love and appear outwardly as Christians yet have no power in the Spirit. Those who teach false tachings or live as fake Christians will progress from bad to worse while men of godly pursuit, like Timothy, will endure more persecution that he might be completely equipped for every good work.
+Paul warns of a great apostasy taking place in the end times where people misplace their love and appear outwardly as Christians yet have no power in the Spirit. Those who teach false teachings or live as fake Christians will progress from bad to worse while men of godly pursuit, like Timothy, will endure more persecution that he might be completely equipped for every good work.
+
+#### v.1
+>But mark this: There will be terrible times in the last days.
+
+The expression "in the last days" comes from the OT (e.g., Isa 2:2; Mic 4:1). In Peter's quotation of Joel 2:28 on the day of Pentecost (Ac 2:17), it clearly refers to the whole messianic age, for he declared that the prophecy was being fulfilled that very day.
+#ralphearle 
 
 #### v.2-3
 >People will be **lovers of themselves**, [lovers of money](wealth,work.md), boastful, proud, abusive, **disobedient to their parents**, ungrateful, unholy, <sup>3</sup>**without love**, unforgiving, slanderous, without self-control, brutal, not lovers of the good,
@@ -14,7 +20,7 @@ This could possibly be connected to why Paul prays the Philippians' love would a
 The "list of vices" vividly describes the negative impact of those who were opposing Paul and Timothy. The list begins and ends with references to *misplaced love*💔 - i.e., people who are **lovers of self**, **lovers of money**, and **lovers of pleasure rather than lovers of God**
 #esvstudybible
 
-“Lovers of self ” (i.e., self-seeking people) were condemned by philosophers such as Musonius Rufus (a \*Stoic), \*Epictetus and Philo; the moralist \*Plutarch warned readers to avoid even the appearance of self-love. (In **today’s terms this would refer to narcissism**, not appropriate selfesteem.) Love and obedience toward parents was one of the most central virtues of antiquity (see comment on Eph 6:1-3). Many deemed ingratitude the greatest offense against benefactors (see comment on Rom 1:21).
+“Lovers of self ” (i.e., self-seeking people) were condemned by philosophers such as Musonius Rufus (a \*Stoic), \*Epictetus and Philo; the moralist \*Plutarch warned readers to avoid even the appearance of self-love. (In **today’s terms this would refer to narcissism**, not appropriate self esteem.) Love and obedience toward parents was one of the most central virtues of antiquity (see comment on Eph 6:1-3). Many deemed ingratitude the greatest offense against benefactors (see comment on Rom 1:21).
 #craigkeener 
 
 #### v.4
@@ -54,6 +60,9 @@ Philosophers stressed that change came through knowing the truth, and that this 
 Good encouragement to evangelists. We are to expect many to oppose the truth. See note in [2 Thessalonians 3:2](2Thess3#v.2) for how Paul responds.
 #jj 
 
+Paul here employs Jewish tradition not found in the \*Old Testament. In a widespread Jewish tradition (various elements appear in \*Pseudo-Philo, the \*Dead Sea Scrolls, \*rabbis, etc.), Jannes and his brother Jambres were Pharaoh’s magicians who opposed Moses in Exodus 7:11. Even pagan accounts (Pliny the Elder and \*Apuleius) record them as magicians of Moses’ time (presumably dependent on Jewish tradition). Because Paul’s opponents appeal to Jewish myths (1 Tim 1:4; 2 Tim 4:4; Tit 1:14), Paul cites such stories to fill in the names for these characters.
+#craigkeener 
+
 #### v.12
 > In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,
 
@@ -69,7 +78,7 @@ Suffering and persecution are the template for the Christian life.
 A child should depart very slowly from the opinions held by a father or mother; and, when it is done, it should be only as the result of prolonged examination and prayer. These considerations should have the greater weight, if a **parent has been eminent for piety**, and especially if that **parent has been removed to heaven.** A child, standing by the grave of a pious father or mother, should reflect and pray much, before he deliberately adopts opinions which he knows that father or mother would regard as wrong.
 #barnes 
 
-The death of Renee, A'ma, A'gong along with seeing my parents leave EFCLA made me reflect and examine my own faith as child.
+The death of Renee, 阿媽, and 阿公 along with seeing my parents leave EFCLA made me reflect and examine my own faith as a child.
 #jj 
 
 #### v.15
@@ -77,6 +86,9 @@ The death of Renee, A'ma, A'gong along with seeing my parents leave EFCLA made m
 
 There is no book that has so much “power” as the Bible; none that is so efficient in moving the hearts, and consciences, and intellects of mankind. There is no book that has moved so many minds; none that has produced so deep and permanent effects on the world.
 #barnes
+
+At least in pious Palestinian Jewish homes with access to sufficient resources, boys were normally taught the “sacred writings” from around the age of five; teaching Scriptures to the children was commanded in the Old Testament (Deut 6:7; cf., e.g., Ps 71:17; 78:5-7). Other peoples often expressed amazement at how well instructed Jewish children were in their ancestral traditions.
+#craigkeener 
 
 #### v.16
 >All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,
@@ -90,7 +102,7 @@ There is no book that has so much “power” as the Bible; none that is so effi
 We are often in circumstances in which **we feel that we have reached the outer limit of what man can teach us**; but we ***never*** get into such circumstance in regard to the Word of God.
 #barnes 
 
-This supports the doctine of "sufficiency of Scripture" that is, the idea that the truth contained in Scripture is **sufficient in all matters pertaining to doctrine and moral behavior**... this does not exclude individual guidance by the Holy Spirit on how to apply the universal commands of Scripture in particular situations ([Galations 5:16,18](Galatians5.md#v.16)).
+This supports the doctrine of "sufficiency of Scripture" that is, the idea that the truth contained in Scripture is **sufficient in all matters pertaining to doctrine and moral behavior**... This does not exclude individual guidance by the Holy Spirit on how to apply the universal commands of Scripture in particular situations ([Galatians 5:16,18](Galatians5#v.16)).
 #esvstudybible 
 
 Reading the Bible allows to see God in ways we've never seen before for all eternity.
