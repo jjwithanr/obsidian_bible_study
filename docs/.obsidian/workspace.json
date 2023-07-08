@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy3.md",
+                "file": "New Testament/Titus/Titus1.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy3.md",
+                "file": "New Testament/Titus/Titus1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/2 Timothy/2Timothy3.md"
+                "file": "New Testament/Titus/Titus1.md"
               }
             }
           }
@@ -136,8 +137,10 @@
   },
   "active": "6a9425fc95a453b1",
   "lastOpenFiles": [
-    "New Testament/Galatians/Galatians5.md",
+    "Old Testament/Psalm/Psalm18.md",
+    "New Testament/Titus/Titus1.md",
     "New Testament/2 Timothy/2Timothy3.md",
+    "New Testament/Galatians/Galatians5.md",
     "New Testament/1 Timothy/1Timothy5.md",
     "Topics/preaching.md",
     "New Testament/1 Timothy/1Timothy4.md",
@@ -160,8 +163,6 @@
     "New Testament/Hebrews/Hebrews3.md",
     "Old Testament/Zechariah/Zechariah10.md",
     "Old Testament/Obadiah.md",
-    "New Testament/Luke/Luke1.md",
-    "Old Testament/Genesis/Genesis31.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]

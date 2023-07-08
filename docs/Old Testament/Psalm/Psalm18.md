@@ -7,7 +7,7 @@
 #### v.25-26
 >To the faithful you show yourself faithful, to the blameless you show yourself blameless, <sup>26</sup> to the pure you show yourself pure, but to the crooked you show yourself shrewd.
 
-In this statement, David explains that **some parts of our relationship with the Lord are reciprocal.** If we are merciful to others, the Lord will be merciful to us. In celebrating God's mercy to him, David might have recalled how he showed mercy to his own enemies.lslsls
+In this statement, David explains that **some parts of our relationship with the Lord are reciprocal.** If we are merciful to others, the Lord will be merciful to us. In celebrating God's mercy to him, David might have recalled how he showed mercy to his own enemies.
 #bibleref 
 
 That general statement is, that God deals with men according to their character; or, that he will adapt his providential dealings to the conduct of men. They will find him to be such toward them as they have shown themselves to be toward him.

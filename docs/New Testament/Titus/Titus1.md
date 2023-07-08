@@ -37,11 +37,17 @@ Jewish sources traditionally employed the phrase “\*eternal life” to mean th
 What is faith and knowledge from God except that it is rested upon a hope for eternity? What good to have faith or knowledge if it not for the most prized reward - eternal pleasure and intimacy with the Creator of the heavens and the earth. The truth that turns dead sinners into lively saints is rooted in a reality where we spend eternity fellowshipping with God.
 #jj 
 
+"His word" is not the personal Christ, the Logos (cf Jn 1:1), but rather the saving message of the Gospel. This message was made known "at his appointed season," the opportune time established by God in his eternal wisdom. All history was the preparation for that revelation. The historical appropriateness of the time is evident from the existence of the Roman peace that gave a favorable setting for the preaching of the Gospel and the development of Greek as the linguistic medium of its proclamation throughout the entire world.
+#hiebert 
+
 #### v.6
->An elder must be blameless, the husband of but one wife, a man whose children believe and are not open to the chargeof being wild and disobeident. 
+>An elder must be blameless, the husband of but one wife, a man whose children believe and are not open to the charge of being wild and disobedient. 
 
 It is probably true, also, that the preachers at that time would be selected, as far as practicable, from those whose families were all Christians. There might be great impropriety in placing a man over a church, a part of whose family were Jews or heathens.
 #barnes 
+
+Their remaining pagan would throw into question the father's ability to lead others to the faith.
+#hiebert 
 
 #### v.7
 >Since an overseer is entrusted with God's work, he must be blameless - not overbearing, **not quick-tempered**, not given to drunkenness, not violent, not pursuing dishonest gain. 
@@ -82,10 +88,13 @@ Paul didn’t say to Titus, “Cretans are liars and cheats and gluttons, with o
 "The *all things* refers to everything which is non-moral; such as appetite and food, desire and marriage, exchange and commerce, weariness and recreation, and so on through all the varied realm of life. To the pure all these things are pure, and they will be maintained in purity. To the impure, every one of them may be made the vehicle and occasion of impurity." (Morgan)
 #enduringword 
 
+These Cretan teachers apparently were engrossed in perpetuating ceremonial distinctions between the pure and the impure. They tended to lay emphasis on outward appearance and judged others on the basis of their own external criteria. Paul teaches that true piety lies not in adherence to nonmoral external rites and regulations but in the inner purity of the regenerated heart. **Material things receive their moral character from the inner attitude of the user**. This maxim does not, however, invalidate the revelation that certain things are morally wrong.
+#hiebert 
+
 See also [Psalm 18:25-26](Psalm18#v.25-26).
 
 #### v.16
->They claim to know God, but by their actions they deny him. They are **detestable**, disobeident and **unfit** for doing anything good.
+>They claim to know God, but by their actions they deny him. They are **detestable**, disobedient and **unfit** for doing anything good.
 
 The word **abominable** has the idea of _polluted by idolatry_.
 **Disqualified**: The ancient Greek word is _adokimos_, and was used in many different ways:
@@ -101,3 +110,5 @@ Are there none now who profess that they know God, but in works deny him; whose 
 In the Old Testament, “knowing God” was being in covenant relationship with him; on a personal level, this meant an intimate relationship of faithfulness to him. But the claim was false if not accompanied by just treatment of others and obedience to the Scriptures ([Hos 8:2-3](Hosea8#v.2-3); Jer 22:16).
 #craigkeener 
 
+Moral quality of life is the determinative test of religious profession (1Jn 2:4) and by it true character is exposed.
+#hiebert 
