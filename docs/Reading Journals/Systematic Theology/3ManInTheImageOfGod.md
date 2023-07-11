@@ -8,13 +8,13 @@ Pages 563-647
 1. Primogeniture is the idea that the firstborn in a human family has leadership/headship.
 
 ##### Interesting Quote:
-- *New Testament commands concerning marriage do no perpetuate any elements of the curse or any sinful behavior pattersn; they rather reaffirm the order and distinction of roles that were there from the beginning of God's good creation.* (591)
+- *New Testament commands concerning marriage do no perpetuate any elements of the curse or any sinful behavior patterns; they rather reaffirm the order and distinction of roles that were there from the beginning of God's good creation.* (591)
 
 
 #### 2022-07-18 20:26 Pages 600-620
 ##### What I learned:
 1. Monism is a view not adopted by evangelical theologians
-1. Soul and spirit are used interchangably throughout Scripture to refer to the immaterial side of people.
+1. Soul and spirit are used interchangeably throughout Scripture to refer to the immaterial side of people.
 1. The origin of the soul has been a topic of debate in church history—Creationism versus Traducianism.
 
 ##### Interesting Quote:

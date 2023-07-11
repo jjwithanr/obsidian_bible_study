@@ -10,7 +10,7 @@ Pages 1047-1343
 
 ##### Interesting Quote:
 - *We should not try to exclude people from the fellowship of the church until they by public sin bring discipline upon themselves. On the other hand, of course, the church should not tolerate in its membership "public unbelievers" who by profession or life clearly proclaim themselves to be outside the true church.* (1051)
-- from Geroge Ladd *The church is the community of the Kingdom but never the Kingdom itself.. The Kingdom is the rule of God; the church is a society of men.* (1058)
+- from George Ladd *The church is the community of the Kingdom but never the Kingdom itself.. The Kingdom is the rule of God; the church is a society of men.* (1058)
 - *many liberal Protestant churches are in fact false churches today.* (1063)
 
 
@@ -33,7 +33,7 @@ Pages 1047-1343
 1. Women can teach in informal settings but not like elders teaching publicly in formal settings.
 
 ##### Interesting Quote:
-- *The woman author does not have teaching authority over an assembled congregation or a gruop of men.* (1155)
+- *The woman author does not have teaching authority over an assembled congregation or a group of men.* (1155)
 
 
 #### 2022-08-16 22:33 Pages 1160-1200
@@ -43,8 +43,8 @@ Pages 1047-1343
 1. The Greek word for baptism means "to plunge, dip, immerse" something in water. Biblical examples who immersion in bodies of water was how they exercised baptism.
 
 ##### Interesting Quote:
-- *Moreover, there is not one example in the entire Bible of a woman doing the kind of congregatinal Bible teaching that is expected of pastors/elders in the New Testament church.* (1167)
-- *The seeds for the destruction of slavery were sown in the New Testament (see [Philem. 16](Philemon#); [Eph. 6:9](Ephesians6#v.9); [Col. 4:1](Colossians4#v.1); [1 Tim. 6:1-2](1Timothy6#v.1-2)), but no seeds for the destruction of marriage, or the destruction of male-female differences as created, are sown in the Bible.* (1169)
+- *Moreover, there is not one example in the entire Bible of a woman doing the kind of congregational Bible teaching that is expected of pastors/elders in the New Testament church.* (1167)
+- *The seeds for the destruction of slavery were sown in the New Testament (see [Philem. 16](Philemon#v.16); [Eph. 6:9](Ephesians6#v.9); [Col. 4:1](Colossians4#v.1); [1 Tim. 6:1-2](1Timothy6#v.1-2)), but no seeds for the destruction of marriage, or the destruction of male-female differences as created, are sown in the Bible.* (1169)
 
 
 #### 2022-08-16 22:40 Pages 1200-1240
@@ -54,22 +54,22 @@ Pages 1047-1343
 1. God takes delight in creation.
 
 ##### Interesting Quote:
-- *Catholics hold that the sacraments work even apart frmo the faith of the people participating in the sacrament.* (1202)
+- *Catholics hold that the sacraments work even apart from the faith of the people participating in the sacrament.* (1202)
 
 
 #### 2022-08-20 12:00 Pages 1240-1280
 ##### What I learned:
 1. In [1 Corinthians 1:7](1Cor1#v.7), Paul mentions the possession of spiritual gifts in context of waiting for Christ's return. 
-1. A worship leader should lead people to worship, not simply worship God by himself or with the band while everybody else watches. (1249)
-1. Grudem no longer considers marriage and cliebacy as spiritual gifts since the Greek word used for gifts (*charisma*) is being used in a general context in [1 Corinthians 7:7](1Cor7#v.7). Paul used it in other passages as a general word for blessings or favor ([Romans 5:15](Romans5#v.15), [6:23](Romans6#v.23); [2 Corinthians 1:11](2Cor1#v.11)).
-2. Spiritual gifts can be boiled down to two gifts as Peter does so in [1 Peter 4:11](1Peter4#v.10-11): whoever speaks and whoever serves.
-3. Gifts can weaken when unused or neglected ([Romans 12:7](Romans12#v.7); [1 Tim. 4:14](1Timothy4#v.11-14)).
-4. The spiritual gifts Paul urges us to pursue are those that most build up the church. The "greater gifts" mentioned in [1 Corinthians 12:31](1Cor12#v.31) are connected to the "greater" gift of prophecy which builds up the church in [1 Corinthians 14:12](1Cor14#v.12).
+2. A worship leader should lead people to worship, not simply worship God by himself or with the band while everybody else watches. (1249)
+3. Grudem no longer considers marriage and celibacy as spiritual gifts since the Greek word used for gifts (*charisma*) is being used in a general context in [1 Corinthians 7:7](1Cor7#v.7). Paul used it in other passages as a general word for blessings or favor ([Romans 5:15](Romans5#v.15), [6:23](Romans6#v.23); [2 Corinthians 1:11](2Cor1#v.11)).
+4. Spiritual gifts can be boiled down to two gifts as Peter does so in [1 Peter 4:11](1Peter4#v.10-11): whoever speaks and whoever serves.
+5. Gifts can weaken when unused or neglected ([Romans 12:7](Romans12#v.7); [1 Tim. 4:14](1Timothy4#v.11-14)).
+6. The spiritual gifts Paul urges us to pursue are those that most build up the church. The "greater gifts" mentioned in [1 Corinthians 12:31](1Cor12#v.31) are connected to the "greater" gift of prophecy which builds up the church in [1 Corinthians 14:12](1Cor14#v.12).
 
 ##### Interesting Quote:
 - *This means that worship is doing the will of God.* (1243)
 - *Just as the Holy Spirit himself is in this age a "down payment" ([2 Cor. 1:22](2Cor1#v.22) NASB mg.; cf. [2 Cor. 5:5](2Cor5#v.5); [Eph 1:14](Ephesians1#v.13-14)) of the fuller work of the Holy Spirit within us in the age to come, so the gifts of the Holy Spirit gives us are partial foretastes of the fuller working of the Holy Spirit that will be ours in the age to come.* (1258)
-- on defending continuationism based on Chantry's argument for Paul's usage of teleios for perfect, *Yet here again we must note that a word does ont have to be used to refer to the same thing every time it is used in Scripture* (1278)
+- on defending continuationism based on Chantry's argument for Paul's usage of teleios for perfect, *Yet here again we must note that a word does not have to be used to refer to the same thing every time it is used in Scripture* (1278)
 
 
 #### 2022-08-22 21:56 Pages 1280-1300
@@ -89,7 +89,7 @@ Pages 1047-1343
 ##### What I learned:
 1. The "prophets" in [Ephesians 2:20](Ephesians2#v.20) and [3:5](Ephesians3#v.5) refer to a small group of individuals who weren't apostles but were closley connected to them and played a foundational role in the beginning of the church.
 2. Timothy was told to **teach** Paul's instructions to the church and the Thessalonians were told to affirm the tradition they were **taught** by Paul. Teachers, not prophets, were the leaders of the early church. 
-3. Matthew quotes [Isaiah 53:4-5](Isaiah43#v.4-5) with reference to physical healings performed by Jesus.
+3. Matthew quotes [Isaiah 53:4-5](Isaiah53#v.4-5) with reference to physical healings performed by Jesus.
 4. [2 Chronicles 16:12-13](2Chron16#v.12-13) illustrate how it was wrong for King Asa to rely on doctors or medicine instead of relying on the Lord.
 5. According [Zephaniah 3:9](Zephaniah3#v.9), we will all have "pure speech" and call upon the name of the Lord in the with one accord. We will all speak the same language in heaven (in addition to our current ones on Earth).
 6. Grudem explains [1 Corinthians 14:20-25](1Cor14#v.22) really well. Paul's quotation of Isaiah 28 gives context to what he means by a "sign".
@@ -102,7 +102,7 @@ Pages 1047-1343
 #### 2022-09-10 16:43 Pages 1330-1350
 ##### What I learned:
 1. The gift of words of wisdom and knowledge are not based on a special revelation spontaneously given by the Holy Spirit. It is based on wisdom acquired throughout life.
-1. "Personal eschatology" is the study of the future events that will happen to individuals. "General eschatology" is the study of the last days' events like the Second Coming, the millenium, final judgement, etc.
+1. "Personal eschatology" is the study of the future events that will happen to individuals. "General eschatology" is the study of the last days' events like the Second Coming, the millennium, final judgement, etc.
 1. We know Jesus' Second Coming will be a personal and bodily return based on[ Acts 1:11](Acts1#v.11) when it says He will come in the same way as the disciples saw him ascend into heaven.
 2. We should still commit to long-term activities despite knowing Christ can return at any moment. This is also why he did not share exactly when he would return. 
 3. The Jehovah Witnesses have wrongly predicted certain dates of Jesus' return. They justify that He returned on October 1, 1914 in an invisible way, but that does not stay true to [Acts 1:11](Acts1#v.11). 

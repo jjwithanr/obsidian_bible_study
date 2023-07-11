@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4aacbe9af447ad7a",
+        "id": "aa8a6e99e4c1cabd",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9425fc95a453b1",
+            "id": "53106ec9a392d086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Titus/Titus1.md",
+                "file": "Old Testament/Psalm/Psalm127.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Titus/Titus1.md",
+                "file": "Old Testament/Psalm/Psalm127.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Titus/Titus1.md"
+                "file": "Old Testament/Psalm/Psalm127.md"
               }
             }
           }
@@ -135,34 +135,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a9425fc95a453b1",
+  "active": "53106ec9a392d086",
   "lastOpenFiles": [
-    "Old Testament/Psalm/Psalm18.md",
-    "New Testament/Titus/Titus1.md",
-    "New Testament/2 Timothy/2Timothy3.md",
+    "New Testament/Hebrews/Hebrews8.md",
+    "New Testament/1 Peter/1Peter5.md",
+    "New Testament/Mark/Mark7.md",
+    "Templates/entry.md",
+    "Reading Journals/Systematic Theology/5ApplicationOfRedemption.md",
+    "New Testament/Revelation/Revelation21.md",
+    "Old Testament/Genesis/Genesis12.md",
+    "Old Testament/Genesis/Genesis22.md",
+    "Old Testament/Isaiah/Isaiah25.md",
+    "New Testament/2 Corinthians/2Cor12.md",
+    "Old Testament/Job/Job9.md",
+    "New Testament/Revelation/Revelation6.md",
+    "Old Testament/Isaiah/Isaiah61.md",
+    "New Testament/John/John13.md",
+    "Reading Journals/Systematic Theology/3ManInTheImageOfGod.md",
     "New Testament/Galatians/Galatians5.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "Topics/preaching.md",
-    "New Testament/1 Timothy/1Timothy4.md",
-    "New Testament/1 Timothy/1Timothy3.md",
-    "New Testament/1 Timothy/1Timothy2.md",
-    "New Testament/1 Thessalonians/1Thess4.md",
-    "New Testament/1 Thessalonians/1Thess2.md",
-    "New Testament/Colossians/Colossians4.md",
-    "New Testament/Colossians/Colossians1.md",
-    "New Testament/Colossians/Colossians3.md",
-    "New Testament/Revelation/Revelation4.md",
-    "New Testament/Matthew/Matthew26.md",
-    "Old Testament/Nahum/Nahum1.md",
-    "New Testament/Revelation/Revelation20.md",
-    "Old Testament/Judges/Judges2.md",
-    "Old Testament/Psalm/Psalm110.md",
-    "Old Testament/Psalm/Psalm68.md",
-    "Talks/The Greatness of Knowing Christ.md",
-    "New Testament/John/John1.md",
-    "New Testament/Hebrews/Hebrews3.md",
-    "Old Testament/Zechariah/Zechariah10.md",
-    "Old Testament/Obadiah.md",
+    "Old Testament/Psalm/Psalm111.md",
+    "New Testament/Revelation/Revelation16.md",
+    "New Testament/Matthew/Matthew18.md",
+    "New Testament/Mark/Mark15.md",
+    "New Testament/Luke/Luke21.md",
+    "Old Testament/Proverbs/Proverbs8.md",
+    "New Testament/Matthew/Matthew8.md",
+    "Reading Journals/Systematic Theology/6Church.md",
+    "New Testament/Acts/Acts1.md",
+    "Old Testament/Isaiah/Isaiah43.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]

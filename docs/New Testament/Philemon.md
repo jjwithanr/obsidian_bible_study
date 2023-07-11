@@ -21,12 +21,17 @@ Messages:
 
 Unlike his other letters, Paul does not introduce himself to his readers as an apostle for Christ Jesus; rather, he appeals to Philemon as a dear friend. He expresses his love for him and the abundant love he's received. After, he appeals to Philemon to accept his runaway slave, Onesimus, back as if he were accepting Paul back. 
 
+see also [Galatians 3:28](Galatians3#v.28)
+
 #### v.1
 >Paul, a prisoner of Christ Jesus, and Timothy our brother,
 	To Philemon, our dear friend and fellow worker,
 
 Paul’s friendship with Philemon is shown by something **significantly missing** in his greeting. Of the 13 letters Paul wrote to churches or individuals, in 9 of them he called himself an **apostle** in the opening verse. In this letter (along with Philippians and 1&2 Thessalonians), Paul appealed to his reader more **as a friend** and less an apostle.
 #enduringword 
+
+#### v.6
+>I pray that you may be active in sharing your faith, so that you will have a full understanding of every good thing we have in Christ.
 
 #### v.7
 >Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the saints.

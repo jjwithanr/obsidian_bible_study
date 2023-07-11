@@ -22,7 +22,7 @@ Jesus keeps his presence secret from the proud Pharisees but lets himself be fou
 #### v.37
 >People were overwhelmed with amazement. "He has done everything well," they said. "He even makes the deaf hear and mute speak."
 
-The spirit of excellence inisde Jesus induces such wonder for the world who has never seen none so Excellent.
+The spirit of excellence inside Jesus induces such wonder for the world who has never seen none so Excellent.
 
 Miracles and his parables stirred wonder, but it was the spirit that does everything well beneath it all that overwhelmed them with amazement.
 #jj 

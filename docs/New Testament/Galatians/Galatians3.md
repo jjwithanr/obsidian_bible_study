@@ -18,7 +18,7 @@
 #### v.11-12
 >Clearly no one who relies on the law is justified before God, because “the righteous will live by faith.” <sup>12</sup>The law is not based on faith; on the contrary, it says, “The person who does these things will live by them.”
 
-Paul’s knowledge of the \*Old Testament is thorough: he has selected the only two texts in the entire Old Testament that speak of both righteousness and faith together (in v. 6 Gen 15:6; here Hab 2:4).
+Paul’s knowledge of the \*Old Testament is thorough: he has selected the only two texts in the entire Old Testament that speak of both righteousness and faith together (in v. 6 [Gen 15:6](Genesis15#v.6); here [Hab 2:4](Habukkuk2#v.4)).
 #craigkeener 
 
 #### v.13
@@ -51,4 +51,5 @@ Israel was called God’s “children” in the \*Old Testament and often in Jud
 #### v.28
 >There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.
 
-
+Paul, Philemon, and Onesimus are persons in a real-life drama of profound social significance. Each has heard the claims of Christianity from totally different backgrounds. Paul was once a rigorous Jew of the Dispersion who advanced in Judaism beyond all his contemporaries. Philemon was a wealthy Asiatic Gentile. Onesimus was the most despicable of all creature, a runaway slave. They find themselves united in the Gospel of Christ. Here is a living example of Paul's statement that "there is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus" (Gal 3:28).
+#arthurrupprecht on [[Philemon]]

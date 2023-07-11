@@ -7,7 +7,7 @@
 #### v.1
 >The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to preach good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners,
 
-Am I poor? Am I brokenhearted over my sin? If not, do not mind the gospel for you will one day see where your "salvation" brings upon you. It the poor in spirit and the brokenhearted Jesus came to save.
+Am I poor? Am I brokenhearted over my sin? If not, do not mind the gospel for you will one day see where your "salvation" brings upon you. It is the poor in spirit and the brokenhearted Jesus came to save.
 #jj 
 
 #### v.10

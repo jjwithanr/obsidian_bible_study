@@ -14,7 +14,7 @@ The younger man, perhaps five-and-twenty — so Josephus thinks — possibly thi
 >But the angel of the Lord called out to him from heaven, "Abraham! Abraham!"
 >"Here I am," he replied.
 
-Often there are believers who wonder how they may know the will of God. We believe that ninety per cent of the knowing of the will of God consists in willingness to do it before it is known
+Often there are believers who wonder how they may know the will of God. **We believe that ninety per cent of the knowing of the will of God consists in willingness to do it before it is known**
 #barnhouse 
 
 #### v.18

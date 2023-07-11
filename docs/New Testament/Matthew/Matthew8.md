@@ -9,7 +9,7 @@
 This was an exhibition of great faith, and also an acknowledgment of his dependence on the will of Jesus, in order to be healed. So every sinner must come. He must feel that Jesus "can" save him.
 #barnes 
 
-The rawest expression of combining faith with expectation is inquiring of God's willingness. I know You are able and You can, but are You willing? It simply confesses the desire to bridle the self's will with God's will. 
+The rawest expression of combining faith with expectation is inquiring of God's willingness. I know You are able and You can, but are You willing? It simply confesses we are utterly at the mercies of God. 
 #jj 
 
 #### v.8
@@ -25,10 +25,10 @@ We should concern ourselves for the souls of our children and servants, who are 
 >Jesus replied, "Foxes have holes and birds of the air have ness, but the Son of Man has no place to lay his head."
 
 #### v.26
->
+>He replied, "You of little faith, why are you so afraid?" Then he got up and rebuked the winds and the waves, and it was completely calm.
 
 #### v.27
->
+>The men were amazed and asked, "What kind of man is this? Even the winds and the waves obey him!"
 
 
 

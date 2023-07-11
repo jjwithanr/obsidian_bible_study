@@ -1,4 +1,4 @@
-# Galations 5
+# Galatians 5
 
 ## Overview:
 

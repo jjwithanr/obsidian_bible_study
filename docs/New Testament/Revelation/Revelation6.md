@@ -4,12 +4,6 @@
 
 
 
-#### v.
->
-
-#### v.
->
-
 #### v.11
 >Then each of them was given a white robe, and they were told to wait a little longer, until the number of their fellow servants and brothers who were to be killed as they had been was completed.
 

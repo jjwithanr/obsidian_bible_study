@@ -6,7 +6,7 @@ After explaining Jesus' glory as our perfect High Priest, he further characteriz
 #### v.5
 >They serve at a sanctuary that is a copy and shadow of what is in heaven. This is why Moses was warned when he was abpout to build the tabernacle: "See to it that you make everything according to the pattern shown you on the mountain."
 
-Same as[Exodus 25:4](Exodus25.md#v.40).
+Same  [Exodus 25:4](Exodus25.md#v.40).
 
 #### v.7-8
 >For if there had been nothing wrong with that first covenant, no place would have been sought for another. <sup>8</sup>But God found fault with the people and said:
