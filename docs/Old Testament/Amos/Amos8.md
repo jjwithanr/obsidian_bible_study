@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.1
+>This is what the Sovereign Lord showed me: a basket of ripe fruit.
 
 #### v.5
 >saying, "When will the New Moon be over that we may sell grain, and the Sabbath be ended that we may market wheat? - skimping the measure, boosting the price and cheating with dishonest scales,

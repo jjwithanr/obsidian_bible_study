@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalm/Psalm127.md",
+                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm127.md",
+                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalm/Psalm127.md"
+                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md"
               }
             }
           }
@@ -137,6 +136,15 @@
   },
   "active": "53106ec9a392d086",
   "lastOpenFiles": [
+    "Apocrypha/Wisdom of Solomon/Wisdom6.md",
+    "New Testament/Hebrews/Hebrews1.md",
+    "Old Testament/Hosea/Hosea1.md",
+    "Old Testament/1 Kings/1Kings19.md",
+    "1Kings19.md",
+    "Old Testament/Amos/Amos8.md",
+    "Old Testament/Exodus/Exodus3.md",
+    "Old Testament/Amos/Amos4.md",
+    "Old Testament/Psalm/Psalm127.md",
     "New Testament/Hebrews/Hebrews8.md",
     "New Testament/1 Peter/1Peter5.md",
     "New Testament/Mark/Mark7.md",
@@ -154,15 +162,6 @@
     "Reading Journals/Systematic Theology/3ManInTheImageOfGod.md",
     "New Testament/Galatians/Galatians5.md",
     "Old Testament/Psalm/Psalm111.md",
-    "New Testament/Revelation/Revelation16.md",
-    "New Testament/Matthew/Matthew18.md",
-    "New Testament/Mark/Mark15.md",
-    "New Testament/Luke/Luke21.md",
-    "Old Testament/Proverbs/Proverbs8.md",
-    "New Testament/Matthew/Matthew8.md",
-    "Reading Journals/Systematic Theology/6Church.md",
-    "New Testament/Acts/Acts1.md",
-    "Old Testament/Isaiah/Isaiah43.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]
