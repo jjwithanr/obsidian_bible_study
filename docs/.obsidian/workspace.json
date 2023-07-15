@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md",
+                "file": "Old Testament/Hosea/Hosea2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md",
+                "file": "Old Testament/Hosea/Hosea2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apocrypha/Wisdom of Solomon/Wisdom7.md"
+                "file": "Old Testament/Hosea/Hosea2.md"
               }
             }
           }
@@ -136,6 +136,8 @@
   },
   "active": "53106ec9a392d086",
   "lastOpenFiles": [
+    "New Testament/Hebrews/Hebrews4.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
     "Apocrypha/Wisdom of Solomon/Wisdom6.md",
     "New Testament/Hebrews/Hebrews1.md",
     "Old Testament/Hosea/Hosea1.md",
@@ -160,8 +162,6 @@
     "Old Testament/Isaiah/Isaiah61.md",
     "New Testament/John/John13.md",
     "Reading Journals/Systematic Theology/3ManInTheImageOfGod.md",
-    "New Testament/Galatians/Galatians5.md",
-    "Old Testament/Psalm/Psalm111.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]

@@ -13,12 +13,20 @@ This verse teaches the important truth that, though heaven is offered to us, and
 1. Those who have been awakened to see their guilt and danger, and who have been almost but not quite ready to give up their hearts to God. Such were Agrippa, Felix, the young ruler [Mark 10:21](Mark10#v.21), and such are all those who are “almost” but not “quite” prepared to give up the world and to devote themselves to the Redeemer. To all these the promise of “rest” is made, if they will accept of salvation as it is offered in the gospel; all of them cherish a hope that they will be saved; and all of them are destined alike to be disappointed. With what earnestness, therefore, should we strive that we may not fail of the grace of God!
 #barnes 
 
+The author argues that the purposes of God are not frustrated because Israel of old disobeyed him and failed to enter the rest he had promised his people. the promise remains. If ancient Israel did not enter God's rest, then someone else will; namely, the Christians. But this should not lead to complacency on their part. If the Israelites of an earlier day, with all their advantages, failed to enter the rest, Christians ought not to think there will be automatic acceptance for them. They must take care lest they, too, fail to enter the blessing.
+#leonmorris 
 
 #### v.2
 >For we also have had the gospel preached to us, just as they did; but the message they heard was of no value to them, because those who heard did not **combine it with faith.**
 
 They are assured that God is willing to save them, and that the Redeemer stands with open arms to welcome them to heaven. They are trained up under the gospel; are led early in life to the sanctuary; are in the habit of attending on the preaching of the gospel all their days, but still what they hear exerts no saving influence on their hearts.
 #barnes 
+
+#### v.6-7
+>It still remains that some will enter that rest, and those who formerly had the gospel preached to them did not go in, because of their disobedience. <sup>7</sup>Therefore God again set a certain day, calling it Today, when a long time later he spoke through David, as was said before: "Today, if you hear his voice, do not harden your hearts."
+
+Because the first generation had passed the opportunity by, God set another day. The idea that the wilderness generation was finally rejected was one the rabbis found hard to accept. Thus they expressed a conviction that somehow those Israelites would be saved. The author, however, has no such reservations about that generation. They disobeyed God and forfeited their place. Psalm 95 was written long after the Israelites in the desert had failed to use their opportunity and had perished. Its use of the term "Today" shows that the promise had never been claimed and was still open. The voice of God still called. A day of opportunity remained, even though the fate of the wilderness generation stood as an impressive witness to the possibility of spiritual disaster.
+#leonmorris 
 
 #### v.9-10
 >There remains, then, a Sabbath-rest for the people of God; <sup>10</sup>for anyone who enters God's rest also rests from his own work, just as God did from his.
@@ -47,6 +55,8 @@ Thus, many men seem to preach. Yet for aught that appears, **truth is just as wi
 The point here is not an analysis of human nature, but that the **Word searches the heart in such detail that it is like a sharp sword** that divides even what is virtually (but not absolutely) indivisible, whether soul and spirit or joints and marrow.
 #craigkeener 
 
+What the author is saying is that God's Word can reach to the innermost recesses of our being. We must not think that we can bluff our way out of anything, for no secrets are hidden from God. We cannot keep our thoughts to ourselves. There may also be the thought that the whole of human nature, however we divide it, physical as well as nonmaterial, is open to God.
+#leonmorris 
 
 #### v.13
 >Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of him to whom we must give account.
