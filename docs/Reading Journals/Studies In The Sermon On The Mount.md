@@ -67,11 +67,11 @@
 #### p.34
 >The Bible nowhere teaches that poverty as such is a good thing. The poor man is no nearer to the kingdom of heaven than the rich man, seaking of them as natural men.
 
-#### v.35
+#### p.35
 >They say, 'If only I had so-and-so,' and they are jealous of those who have it. Now if they are in that condition they are not blessed.
 
-#### v.36
+#### p.36
 >And if one feels anything in the presence of God save an utter poverty of spirit, it ultimately means that you have never faced Him.
 
-#### v.40
+#### p.40
 >That, then, is what is meant by being 'poor in spirit.' It means a complete absence of pride, a complete absence of self-assurance and of self-reliance. It means a consciousness that we are nothing in the presence of God.

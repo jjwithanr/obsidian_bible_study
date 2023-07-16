@@ -27,4 +27,7 @@ Messages:
 #### v.21
 >She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins."
 
+#### v.23
+>"The virgin will be with child and will give birth to a son, and they will call him Immanuel"—which means, "God with us."
+
 

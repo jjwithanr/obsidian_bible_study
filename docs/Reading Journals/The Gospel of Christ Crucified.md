@@ -3,7 +3,7 @@
 
 #### 2022-07-05 22:03 Pages xi-8
 ##### What I learned:
-1. Heavens are described as plural, physical, and continous in Scripture. There are multiple heavens.
+1. Heavens are described as plural, physical, and continuous in Scripture. There are multiple heavens.
 2. Biblical theology is best summarized as *cruciform apocalypticism*.
 3. Platonism, realized eschatology, and evolutionism are the source of most historical corruptions of the apostolic witness.
 
@@ -13,11 +13,11 @@
 #### 2022-07-06 21:26 Pages 9-13
 ##### What I learned:
 1. Proof that the Bible is divinely inspired is the overcoming of death itself. Acts 17:24-31
-2. Martin Luther identified the "evangelical church" as those who believed in *sola sciptura* compared to the Roman Catholic Church who believed in traditions.
+2. Martin Luther identified the "evangelical church" as those who believed in *sola scriptura* compared to the Roman Catholic Church who believed in traditions.
 3. Worldview can be defined as "an interpretive framework through which or by which one makes sense out of the data of life and the world."
 
 ##### Interesting Quote:
-- *In addition, we must ask the gerater question: What is the worldview of the Holy Spirit? Since God is a person, how does he view life? What intuitively seems true to him? What are his assumptions? How does he interpret existence?* (13)
+- *In addition, we must ask the greater question: What is the worldview of the Holy Spirit? Since God is a person, how does he view life? What intuitively seems true to him? What are his assumptions? How does he interpret existence?* (13)
 
 
 #### 2022-07-07 21:24 Pages 14-22

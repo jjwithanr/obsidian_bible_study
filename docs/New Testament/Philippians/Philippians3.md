@@ -13,16 +13,27 @@
 It is the privilege, therefore, of a Christian to rejoice. He has more sources of joy than any other man - sources which do not fail when all others fail.
 #barnes 
 
+#### v.3
+>For it is we who are the circumcision, we who worship by the Spirit of God, who glory in Christ Jesus, and who put no confidence in the flesh—
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hZMrlt91aQ?clip=UgkxsMivNYdDDcXe8o9RjWqJZwXbOTLJp_Lg&amp;clipt=EL7sigEY_quOAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### v.8-9
 > What is more, I consider **everything a loss** compared to the **surpassing greatness of knowing Christ** Jesus my Lord, for whose sake I have lost all things. I consider them rubbish, that I may gain Christ and  be found in him, **not having a righteousness of my own** that comes from the law, but that which is through faith in Christ - the righteousness that comes from God and is by faith.
 
 See more in [[worthy#EnduringWord on Philippians 3 8-9 Philippians3 v 8-9]] or [[worthy#Craig Keener on Philippians 3 8-9 Philippians3 v 8-9]].
 
-#### v.10
->I want to know Christ and the power of his resurrection and the fellowship of sharing in his sufferrings becoming like him in his death,
+“Dung” (kjv) or “rubbish” (esv, nasb, nrsv; “garbage”—niv) usually meant either excrement or food to be thrown away, which dogs might enjoy (3:2). (Ancient speakers valued skill in producing insolent insults.)
+#craigkeener 
 
-Growing in our knowlege of Christ is parallel to dying to our flesh.
+#### v.10
+>I want to know Christ and the power of his resurrection and the fellowship of sharing in his sufferings becoming like him in his death,
+
+Growing in our knowledge of Christ coincides with dying to our flesh.
 #jj 
+
+The ultimate revelation in the Old Testament was to “know” God ([Ex 33:13](Exodus33#v.13)), a relationship available to all the people of the new covenant ([Jer 31:34](Jeremiah31#v.31-34)). This language reflects both the covenant relationship (on the corporate level) and intimate fellowship with God (on the personal level experienced by the prophets). But Paul also connects knowing *Christ with sharing his sufferings and glory.
+#craigkeener 
 
 #### v.13
 >Brothers, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead,

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8a6e99e4c1cabd",
+        "id": "752eea6390e47ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "53106ec9a392d086",
+            "id": "7b491d67e77b9f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Hosea/Hosea2.md",
+                "file": "Reading Journals/Scripture As Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Hosea/Hosea2.md",
+                "file": "Reading Journals/Scripture As Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Hosea/Hosea2.md"
+                "file": "Reading Journals/Scripture As Communication.md"
               }
             }
           }
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -134,8 +134,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53106ec9a392d086",
+  "active": "7b491d67e77b9f24",
   "lastOpenFiles": [
+    "New Testament/Hebrews/Hebrews5.md",
+    "New Testament/Romans/Romans2.md",
+    "Old Testament/Ezekiel/Ezekiel44.md",
+    "Old Testament/1 Kings/1Kings3.md",
+    "Old Testament/2 Samuel/2Samuel14.md",
+    "New Testament/Philippians/Philippians3.md",
+    "Old Testament/Jeremiah/Jeremiah31.md",
+    "Old Testament/Exodus/Exodus33.md",
+    "Reading Journals/Scripture As Communication.md",
+    "New Testament/Matthew/Matthew28.md",
+    "New Testament/Matthew/Matthew1.md",
+    "Reading Journals/Perspectives/Perspectives3.md",
+    "Untitled.canvas",
+    "Reading Journals/Studies In The Sermon On The Mount.md",
+    "Reading Journals/Systematic Theology/1WordOfGod.md",
+    "Reading Journals/The Gospel of Christ Crucified.md",
+    "Old Testament/Hosea/Hosea2.md",
     "New Testament/Hebrews/Hebrews4.md",
     "Apocrypha/Wisdom of Solomon/Wisdom7.md",
     "Apocrypha/Wisdom of Solomon/Wisdom6.md",
@@ -146,22 +163,6 @@
     "Old Testament/Amos/Amos8.md",
     "Old Testament/Exodus/Exodus3.md",
     "Old Testament/Amos/Amos4.md",
-    "Old Testament/Psalm/Psalm127.md",
-    "New Testament/Hebrews/Hebrews8.md",
-    "New Testament/1 Peter/1Peter5.md",
-    "New Testament/Mark/Mark7.md",
-    "Templates/entry.md",
-    "Reading Journals/Systematic Theology/5ApplicationOfRedemption.md",
-    "New Testament/Revelation/Revelation21.md",
-    "Old Testament/Genesis/Genesis12.md",
-    "Old Testament/Genesis/Genesis22.md",
-    "Old Testament/Isaiah/Isaiah25.md",
-    "New Testament/2 Corinthians/2Cor12.md",
-    "Old Testament/Job/Job9.md",
-    "New Testament/Revelation/Revelation6.md",
-    "Old Testament/Isaiah/Isaiah61.md",
-    "New Testament/John/John13.md",
-    "Reading Journals/Systematic Theology/3ManInTheImageOfGod.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]
