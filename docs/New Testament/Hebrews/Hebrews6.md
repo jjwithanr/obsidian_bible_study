@@ -16,7 +16,6 @@ They had to get past the basics to biblical maturity (5:11-14), or they would fa
 #### v.9
 >Even though we speak like this, dear friends, we are confident of better things in your case—things that accompany salvation.
 
-
 #### v.10
 >God is not unjust; he will not forget your work and the love you have shown him as you have helped his people and continue to help them.
 
@@ -32,6 +31,8 @@ We are encouraged by His promises and his character.
 The strongest of which the mind can conceive. The consolation of a Christian is not in his own strength; his hope of heaven is not in any reliance on his own powers. His comfort is, that God has “promised” eternal life to his people, and that He cannot prove false to his word; [Titus 1:2](Titus1#v.2).
 #barnes 
 
-
 #### v.19
 >We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,
+
+The imagery takes us back to the tabernacle, with its "curtain" shutting off the Most Holy Place. That little room symbolized the very presence of God, but people were not allowed to enter it. But hope can, says the author. The Christian hope is not exhausted by what it sees of earthly possibilities. It reaches into the very presence of God.
+#leonmorris 
