@@ -59,16 +59,20 @@ Graphic
 11. We should seek to become the "implied reader", someone who embodies every right response to the author's communicative intention.
 
 
-
-
-
-
-
-
-
-
-
-
+#### Pages 130-140
+##### What I learned:
+1. Implied reader for Habakkuk:
+	1. One who waits on God when God's justice seems to be absent. (1:2-4)
+	2. They have a trusting reception of what God has to say. (2:1)
+	3. The faithful, trusting stance of the righteous person is the model for the implied reader. (2:4)
+	4. Called to fully embrace the final stance of joy and faith amidst barrenness and ambiguity. (3:16-19)
+2. Texts were read aloud in the ancient world since literacy was scarce.
+3. Some good guidelines for reading:
+	1. Biblical genres
+	2. Language
+	3. Social setting
+	4. Literary context
+4. *We listen well by reading the Bible on its own terms, not assuming that we have always understood its message, not imposing our own messages on it. Instead, we take care to hear a biblical text in its own setting, so we might in the end hear it in ours.*  (136)
 
 
 
