@@ -28,11 +28,19 @@ It cannot mean that those for whom he died are made at once perfectly holy, for 
 #### v.17
 >Then he adds: "Their sins and lawless acts I will remember no more."
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOXGvCj-IBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### v.18
+>And where these have been forgiven, there is no longer any sacrifice for sin.
+
 #### v.22
 >let us draw near to God with a **sincere heart** in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water.
 
 Drawing near to God *with a sincere heart* means for us to draw near without any personal agendas or idolization of self. It's not about us; it wasn't us that granted us this access to worship Him in spirit and truth. Even our guilt in how we ought to be or how we ought to atone for the sins we've committed prior to drawing near to Him must be **cleansed** from our *guilty conscience*.
 #jj 
+
+\*Gentile converts to Judaism were baptized to free them from Gentile impurity; the \*Qumran sect required everyone to be baptized (as the first of many washings) to forsake former worldly impurities; Christians baptized new believers as a mark of initiation into a wholly new life. The symbolic value of Christian baptism would not have been lost on Jewish observers
+#craigkeener 
 
 #### v.23
 >Let us hold unswervingly to the hope we profess, for he who promised is faithful.
@@ -52,6 +60,16 @@ The New Covenant is an eternal covenant established by the most perfect High Pri
 We do not meet simply to fulfill some cultural norm or law. No, we refuse to live a life of dictation ([[godliness#Martin Lloyd-Jones notetaker]]). There is a desire in the human heart to *be encouraged* and a desire in God's heart to be the *encourager*. God desires to be desired.
 #jj
 
+#### v.26-27
+>If we deliberately keep on sinning after we have received the knowledge of the truth, no sacrifice for sins is left, <sup>27</sup>but only a fearful expectation of judgment and of raging fire that will consume the enemies of God.
+
+Judaism had long distinguished intentional and unintentional sin (Num 15:29-31; cf., e.g., Lev 4:2, 22); one who knew better would be punished more strictly than one who was ignorant. Sacrifices \*atoned for sins of ignorance, but Judaism taught that no sacrifice availed for the person who knowingly rejected the authority of God’s \*law... Jewish teachers also observed that those who sinned presuming that they would be automatically forgiven were not genuinely repentant and hence were not forgiven.) In the \*Dead Sea Scrolls, slight transgressions required temporary penance, but deliberate rebellion against God’s law demanded expulsion from the community. The sin in this context is unrepentant, thorough apostasy (10:29).
+#craigkeener 
+
+#### v.28-29
+>Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses. <sup>29</sup>How much more severely do you think a man deserves to be punished who has trampled the Son of God under foot, who has treated as an unholy thing the blood of the covenant that sanctified him, and who has insulted the Spirit of grace?
+
+To despise the law of Moses was a serious matter...
 
 #### v.31
 >It is a dreadful thing to fall in the hands of the living God.
@@ -75,3 +93,8 @@ We hold fast not out of sheer determination and discipline; there is a goal that
 #spurgeon [sermon link](https://www.spurgeongems.org/sermon/chs1025.pdf)
 
 ^ Spurgeon speaking truth of my post-grad season. 1/2/23
+
+True confidence makes the believer feel, “I am God’s child. I can speak with my Lord whenever I will and I can hear His voice everywhere—hear it in nature as well as in the Bible. I dwell always in my Father’s own house at home and I know that ‘goodness and mercy shall follow me all the days of my life.’” Oh, what a sweet feeling that is, to know that you are ever near to God, that He is ever with you, and consequently, you are always at home and your Father is always accessible.
+
+Dear Mr. Muller said from this pulpit, “Do not begin the day unless you feel happy in the Lord.” The advice is good. See that you walk in obedience with great watchfulness, so shall you have the freedom of children towards God. “Beloved, if our hearts condemn us not, then have we confidence towards God.”
+#spurgeon [sermon link](https://www.spurgeongems.org/sermon/chs1263.pdf)

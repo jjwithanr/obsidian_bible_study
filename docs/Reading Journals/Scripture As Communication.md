@@ -67,7 +67,7 @@ Graphic
 	3. The faithful, trusting stance of the righteous person is the model for the implied reader. (2:4)
 	4. Called to fully embrace the final stance of joy and faith amidst barrenness and ambiguity. (3:16-19)
 2. Texts were read aloud in the ancient world since literacy was scarce.
-3. Some good guidelines for reading:
+3. **Some good guidelines for reading:**
 	1. Biblical genres
 	2. Language
 	3. Social setting

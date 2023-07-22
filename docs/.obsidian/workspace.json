@@ -11,8 +11,12 @@
             "id": "e1cf2aff1bd2e649",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New Testament/Hebrews/Hebrews10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New Testament/Hebrews/Hebrews10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New Testament/Hebrews/Hebrews10.md"
+              }
             }
           }
         ]
@@ -129,6 +136,12 @@
   },
   "active": "e1cf2aff1bd2e649",
   "lastOpenFiles": [
+    "New Testament/Hebrews/Hebrews9.md",
+    "Old Testament/Deuteronomy/Deut17.md",
+    "Old Testament/Deuteronomy/Deut19.md",
+    "New Testament/Hebrews/Hebrews10.md",
+    "Topics/godliness.md",
+    "Reading Journals/Studies In The Sermon On The Mount.md",
     "Reading Journals/Scripture As Communication.md",
     "New Testament/Hebrews/Hebrews6.md",
     "New Testament/Hebrews/Hebrews5.md",
@@ -143,7 +156,6 @@
     "New Testament/Matthew/Matthew1.md",
     "Reading Journals/Perspectives/Perspectives3.md",
     "Untitled.canvas",
-    "Reading Journals/Studies In The Sermon On The Mount.md",
     "Reading Journals/Systematic Theology/1WordOfGod.md",
     "Reading Journals/The Gospel of Christ Crucified.md",
     "Old Testament/Hosea/Hosea2.md",
@@ -151,11 +163,6 @@
     "Apocrypha/Wisdom of Solomon/Wisdom7.md",
     "Apocrypha/Wisdom of Solomon/Wisdom6.md",
     "New Testament/Hebrews/Hebrews1.md",
-    "Old Testament/Hosea/Hosea1.md",
-    "Old Testament/1 Kings/1Kings19.md",
-    "1Kings19.md",
-    "Old Testament/Amos/Amos8.md",
-    "Old Testament/Exodus/Exodus3.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]
