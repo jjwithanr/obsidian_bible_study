@@ -17,8 +17,9 @@ From this passage we learn that the **Lord by his Spirit strives with man up to 
 #### v.6
 >The Lord was grieved that he had made man on the earth, and his heart was filled with pain.
 
-
-
 #### v.8
 >But Noah found favor in the eyes of the Lord.
+
+#### v.9
+>This is the account of Noah. Noah was a righteous man, blameless among the people of his time, and he walked with God.
 

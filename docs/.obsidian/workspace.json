@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b30b37f2c11ded6",
+        "id": "8c63cef4931c5b05",
         "type": "tabs",
         "children": [
           {
-            "id": "e1cf2aff1bd2e649",
+            "id": "f181b9862f6a48a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Hebrews/Hebrews10.md",
+                "file": "New Testament/Hebrews/Hebrews11.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Hebrews/Hebrews10.md",
+                "file": "New Testament/Hebrews/Hebrews11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Hebrews/Hebrews10.md"
+                "file": "New Testament/Hebrews/Hebrews11.md"
               }
             }
           }
@@ -134,12 +134,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1cf2aff1bd2e649",
+  "active": "f181b9862f6a48a0",
   "lastOpenFiles": [
+    "New Testament/1 Corinthians/1Cor1.md",
+    "New Testament/Hebrews/Hebrews11.md",
+    "Old Testament/Genesis/Genesis6.md",
+    "New Testament/Luke/Luke11.md",
+    "New Testament/Matthew/Matthew12.md",
+    "New Testament/Hebrews/Hebrews10.md",
     "New Testament/Hebrews/Hebrews9.md",
     "Old Testament/Deuteronomy/Deut17.md",
     "Old Testament/Deuteronomy/Deut19.md",
-    "New Testament/Hebrews/Hebrews10.md",
     "Topics/godliness.md",
     "Reading Journals/Studies In The Sermon On The Mount.md",
     "Reading Journals/Scripture As Communication.md",
@@ -158,11 +163,6 @@
     "Untitled.canvas",
     "Reading Journals/Systematic Theology/1WordOfGod.md",
     "Reading Journals/The Gospel of Christ Crucified.md",
-    "Old Testament/Hosea/Hosea2.md",
-    "New Testament/Hebrews/Hebrews4.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom6.md",
-    "New Testament/Hebrews/Hebrews1.md",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
   ]

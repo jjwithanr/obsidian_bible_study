@@ -30,6 +30,9 @@ Does this mean we can sin in heaven? Cannot be forgiven in the age to come?
 #### v.36
 >But I tell you that men will have to give account on the day of judgement for every careless word they have spoken.
 
+#### v.41-42
+>The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now one greater than Jonah is here. <sup>42</sup>The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to listen to Solomon's wisdom, and now one greater than Solomon is here.
+
 #### v.45
 >Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that man is worse than the first. That is how it  will be with this wicked generation."
 

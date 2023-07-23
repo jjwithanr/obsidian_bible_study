@@ -27,4 +27,7 @@ Message:
 #### v.9
 >God, who has called you into fellowship with his Son Jesus Christ our Lord, is faithful.
 
+#### v.27
+> But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.
+
 
