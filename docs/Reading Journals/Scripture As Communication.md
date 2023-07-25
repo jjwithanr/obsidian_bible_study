@@ -75,6 +75,14 @@ Graphic
 4. *We listen well by reading the Bible on its own terms, not assuming that we have always understood its message, not imposing our own messages on it. Instead, we take care to hear a biblical text in its own setting, so we might in the end hear it in ours.*  (136)
 
 
+#### Pages 140-150
+##### What I learned:
+1. The author's choice of genre is a primary part of the communicative choices.
+1. *While in an epistle an author seeks to persuade through a course of reasoning that is fairly explicit and often linear, narrative authors do their "persuading" most often implicitly, through story and point of view.* (140)
+1. 
+
+
+
 
 
 

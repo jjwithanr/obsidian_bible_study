@@ -105,3 +105,10 @@ The fact soon comes home to us that we are weak where we most of all desire to b
 
 Women received their dead back to life under Elijah and Elisha (1 Kings 17:21-24; 2 Kings 4:35-37). “And others” marks a transition: faith does not always bring deliverance (cf. Dan 3:18), as the author’s readers already knew (Heb 10:32-39) and might learn further (12:4). Nearly all Jews knew the stories of Maccabean martyrs, who were tortured in various ways: scalded to death, having skin flayed off, stretched on the wheel and so on. Regular torture practices of the Greeks included fire, thumbscrews and (what is probably meant by “tortured” here) stretching on a wheel to break the person’s joints, then beating the victim to death (sometimes pounding the stomach as if it were a drum) in that helpless position. The Maccabean martyrs were scourged, a punishment that the Romans had continued to use as well. All Jewish sources that addressed the issue agreed that martyrs would receive preferential treatment at the \*resurrection, and 2 Maccabees declares that this was the hope that enabled the martyrs to endure.
 #craigkeener 
+
+#### v.38
+>the world was not worthy of them. They wandered in deserts and mountains, and in caves and holes in the ground.
+
+They wandered in lonely places, and their shelters were "caves and holes in the ground." The heroes of the faith had no mansions; they cared for other things than their own comfort.
+#leonmorris 
+

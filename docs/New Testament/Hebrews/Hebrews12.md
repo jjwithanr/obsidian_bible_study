@@ -55,6 +55,12 @@ To be holy as God is holy; to be so holy that it may be said that we “are part
 There is no Christian who is not ultimately benefited by trials, and who is not able at some period subsequently to say, **“It was good for me that I was afflicted. Before I was afflicted I went astray; but now have I kept thy word.”** When a Christian comes to die, he does not feel that he has had one trial too many, or one which he did not deserve. He can then look back and see the effect of some early trial so severe that he once thought he could hardly endure it, spreading a hallowed influence over his future years, and scattering its golden fruit all along the pathway of life. I have never known a Christian who was not benefited by afflictions; I have seen none who was not able to say that his trials produced some happy effect on his religious character, and on his real happiness in life. If this be so, then no matter how severe our trials, we should submit to them without a complaint. **The more severe they are, the more we shall yet be blessed - on earth or in heaven.**
 #barnes 
 
+#### v.13
+>"Make level paths for your feet," so that the lame may not be disabled, but rather healed.
+
+Some Christian people seem to be so inconsiderate, and unsympathizing, that they treat all the lame of the flock with harshness. You may be strong and vigorous in your physical constitution, strangers to nervousness and depression of spirits. Be thankful then, but do not be presumptuous. Despise not those who suffer from infirmities that have never come upon you
+#spurgeon  [sermon link](https://www.spurgeongems.org/sermon/chs2854.pdf)
+
 #### v.14
 >Make every effort to live in peace with all men and to be holy; without holiness no one will see the Lord.
 
