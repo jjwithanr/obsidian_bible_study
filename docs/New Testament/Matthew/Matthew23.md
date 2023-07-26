@@ -36,6 +36,12 @@ The woes are for teachers of the law. Not the zealots of the time wreaking civil
 Jews were no longer allowed to pronounce the sacred name of God in this period. By swearing lesser oaths, some people hoped to avoid the consequences of swearing by God’s name if they could not keep their vow or if their oath turned out to be mistaken. As people swore or vowed by things related to God instead of by God himself, more and more things became substitutes for the divine name and thus became roundabout ways of seeming to swear by God while hoping to buffer the consequences.
 #craigkeener 
 
+#### v.24
+>You blind guides! You strain out a gnat but swallow a camel.
+
+Jesus' saying is a wordplay, for the terms for a camel (gamla) and a gnat (qalma) sound very similar in Aramaic, which was Jesus' mother tongue.
+#jeanninekbrown 
+
 #### v.25
 >"Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.
 

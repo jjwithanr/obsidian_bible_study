@@ -26,7 +26,7 @@ Graphic
 5. Most of us in the West tend to individualistically read [1 Corinthians 3:16](1Cor3#v.16) hearing the singular "you" when Paul says "Do you not know that you are a temple of God and that the Spirit of God dwells in you?" (NASB). What's surprising is that Paul is referring to the corporate church as God's temple and dwelling place for God's Spirit—clearly indicated from his usage of the second-person plural form ("you") in the Greek. (94)
 6. *In my reading, Paul's central concern in 1 Corinthians 8 is the Corinthian's participation in idolatry as they join in temple feasts. 🔥The root problem is idolatry, specifically, attempting to affirm one's allegiance to the one true God, while playing at the edges of idolatrous practice, when the call of God is to exclusive allegiance🔥. This normative stance seems quite transferable to my cultural context, since today's contemporary church struggles with compromised allegiance, as did the Corinthian church, although not in relation to temple feasts. For instance, the siren song of materialism woos us from wholehearted allegiance to God toward placing possessions, money, and comfort at the center of our existence. The normative song of resistance to idolatrous temptations resonates well in this different key.* (96)
 
-#### Pages 110-
+#### Pages 110-120
 ##### What I learned:
 1. *Particularly helpful is the observation that, by citing a brief part of another text or even alluding to it, an author may be evoking the entire context, message, or story of that other text. One example is the recognition that an important way the Gospel writers communicate the fulfillment of Israel's promised restoration in Jesus is by evoking Isaiah's "new exodus" motif (e.g. Matt. 1-2; Mark 1:1-3)… this way of evoking whole stories and ideas by means of allusion makes much sense of how we understand New Testament writers using Old Testament texts.* (110)
 1. Terms
@@ -79,7 +79,20 @@ Graphic
 ##### What I learned:
 1. The author's choice of genre is a primary part of the communicative choices.
 1. *While in an epistle an author seeks to persuade through a course of reasoning that is fairly explicit and often linear, narrative authors do their "persuading" most often implicitly, through story and point of view.* (140)
+1. Hebrew poetry does not share characteristics like rhyme and meter with English poetry, but it does also utilize alliteration, assonance, onomatopoeia, and wordplay.
+2. *As A. Berkeley Mickelson has warned, "The very essence of poetry is destroyed if we are absorbed in the mechanics of it."* (148)
+3. In poetry, authors select words for their sound, form, and metaphorical qualities which contribute to poetry's compactness compared to prose. David in Psalm 51 uses a dozen occurrences of five different words to describe sin. It would be a misreading to look too deeply into these five instances and emphasize its nuances.
+
+
+#### Pages 150-160
+##### What I learned:
 1. 
+1. 
+1. 
+
+
+
+
 
 
 

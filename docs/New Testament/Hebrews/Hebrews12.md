@@ -1,11 +1,11 @@
 # Hebrews 12
 
 ## Overview:
-The author encourages his audience by urging them to throw everything that is hindering them by realizing they are surrounded by all those great men of faith from chapter 11. Even in God's discipline there is much to be encouraged by. True sons of God endure his discipline and ought to live in peace with another. Lastly, he compares Mount Sinai, where Moses and Israelites approached with much fear and trembling, to Mount Zion, which the author describes with thousands of angels in joyful asssembly. His conclusion is that we give God acceptable worship.
+The author encourages his audience by urging them to throw everything that is hindering them by realizing they are surrounded by all those great men of faith from chapter 11. Even in God's discipline there is much to be encouraged by. True sons of God endure his discipline and ought to live in peace with another. Lastly, he compares Mount Sinai, where Moses and Israelites approached with much fear and trembling, to Mount Zion, which the author describes with thousands of angels in joyful assembly. His conclusion is that we give God acceptable worship.
 
 
 #### v.1
->Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles, and **let us run** with persevearance the race marked out for us.
+>Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles, and **let us run** with perseverance the race marked out for us.
 
 He stands with us at the starting-point, and earnestly says to us, not ‘Run,’ but, ‘Let us run.’ The apostle himself is at our side as a runner.
 #spurgeon 
@@ -81,6 +81,15 @@ Scripture speaks of both a holiness which we have in Christ before God, and a ho
 #### v.15
 >See to it that no one misses the grace of God and that no bitter [root](Deuteronomy29#v.18) grows up to cause trouble and defile many.
 
+#### v.16
+>See that no one is sexually immoral, or is godless like Esau, who for a single meal sold his inheritance rights as the oldest son.
+
+Esau was not spiritually minded but rather taken up with the things of the here and now. This is apparent in the incident referred to, when Esau for a single meal bargained away "his inheritance rights as the oldest son" (cf. Ge 25:29-34). He could not recognize its true value. His insistence on the gratification of his immediate needs led him to overlook what was of infinitely greater worth, his rights as the firstborn. So with the apostates.
+#leonmorris 
+
+Philo regarded Esau as enslaved by sensual and temporal desires because of actions such as this one. Esau did not act as if he viewed life from a long-range perspective, much less an eternal one (the rabbis inferred from this text that he denied the future \*resurrection of the dead).
+#craigkeener 
+
 #### v.18-19
 >You have not come to a mountain that can be touched and that is burning with fire; to darkness, gloom and storm; <sup>19</sup>to a trumpet blast or to such a voice speaking words that those who heard it begged that no further word be spoken to them,
 
@@ -94,6 +103,9 @@ This may refer to some partial presence/awareness of dead saints, according to [
 
 The meaning here is, that the blood of Jesus speaks better things than Abel did; that is, that the blood of Jesus is the “reality” of which the offering of Abel was a “type.” Abel proclaimed by the sacrifice which he made the great truth that salvation could be only by a bloody offering - but he did this only in a typical and obscure manner; Jesus proclaimed it in a more distinct and better manner by the reality. The object here is to compare the Redeemer with Abel, not in the sense that the blood shed in either case calls for vengeance, but that salvation by blood is more clearly revealed in the Christian plan than in the ancient history; and hence illustrating, in accordance with the design of this Epistle, the superior excellency of the Christian scheme over all which had preceded it.
 #barnes 
+
+But Jesus' blood speaks "a better word" than that. His blood opens up for us a way into the Most Holy Place (10:19), whereas Abel's blood sought to shut out the wicked person.
+#leonmorris 
 
 #### v.28-29
 >Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe, <sup>29</sup>for our "God is a consuming fire."
