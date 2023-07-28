@@ -26,6 +26,11 @@ Messages:
 #### v.4
 >who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,
 
+#### v.6
+>I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are turning to a different gospel—
+
+See more in [[SaC150-160]].
+
 #### v.7
 >which is really no gospel at all. Evidently some people are throwing you into confusion and are trying to pervert the gospel of Christ.
 

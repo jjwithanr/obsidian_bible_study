@@ -104,8 +104,15 @@ Adam Clarke points out that the ancient Greek word translated **continues** is _
 #### v.26
 >If anyone considers himself religious and yet does not keep a tight rein on his tongue, he deceives himself and his religion is worthless.
 
+The person involved "considers himself religious" (GK 2580). This word describes a person who performs the external acts of religion, such as public worship, fasting, or giving to the needy, but he exerts no controlling restraint on his speech... His uncontrolled tongue reveals that "his religion" is external sham. In living like this, "he deceives himself" (cf. 22).
+#donaldburdick
+
 #### v.27
 >Religion is that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and **to keep oneself from being polluted by the world**.
 
 Verses 26 and 27 pretty much sum up my spiritual journey since my internship at Liferay ended.
 #jj  3/1/23
+
+God uses this now to remind me I'm in His will. I struggled with the insecurity that I'm constantly living in disobedience and God is not pleased in me. Through living with ENN, God is truly teaching me religion that is pleasing to Him.
+#jj 7/27/23
+

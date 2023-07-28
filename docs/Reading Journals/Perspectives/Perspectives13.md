@@ -1,11 +1,6 @@
 ## Week 13 - Spontaneous Multiplication of Churches
 2022-11-17
 
-### Article
-**author**
-- Takeaways
-- Takeaways
-- Takeaways
 
 ### The Spontaneous Multiplication of Churches
 **George Patterson**
@@ -19,9 +14,9 @@
 	6. Give (Matt 6:19-21; Luke 6:38)
 	7. Disciple others (Matt 28:18-20)
 
->Teaching heavy theology *before* one learns loving, childlike obedience is dangerous. It leaves a person assuming that Christianity is having scripturally correct doctrine and he leaves it at that. He beomes a passive learner of the Word rather than an active disciple. (639)
+>Teaching heavy theology *before* one learns loving, childlike obedience is dangerous. It leaves a person assuming that Christianity is having scripturally correct doctrine and he leaves it at that. He becomes a passive learner of the Word rather than an active disciple. (639)
 
-- Don't forcefullly drag new converts away from their family members and close friends. The Holy Spirit flows through existing bonds like through Cornelius in Acts 10:24,44.
+- Don't forcefully drag new converts away from their family members and close friends. The Holy Spirit flows through existing bonds like through Cornelius in Acts 10:24,44.
 
 
 ### Dependency
