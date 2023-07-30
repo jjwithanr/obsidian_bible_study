@@ -27,6 +27,9 @@ To set the mind on (lit., "think on"; GK 5858) things above has the connotation 
 At the present time our connection with God and Christ is a matter of inner experience; one day it will come into full and open manifestation.
 #curtisvaughun 
 
+The sweetest part, if one may speak of one part being sweeter than another, is the _rest_ which full identification with Christ brings. 🔥**I am no longer anxious about anything, as I realise this; for He, I know, is able to carry out _His will_, and His will is mine. It makes no matter where He places me, or how. That is rather for Him to consider than for me; for in the easiest positions He must give me His grace, and in the most difficult His grace is sufficient.** It little matters to my servant whether I send him to buy a few cash worth of things, or the most expensive articles. In either case he looks to me for the money, and brings me his purchases. So, if God place me in great perplexity, must He not give me much guidance; in positions of great difficulty, much grace; in circumstances of great pressure and trial, much strength? No fear that His resources will be unequal to the emergency! And His resources are mine, for _He_ is mine, and is with me and dwells in me. All this springs from the believer's oneness with Christ. And since Christ has thus dwelt in my heart by faith, how happy I have been! I wish I could tell you, instead of writing about it.
+#hudsontaylor [link](https://www.wholesomewords.org/missions/biotaylor11.html)
+
 #### v.5
 >Put to death therefore whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.
 

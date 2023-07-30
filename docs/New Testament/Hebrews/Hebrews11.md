@@ -15,6 +15,9 @@ How do we 'substantiate' something? We are doing so every day. We cannot live in
 It seems to me, therefore, that the word here has reference to something which **imparts reality in the view of the mind to those things which are not seen**, and which serves to distinguish them from those things which are unreal and illusive. It is what enables us to feel and act as if they were real, or which causes them to exert an influence over us as if we saw them. Faith does this on all other subjects as well as religion. A belief that there is such a place as London or Calcutta, leads us to act as if this were so, if we have occasion to go to either; a belief that money may be made in a certain undertaking, leads people to act as if this were so; a belief in the veracity of another leads us to act as if this were so. As long as the faith continues, whether it be well-founded or not, it gives all the force of reality to what is believed. We feel and act just as if it were so, or as if we saw the object before our eyes. This, I think, is the clear meaning here. We do not see the things of eternity. **[We do not see God](1Peter1#v.8), or heaven, or the angels, or the redeemed in glory, or the crowns of victory, or the harps of praise; but we have faith in them, and this leads us to act as if we saw them.** And this is, undoubtedly, the fact in regard to all who live by faith and who are fairly under its influence.
 #barnes
 
+Faith, I now see, is " the substance of things hoped for," and not mere shadow. It is not _less_ than sight, but _more_. Sight only shows the outward forms of things; faith gives the substance.
+#hudsontaylor [link](https://www.wholesomewords.org/missions/biotaylor11.html)
+
 #### v.5
 >By faith Enoch was taken from this life, so that he did not experience death; he could not be found, because God had taken him away. **For before he was taken, he was commended as one who pleased God.**
 

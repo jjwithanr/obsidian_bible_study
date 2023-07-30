@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/James/James3.md",
+                "file": "New Testament/Colossians/Colossians3.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"men in sin\"",
+                "query": "\"I am no longer anxious about anything\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/James/James3.md",
+                "file": "New Testament/Colossians/Colossians3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/James/James3.md"
+                "file": "New Testament/Colossians/Colossians3.md"
               }
             }
           }
@@ -136,10 +137,14 @@
   },
   "active": "cbdfb67e3ec5e7a6",
   "lastOpenFiles": [
+    "New Testament/Romans/Romans10.md",
+    "New Testament/Hebrews/Hebrews11.md",
+    "New Testament/Colossians/Colossians3.md",
+    "New Testament/2 Corinthians/2Cor8.md",
+    "New Testament/James/James3.md",
     "New Testament/Hebrews/Hebrews9.md",
     "Old Testament/1 Chronicles/1Chron21.md",
     "New Testament/Hebrews/Hebrews10.md",
-    "New Testament/Hebrews/Hebrews11.md",
     "Old Testament/Judges/Judges1.md",
     "Reading Journals/Scripture As Communication/SaC150-160.md",
     "Reading Journals/Perspectives/Perspectives13.md",
@@ -159,10 +164,6 @@
     "New Testament/1 Corinthians/1Cor14.md",
     "New Testament/Acts/Acts2.md",
     "New Testament/Hebrews/Hebrews12.md",
-    "New Testament/Matthew/Matthew23.md",
-    "New Testament/1 Corinthians/1Cor1.md",
-    "Old Testament/Genesis/Genesis6.md",
-    "New Testament/Luke/Luke11.md",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
