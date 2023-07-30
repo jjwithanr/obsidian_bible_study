@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "006cf3f6adfd1ca5",
+        "id": "2709d46100e05ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "70b1615fa2f4a824",
+            "id": "cbdfb67e3ec5e7a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New Testament/James/James3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"men in sin\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New Testament/James/James3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New Testament/James/James3.md"
+              }
             }
           }
         ]
@@ -127,10 +134,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70b1615fa2f4a824",
+  "active": "cbdfb67e3ec5e7a6",
   "lastOpenFiles": [
-    "Reading Journals/Perspectives/Perspectives13.md",
+    "New Testament/Hebrews/Hebrews9.md",
+    "Old Testament/1 Chronicles/1Chron21.md",
+    "New Testament/Hebrews/Hebrews10.md",
+    "New Testament/Hebrews/Hebrews11.md",
+    "Old Testament/Judges/Judges1.md",
     "Reading Journals/Scripture As Communication/SaC150-160.md",
+    "Reading Journals/Perspectives/Perspectives13.md",
     "New Testament/Galatians/Galatians1.md",
     "Reading Journals/Scripture As Communication.md",
     "Reading Journals/Scripture As Communication/SaC140-150.md",
@@ -148,14 +160,9 @@
     "New Testament/Acts/Acts2.md",
     "New Testament/Hebrews/Hebrews12.md",
     "New Testament/Matthew/Matthew23.md",
-    "New Testament/Hebrews/Hebrews11.md",
     "New Testament/1 Corinthians/1Cor1.md",
     "Old Testament/Genesis/Genesis6.md",
     "New Testament/Luke/Luke11.md",
-    "New Testament/Matthew/Matthew12.md",
-    "New Testament/Hebrews/Hebrews10.md",
-    "New Testament/Hebrews/Hebrews9.md",
-    "Old Testament/Deuteronomy/Deut17.md",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
