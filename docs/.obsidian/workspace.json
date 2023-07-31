@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2709d46100e05ec3",
+        "id": "b5b5672e02c79d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "cbdfb67e3ec5e7a6",
+            "id": "17d83b1dba9bd4f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Colossians/Colossians3.md",
+                "file": "Reading Journals/Scripture As Communication/SaC150-160.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Colossians/Colossians3.md",
+                "file": "Reading Journals/Scripture As Communication/SaC150-160.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,16 +111,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Colossians/Colossians3.md"
+                "file": "Reading Journals/Scripture As Communication/SaC150-160.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +134,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbdfb67e3ec5e7a6",
+  "active": "17d83b1dba9bd4f5",
   "lastOpenFiles": [
+    "New Testament/James/James4.md",
+    "New Testament/Luke/Luke15.md",
+    "New Testament/Colossians/Colossians3.md",
     "New Testament/Romans/Romans10.md",
     "New Testament/Hebrews/Hebrews11.md",
-    "New Testament/Colossians/Colossians3.md",
     "New Testament/2 Corinthians/2Cor8.md",
     "New Testament/James/James3.md",
     "New Testament/Hebrews/Hebrews9.md",
@@ -162,8 +163,6 @@
     "New Testament/James/James1.md",
     "Reading Journals/Systematic Theology/6Church.md",
     "New Testament/1 Corinthians/1Cor14.md",
-    "New Testament/Acts/Acts2.md",
-    "New Testament/Hebrews/Hebrews12.md",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"
