@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC150-160.md",
+                "file": "Reading Journals/Scripture As Communication/SaC160-170.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC150-160.md",
+                "file": "Reading Journals/Scripture As Communication/SaC160-170.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC150-160.md"
+                "file": "Reading Journals/Scripture As Communication/SaC160-170.md"
               }
             }
           }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,6 +137,18 @@
   },
   "active": "17d83b1dba9bd4f5",
   "lastOpenFiles": [
+    "Reading Journals/Scripture As Communication/SaC110-120.md",
+    "Reading Journals/Scripture As Communication/SaC100-110.md",
+    "Reading Journals/Scripture As Communication/SaC160-170.md",
+    "Reading Journals/Scripture As Communication/SaC70-80.md",
+    "Reading Journals/Scripture As Communication/SaC80-90.md",
+    "Reading Journals/Scripture As Communication/SaC90-100.md",
+    "Reading Journals/Scripture As Communication/SaC120-130.md",
+    "Reading Journals/Scripture As Communication/SaC130-140.md",
+    "Reading Journals/Scripture As Communication/SaC140-150.md",
+    "Reading Journals/Scripture As Communication/SaC150-160.md",
+    "New Testament/James/James5.md",
+    "Reading Journals/Scripture As Communication.md",
     "New Testament/James/James4.md",
     "New Testament/Luke/Luke15.md",
     "New Testament/Colossians/Colossians3.md",
@@ -147,22 +160,10 @@
     "Old Testament/1 Chronicles/1Chron21.md",
     "New Testament/Hebrews/Hebrews10.md",
     "Old Testament/Judges/Judges1.md",
-    "Reading Journals/Scripture As Communication/SaC150-160.md",
     "Reading Journals/Perspectives/Perspectives13.md",
     "New Testament/Galatians/Galatians1.md",
-    "Reading Journals/Scripture As Communication.md",
-    "Reading Journals/Scripture As Communication/SaC140-150.md",
-    "Reading Journals/Scripture As Communication/SaC130-140.md",
-    "Reading Journals/Scripture As Communication/SaC120-130.md",
-    "Reading Journals/Scripture As Communication/SaC100-110.md",
-    "Reading Journals/Scripture As Communication/SaC90-100.md",
-    "Reading Journals/Scripture As Communication/SaC110-120.md",
-    "Reading Journals/Scripture As Communication/SaC80-90.md",
-    "Reading Journals/Scripture As Communication/SaC70-80.md",
     "Reading Journals/Scripture As Communication",
     "New Testament/James/James1.md",
-    "Reading Journals/Systematic Theology/6Church.md",
-    "New Testament/1 Corinthians/1Cor14.md",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
     "Apocrypha"

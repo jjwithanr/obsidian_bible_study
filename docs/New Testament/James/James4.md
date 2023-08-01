@@ -62,8 +62,6 @@ The people of God in the OT are considered the wife of the Lord (Jer 31:32), and
  You are just as spiritual as you want to be.
  #ravenhill
 
- 
-
 #### v.7
 >Submit yourselves, then, to God. Resist the devil, and he will flee from you.
 
@@ -76,13 +74,34 @@ I desire to whisper one little truth in your ear, and I pray that it may startle
 I have already referred to the parable of the prodigal son, I will refer to it again by reminding you that, “when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.” It is, after all, but little of the way that the sinner has to go in returning to his God, the greater part—nay, I might say, all the way—God comes to the sinner who desires to return to Him. Only turn your face Godward, and your God is at once with you
 #spurgeon [sermon link](https://www.spurgeongems.org/sermon/chs2795.pdf)
 
+#### v.11
+>Brothers, do not slander one another. Anyone who speaks against his brother or judges him speaks against the law and judges it. When you judge the law, you are not keeping it, but sitting in judgement on it.
+
+What is said may be true in its content but harsh and unkind in the manner of it presentation.
+#donaldburdick 
+
 #### v.13
 >Now listen, you who say, "Today or tomorrow we will go to this or that city, spend a year there, **carry on business and make money**."
 
 We shouldn't prioritize where our careers place us over where God places us. This goes to show that we cannot and shouldn't do anything apart from Him. Those who plan out their careers ahead of their endeavors to serve God live a [zero sum value life](https://www.youtube.com/watch?v=U2hiPxiuwNY).
+#jj 
+
+The sin here is arrogant presumption—feeling secure enough to leave God out of one’s calculations (4:16; cf., e.g., [Jer 12:1](Jeremiah12#v.1); [Amos 6:1](Amos6#v.1)).
+#craigkeener 
 
 #### v.14
 >Why, you do not even know what will happen tomorrow. [**What is your life?**](https://www.youtube.com/watch?v=X1MjDOukSBI) You are a mist that appears for a little while and then vanishes.
 
 **It is sinful to neglect the common duties of life**, under the idea that we shall do something more by-and-by. You do not obey your parents, young man, and yet you are going to be a minister, are you? A pretty minister will you make! As an apprentice you are very dilatory and neglectful, and your master would be glad to see the back of you; he wishes that he could burn your indentures; and yet you have an idea you are going to be a missionary, I believe? A pretty missionary you would be!
 #spurgeon 
+
+#### v.15
+>Instead, you ought to say, "If it is the Lord's will, we will live and do this or that."
+
+#### v.17
+>Anyone, then, who knows the good he ought to do and doesn't do it, sins.
+
+
+
+
+
