@@ -27,7 +27,7 @@ Ironically, that which the snake promised did, in fact, come about: the man and 
 #### v.6
 >When the woman saw that the fruit of the tree was good for food and **pleasing to the eye**, and **also desirable** for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.
 
-Sin is always pleasing to the eye, yet leading to death, and also desireable, yet also short in fulfilling our ultimate desires.
+Sin is always pleasing to the eye, yet leading to death, and also desirable, yet also short in fulfilling our ultimate desires.
 #jj 
 
 Eve surrendered to this temptation in exactly the way John describes in [1 John 2:16](1John2#v.16). First, she gave in to the lust of the flesh (**saw that it was good for food**), then she gave in to the lust of the eyes (**pleasant to the eyes**), then she gave in to the pride of life (**desirable to make one wise**).

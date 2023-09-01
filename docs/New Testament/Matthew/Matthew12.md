@@ -36,8 +36,12 @@ Does this mean we can sin in heaven? Cannot be forgiven in the age to come?
 #### v.45
 >Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that man is worse than the first. That is how it  will be with this wicked generation."
 
-#### v.49
+#### v.49-50
 >Pointing to his disciples, he said, "Here are my mother and my brothers. <sup>50</sup>For whoever does the will of my Father in heaven is my brother and sister and mother."
 
 Spiritual family.
 #jj 
+
+Yet we do not *make ourselves* Jesus' close relatives by doing the will of his heavenly Father; rather, doing that will *identify us* as his mother and sisters and brothers (cf. 7:21).
+#dacarson 
+

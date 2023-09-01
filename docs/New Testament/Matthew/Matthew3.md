@@ -34,7 +34,7 @@ Do not bring your cunning and dissimulation to this work; do not carry your hypo
 #barnes 
 
 #### v.12
->His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burnin up the chaff with unquenchable fire."
+>His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire."
 
 Because the same Greek (and Hebrew) word can mean both “spirit” and “wind,” the picture of wind and fire carries over from 3:11. Winnowing was familiar to all Palestinian Jews, especially to the farmers: they would throw harvested wheat into the air, and the wind would separate the heavier grain from the lighter chaff. The chaff was useless for consumption and was normally burned.
 #craigkeener 
@@ -50,4 +50,6 @@ He submitted to the ordinance of baptism, also, in order that occasion might be 
 
 Out of Christ, God is a consuming fire, but in Christ, a reconciled Father. This is the sum of the gospel, which we must by faith cheerfully embrace.
 #matthewhenry 
+
+
 

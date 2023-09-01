@@ -30,10 +30,8 @@ Jewish people often thought wonder workers did miracles (e.g. causing rain) by t
 #### v.18
 >But this is how God fulfilled what he had foretold through all the prophets, saying that his Christ would suffer.
 
-Later Jewish teachers sometimes said hyperbolically that the entire message of the prophets dealt with the messianic era or Jerusalem's restoration, or with other favorite topics. Some later rabbis said that a \*Messiah would suffer and spoke of two Messiahas, one who would suffer and one who would reign, but the Christians seem to have been the first to proclaim the concept of a suffering Messiah.
+Later Jewish teachers sometimes said hyperbolically that the entire message of the prophets dealt with the messianic era or Jerusalem's restoration, or with other favorite topics. Some later rabbis said that a \*Messiah would suffer and spoke of two Messiah as, one who would suffer and one who would reign, but the Christians seem to have been the first to proclaim the concept of a suffering Messiah.
 #craigkeener 
-
-
 
 #### v.22-23
 >For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you. <sup>23</sup>Anyone who does not listen to him will be completely cutoff from among his people.'
