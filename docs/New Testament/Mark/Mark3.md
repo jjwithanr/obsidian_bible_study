@@ -10,8 +10,19 @@
 Heart similar to [Hebrews 3:7](Hebrews3#v.7). See how our Savior longs to comfort and amaze our hearts lest it not be hardened. 
 #jj 
 
-#### v.18
->Andrew, Philip, Barthelomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot
+#### v.12
+>Whenever the evil spirits saw him, they fell down before him and cried out, "You are the Son of God." <sup>12</sup>But he gave them strict orders not to tell who he was.
+
+By crying out "You are the Son of God," they were trying to control him and neutralize his power (in Bible times, knowledge of a person's name conferred power over that person). "Son of God" is a true designation of who Jesus is. Jesus silenced the outcries of the demons because the time for the clear revelation of who he was had not yet come.
+#walterwessel 
+
+See also comment in [Mark 1:23-24](Mark1#v.23-24).
+
+#### v.16-18
+>These are the twelve he appointed: Simon (to whom he gave the name Peter); <sup>17</sup>James son of Zebedee and his brother John (to them he gave the name Boanerges, which means Sons of Thunder); <sup>18</sup>Andrew, Philip, Barthelomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot
+
+Since Bartholemew is not a personal name but a patronymic, meaning "son of Talmai," this disciple probably had another name (Nathaniel? cf. Jn 1:45).
+#walterwessel 
 
 See more in [[meekness,greatness#GotQuestions on James son Alphaeus Mark3 v 18]].
 
@@ -36,3 +47,6 @@ Let a man be made **deeply sensible of his sins**, and **spend much of his time 
 
 Obedience to Him is the first and main thing to which everything else bows, and which determines everything. If others compete or interfere, reject them.
 #maclaren 
+
+It can easily be imagined what this statement meant to the original readers of Mark's gospel. Though many had broken family relations and were being persecuted, they had an intimate relationship with the Son of God.
+#walterwessel 

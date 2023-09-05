@@ -7,8 +7,14 @@
 #### v.1
 >When Rachel saw that she was not bearing Jacob any children, she became jealous of her sister. So she said to Jacob, "Give me children, or I'll die!"
 
-#### v.
->
+#### v.2
+>Jacob became angry with her and said, "Am I in the place of God, who has kept you from having children?"
+
+#### v.27
+>But Laban said to him, "If I have found favor in your eyes, please stay. I have learned by divination that the LORD has blessed me because of you."
+
+An Israelite reader would have been struck by Laban’s suggestion that \*Yahweh has given information by means of \*divination. There is no mention of what type of divination Laban used, but all divination was later forbidden under the law. Divination assumed that there was knowledge to be gained about the activities and motives of the gods through the use of various indicators (such as entrails of sacrificed animals). It operated in a worldview that was contrary to that promoted in the Bible. Nevertheless, God occasionally chooses to use such methods, as the Bethlehem star attests
+#johnwalton 
 
 #### v.43
 >In this way the man grew exceedingly prosperous and came to own large flocks, and maidservants and menservants, and camels and donkeys.

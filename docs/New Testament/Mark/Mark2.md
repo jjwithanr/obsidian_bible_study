@@ -13,8 +13,6 @@ There are thoughts Jesus may question us about: why do you think such things?
 #### v.12
 >He got up, took his mat and walked out in full view of them all. This amazed everyone and they praised God, saying, "We have never seen anything like this!"
 
-[[wonder,amazement]]
-
 #### v.14
 >As he walked along, he saw Levi son of Alphaeus sitting at the tax collector's booth. "Follow me," Jesus told him, and Levi got up and followed him.
 
@@ -44,10 +42,4 @@ Christianity teaches differently: that God will change our hearts to want to do 
 
 In short, Jesus makes it clear that the Law has a greater purpose than to be followed with blind, careless literalism. There is a meaning behind God's law, and some of God's purposes are higher than others. Caring for the needs of the needy, for instance, is more important than ceremonial rituals.
 #bibleref 
-
-
-
-
-
-
 

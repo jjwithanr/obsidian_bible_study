@@ -10,6 +10,12 @@
 When God gave his promise, he did, as it were, put himself in the power of those who know how to plead the promise. **Every promise is so much strength given to the man who has faith in the promise**, for he may with it overcome even the omnipotent God himself.
 #spurgeon 
 
+#### v.19-20
+>He also instructed the second, the third and all the others who followed the herds: "You are to say the same thing to Esau when you meet him. <sup>20</sup>And be sure to say, 'Your servant Jacob is coming behind us.'" For he thought, "I will pacify him with these gifts I am sending on ahead; later, when I see him, perhaps he will receive me."
+
+Again we see Jacob the planner and the schemer. As he had taken Esau's birthright and blessing, as he had taken the best of Laban's herds, so now he had taken the best of Laban's herds, so now he had a plan to pacify Esau. However, it was not Jacob's plan that succeeded but his prayer.
+#sailhamer 
+
 #### v.24
 >So Jacob was left alone, and a **man wrestled with** him till daybreak.
 
@@ -28,7 +34,7 @@ Similar to how the Word clings onto us in [Titus 1:9](Titus1#v.9).
 #### v.26
 >Then the man said, "Let me go, for it is daybreak." But Jacob replied, "I will not let you go unless you bless me."
 
-It is evident that, as soon as he felt that he must fall, he grasped the other ‘Man’ with a kind of death-grip, and would not let him go. Now, in his weakness, he will prevail. While he was so strong, he won not the blessing; but when he became utter weakness, then did he conquer
+It is evident that, as soon as he felt that he must fall, he grasped the other ‘Man’ with a kind of death-grip, and would not let him go. Now, in his weakness, he will prevail. **While he was so strong, he won not the blessing; but when he became utter weakness, then did he conquer.**
 #spurgeon 
 
 #### v.28
