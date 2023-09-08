@@ -16,7 +16,6 @@
 The boldness with which they executed their foul plan shows the hardness of their hearts.
 #barnhouse 
 
-
 #### v.30
 >Then Jacob said to Simeon and Levi, "You have brought trouble on me by making me a stench to the Canaanites and Perizzites, the people living in this land. We are few in number, and if they join forces against me and attack me, I and my household will be destroyed."
 

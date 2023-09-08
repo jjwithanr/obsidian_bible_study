@@ -18,6 +18,9 @@ My brothers and sisters, how much moral weight you lose in the church and in the
 You shall have enough of God’s comfort to keep you alive, but not enough to give you joy in your spirit and consolation in your heart! Oh, I beseech you, ponder a little. Study the Word more—know what is right and defend what is right! Study the law more—know what is right and do what is right! Study God’s will more— know what He would have you do and then do it, for an unstable Christian never can excel!
 #spurgeon 
 
+#### v.10
+>The scepter will not depart from Judah, nor the ruler's staff from between his feet, until he comes to whom it belongs and the obedience of the nations is his.
+
 #### v.25
 >because of your father's God, who helps you, because of the Almighty, who blesses you with blessings of the heavens above, blessings of the deep that lies below, blessings of the breast and womb.
 

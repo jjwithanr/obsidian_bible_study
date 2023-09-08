@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Mark/Mark3.md",
+                "file": "New Testament/Mark/Mark4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark3.md",
+                "file": "New Testament/Mark/Mark4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Mark/Mark3.md"
+                "file": "New Testament/Mark/Mark4.md"
               }
             }
           }
@@ -137,15 +137,25 @@
   },
   "active": "3354d0af4a1ce183",
   "lastOpenFiles": [
+    "Old Testament/Genesis/Genesis36.md",
+    "Old Testament/Genesis/Genesis49.md",
+    "Old Testament/1 Samuel/1Samuel2.md",
+    "Old Testament/Deuteronomy/Deut17.md",
+    "Old Testament/Numbers/Numbers24.md",
+    "Old Testament/Genesis/Genesis35.md",
+    "Old Testament/Genesis/Genesis17.md",
+    "Old Testament/Genesis/Genesis16.md",
+    "Old Testament/Genesis/Genesis1.md",
+    "Old Testament/Genesis/Genesis34.md",
+    "Old Testament/Genesis/Genesis33.md",
+    "New Testament/Mark/Mark3.md",
     "New Testament/Mark/Mark2.md",
     "New Testament/Mark/Mark1.md",
-    "New Testament/Mark/Mark3.md",
     "Old Testament/Genesis/Genesis32.md",
     "Old Testament/Genesis/Genesis31.md",
     "Old Testament/Esther/Esther6.md",
     "Old Testament/Genesis/Genesis30.md",
     "Old Testament/Genesis/Genesis29.md",
-    "Old Testament/Genesis/Untitled.md",
     "Old Testament/Genesis/Genesis27.md",
     "Old Testament/Genesis/Genesis26.md",
     "Old Testament/Genesis/Genesis25.md",
@@ -153,16 +163,6 @@
     "Old Testament/Genesis/Genesis13.md",
     "New Testament/Acts/Acts13.md",
     "New Testament/Matthew/Matthew13.md",
-    "New Testament/Matthew/Matthew12.md",
-    "Old Testament/Genesis/Genesis11.md",
-    "Reading Journals/Perspectives/Perspectives5.md",
-    "Reading Journals/Perspectives/Perspectives10.md",
-    "New Testament/Acts/Acts3.md",
-    "New Testament/Matthew/Matthew3.md",
-    "Old Testament/Ezra/Ezra3.md",
-    "Old Testament/Jeremiah/Jeremiah33.md",
-    "Old Testament/Genesis/Genesis3.md",
-    "New Testament/Matthew/Matthew2.md",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
