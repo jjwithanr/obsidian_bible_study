@@ -1,7 +1,7 @@
 # Romans 1
 
 ## Overview:
-Law 78 times; Justification/Rightesouness 64 times; Faith 60; Sin 57; Grace 24
+Law 78 times; Justification/Righteousness 64 times; Faith 60; Sin 57; Grace 24
 Theme: The Gospel (Justification)
 Key Scripture: 1:16
 Time of Writing: 58 A.D.

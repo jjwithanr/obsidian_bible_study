@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Mark/Mark4.md",
+                "file": "New Testament/Romans/Romans1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark4.md",
+                "file": "New Testament/Romans/Romans1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Mark/Mark4.md"
+                "file": "New Testament/Romans/Romans1.md"
+              }
+            }
+          },
+          {
+            "id": "e3d3199e4f3ee994",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -137,6 +147,9 @@
   },
   "active": "3354d0af4a1ce183",
   "lastOpenFiles": [
+    "New Testament/Romans/Romans16.md",
+    "New Testament/Mark/Mark16.md",
+    "New Testament/Mark/Mark4.md",
     "Old Testament/Genesis/Genesis36.md",
     "Old Testament/Genesis/Genesis49.md",
     "Old Testament/1 Samuel/1Samuel2.md",
@@ -160,9 +173,6 @@
     "Old Testament/Genesis/Genesis26.md",
     "Old Testament/Genesis/Genesis25.md",
     "Old Testament/Genesis/Genesis19.md",
-    "Old Testament/Genesis/Genesis13.md",
-    "New Testament/Acts/Acts13.md",
-    "New Testament/Matthew/Matthew13.md",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
