@@ -14,6 +14,9 @@
 #### v.10
 >The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.
 
+The thief (in the context, unfaithful leaders; cf. v. 5) acts for his own good, not that of the flock (hungry thieves might steal sheep to eat them); a shepherd risks his life to protect his flock from animals and thieves.
+#craigkeener 
+
 #### v.11
 >"I am the good shepherd. The good shepherd lays down his life for the sheep.
 

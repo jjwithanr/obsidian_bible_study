@@ -48,6 +48,11 @@ We cannot pick and choose what aspect of God's character we accept. We must ther
 
 Also in [1 Timothy 1:6-7](1Timothy1#v.7) and [1 Timothy 6:4](1Timothy6#v.4).
 
+#### v.15
+>Do your best to present yourself to God as one approved, a workman who does not need to be ashamed and who correctly handles the word of truth.
+
+Feed people well, and they will work well, give them plenty of sound doctrine, and it will make them practical. It is not the way to make a practical people to be always talking about practice. Feed them with the manna that comes down from heaven, and with some of the honey out of the rock, and they will always be willing to strive for their Master, and to labor for His cause.
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs2589.pdf)
 
 #### v.16
 >Avoid godless chatter, because those who indulge in it will become more and more ungodly.

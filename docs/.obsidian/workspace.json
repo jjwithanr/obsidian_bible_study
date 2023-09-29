@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c22a3f74d31f920",
+        "id": "0e54a380ef905050",
         "type": "tabs",
         "children": [
           {
-            "id": "3354d0af4a1ce183",
+            "id": "e3dda6f35957ca90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Romans/Romans1.md",
+                "file": "New Testament/Luke/Luke10.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Romans/Romans1.md",
+                "file": "New Testament/Luke/Luke10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Romans/Romans1.md"
+                "file": "New Testament/Luke/Luke10.md"
               }
             }
           },
@@ -145,10 +145,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3354d0af4a1ce183",
+  "active": "e3dda6f35957ca90",
   "lastOpenFiles": [
-    "New Testament/Romans/Romans16.md",
+    "New Testament/Luke/Luke10.md",
+    "New Testament/John/John3.md",
+    "Old Testament/Psalm/Psalm131.md",
+    "New Testament/1 Corinthians/1Cor8.md",
+    "New Testament/1 Corinthians/1Cor3.md",
+    "Reading Journals/Scripture As Communication/SaC150-160.md",
+    "New Testament/2 Timothy/2Timothy2.md",
+    "Reading Journals/Scripture As Communication/SaC160-170.md",
+    "Reading Journals/Scripture As Communication/SaC170-180.md",
+    "New Testament/John/John10.md",
     "New Testament/Mark/Mark16.md",
+    "New Testament/Romans/Romans1.md",
+    "New Testament/Romans/Romans16.md",
     "New Testament/Mark/Mark4.md",
     "Old Testament/Genesis/Genesis36.md",
     "Old Testament/Genesis/Genesis49.md",
@@ -162,17 +173,6 @@
     "Old Testament/Genesis/Genesis34.md",
     "Old Testament/Genesis/Genesis33.md",
     "New Testament/Mark/Mark3.md",
-    "New Testament/Mark/Mark2.md",
-    "New Testament/Mark/Mark1.md",
-    "Old Testament/Genesis/Genesis32.md",
-    "Old Testament/Genesis/Genesis31.md",
-    "Old Testament/Esther/Esther6.md",
-    "Old Testament/Genesis/Genesis30.md",
-    "Old Testament/Genesis/Genesis29.md",
-    "Old Testament/Genesis/Genesis27.md",
-    "Old Testament/Genesis/Genesis26.md",
-    "Old Testament/Genesis/Genesis25.md",
-    "Old Testament/Genesis/Genesis19.md",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
