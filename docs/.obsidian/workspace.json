@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e54a380ef905050",
+        "id": "44e01395b68bf3cc",
         "type": "tabs",
         "children": [
           {
-            "id": "e3dda6f35957ca90",
+            "id": "73846ae147722831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Luke/Luke10.md",
+                "file": "Old Testament/Exodus/Exodus7.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Luke/Luke10.md",
+                "file": "Old Testament/Exodus/Exodus7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Luke/Luke10.md"
+                "file": "Old Testament/Exodus/Exodus7.md"
               }
             }
           },
@@ -145,8 +145,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e3dda6f35957ca90",
+  "active": "32c94e297decda11",
   "lastOpenFiles": [
+    "Old Testament/Exodus/Exodus6.md",
+    "Old Testament/Exodus/Exodus7.md",
+    "Old Testament/Exodus/Exodus4.md",
+    "Old Testament/Exodus/Exodus3.md",
+    "Old Testament/Exodus/Exodus2.md",
+    "Old Testament/Exodus/Exodus1.md",
     "New Testament/Luke/Luke10.md",
     "New Testament/John/John3.md",
     "Old Testament/Psalm/Psalm131.md",
@@ -167,12 +173,6 @@
     "Old Testament/Deuteronomy/Deut17.md",
     "Old Testament/Numbers/Numbers24.md",
     "Old Testament/Genesis/Genesis35.md",
-    "Old Testament/Genesis/Genesis17.md",
-    "Old Testament/Genesis/Genesis16.md",
-    "Old Testament/Genesis/Genesis1.md",
-    "Old Testament/Genesis/Genesis34.md",
-    "Old Testament/Genesis/Genesis33.md",
-    "New Testament/Mark/Mark3.md",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
