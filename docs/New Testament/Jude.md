@@ -94,3 +94,8 @@ Keeping us spiritually safe _is_ God’s work. But you can always tell the peopl
 It is wise to look round on the dangers and evils that tempt; it is wise to look inward to the weaknesses that may yield to the temptations. But every look on surrounding dangers, and every look at personal weakness, **ought to end in a look upwards** ‘ to Him that is able to keep’ the weakest ‘from falling’ before the assaults of the strongest foes.
 So our highest praise, and our deepest thankfulness, ought to arise, and will arise-if the possibility has become, in any measure, an actuality, in ourselves-to Him, because our experience will be that of the Psalmist who sang, ['When I said, my foot slippeth, Thy mercy, O Lord, held me up.''](Psalm94#v.18) Let us take the comfort of believing, ['He shall not fall, for the Lord is able to make him stand'](Romans14#v.4); and let us remember the expansion which another Apostle gives us when, with precision, he discriminates and says, ['Kept by the power of God through faith, unto salvation.'](1Peter1#v.4-5)
 #maclaren 
+
+With every breath I long to follow Jesus  
+For He has said that He will bring me home  
+And day by day I know He will renew me  
+Until I stand with joy before the throne

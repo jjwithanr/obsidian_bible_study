@@ -26,5 +26,15 @@ Messages:
 #### v.14
 >The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the One and Only, who came from the Father, full of grace and truth.
 
+#### v.47
+>When Jesus saw Nathaniel approaching, he said of him, "Here is a true Israelite, in whom there is nothing false."
 
+Jesus here makes a wordplay on the Old Testament Jacob, or “Israel,” who was a man of guile (Gen 27:35; 31:26); see Jn 1:51.
+#craigkeener 
+
+#### v.51
+>He then added, "I tell you the truth, you shall see heaven open, and the angels of God ascending and descending on the Son of Man."
+
+The opening of the heavens indicated a major revelation (e.g., Ezek 1:1). Jesus’ words allude to Genesis 28:12: Jesus is the new way between heaven and earth (Jacob’s ladder) on whom angels ascend and descend; like Jacob of old, this “genuine Israelite” Nathanael (Jn 1:47) would receive this new revelation.
+#craigkeener 
 
