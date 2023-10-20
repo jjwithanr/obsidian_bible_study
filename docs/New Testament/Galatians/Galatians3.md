@@ -1,4 +1,4 @@
-# Galations 3
+# Galatians 3
 
 ## Overview:
 
@@ -14,6 +14,9 @@
 
 #### v.8
 >The Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: "All nations will be blessed through you."
+
+#### v.10
+>All who rely on observing the law are under a curse, for it is written: "Cursed is everyone who does not continue to do everything written in the Book of the Law."
 
 #### v.11-12
 >Clearly no one who relies on the law is justified before God, because “the righteous will live by faith.” <sup>12</sup>The law is not based on faith; on the contrary, it says, “The person who does these things will live by them.”
