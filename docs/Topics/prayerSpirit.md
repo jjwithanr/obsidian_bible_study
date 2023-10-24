@@ -20,7 +20,7 @@ It is not clear that prayer for one another (v. 18) continues the figurative ima
 
 
 ### Spurgeon on [Jude 20](Jude#v.20)
-[Article link](https://www.spurgeongems.org/sermon/chs719.pdf)
+[Sermon link](https://www.spurgeongems.org/sermon/chs719.pdf)
 
 Faith is the first divine grace, the root of piety, the foundation of holiness, the dawn of godliness, to this must the first care be given. But we must not tarry at the first principles. Onward is our course.
 

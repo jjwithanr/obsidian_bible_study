@@ -56,7 +56,7 @@ The Gospel brings peace in the deepest sense of that word, and, primarily, peace
 
 ==🔥For, if we are warring with the devil we are at peace with God; and if we are at peace with the devil we are warring with God. So the two states of peace and war go together.== There is no real peace which has not conflict in it, and the Gospel is ‘the Gospel of peace,’ precisely because it enlists us in Christ’s army and sends us out to fight Christ’s battles.
 
-The quiet heart will be able to fling its whole strength into its work. And that is what troubled hearts never can do, for half their energy is taken up in steadying or quieting themselves, or is dissipated in going after a hundred other things. **But when we are wholly engaged in quiet fellowship with Jesus Christ we have the whole of our energies at our command, and can fling ourselves wholly into our work for Him.** The steam-engine is said to be a very imperfect machine which wastes more power than it utilises. That is true of a great many Christian people; they have the power, but they are so far away from that deep sense of tranquillity with God, of which my text speaks, that they waste much of the power that they have.
+The quiet heart will be able to fling its whole strength into its work. And that is what troubled hearts never can do, for half their energy is taken up in steadying or quieting themselves, or is dissipated in going after a hundred other things. **But when we are wholly engaged in quiet fellowship with Jesus Christ we have the whole of our energies at our command, and can fling ourselves wholly into our work for Him.** The steam-engine is said to be a very imperfect machine which wastes more power than it utilises. That is true of a great many Christian people; they have the power, but they are so far away from that deep sense of tranquility with God, of which my text speaks, that they waste much of the power that they have.
 #maclaren 
 
 Often, we misinterpret the context of what kind of peace the gospel brings. The gospel does not make our life easier or alleviate us of responsibility. It tells the good news that we can have peace with a perfect and holy God.
@@ -72,7 +72,7 @@ Because the Greek and Roman god of passion (called Eros and Cupid, respectively)
 >Take the helmet of salvation and the sword of the Spirit, which is the word of God.
 
 #### v.18
-> And pray in the Spirit on all occassions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.
+> And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.
 
 See more in [[prayerSpirit]]. See also [Jude 20](Jude#v.20).
 
