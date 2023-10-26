@@ -15,6 +15,12 @@ The text literally says that he will not leave unsatisfied "the appetite \[lit.,
 #### v.4
 >Lazy hands make a man poor, but diligent hands bring wealth.
 
+#### v.8
+>The wise in heart accept commands, but a chattering fool comes to ruin.
+
+Remember this when I get overly critical of the church. Chatting about church weaknesses in place of submission to church leadership is unwise.
+#jj 
+
 #### v.11
 >The mouth of the righteous is a fountain of life, but violence overwhelms the mouth of the wicked.
 
@@ -58,6 +64,9 @@ Moreover, what the righteous say is edifying—it enhances ("nourishes") common 
 
 #### v.23
 >A fool finds pleasure in evil conduct, but a man of understanding delights in wisdom.
+
+==🔥One's character is revealed in what one enjoys.== Evil conduct to the fool is "like sport" ("pleasure"); like child's play, it is so easy. This evil conduct is contrasted with wisdom, the delight of those who have understanding.
+#allenpross 
 
 #### v.28
 >The prospect of the righteous is joy, but the hopes of the wicked come to nothing.

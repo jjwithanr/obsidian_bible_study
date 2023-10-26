@@ -39,5 +39,3 @@
 #### v.28
 >And he said to man, 'The fear of the Lord—that is wisdom, and to shun evil is understanding.'"
 
-
-
