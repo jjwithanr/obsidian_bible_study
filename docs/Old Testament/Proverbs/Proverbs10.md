@@ -1,7 +1,7 @@
 # Proverbs 10
 
 ## Overview:
-Beginning with ch. 10 there is a notable change in the form of the material. No longer do we find the forecful admonitions to seek wisdom, the lengthy poems, or the developed pictures and personifications. Instad we find what more closely corresponds to the title "Proverbs"—a collection of independent, miscellaneous aphorisms, dealing mostly with the consequences of right or wrong actions on various topics.
+Beginning with ch.10 there is a notable change in the form of the material. No longer do we find the forceful admonitions to seek wisdom, the lengthy poems, or the developed pictures and personifications. Instead we find what more closely corresponds to the title "Proverbs"—a collection of independent, miscellaneous aphorisms, dealing mostly with the consequences of right or wrong actions on various topics.
 
 #### v.2
 >Ill-gotten treasures are of no value, but righteousness delivers from death.
