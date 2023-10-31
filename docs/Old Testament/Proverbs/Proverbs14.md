@@ -16,7 +16,7 @@ Oh, how true this is. 10/24/2022.
 #### v.6
 >The mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.
 
-Those who are serious and discerning acquire wisdom. The contrast is between the "mocker" and the "discerning" person. The former is intellectually arrogant; he lacks any serious interest in knowledge or religion. He pursues wisdom in a superficial way so that he might have the appearance of being wise.
+Those who are serious and discerning acquire wisdom. The contrast is between the "mocker" and the "discerning" person. The former is intellectually arrogant; he lacks any serious interest in knowledge or religion. **He pursues wisdom in a superficial way so that he might have the appearance of being wise.**
 #allenpross 
 
 #### v.8

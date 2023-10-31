@@ -59,6 +59,9 @@ This is the goal for a minister of Christ: to love God's people with the affecti
 The idea is, that he wished them to have intelligent affection...he wished their religion to be intelligent and discriminating; to be based on knowledge, and a proper sense of the relative value of objects, as well as to be the tender affection of the heart.
 #barnes 
 
+Concern for others should express itself first in prayer, as one recognizes the importance of the divine factor in any lasting spiritual growth. The basic petition of Paul's prayer is that his readers' love might "abound more and more." "Love" (GK 27) is an aspect of the fruit of the Spirit (Gal 5:22), enabling all other spiritual virtues to be exercised properly (1Co 13:1-3). Without it no Christian is spiritually complete (Col 3:14)... Love must be intelligent and morally discerning, however, in order to be genuine. It is based on knowledge, the intellectual perception that recognizes principles from the Word of God as illuminated by the Holy Spirit. Such spiritual knowledge enables believers to love what God commands. "Depth of insight" stresses moral perception and the practical application of knowledge to the myriad circumstances of life. Spiritual knowledge is thus no abstraction but is intended to be applied to life.
+#homerkent
+
 #### v.11
 >filled with the fruit of righteousness that comes through Jesus Christ--to the glory and praise of God.
 
@@ -68,14 +71,14 @@ Paul ends this section of encouragement with a particular goal. He wants to see 
 #### v.14
 >Because of my chains, most of the brothers in the Lord have been encouraged to speak the word of God more courageously and fearlessly.
 
-Jewish teachers allowed that serving God from impure motives was better than not serving him at all. They also unequivocally insisted, however, that those who used the \*law only for their own gain would not share in the world to come.
-#craigkeener 
-
 #### v.15
 >It is true that some preach Christ out of envy and rivalry, but others out of goodwill.
 
 It would seem most probable, though this is not mentioned, that these persons were Judaizing teachers, professing Christianity, and who supposed that Paul's views were derogatory to the honor of Moses and the Law.
 #barnes 
+
+Jewish teachers allowed that serving God from impure motives was better than not serving him at all. They also unequivocally insisted, however, that those who used the \*law only for their own gain would not share in the world to come.
+#craigkeener 
 
 #### v.17
 >The former preach Christ out of **selfish ambition**, not sincerely, supposing that they can stir up trouble for me while I am in chains.
@@ -84,7 +87,7 @@ The sense is, that he was appointed to be a defender of the gospel, and that the
 #barnes 
 
 #### v.18
->But what does it matter? The imnportant thing is that in every way, whether from false motives or true, Christ is preached. And because of this I rejoice.
+>But what does it matter? The important thing is that in every way, whether from false motives or true, Christ is preached. And because of this I rejoice.
 
 It would be better to have preachers that were better instructed, or that were more prudent, or that had purer motives, or that held a more perfect system, yet it is much in our world to have the name of the Redeemer announced in any way, and even to be told, in the most stammering manner, and from whatever motives, that man has a Saviour. **The announcement of that fact in any way may save a soul; but ignorance of it could save none.**
 #barnes 

@@ -56,7 +56,7 @@ Lord, help me.
 >An anxious heart weighs a man down, but a kind word cheers him up.
 
 #### v.26
->A righteous man is cautious in frienship, but the way of the wicked leads them astray.
+>A righteous man is cautious in friendship, but the way of the wicked leads them astray.
 
 #### v.27
 >The lazy man who does not roast his game, but the diligent man prizes his possessions.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "44e01395b68bf3cc",
+        "id": "39fb6c20fb494b24",
         "type": "tabs",
         "children": [
           {
-            "id": "73846ae147722831",
+            "id": "fc87e0e2b8848da7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC210-220.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC210-220.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reading Journals/Scripture As Communication/SaC210-220.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,11 +138,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "73846ae147722831",
+  "active": "fc87e0e2b8848da7",
   "lastOpenFiles": [
-    "New Testament/John/John14.md",
-    "Reading Journals/Scripture As Communication/SaC210-220.md",
+    "Reading Journals/Scripture As Communication/Untitled.md",
+    "Old Testament/Proverbs/Proverbs15.md",
     "Old Testament/Proverbs/Proverbs10.md",
+    "Old Testament/Proverbs/Proverbs11.md",
+    "Old Testament/Proverbs/Proverbs12.md",
+    "Old Testament/Proverbs/Proverbs13.md",
+    "New Testament/Philippians/Philippians1.md",
+    "New Testament/John/John17.md",
+    "New Testament/Philippians/Philippians3.md",
+    "Old Testament/Exodus/Exodus33.md",
+    "Old Testament/Proverbs/Proverbs14.md",
+    "New Testament/John/John15.md",
+    "Reading Journals/Scripture As Communication/SaC210-220.md",
+    "New Testament/John/John14.md",
     "Old Testament/Job/Job38.md",
     "Old Testament/Job/Job41.md",
     "Old Testament/Job/Job28.md",
@@ -157,22 +161,11 @@
     "New Testament/John/John13.md",
     "Old Testament/Exodus/Exodus24.md",
     "Old Testament/Exodus/Exodus23.md",
-    "Old Testament/Exodus/Exodus33.md",
     "New Testament/3John.md",
     "New Testament/2John.md",
     "New Testament/1 Corinthians/1Cor1.md",
     "Old Testament/Isaiah/Isaiah59.md",
     "Old Testament/Ezekiel/Ezekiel36.md",
-    "Reading Journals/Perspectives/Perspectives7.md",
-    "Old Testament/Isaiah/Isaiah29.md",
-    "New Testament/Mark/Mark16.md",
-    "Old Testament/Psalm/Psalm110.md",
-    "Reading Journals/Scripture As Communication/Sac200-210.md",
-    "Reading Journals/Scripture As Communication/SaC140-150.md",
-    "New Testament/Ephesians/Ephesians6.md",
-    "Topics/prayerSpirit.md",
-    "New Testament/John/John7.md",
-    "New Testament/Galatians/Galatians3.md",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",
