@@ -5,10 +5,13 @@ This chapter contains the qualifications for church elders and deacons. Much scr
 
 
 #### v.2
->Now the overseer must be above reprorach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, **able to teach**
+>Now the overseer must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, **able to teach**
 
 P.D. believes that every elder should have the gift of teaching. The modern criticism he's heard from the Korean church is that today's pastors operate in the Bible's description for elders and elders for deacons.
 #jj 
+
+#### v.7
+>He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil's trap.
 
 #### v.9
 >holding the mystery of the faith in a pure conscience.

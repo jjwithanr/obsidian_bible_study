@@ -2,6 +2,7 @@
 
 ## Overview:
 
+
 #### v.1
 >Since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, perfecting holiness out of reverence for God.
 

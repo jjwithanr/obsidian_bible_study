@@ -3,7 +3,7 @@
 ## Overview:
 Theme: Faith and Works
 Faith 16 times; Works 16 times; Law 10 times
-Key Scripture: [2:17](James2#v.17)
+Key Scripture: [2:17](James2.md#v.17)
 Time of Writing: 40-50 A.D. (first New Testament book ever written?)
 
 Chapter 1:1-21 → Faith Tested and Shown by our Temptations

@@ -44,7 +44,7 @@ Pages 803-1047
 1. A key difference between Protestantism and Catholicism is their definition of justification. Protestants believe justification does not change us internally and not a declaration of any goodness in us. Christ's righteousness is imputed onto us and we are counted righteous before God through faith alone in Christ as our Savior. Catholics believed in infused righteousness where God puts righteousness into us that changes us internally for our moral character.
 1. The Catechism of the Catholic Church admits "so-called fiducial faith is not enough" and that a "theological or dogmatic" faith (teachings of the Catholic Church) is needed as well.
 1. Faith does not earn us justification—it is the instrument through which we receive it.
-2. [James 2:24](James2#v.24) uses the word righteous to mean "demonstrate or show to be righteous" rather than "declare to be righteous." We demonstrate that we have been declared our righteous by our actions.
+2. [James 2:24](James2.md#v.24) uses the word righteous to mean "demonstrate or show to be righteous" rather than "declare to be righteous." We demonstrate that we have been declared our righteous by our actions.
 3. The major flaw of the New Perspective on Paul is its redefinition of justification as God's declaration that we a part of the family of God. Grudem's main point is that nowhere in the Greek or in Paul's usage of the word indicate he meant justify to mean "to declare someone to part of a community."
 4. Angels are spiritually alive beings who do not share the special privileges of family members in God's household.
 

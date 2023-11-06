@@ -36,7 +36,7 @@ And, lastly, what think some of you, would angels say of _your_ walk and conve
 #### v.13
 >I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.
 
-I struggled so much with discouragement while leading house church and house of prayer. Attedance and engagement were low. The fruit wasn't tangible. I would fuss over how any of my weaknesses in leadership hindered the night from being more engaging. But when I see Christ's suffering, I hear his command to not lose heart. Trials and tribulations are part of sanctification: I just needed to be steadfast and sow in spirit for at the proper time we will reap a harvest **if we do not give up**. 
+I struggled so much with discouragement while leading house church and house of prayer. Attendance and engagement were low. The fruit wasn't tangible. I would fuss over how any of my weaknesses in leadership hindered the night from being more engaging. But when I see Christ's suffering, I hear his command to not lose heart. Trials and tribulations are part of sanctification: I just needed to be steadfast and sow in spirit for at the proper time we will reap a harvest **if we do not give up**. 
 #jj 
 
 #### v.15

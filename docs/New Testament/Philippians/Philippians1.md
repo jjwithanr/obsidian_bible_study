@@ -35,7 +35,7 @@ What a blessing it is have people in your life that can evoke a thankfulness and
 To commend a child when he does well, may be as important, and as much a duty, as to rebuke him when he does ill. God is as careful to commend his people when they do well, as he is to rebuke them when they do wrong - and that parent, teacher, or pastor, has much mistaken the path of wisdom, who supposes it to be his duty always to find fault.
 #barnes 
 
-The term translated “participation” (nasb) or “partnership” (niv) was often used in an economic sense for those who “share” (cf. nrsv) monetarily. Here it includes the financial help the Philippians have given (4:10-20).
+The term translated “participation” (nasb) or “partnership” (niv) was often used in an economic sense for those who “share” (cf. nrsv) monetarily. Here it includes the financial help the Philippians have given ([4:10-20](Philippians4)).
 #craigkeener 
 
 #### v.6
@@ -59,13 +59,13 @@ This is the goal for a minister of Christ: to love God's people with the affecti
 The idea is, that he wished them to have intelligent affection...he wished their religion to be intelligent and discriminating; to be based on knowledge, and a proper sense of the relative value of objects, as well as to be the tender affection of the heart.
 #barnes 
 
-Concern for others should express itself first in prayer, as one recognizes the importance of the divine factor in any lasting spiritual growth. The basic petition of Paul's prayer is that his readers' love might "abound more and more." "Love" (GK 27) is an aspect of the fruit of the Spirit (Gal 5:22), enabling all other spiritual virtues to be exercised properly (1Co 13:1-3). Without it no Christian is spiritually complete (Col 3:14)... Love must be intelligent and morally discerning, however, in order to be genuine. It is based on knowledge, the intellectual perception that recognizes principles from the Word of God as illuminated by the Holy Spirit. Such spiritual knowledge enables believers to love what God commands. "Depth of insight" stresses moral perception and the practical application of knowledge to the myriad circumstances of life. Spiritual knowledge is thus no abstraction but is intended to be applied to life.
+Concern for others should express itself first in prayer, as one recognizes the importance of the divine factor in any lasting spiritual growth. The basic petition of Paul's prayer is that his readers' love might "abound more and more." "Love" (GK 27) is an aspect of the fruit of the Spirit ([Gal 5:22](Galatians5#v.22-23)), enabling all other spiritual virtues to be exercised properly ([1Co 13:1-3](1Cor13#v.1)). Without it no Christian is spiritually complete ([Col 3:14](Colossians3#v.14))... Love must be intelligent and morally discerning, however, in order to be genuine. It is based on knowledge, the intellectual perception that recognizes principles from the Word of God as illuminated by the Holy Spirit. Such spiritual knowledge enables believers to love what God commands. "Depth of insight" stresses moral perception and the practical application of knowledge to the myriad circumstances of life. Spiritual knowledge is thus no abstraction but is intended to be applied to life.
 #homerkent
 
 #### v.11
 >filled with the fruit of righteousness that comes through Jesus Christ--to the glory and praise of God.
 
-Paul ends this section of encouragement with a particular goal. He wants to see the Philippian believers overflowing with the results of a Christ-filled life. For as generous and giving as they had been (Philippians 1:5), there were even greater levels of blessing available to them. These are not blessings "paid for" by good works, but the personal, spiritual benefits associated with Godly living. Paul will mention "righteousness" three more times in this letter (Philippians 3:6, 9). True righteousness comes not from works, but from God, and depends on faith (Philippians 3:9).
+Paul ends this section of encouragement with a particular goal. He wants to see the Philippian believers overflowing with the results of a Christ-filled life. For as generous and giving as they had been (Philippians 1:5), there were even greater levels of blessing available to them. These are not blessings "paid for" by good works, but the personal, spiritual benefits associated with Godly living. Paul will mention "righteousness" three more times in this letter ([Philippians 3:6](Philippians3#v.6), 9). True righteousness comes not from works, but from God, and depends on faith ([Philippians 3:9](Philippians3#v.8-9)).
 #bibleref 
 
 #### v.14
@@ -95,7 +95,7 @@ It would be better to have preachers that were better instructed, or that were m
 #### v.21
 >For to me, to live is Christ and to die is gain.
 
-These words are also important when discussing what happens to a believer's soul upon death. Some have argued that "soul sleep" is possible. This is the view that the believer's soul enters a state of unawareness, and does not go to heaven with the Lord until the future judgment. This verse shows the false nature of this teaching. Paul clearly states his expectation to be with Christ the moment his life on earth ends. This is a view also reflected by Jesus when He told the thief on the cross he would be in paradise with Him "today" (Luke 23:43).
+These words are also important when discussing what happens to a believer's soul upon death. Some have argued that "soul sleep" is possible. This is the view that the believer's soul enters a state of unawareness, and does not go to heaven with the Lord until the future judgment. This verse shows the false nature of this teaching. Paul clearly states his expectation to be with Christ the moment his life on earth ends. This is a view also reflected by Jesus when He told the thief on the cross he would be in paradise with Him "today" ([Luke 23:43](Luke23#v.43)).
 #bibleref 
 
 #### v.26
@@ -121,7 +121,7 @@ It is a privilege thus to suffer in the cause of Christ:
 (4) because it will be connected with a brighter crown and more exalted honor in heaven.
 #barnes 
 
-His readers had likely already faced some persecution, and may have wondered why they had to suffer if they were faithfully living for God. Paul makes it clear that godliness and suffering often go together. There are times when we suffer, at the hands of the world, because we are following the will of God. The world hates the gospel, and it will naturally try to stamp it out (John 16:1–4). Second Timothy 3:12 says, "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted."
+His readers had likely already faced some persecution, and may have wondered why they had to suffer if they were faithfully living for God. Paul makes it clear that godliness and suffering often go together. There are times when we suffer, at the hands of the world, because we are following the will of God. The world hates the gospel, and it will naturally try to stamp it out ([John 16:1–4](John16#v.3)). [Second Timothy 3:12](2Tim3#v.12) says, "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted."
 #bibleref 
 
 See more in [[suffering]].

@@ -63,6 +63,9 @@ Good encouragement to evangelists. We are to expect many to oppose the truth. Se
 Paul here employs Jewish tradition not found in the \*Old Testament. In a widespread Jewish tradition (various elements appear in \*Pseudo-Philo, the \*Dead Sea Scrolls, \*rabbis, etc.), Jannes and his brother Jambres were Pharaoh’s magicians who opposed Moses in Exodus 7:11. Even pagan accounts (Pliny the Elder and \*Apuleius) record them as magicians of Moses’ time (presumably dependent on Jewish tradition). Because Paul’s opponents appeal to Jewish myths (1 Tim 1:4; 2 Tim 4:4; Tit 1:14), Paul cites such stories to fill in the names for these characters.
 #craigkeener 
 
+#### v.11
+>persecutions, sufferings—what kinds of things happened to me in Antioch, Iconium and Lystra, the persecutions I endured. Yet the Lord rescued me from all of them.
+
 #### v.12
 > In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,
 

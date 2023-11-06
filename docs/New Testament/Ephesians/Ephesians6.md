@@ -24,7 +24,7 @@ We render acceptable service to God when, from regard to his will, we perform th
 >Serve wholeheartedly, as if you were serving the Lord, not men, <sup>8</sup>because you know what the Lord will reward everyone for whatever good he does, whether he is slave or free.
 
 #### v.9
->And masters, treat your slaves inthe same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him.
+>And masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him.
 
 See [[6Church#2022-08-16 22 33 Pages 1160-1200]] for other references to slavery in the Bible.
 
@@ -37,7 +37,7 @@ In the day of battle, Roman soldiers were to stand their ground, not retreat. As
 #### v.12
 >For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 
-Some people in the Old Testament learned that the nature of their battle was spiritual (cf. Gen 32:22-32; Dan 10:10-21), although in both Daniel and Paul the battle was fought by prayerfully submitting to God and doing his will, not by directly addressing the hostile powers in the heavens (Dan 10:12-13, 21).
+Some people in the Old Testament learned that the nature of their battle was spiritual (cf. [Gen 32:22-32](Genesis32); [Dan 10:10-21](Daniel10)), although in both Daniel and Paul the battle was fought by prayerfully submitting to God and doing his will, not by directly addressing the hostile powers in the heavens [(Dan 10:12-13](Daniel10#v.12,  21).
 #craigkeener 
 
 #### v.13
@@ -49,7 +49,7 @@ Some people in the Old Testament learned that the nature of their battle was spi
 #### v.15
 >and with your feet fitted with the readiness that comes from the gospel of peace.
 
-Paul takes the image especially from the herald of Isaiah 52:7 who announces good news: sharing the message of \*Christ advances God’s army against the enemy’s position.
+Paul takes the image especially from the herald of [Isaiah 52:7](Isaiah52#v.7) who announces good news: sharing the message of \*Christ advances God’s army against the enemy’s position.
 #craigkeener 
 
 The Gospel brings peace in the deepest sense of that word, and, primarily, peace with God, from out of which all other kinds of tranquillity and heart-repose do come-and they come from nothing besides.
@@ -65,7 +65,7 @@ Often, we misinterpret the context of what kind of peace the gospel brings. The 
 #### v.16
 >In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.
 
-Because the Greek and Roman god of passion (called Eros and Cupid, respectively) was said to strike with flaming arrows, some of Paul’s readers may have thought specifically of the temptation of sexual desire in this verse, although Paul probably intended the image to cover more than that danger (cf. Ps 11:2; 57:4; 58:3-7; 64:3; perhaps 120:1-4; Prov 25:18).
+Because the Greek and Roman god of passion (called Eros and Cupid, respectively) was said to strike with flaming arrows, some of Paul’s readers may have thought specifically of the temptation of sexual desire in this verse, although Paul probably intended the image to cover more than that danger (cf. [Ps 11:2](Psalm11#v.2); [57:4](Psalm57#v.4); [58:3-7](Psalm58#v.3); [64:3](Psalm64#v.3); perhaps [120:1-4](Psalm120#v.4); [Prov 25:18](Proverbs25#v.18)).
 #craigkeener 
 
 #### v.17

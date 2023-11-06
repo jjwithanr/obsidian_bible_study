@@ -7,7 +7,7 @@
 #### v.2
 >for you know very well that the day of the Lord will come like a thief in the night.
 
-His coming comes as sneakliy as the end of our short lives ([James 4:14](James4#v.14)).
+His coming comes as sneakliy as the end of our short lives ([James 4:14](James4.md#v.14)).
 #jj 
 
 #### v.6

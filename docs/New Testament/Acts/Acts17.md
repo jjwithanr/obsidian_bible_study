@@ -42,5 +42,3 @@ The first ("For in him we live and move and have our being") comes from the Cret
 The dead cannot judge. They are dead. Jesus is the only one who has experienced death and now lives forever. He is the firstfruit of the resurrection.
 #jj 
 
-
-

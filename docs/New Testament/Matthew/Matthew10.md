@@ -12,6 +12,9 @@ they were not to sell their favors of healing, preaching, etc. They were not to 
 Although Jesus had all the authority to expect his disciples to obey his command, he offers a reason. You have freely received my ministry so do not offer yours for any charge. I used to give this advice to those in college who had a hard time accepting someone paying for their meal or hangout. If they do not freely receive this gift, they will have no reason outside of sheer obedience to freely give in the future.
 #jj 
 
+#### v.16
+>I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.
+
 #### v.23
 >When you are persecuted in one place, flee to another. I tell you the truth, you will not finish going through the cities of Israel before the Son of Man comes.
 

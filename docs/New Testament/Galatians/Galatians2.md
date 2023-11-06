@@ -9,7 +9,6 @@
 #### v.6
 >As for those who seemed to be important--whatever they were makes no difference to me; God does not judge by external appearance--those men added nothing to my message.
 
-
 #### v.7
 >On the contrary, they saw that I had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been to the Jews.
 
@@ -21,7 +20,6 @@
 
 #### v.19
 >For through the law I died to the law so that I might live for God.
-
 
 #### v.20
 >I have been crucified with Christ and I no longer live, but Christ lives in me. The life I live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
@@ -36,11 +34,9 @@ So the juices of the vine are in each branch, and leaf, and tendril, and live in
 There is no higher sense of obligation than that which is felt toward the Saviour; and Paul felt himself bound, as we should, to live entirely to him who had redeemed him by his blood.
 #barnes 
 
-What does it mean to be "in Christ"? It means to be so united to Christ that all the experiences of Christ become the Christian's experiences. Thus, his death fo rsin was the believer's death; his resurrection was (in one sense) the believer's resurrection; his ascension was the believer's ascension, so that the believer is (again in one sense) seated with Christ "in the heavenly realms" (Eph 2:6) When one died with Christ, one's "old self" (cf. Eph 4:25) died with Christ. This was arranged by God so that Christ, rather than the old Paul, might live in him.
+What does it mean to be "in Christ"? It means to be so united to Christ that all the experiences of Christ become the Christian's experiences. Thus, his death for sin was the believer's death; his resurrection was (in one sense) the believer's resurrection; his ascension was the believer's ascension, so that the believer is (again in one sense) seated with Christ "in the heavenly realms" ([Eph 2:6](Ephesians2#v.6)) When one died with Christ, one's "old self" (cf. [Eph 4:25](Ephesians4#v.25)) died with Christ. This was arranged by God so that Christ, rather than the old Paul, might live in him.
 #jamesboice
 
 #### v.21
 >I do not set aside the grace of God, for if righteousness could be gained through the law, Christ died for nothing!"
-
-
 

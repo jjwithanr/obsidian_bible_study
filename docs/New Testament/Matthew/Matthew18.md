@@ -10,6 +10,9 @@ See more in [[motives#Barnes on Matthew 18 Matthew18]]
 #### v.4
 >Therefore, whoever humbles himself like this child is the greatest in the kingdom of heaven.
 
+#### v.8-9
+>If your hand or your foot causes you to sin cut it off and throw it away. It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire. <sup>9</sup>And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.
+
 #### v.10
 >"See that you do no look down on one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
 

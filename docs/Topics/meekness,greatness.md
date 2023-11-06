@@ -8,7 +8,7 @@ That terrible zone of confusion so evident in the whole life of the Christian co
 #tozer #godspursuitofman
 
 
-### Spurgeon on [James 3:12](James3#v.12)
+### Spurgeon on [James 3:12](James3.md#v.12)
 [Sermon link](https://www.spurgeongems.org/sermon/chs3226.pdf)
 
 So it is in the church of God, all true believers are members of the mystical body of Christ, but all the members have not the same office. It would be very foolish if any one member of the body were to attempt to perform the work of all the organs of the body, or indeed, of any one beside its own. The best thing is for the eye to see, and let the ear do the hearing; for the ear to hear, and let the mouth do the speaking; for the feet to carry the body wherever the brain directs, and for the hands to perform their own special handicraft, and not to usurp the office of the organs of locomotion.
@@ -33,7 +33,7 @@ The church of Philadelphia is commended for keeping the Word of the Lord and not
 #barnhouse
 
 
-### Spurgeon on [Psam 131:2](Psalm131#v.2)
+### Spurgeon on [Psalm 131:2](Psalm131#v.2)
 [Sermon](https://www.spurgeongems.org/sermon/chs1210.pdf)
 Baruch had been writing the roll for the prophet, and straightway Baruch thought he was somebody. He had been writing the word of the Lord, had he not? But the prophet said to him, “Seek you great things for yourself? Seek them not.” And so says the mind of the Spirit to us all. **Do not desire to occupy positions of eminence and prominence, but let your soul be as a weaned child—not exercising itself in great matters.**
 

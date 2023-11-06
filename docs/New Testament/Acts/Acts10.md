@@ -22,13 +22,13 @@ It should be remembered, however, that Cornelius was not depending on external m
 >As Peter entered the house, Cornelius met him and fell at his feet in reverence.
 
 #### v.26
->But Peter made him gte up. "Stand up," he said, "I am only a man myself."
+>But Peter made him get up. "Stand up," he said, "I am only a man myself."
 
 Similar sentiment to his greeting in [2 Peter 1:1](2Peter1#v.1).
 
-Another time that I remember the Spirit illuminating Scripture to me. Peter has the humility as an apostle and leader in the early church to ensure that believers did not put him or his faith on pedastol.
+Another time that I remember the Spirit illuminating Scripture to me. Peter has the humility as an apostle and leader in the early church to ensure that believers did not put him or his faith on pedestal.
 
-Greco-Roman paganism believed not only in gods but in semidivine men, often sons of the gods, who had supernatural powers (14:11; 28:6; cf. 12:22-23). One would offer obeisance to gods by falling at their feet and worshiping them, as Cornelius does to Peter here. Cornelius should know better (10:2) than to treat Peter with such reverence; perhaps he intends only a special form of homage (as was customary for Eastern rulers), which a servant of Jesus finds inappropriate (cf. Lk 22:25-27). Even Greeks considered it hubris for a mortal to accept worship, and respected those who declined divine honors. Yet people often fell at others’ feet or sometimes grasped their knees (an ancient Greek approach) to beg for mercy or an essential request.
+Greco-Roman paganism believed not only in gods but in semidivine men, often sons of the gods, who had supernatural powers ([14:11](Acts14#v.11); [28:6](Acts28#v.); cf. [12:22-23](Acts12#v.22-23)). One would offer obeisance to gods by falling at their feet and worshiping them, as Cornelius does to Peter here. Cornelius should know better ([10:2](Acts10#v.2)) than to treat Peter with such reverence; perhaps he intends only a special form of homage (as was customary for Eastern rulers), which a servant of Jesus finds inappropriate (cf. Lk 22:25-27). Even Greeks considered it hubris for a mortal to accept worship, and respected those who declined divine honors. Yet people often fell at others’ feet or sometimes grasped their knees (an ancient Greek approach) to beg for mercy or an essential request.
 #craigkeener 
 
 #### v.44

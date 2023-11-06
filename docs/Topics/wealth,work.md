@@ -31,11 +31,11 @@ Many think the main reason for giving unto the Lord is because the church needs 
 If you do not give of your material things to the Lord’s work, how will you be storing up for *yourself* a good foundation for the time to come? How will you lay hold on eternal life? Will there not be some – perhaps many – who do not enter heaven because their heart was really far more comfortable here on earth with its material rewards?
 #enduringword 
 
-### Hard Sayings of the Bible on [James 4:4](James4#v.4)
+### Hard Sayings of the Bible on [James 4:4](James4.md#v.4)
 Can one have a career and serve God? James's answer is no. The career or vocation of every Christian is to serve God. One might serve God *within* a given career, but the career must not be where one's heart is invested if the person is indeed serving God (and not God's enemy).
 #hardsayingsofthebible 
 
-### Spurgeon on [James 5:7-8](James5#v.7-8)
+### Spurgeon on [James 5:7-8](James5.md#v.7-8)
 [Sermon link](https://www.spurgeongems.org/sermon/chs1025.pdf)
 We look up to God. **He will not accept the look of a sluggard**. The eye that look up to God must be attended with the hands that is ready for work. So if I suffer, and expect the blessing for the suffering, I must spend solitary hours in my chamber seeking and searching. To wit, seeking in prayer, and searching God’s Word for the blessing. If I am a worker, I must look to God for the result, but then I must also use all the means. **In fact, the Christian should work as if all depended upon him and pray as if it all depended upon God.**
 #spurgeon 

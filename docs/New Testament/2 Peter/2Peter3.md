@@ -56,7 +56,7 @@ But you will remark that our text does not say anything about grace growing; it 
 No one becomes eminently pious, any more than one becomes eminently learned or rich, who does not intend to; and ordinarily men in religion are what they design to be. **They have about as much religion as they wish, and possess about the character which they intend to possess.** When men reach extraordinary elevations in religion, like Baxter, Payson, and Edwards, they have gained only what they meant to gain; and the gay and worldly professors of religion who have little comfort and peace, have in fact the characters which they designed to have. If these things are so, then we may see the propriety of the injunction “to grow in grace;” and then too we may see the reason why so feeble attainments are made in piety by the great mass of those who profess religion.
 #barnes 
 
-similar sentiment to [James 4:6](James4#v.6)
+similar sentiment to [James 4:6](James4.md#v.6)
 
 See knowledge in [Philippians 3:8](Philippians3#v.8-9) and [Colossians 1:10](Colossians1#v.10).
 

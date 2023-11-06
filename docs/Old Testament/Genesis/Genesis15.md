@@ -17,7 +17,7 @@ As he had commanded him to view the land, and see in its dust the emblem of the 
 #### v.6
 >Abram believed the Lord, and he credited it to him as righteousness.
 
-The faith that made Abram righteous wasn’t so much believing _in_ God (as we usually speak of believing in God), as it was _believing God_. Those who only believe _in_ God (in the sense of believing He exists) are merely on the same level as demons ([James 2:19](James2#v.19)).
+The faith that made Abram righteous wasn’t so much believing _in_ God (as we usually speak of believing in God), as it was _believing God_. Those who only believe _in_ God (in the sense of believing He exists) are merely on the same level as demons ([James 2:19](James2.md#v.19)).
 #enduringword 
 
 #### v.16

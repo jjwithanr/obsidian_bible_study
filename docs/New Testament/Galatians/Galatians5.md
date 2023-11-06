@@ -18,7 +18,7 @@ Similar to [1 Corinthians 15:56](1Cor15#v.56).
 >But by faith we eagerly await through the Spirit the righteousness for which we hope.
 
 #### v.6
->For in Christ Jesus neither circumcision nor noncircumcision has any value. The only thing that counts is faith expressing itself through love.
+>For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love.
 
 A mere intellectual assent to the truth may leave the heart cold and unaffected; mere orthodoxy, however bold and self-confident, and "sound," may not be inconsistent with contentions, and strifes, and logomachies, and divisions. **The true faith is that which is seen in benevolence, in love to God, in love to all who bear the Christian name; in a readiness to do good to all mankind.** This shows that the heart is affected by the faith that is held; and this is the nature and design of all genuine religion. Tyndale renders this, "faith, which by love is mighty in operation."
 #barnes 
@@ -54,6 +54,9 @@ Let us learn the one condition of victorious conflict, the one means of subduing
 
 #### v.18
 >But if you are led by the Spirit, you are not under the law.
+
+#### v.19
+>The acts of the sinful nature are obvious: sexual immorality, impurity and debauchery;
 
 #### v.20
 >But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.

@@ -6,7 +6,7 @@
 
 [Jeremiah 29:10-14](Jeremiah29)
 
-[James 1:20](James1#v.20)
+[James 1:20](James1.md#v.20)
 
 
 ### Intro

@@ -10,7 +10,7 @@ As in 3:6, the problem is not the law but that the righteousness is Paul’s own
 #craigkeener
 
 
-### Spurgeon on [James 5:7-8](James5#v.7-8)
+### Spurgeon on [James 5:7-8](James5.md#v.7-8)
 [Sermon link](https://www.spurgeongems.org/sermon/chs1025.pdf)
 With regard to the result of Christian obedience, the lesson is no less striking. The first thing that a farmer does by way of seeking gain on his farm is to make a sacrifice which could seem immediately to entail on him a loss. He has some good wheat in the granary, and he takes out sacks full of it and buries it. He is so much the poorer, is he not? At any rate, there is so much the less to make bread for his household. He cannot get it again. It is under the clods, and there it must die, for except it die, it brings not forth fruit.
 

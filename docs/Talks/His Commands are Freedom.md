@@ -4,7 +4,7 @@
 ## Scriptures
 [Matthew 11:20-30](Matthew12.md)
 
-[James 1:25](James1#v.25) along with [Hebrews 11:6](Hebrews11#v.6)
+[James 1:25](James1.md#v.25) along with [Hebrews 11:6](Hebrews11#v.6)
 
 [1 John 5:1-5](1John5#v.3)
 

@@ -11,11 +11,8 @@ Oh, my dear sister, it is a wonderful thing to be really one with a risen and ex
 
 
 #### v.12
->
+>For if the willingness is there, the gift is acceptable according to what one has, not according to what he does not have.
 
 #### v.13
->
-
-
-
+>Our desire is not that others might be relieved while you are hard pressed, but that there might be equality.
 

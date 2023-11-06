@@ -36,6 +36,9 @@ YouTube.
 Verse 17 advises moderation in visiting others. We should not wear out our welcome with frequent visits. The motivation for the warning is that familiarity breeds contempt.
 #allenpross 
 
+#### v.18
+>Like a club or a sword or a sharp arrow is the man who gives false testimony against his neighbor.
+
 #### v.20
 >Like one who takes away a garment on a cold day, or like vinegar poured on soda, is one who sings songs to a heavy heart.
 

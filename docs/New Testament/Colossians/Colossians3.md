@@ -33,7 +33,7 @@ The sweetest part, if one may speak of one part being sweeter than another, is t
 #### v.5
 >Put to death therefore whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.
 
-Now we are charged to "put to death" (GK 3739; lit,. "to make dead") the old life in everyday practice. This verb suggests that we must not simply suppress or control evil acts and attitudes; rather, we are to wipe them out and completely exterminate the old way of life. The verb also suggests that we must do so in a vigorous, possibly painful act of personal determination (cf. the principle taught in Mt 18:8-9).
+Now we are charged to "put to death" (GK 3739; lit,. "to make dead") the old life in everyday practice. This verb suggests that we must not simply suppress or control evil acts and attitudes; rather, we are to wipe them out and completely exterminate the old way of life. The verb also suggests that we must do so in a vigorous, possibly painful act of personal determination (cf. the principle taught in [Mt 18:8-9](Matthew18#v.8-9)).
 
 #### v.6
 >Because of these, the wrath of God is coming.
@@ -41,7 +41,7 @@ Now we are charged to "put to death" (GK 3739; lit,. "to make dead") the old lif
 #### v.8
 >But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.
 
-The Christian must be very aware of the words that come out of their mouths. Speech and conduct is to be watched closely ([James 3:6](James3#v.6), [Proverbs 10:19](Proverbs10#v.19), etc.)
+The Christian must be very aware of the words that come out of their mouths. Speech and conduct is to be watched closely ([James 3:6](James3.md#v.6), [Proverbs 10:19](Proverbs10#v.19), etc.)
 
 #### v.10
 >and have put on the new self, which is being renewed in knowledge in the image of its Creator.
@@ -52,10 +52,10 @@ But especially had he that knowledge which is the fear of the Lord; that knowled
 #### v.12
 >Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.
 
-This is how we become dressed in the white garments of Revelation 3:5. Here's the secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed!
+This is how we become dressed in the white garments of [Revelation 3:5](Revelation3#v.5). Here's the secret: When we realized we're clothed in the very garments of Christ, our confidence level before God soars to the heavens. Satan's accusations cannot lodge within us, and they just bounce off our shield of faith. We are accepted by the Father, and now we can enjoy the peaceful dialogue of intimacy with Jesus. Hit with accusation? Get dressed!
 #bobsorge 
 
-"Humility" (GK 5425) and "gentleness" (GK 4559), which are related terms, were not considered virtues by the pagan world. The NT, however deepened and enriched their meanings and made them two of the noblest of Christian graces. Humility denotes a humble disposition (cf. Php 2:4-8). Gentleness is the opposite of pride and self-assertiveness and is the special mark of the one who has a delicate consideration for the rights and feeling of others. It is a characteristic of Christ (Mt 11:29), a fruit of the Spirit (Gal 5:23), and a distinctive trait of those who belong to Christ (Mt 5:5).
+"Humility" (GK 5425) and "gentleness" (GK 4559), which are related terms, were not considered virtues by the pagan world. The NT, however deepened and enriched their meanings and made them two of the noblest of Christian graces. Humility denotes a humble disposition (cf. [Php 2:4-8](Philippians2#v.4)). Gentleness is the opposite of pride and self-assertiveness and is the special mark of the one who has a delicate consideration for the rights and feeling of others. It is a characteristic of Christ ([Mt 11:29](Matthew11#v.28-30)), a fruit of the Spirit ([Gal 5:23](Galatians5#v.22-23)), and a distinctive trait of those who belong to Christ ([Mt 5:5](Matthew5#v.5)).
 #curtisvaughun 
 
 #### v.13
@@ -73,7 +73,7 @@ Preside in your hearts; sit as umpire there (Doddridge); govern and control you.
 #### v.16
 >Let the word of Christ dwell in you richly as you teach and admonish one another with all wisdom, and as you sing psalms, hymns, and spiritual songs with gratitude in your hearts to God.
 
-Whereas Ephesians 5:18-19 emphasizes the Spirit in worship, Paul in Colossians is **concerned with erring persons who have not recognized the full sufficiency of Christ;** he thus emphasizes the “word of Christ” here. On the worship, see comment on Ephesians 5:19
+Whereas [Ephesians 5:18-19](Ephesians5#v.18) emphasizes the Spirit in worship, Paul in Colossians is **concerned with erring persons who have not recognized the full sufficiency of Christ;** he thus emphasizes the “word of Christ” here.
 #craigkeener 
 
 We need sound theology when we worship God.
@@ -85,6 +85,19 @@ We need sound theology when we worship God.
 When I started using my phone during my internship, I got convicted that my work ethic isn't invisible to God in non-spiritual contexts. No, we are to do everything in the name of Jesus always giving thanks.
 #jj struggle is real.
 
+#### v.21
+>Fathers, do not embitter your children, or they will become discouraged.
+
+The image is of an overbearing disciplinarian who constantly corrects and rebukes a child for every little mistake or perceived wrong. Such a father will provoke his children.  
+The Greek word translated “discouraged” is found only here in the New Testament. It speaks of becoming disheartened or “losing spirit.” According to _A Handbook on Paul’s Letters to the Colossians and to Philemon_, such a discouraged child will close down his heart and hide inside himself. “The child feels that he can never do anything right and so gives up trying” (Bratcher, R., & Nida, E., United Bible Societies, 1993, p. 94).
+#gotquestions 
+
+They should not be so praised as to make them vain and proud, but they should be commended when they do well. The desire of praise should not be the principle from which they should be taught to act, but they should feel that the approbation of parents is a desirable thing, and when they act so as to deserve that approbation, no injury is done them by their understanding it. He who always finds fault with a child; who is never satisfied with what he does; who scolds and frets and complains, let him do as he will, breaks his spirit, and soon destroys in the delicate texture of his soul all desire of doing well. The child in despair soon gives over every effort to please. He becomes sullen, morose, stupid, and indifferent to all the motives that can be presented to him, and becomes to a great extent indifferent as to what he does - since all that he does meets with the same reception from the parent.
+#barnes 
+
+Lord, correct my view of you. I have often viewed you as a disciplinarian due to my awareness of how often I fall short. Father, fill me with your Holy Spirit that I may have the knowledge of your will.
+#jj 11/5/2023
+
 #### v.23
 >Whatever you do, work at it with all your heart, as working for the Lord, not for men,
 
@@ -94,5 +107,5 @@ When I started using my phone during my internship, I got convicted that my work
 This is a more clear description of favoritism to God. It's not that He is unable to show favor but that He consistent in His judgements.
 #jj 
 
-Doubtless Paul meant this as a warning to Christian slaves not to presume on their position before God and to think that he would overlook their misdeeds, even if they were acting unscrupulously because of being treated unfairly. In the parallel passage in Ephesians it is the master who is reminded that there is no partiality with God (Eph 6:9).
+Doubtless Paul meant this as a warning to Christian slaves not to presume on their position before God and to think that he would overlook their misdeeds, even if they were acting unscrupulously because of being treated unfairly. In the parallel passage in Ephesians it is the master who is reminded that there is no partiality with God ([Eph 6:9](Ephesians6#v.9)).
 #curtisvaughun 

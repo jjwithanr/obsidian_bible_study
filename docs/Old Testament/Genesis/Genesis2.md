@@ -45,6 +45,9 @@ Verbs are in a "historical narrative" tense.
 Humanity's creation did not take place in Eden, but in the barren land outside it.
 #theosu 
 
+#### v.9
+>And the LORD God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.
+
 #### v.15
 >the Lord God took the man and put him in the Garden of Eden to work it and take care of it.
 

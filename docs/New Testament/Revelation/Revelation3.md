@@ -33,6 +33,9 @@ Be a watchman, JJ. The church in America has its reputation, but is it alive? We
 But what shall be done with such persons as live in the church, but are not of it, having a name to live, but are dead? **What shall be done with mere professors who are not possessors?** What shall become of those who are only outwardly religious but inwardly are in the gall of bitterness? We answer, as good Calvin did once: ‘They shall walk in black, for they are unworthy.’ They shall walk in black – the blackness of God’s destruction. They shall walk in black – the blackness of hopeless despair. They shall walk in black – the blackness of incomparable anguish. They shall walk in black – the blackness of damnation. They shall walk in black for ever, because they were found unworthy.
 #spurgeon 
 
+#### v.5
+>He who overcomes will, like them, be dressed in white. I will never blot out his name from the book of life, but will acknowledge his name before my Father and his angels.
+
 #### v.7
 >What he opens no one can shut, and what he shuts no one can open.
 

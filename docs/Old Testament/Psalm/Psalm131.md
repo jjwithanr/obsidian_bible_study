@@ -21,7 +21,7 @@ See more in [[knowledge#Spurgeon on Psalm 131 Psalm131]].
 The poet only desires exaltation and expansion, a world to stretch himself in. The poet only asks to get his head into the heavens. It is the logician who seeks to get the heavens into his head. And it his head that splits.
 
 The whole secret of mysticism is this: that man can understand everything by the help of what he does not understand. The morbid logician seeks to make everything lucid, and succeeds in making everything mysterious. The mystic allows one thing to be mysterious, and everything else becomes lucid.
-#gkchesterton
+#gkchesterton 
 
 #### v.2
 >But I have stilled and quieted my soul; like a weaned child with its mother, like a weaned child is my soul within me.

@@ -1,11 +1,11 @@
-# Galations 6
+# Galatians 6
 
 ## Overview:
 
 
 
 #### v.1
->Brothers, if someone is caught in a sin, you who are spiritiual should restore him gently. But watch yourself, or you may also be tempted.
+>Brothers, if someone is caught in a sin, you who are spiritual should restore him gently. But watch yourself, or you may also be tempted.
 
 Forgiveness is different from restoration.
 #mikewinger 
@@ -102,3 +102,5 @@ See also [[Jeremiah9#v 24]].
 #### v.15
 >Neither circumcision nor uncircumcision means anything; what counts is the new creation.
 
+#### v.17
+>Finally, let no one cause me trouble, for I bear on my body the marks of Jesus.

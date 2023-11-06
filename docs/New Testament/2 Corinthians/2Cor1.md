@@ -13,7 +13,7 @@ Chapters 10-13: Paul's Apostolic Relationship and the Recalcitrant Minority
 Purposes:
 1. To defend Paul's apostolic ministry and authority against false ministers
 2. To give further instruction concerning the collection for the Christians at Jerusalem
-3. To point out th need for consolation in the case of discipline mentioned in the first epistle
+3. To point out the need for consolation in the case of discipline mentioned in the first epistle
 4. To show that the New Covenant surpasses the Old Covenant in glory
 
 Messages:

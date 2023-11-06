@@ -26,6 +26,9 @@ Messages:
 #### v.14
 >The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the One and Only, who came from the Father, full of grace and truth.
 
+#### v.46
+>"Nazareth! Can anything good come from there?" Nathanael asked. "Come and see," said Philip.
+
 #### v.47
 >When Jesus saw Nathaniel approaching, he said of him, "Here is a true Israelite, in whom there is nothing false."
 

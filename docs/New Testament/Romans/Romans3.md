@@ -2,6 +2,7 @@
 
 ## Overview:
 
+
 #### v.13-14
 >"Their throats are open graves; their tongues practice deceit." "The poison of vipers is on their lips." <sup>14</sup>"Their mouths are full of cursing and bitterness."
 

@@ -30,4 +30,3 @@ Message:
 #### v.27
 > But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.
 
-

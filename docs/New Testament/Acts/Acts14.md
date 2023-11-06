@@ -12,6 +12,9 @@
 #### v.9-10
 >He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed <sup>10</sup>and called out, "Stand up on your feet!" At that, the man jumped up and began to walk.
 
+#### v.11
+>When the crowd saw what Paul had done, they shouted in the Lycaonian language, "The gods have come down to us in human form!"
+
 #### v.14
 >But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting:
 
@@ -24,7 +27,7 @@ Evidence that Barnabas was considered an apostle.
 #### v.17
 >Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy."
 
-Various philosophers, especially Stoics, believed that nature itself testified to the character of the supreme god. Jewish teachers agreed that nature testifies to God’s character (this is biblical; cf. Ps 19:1; 89:37) and taught that he provides all peoples with health, food and so forth. Scripture already emphasized that God was the source of these agricultural blessings
+Various philosophers, especially Stoics, believed that nature itself testified to the character of the supreme god. Jewish teachers agreed that nature testifies to God’s character (this is biblical; cf.[ Ps 19:1](Psalm19#v.1); [89:37](Psalm89#v.37)) and taught that he provides all peoples with health, food and so forth. Scripture already emphasized that God was the source of these agricultural blessings
 #craigkeener 
 
 #### v.19-20
@@ -33,7 +36,7 @@ Various philosophers, especially Stoics, believed that nature itself testified t
 When Jewish crowds stoned a transgressor, they sought the transgressor’s death; Paul’s survival undoubtedly points to divine protection. Normally such executions were performed outside the city, and they may have dragged him out of the city for purity reasons; that he not only survived but could walk afterward must be understood as miraculous.
 #craigkeener 
 
-Some months later, when Paul wrote the believers in Galatia (again, we assume a "South Galatian" destination for the letter), he closed by saying, "Finally let no one cause me trouble, for I bear on my body the marks of Jesus" (Gal 6:17). Some of the marks may well have been scars caused by the stoning at Lystra. And when still later he wrote the Corinthians of his being stoned (2Co 11:25), it was Lystra he had in mind (cf. also 2Ti 3:11).
+Some months later, when Paul wrote the believers in Galatia (again, we assume a "South Galatian" destination for the letter), he closed by saying, "Finally let no one cause me trouble, for I bear on my body the marks of Jesus" ([Gal 6:17](Galatians6#v.17)). Some of the marks may well have been scars caused by the stoning at Lystra. And when still later he wrote the Corinthians of his being stoned ([2Co 11:25](2Cor11#v.25)), it was Lystra he had in mind (cf. also [2Ti 3:11](2Timothy3#v.11)).
 #longnecker 
 
 #### v.21-22

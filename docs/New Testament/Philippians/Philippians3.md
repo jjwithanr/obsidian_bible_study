@@ -1,4 +1,4 @@
-# Phillipians 3
+# Philippians 3
 
 ## Overview:
 

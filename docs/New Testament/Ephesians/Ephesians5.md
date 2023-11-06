@@ -69,3 +69,6 @@ By your life, your conversation, and all your influence. This is the business of
 
 #### v.18
 >Do not get drunk on wine, which leads to debauchery. Instead be filled with the Spirit.
+
+#### v.19
+>Speak to one another with psalms, hymns and spiritual songs. Sing and make music in your heart to the Lord,

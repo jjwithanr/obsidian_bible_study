@@ -14,7 +14,7 @@ Suffering is the template of the Christian life.  The cross is forever an emblem
 Similar to [Galations 2:20](Galatians2.md#v.20).
 #jj 
 
-🔥The act of **suffering for Christ makes the attractiveness of sin hollow.** The believer has put all his eggs in one basket, that of Christ, and has paid too great a price to turn back now... We may in fact still be sinning because we have not chosen to suffer and thereby have done with sin. Perhaps when come to the point of choice, **we choose compromise and then wonder why we cannot overcome temptation.** **On the other hand, we may still be sinning because [*we have not suffered enough.*](James1#v.2-3)**
+🔥The act of **suffering for Christ makes the attractiveness of sin hollow.** The believer has put all his eggs in one basket, that of Christ, and has paid too great a price to turn back now... We may in fact still be sinning because we have not chosen to suffer and thereby have done with sin. Perhaps when come to the point of choice, **we choose compromise and then wonder why we cannot overcome temptation.** **On the other hand, we may still be sinning because [*we have not suffered enough.*](James1.md#v.2-3)**
 #hardsayingsofthebible 
 
 #### v.2
@@ -33,7 +33,7 @@ See more in [[self-control#1 Peter 4 7 1Peter4 v 7]].
 #barnes 
 
 *You can't love someone when you're always focused on the their weaknesses.*
-Similar to [James 5:20](James5#v.20) and taken from [Proverbs 10:12](Proverbs10#v.12).
+Similar to [James 5:20](James5.md#v.20) and taken from [Proverbs 10:12](Proverbs10#v.12).
 #jj 
 
 This is how we cultivate [[family]].

@@ -48,3 +48,11 @@ Those who are wise ensure that they say wise things. The first part asserts that
 Father, help me.
 #jj 
 
+#### v.32
+>Better a patient man than a warrior, a man who controls his temper than one who takes a city.
+
+Patience is preferable to physical power. Normally patience is an attribute of God (see Ex 34:6); here it describes a human being who has his emotions under control.
+#allenpross 
+
+Lord, give me grace to be patient like you. At work. At church. With family. With friends. With myself.
+#jj 

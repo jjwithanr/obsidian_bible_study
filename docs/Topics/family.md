@@ -16,12 +16,12 @@ The Christian life begins with the *individual*; a soul has a saving encounter w
 "Heartless" and "without love" are translated from the same Greek word called *astorgos*. The prefix *a* denotes a negation of *storgos* which is from *storgé* meaning family affection. This is why the word is more accurately translated as "without natural affection." In fact, I would go even further to imply that in both contexts it is used the word further emphasizes Paul's charge for Christians to love their parents and immediate family. Paul precedes each of these texts with a seperate, clearer charge to his intended reader to obey their parents.
 #jj
 
-### Spurgeon on [James 4:8-12](James4)
+### Spurgeon on [James 4:8-12](James4.md)
 [Sermon link](https://www.spurgeongems.org/sermon/chs2795.pdf)
 If you draw near to God, dear friends, it will also help you to think well of other people. “Speak not evil of one another,” says the apostle in the eleventh verse. When you know that the great Judge of all Himself is near, you will not be so quick as you sometimes are to take His work out of His hands, but you will let Him judge. I am sure that the man who lives near to God gets to have a kindly feeling towards others. If ever you find a person saying that there is no life in the church, and finding fault with everybody, you may be sure that that man has not seen Jesus Christ of late, for Jesus Christ speaks not so. He says of His people all He can that is good. Surely, if Christ loves His church, you ought not to find so much fault with it. “Speak not evil one of another, brethren,” else it will prove that you have not been anywhere near your Master of late.
 #spurgeon 
 
-### Spurgeon on [James 3:12](James3#v.12)
+### Spurgeon on [James 3:12](James3.md#v.12)
 [Sermon link](https://www.spurgeongems.org/sermon/chs3226.pdf)
 
 This fact ought also to promote in us brotherly admiration. It is one of the most beautiful exhibitions of a Christian spirit when a Christian man admires the gifts and graces of others more than he admires his own, when, instead of thinking of anything in which he excels others, he delights in those things in which they excel him. We ought to emulate the spirit of that noble Roman who, when he was beaten at an election, said he was glad that his country had so many better men than himself.

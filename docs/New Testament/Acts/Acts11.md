@@ -3,7 +3,6 @@
 ## Overview:
 
 
-
 #### v.18
 >When they heard this, they had no further objections and praised God, saying, "So then, God has granted even the Gentiles repentance unto life."
 

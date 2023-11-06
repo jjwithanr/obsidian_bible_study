@@ -2,7 +2,7 @@
 
 ### [1 Thessalonians 2:3](1Thess2#v.3)
 
-### Hard Sayings on [James 4](James4)
+### Hard Sayings on [James 4](James4.md)
 In the preceding verses, we discover that the readers have been using two means to get what they want. First, they struggle with each other, perhaps including vying for power within the Christian community. Second, they pray. But, adds James, they receive no answer to their prayers. This is becaues they are **trying to use God to gain their own ends.** God becomes the "sugar daddy" to fulfill their desires, but it is desire, not God, that they are really serving. Both strategies, that of struggle and that of manipulative prayer, show that they are invested in the world.
 #hardsayingsofthebible 
 

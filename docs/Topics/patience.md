@@ -1,6 +1,6 @@
 # Patience
 
-### Spurgeon on [James 5:7-8](James5#v.7-8)
+### Spurgeon on [James 5:7-8](James5.md#v.7-8)
 [Sermon link](https://www.spurgeongems.org/sermon/chs1025.pdf)
 
 And patience saves a man from a great deal of haste and folly. A hasty man never is a wise man. He is wise that halts a little, and ponders his ways, especially when adversity crosses his path. I have known brothers in the ministry get discouraged, and leave their pulpits, and repent as long as ever they lived that they left a sphere of labor, where they ought to have toiled on. I have known Christians get discouraged, and touchy, and angry, fall out with the church of which they were members, go out in the wilderness, and leave the fat pastures behind them. They have only had to regret all their lives that they had not a little more patience with their brethren, and with the circumstances which surrounded them.

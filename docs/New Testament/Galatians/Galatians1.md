@@ -46,5 +46,3 @@ See more in [[SaC150-160]].
 #### v.23
 >They only heard the report: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”
 
-
-

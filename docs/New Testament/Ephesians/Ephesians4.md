@@ -65,7 +65,7 @@ The word "lusts," has a more limited signification with us than the original wor
 #### v.23-24
 >to be made new in the attitude of your minds; <sup>24</sup>and to put on the new self, created to be like God in true righteousness and holiness.
 
-The believer is called to live by the Spirit by focusing his or her mind on what is godly. This includes the believer's thoughts and actions. Those who do are "created after the likeness of God" (Ephesians 4:24).
+The believer is called to live by the Spirit by focusing his or her mind on what is godly. This includes the believer's thoughts and actions. Those who do are "created after the likeness of God" ([Ephesians 4:24](Ephesians4#v.23-24)).
 #bibleref 
 
  There is the assumption of His righteousness which **makes a man a Christian, and has for its condition simple faith.** There is the assumption of His righteousness sanctifying and transforming us which follows in a Christian course, as its indispensable accompaniment and characteristic, and **that is realised by daily and continuous effort**.
@@ -117,7 +117,7 @@ The only way the Holy Spirit can be wounded is not because of any weakness He po
 
 Rage is defined as _passion_-driven behavior, i.e. actions emerging out of _strong impulses_ (intense emotion).
 
-Anger's root, "_Orgē_ comes from the verb _oragō_ meaning, 'to teem, to _swell_'; and thus implies that it is not a sudden outburst, but rather (referring to God's) _fixed_, controlled, passionate feeling against sin . . . a _settled_ indignation (so Hendriksen)" (D. E. Hiebert, at 1 Thes 1:10).
+Anger's root, "_Orgē_ comes from the verb _oragō_ meaning, 'to teem, to _swell_'; and thus implies that it is not a sudden outburst, but rather (referring to God's) _fixed_, controlled, passionate feeling against sin . . . a _settled_ indignation (so Hendriksen)" (D. E. Hiebert, at [1 Thes 1:10](1Thess1#v.8-10)).
 #hiebert 
 
 #### v.32

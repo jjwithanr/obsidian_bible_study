@@ -22,7 +22,7 @@ We should keep in mind that Paul addresses the values of ancient society for the
 #### v.6
 >But the widow who **lives for pleasure** is dead even while she lives.
 
-See more in [James 5:5](James5#v.5). 
+See more in [James 5:5](James5.md#v.5). 
 
 All who live in pleasure, are dead while they live, spiritually dead, dead in trespasses and sins.
 #matthewhenry 
