@@ -11,3 +11,6 @@
 
 The sense in which our Saviour applies it is this: "You Pharisees are exceedingly tenacious of the "external" duties of religion; but God has declared that he prefers benevolence or mercy to those external duties. It is proper, therefore, that I should associate with sinners for the purpose of doing them good."
 #barnes 
+
+#### v.38
+>Ask the Lord of the harvest, therefore, to send out workers into his harvest field."

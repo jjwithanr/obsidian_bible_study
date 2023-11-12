@@ -19,6 +19,9 @@ That simple.
 The church may similarly say the same thing! Methods cannot save us! Have compassion on your church, O God.
 #jj 
 
+#### v.7-8
+>Men will dwell again in his shade. He will flourish like the grain. He will blossom like a vine, and his fame will be like the wine from Lebanon. <sup>8</sup>O Ephraim, what more have I to do with idols? I will answer him and care for him. I am like a green pine tree; your fruitfulness comes from me."
+
 #### v.9
 >Who is wise? He will realize these things. Who is discerning? He will understand them. The ways of the Lord are right; the righteous walk in them, but the rebellious stumble in them.
 

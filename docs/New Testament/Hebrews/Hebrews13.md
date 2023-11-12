@@ -6,6 +6,9 @@ At the end of this "short letter", the author urges them to love in such a way t
 #### v.1
 >Keep on loving each other as brothers.
 
+#### v.2
+>Remember those in prison as if you were their fellow prisoners, and those who are mistreated as if you yourselves were suffering.
+
 #### v.3
 >Remember those in prison as if you were their fellow prisoners, and those who are mistreated as if you yourselves were suffering.
 

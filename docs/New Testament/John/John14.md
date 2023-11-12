@@ -25,6 +25,12 @@ Yet not I, but through Christ in me*
 #### v.6
 >Jesus answered, "I am the way and the truth and the life. No one comes to the Father except through me.
 
+#### v.14
+>You may ask me for anything in my name, and I will do it.
+
+#### v15.
+>"If you love me, you will obey what I command.
+
 #### v.21
 >Whoever has my commands and obeys them, he is the one who loves me. He who loves me will be loved by my Father, and I too will love him and show myself to him."
 

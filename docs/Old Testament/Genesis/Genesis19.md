@@ -15,4 +15,5 @@ The life of Lot shows us that it is possible to have a saved soul and a wasted l
 Thus Lot's rescue is a result of prayer—Abraham's and his own. God had promised not to destroy the city "on behalf of" the righteous in it. So now, though Sodom was destroyed, Zoar was saved from the destruction on account of Lot, the righteous one living in it.
 #sailhamer 
 
-
+#### v.26
+>But Lot's wife looked back, and she became a pillar of salt.

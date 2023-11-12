@@ -18,7 +18,7 @@ Jesus is Alpha and Omega, Beginning and the End. He is Faithful and True. He is 
 #### v.14
 >Later Jesus found him at the temple and said to him, "See, you are well again. Stop sinning or something worse may happen to you."
 
-At another healing, Jesus will make the point that not all suffering is the result of a person's own sin (John 9:3). Here, however, Jesus' words seem to connect the man's prior condition to sin. It may have been that the man's disability was the result of personal choices. At the same time, Jesus may simply be reminding the man that there are worse things than being crippled, including the eternal penalties of sin (Luke 12:4–5).
+At another healing, Jesus will make the point that not all suffering is the result of a person's own sin (John 9:3). Here, however, Jesus' words seem to connect the man's prior condition to sin. It may have been that the man's disability was the result of personal choices. At the same time, Jesus may simply be reminding the man that there are worse things than being crippled, including the eternal penalties of sin ([Luke 12:4–5](Luke12#v.4-5)).
 #bibleref 
 
 #### v.17

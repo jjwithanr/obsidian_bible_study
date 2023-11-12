@@ -15,12 +15,12 @@ Purpose:
 
 Message:
 1. All nations are accountable to God and judged by Him.
-2. When a nation departes from God's glory, God's glory departs from them.
+2. When a nation departs from God's glory, God's glory departs from them.
 
 #theosu 
 
-#### v.
->
+#### v.1
+>In the thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.
 
 
 

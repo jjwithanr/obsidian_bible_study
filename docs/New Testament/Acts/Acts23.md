@@ -16,6 +16,9 @@ Anyone who behaved as Ananias did, Paul knew, was bound to come under God's judg
 #### v.5
 >Paul replied, "Brothers, I did not realize that he was the high priest; for it is written: 'Do not speak evil about the ruler of your people.'"
 
+#### v.8
+>(The Sadducees say that there is no resurrection, and that there are neither angels nor spirits, but the Pharisees acknowledge them all.)
+
 #### v.11
 >The following night the Lord stood near Paul and said, "Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome."
 

@@ -42,6 +42,6 @@ Does this mean we can sin in heaven? Cannot be forgiven in the age to come?
 Spiritual family.
 #jj 
 
-Yet we do not *make ourselves* Jesus' close relatives by doing the will of his heavenly Father; rather, doing that will *identify us* as his mother and sisters and brothers (cf. 7:21).
+Yet we do not *make ourselves* Jesus' close relatives by doing the will of his heavenly Father; rather, doing that will *identify us* as his mother and sisters and brothers (cf. [7:21](Matthew7#v.21)).
 #dacarson 
 

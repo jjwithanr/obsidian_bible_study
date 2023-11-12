@@ -21,6 +21,9 @@ Do not let us continue to say, in _effect_, "Who shall ascend into heaven, that
 #### v.8
 >But what does it say? "The word is near you; it is in your mouth and in your heart," that is, the word of faith we are proclaiming:
 
+#### v.9
+>That if you confess with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
+
 #### v.11
 >As the Scripture says, "Anyone who trusts in him will never be put to shame."
 

@@ -9,3 +9,6 @@
 #### v.8
 >Keep me as the apple of your eye; hide me in the shadow of your wings
 
+#### v.15
+>And I—in righteousness I will see your face; when I awake, I will be satisfied with seeing your likeness.
+

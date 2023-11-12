@@ -12,18 +12,6 @@ Chapters 18-25: The History of Judah (Southern Kingdom)
 
 #theosu 
 
-#### v.
->
-
-#### v.
->
-
-#### v.
->
-
-#### v.
->
-
-#### v.
->
+#### v.10
+>Elijah answered the captain, "If I am a man of God, may fire come down from heaven and consume you and your fifty men!" Then fire fell from heaven and consumed the captain and his men.
 

@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.1
+>The Lord says to my Lord: "Sit at my right hand until I make your enemies a footstool for your feet."
+
 #### v.3
 >In the beauties of holiness, from the womb of the morning, You have the dew of Your youth.
 

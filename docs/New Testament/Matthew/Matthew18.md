@@ -16,10 +16,16 @@ See more in [[motives#Barnes on Matthew 18 Matthew18]]
 #### v.10
 >"See that you do no look down on one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
 
+#### v.17
+>If he refuses to listen to them, tell it to the church; and if he refuses to listen even to the church, treat him as you would a pagan or a tax collector.
+
+#### v.18
+>"I tell you the truth, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
+
 #### v.19-20
 >"Again, I tell you that if two of you on earth agree about anything you ask for, it will be done for you by my Father in heaven. <sup>20</sup>For where two or three come together in my name, there am I with them."
 
-This is connected with the previous verses. The connection is this: The obstinate man is to be excluded from the church, [Matthew 18:17](https://biblehub.com/matthew/18-17.htm). The care of the church - the power of admitting or excluding members - of organizing and establishing it - is committed to you, the apostles, [Matthew 18:18](https://biblehub.com/matthew/18-18.htm). Yet there is not need of the whole to give validity to the transaction. When two of you agree, or have the same mind, feelings, and opinion, **about the arrangement of affairs in the church**, or about things desired for its welfare, and shall ask of God, it shall be done for them. See [Acts 1:14-26](http://biblehub.com/acts/1-14.htm); [Acts 15:1-29](http://biblehub.com/acts/15-1.htm). **The promise here has respect to the apostles in organizing the church.** It cannot with any propriety be applied to the ordinary prayers of believers. Other promises are made to them, and it is true that the prayer of faith will be answered, but that is not the truth taught here.
+This is connected with the previous verses. The connection is this: The obstinate man is to be excluded from the church, [Matthew 18:17](Matthew18#v.17). The care of the church - the power of admitting or excluding members - of organizing and establishing it - is committed to you, the apostles, [Matthew 18:18](Matthew18#v.18). Yet there is not need of the whole to give validity to the transaction. When two of you agree, or have the same mind, feelings, and opinion, **about the arrangement of affairs in the church**, or about things desired for its welfare, and shall ask of God, it shall be done for them. See [Acts 1:14-26](Acts1); [Acts 15:1-29](Acts15). **The promise here has respect to the apostles in organizing the church.** It cannot with any propriety be applied to the ordinary prayers of believers. Other promises are made to them, and it is true that the prayer of faith will be answered, but that is not the truth taught here.
 #barnes 
 
 #### v.35

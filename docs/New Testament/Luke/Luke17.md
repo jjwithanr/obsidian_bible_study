@@ -13,5 +13,3 @@ This was the disciple's response to Jesus' high call for them to be generous in 
 #### v.10
 >So you also, when you have done everything you were told to do, should say, 'We are unworthy servants; we have only done our duty.' "
 
-
-

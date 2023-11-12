@@ -30,7 +30,7 @@ Probably he was alluding to the error of the woman's ancestor's, who had accepte
 #### v.34
 >"My food," said Jesus, "is to do the will of him who sent me and to finish his work.
 
-He tried to tell them that the satisfaction of completing the work the Father had entrusted to him was greater tahn any food he might have been given (cf. [Dt 8:3](Deut8#v.3); [Mt 4:4](Matthew4#v.4)).
+He tried to tell them that the satisfaction of completing the work the Father had entrusted to him was greater than any food he might have been given (cf. [Dt 8:3](Deut8#v.3); [Mt 4:4](Matthew4#v.4)).
 #merrillctenney 
 
 #### v.38

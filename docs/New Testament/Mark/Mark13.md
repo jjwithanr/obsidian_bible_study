@@ -9,8 +9,6 @@
 #### v.10
 >And the gospel must first be preached to all nations.
 
-
-
 #### v.13
 >All men will hate you because of me, but he who stands firm to the end will be saved.
 

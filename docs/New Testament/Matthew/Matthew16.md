@@ -35,3 +35,7 @@ If you can receive it, here's the secret: Self-denial can serve as a catalyst to
 
 #### v.27
 >For the Son of Man is going to come in his Father's glory with his angels, and then he will reward each person according to what he has done.
+
+#### v.28
+>I tell you the truth, some who are standing here will not taste death before they see the Son of Man coming in his kingdom."
+

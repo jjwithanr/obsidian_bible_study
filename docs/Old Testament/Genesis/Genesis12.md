@@ -7,6 +7,9 @@
 #### v.1
 >The Lord had said to Abram, "Leave your country, your people and your father's household and go to the land I will show you.
 
+#### v.3
+>I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you."
+
 #### v.5
 >He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Haran, and they set out for the land of Canaan, and they arrived there.
 

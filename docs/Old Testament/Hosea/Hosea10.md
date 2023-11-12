@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.1
+>Israel was a spreading vine; he brought forth fruit from himself. As his fruit increased, he built more altars; as his land prospered, he adorned his sacred stones.
 
 #### v.4
 >They make many promises, take false oaths and make agreements; therefore lawsuits spring up like poisonous weeds in a plowed field.

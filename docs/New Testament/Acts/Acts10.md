@@ -28,7 +28,7 @@ Similar sentiment to his greeting in [2 Peter 1:1](2Peter1#v.1).
 
 Another time that I remember the Spirit illuminating Scripture to me. Peter has the humility as an apostle and leader in the early church to ensure that believers did not put him or his faith on pedestal.
 
-Greco-Roman paganism believed not only in gods but in semidivine men, often sons of the gods, who had supernatural powers ([14:11](Acts14#v.11); [28:6](Acts28#v.); cf. [12:22-23](Acts12#v.22-23)). One would offer obeisance to gods by falling at their feet and worshiping them, as Cornelius does to Peter here. Cornelius should know better ([10:2](Acts10#v.2)) than to treat Peter with such reverence; perhaps he intends only a special form of homage (as was customary for Eastern rulers), which a servant of Jesus finds inappropriate (cf. Lk 22:25-27). Even Greeks considered it hubris for a mortal to accept worship, and respected those who declined divine honors. Yet people often fell at others’ feet or sometimes grasped their knees (an ancient Greek approach) to beg for mercy or an essential request.
+Greco-Roman paganism believed not only in gods but in semidivine men, often sons of the gods, who had supernatural powers ([14:11](Acts14#v.11); [28:6](Acts28#v.); cf. [12:22-23](Acts12#v.22-23)). One would offer obeisance to gods by falling at their feet and worshiping them, as Cornelius does to Peter here. Cornelius should know better ([10:2](Acts10#v.2)) than to treat Peter with such reverence; perhaps he intends only a special form of homage (as was customary for Eastern rulers), which a servant of Jesus finds inappropriate (cf. [Lk 22:25-27](Luke22#v.25-26)). Even Greeks considered it hubris for a mortal to accept worship, and respected those who declined divine honors. Yet people often fell at others’ feet or sometimes grasped their knees (an ancient Greek approach) to beg for mercy or an essential request.
 #craigkeener 
 
 #### v.44
@@ -37,6 +37,6 @@ Greco-Roman paganism believed not only in gods but in semidivine men, often sons
 #### v.45-46
 >The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on the Gentiles. <sup>46</sup>For they heard them speaking in tongues and praising God.
 
-Most Jewish teachers felt that the Spirit inspired only the most pious with divine utterances, or that the Spirit would mark God’s people in the future age. That Gentiles would receive the gift was unthinkable. Most importantly, the Spirit was an \*eschatological promise only for the people of the covenant (e.g., Is 44:3; Ezek 39:29). Gentiles obviously could not receive the gift if God had not accepted them, so he clearly had accepted them— even without circumcision
+Most Jewish teachers felt that the Spirit inspired only the most pious with divine utterances, or that the Spirit would mark God’s people in the future age. That Gentiles would receive the gift was unthinkable. Most importantly, the Spirit was an \*eschatological promise only for the people of the covenant (e.g., [Is 44:3](Isaiah44#v.3); [Ezek 39:29](Ezekiel39#v.29)). Gentiles obviously could not receive the gift if God had not accepted them, so he clearly had accepted them—even without circumcision
 #craigkeener 
 

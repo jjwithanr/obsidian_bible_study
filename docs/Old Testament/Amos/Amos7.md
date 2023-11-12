@@ -10,6 +10,9 @@
 See the power of prayer. See what a blessing praying people are to a land. See how ready, how swift God is to show mercy; how he waits to be gracious.
 #matthewhenry 
 
+#### v.4
+>This is what the Sovereign Lord showed me: The Sovereign Lord was calling for judgement by fire; it dried up the great deep and devoured the land.
+
 #### v.8
 >And the Lord asked me, "What do you see, Amos?" "A plumb line," I replied. Then the Lord said, "Look, I am setting a plumb line among my people Israel; I will spare them no longer.
 

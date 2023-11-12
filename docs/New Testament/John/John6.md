@@ -16,6 +16,9 @@ Hearing one teaching from one preacher can get us hooked in repeatedly consuming
 #### v.29
 >Jesus answered, "The work of God is this: to believe in the one he has sent."
 
+#### v.35
+>Then Jesus declared, "I am the bread of life. He who comes to me will never go hungry, and he who believes in me will never be thirsty.
+
 #### v.56
 >Whoever eats my flesh and drinks my blood remains in me, and I in him.
 
@@ -26,7 +29,9 @@ Communion → abide ?
 #jj 
 
 #### v.68
->
+>Simon Peter answered him, "Lord, to whom shall we go? You have the words of eternal life.
+
+
 
 
 

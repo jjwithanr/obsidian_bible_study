@@ -6,7 +6,7 @@
 #### v.3
 >The tempter came to him and said, "If you are the Son of God, tell these stones to become bread."
 
-Satan seeks undermine Jesus' sonship upong receiving the Father's blessing from heaven.
+Satan seeks undermine Jesus' sonship upon receiving the Father's blessing from heaven.
 #jj 
 
 “You can do it if You are indeed the Son of God. You are hungry, therefore feed Yourself. Your Father has forgotten You, His providence has failed You. Be Your own providence—work a miracle for Yourself.” How little the tempter, with all his knowledge, understood the true character of Christ! Our Lord never worked a miracle in order to supply His own needs.

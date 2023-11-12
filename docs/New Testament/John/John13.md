@@ -24,6 +24,6 @@ Those who are once-for-all washed don't need to be entirely cleansed again. That
 #### v.34-35
 >"A new command I give you: Love one another. As I have loved you, so you must love one another. <sup>35</sup>By this all men will know that you are my disciples, if you love one another."
 
-The most important instruction that Jesus left for the Eleven was this fresh, "new commandment"— to love one another. If their motive in following him had been to obtain a high place in the messianic kingdom (1:40, 49), Jesus knew that the spirit of rivalry would disrupt their fellowship before they could accomplish his commission to them. The attitude of love would be the bond that would keep them united and would be the convincing demonstration that they had partaken of his own spirit and purpose. He had loved them without reservation and without limit (13:1-5) and expected them to do the same.
+The most important instruction that Jesus left for the Eleven was this fresh, "new commandment"— to love one another. If their motive in following him had been to obtain a high place in the messianic kingdom ([1:40](John1#v.40), [49](John1#v.49))), Jesus knew that the spirit of rivalry would disrupt their fellowship before they could accomplish his commission to them. The attitude of love would be the bond that would keep them united and would be the convincing demonstration that they had partaken of his own spirit and purpose. He had loved them without reservation and without limit (13:1-5) and expected them to do the same.
 #merrillctenney 
 

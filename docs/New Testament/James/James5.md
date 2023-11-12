@@ -41,6 +41,9 @@ What is forbidden here is not the loud and bitter denunciation of others but the
 #### v.13
 >Is any one of you in trouble? He should pray. Is anyone happy? Let him sing songs of praise.
 
+#### v.14
+>Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord.
+
 #### v.16
 >Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.
 

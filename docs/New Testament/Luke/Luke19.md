@@ -21,6 +21,3 @@ The historical background for the parable was the visit of Archelaus, son of Her
 #### v.46
 >"It is written," he said to them, "'My house will be a house of prayer'; but you have made it 'a den of robbers.'"
 
-
-
-

@@ -12,7 +12,7 @@
 #### v.8
 >You will always have the poor among you, but you will not always have me."
 
-Jesus’ reply alludes to Deuteronomy 15:11, which urges generosity to the poor, who will always be in the land; the context promises that God will bless his people if they care for the poor. Jesus thus does not play down giving to the poor but emphasizes his impending death; he must be his followers’ first commitment.
+Jesus’ reply alludes to [Deuteronomy 15:11](Deut15#v.11), which urges generosity to the poor, who will always be in the land; the context promises that God will bless his people if they care for the poor. Jesus thus does not play down giving to the poor but emphasizes his impending death; he must be his followers’ first commitment.
 #craigkeener 
 
 #### v.9-11
@@ -24,7 +24,7 @@ The religious leaders decide to have Lazarus killed. John’s irony: those who r
 #### v.25
 >The man who loves his life will lose it, while the man who hates his life in this world will keep it for eternal life.
 
-The two words translated "life" are different (GK 6034 & 2437). The first is generally rendered "soul" and denotes the individual personality, with all its related experiences and achievements. The second is usually coupled with the adjective "eternal" in John and means the spiritual vitality that is the experience of god (17:3; cf. Mt 10:39; Mk 8:36; Lk 14:26). The expression "who hates his life" is a hyperbolic expression which means that one is to base one's priorities on that which is outside oneself. In this instance, it is to make Christ the Master of one's life.
+The two words translated "life" are different (GK 6034 & 2437). The first is generally rendered "soul" and denotes the individual personality, with all its related experiences and achievements. The second is usually coupled with the adjective "eternal" in John and means the spiritual vitality that is the experience of god ([17:3](John17#v.3); cf. [Mt 10:39](Matthew10#v.39); [Mk 8:36](Mark8#v.36); [Lk 14:26](Luke14#v.26)). The expression "who hates his life" is a hyperbolic expression which means that one is to base one's priorities on that which is outside oneself. In this instance, it is to make Christ the Master of one's life.
 #merrillctenney 
 #### v.42-43
 >Yet at the same time many even among the leaders believed in him. But because of the Pharisees they would not confess their faith for fear that they would be put out of the synagogue; <sup>43</sup>for they loved praise from men more than praise from God.

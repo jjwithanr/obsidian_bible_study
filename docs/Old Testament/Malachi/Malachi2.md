@@ -47,8 +47,11 @@ Since Hebrew makes no proper-noun distinctions, the translators must decide whet
 Other versions translate "broken faith" into "dealt treacherously": acted deceitfully or betrayed someone's trust.
 #jj 
 
-The implications of "breaking faith with one another" probably are broader than simply the matter of divorce. All betrayals, from the slightest unkindness to the grossest injustice, merit God's diapproval.
+The implications of "breaking faith with one another" probably are broader than simply the matter of divorce. All betrayals, from the slightest unkindness to the grossest injustice, merit God's disapproval.
 #alden 
+
+#### v.14
+>You ask, "Why?" It is because the Lord is acting as the witness between you and the wife of your youth, because you have broken faith with her, though she is your partner, the wife of your marriage covenant.
 
 #### v.15
 >Has not \[the LORD\] made them one? In flesh and spirit they are his. And why one? **Because he was seeking godly offspring.** So guard yourself in your spirit, and do not break faith with the wife of your youth.

@@ -37,6 +37,9 @@ iii. “It is the genius of wicked men to lay the blame of their miscarriages up
 #### v.40
 >“The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’
 
+#### v.44
+>"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'
+
 #### v.45
 >“He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me.’
 

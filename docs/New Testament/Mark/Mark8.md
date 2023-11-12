@@ -3,6 +3,15 @@
 ## Overview:
 
 
+#### v.17
+>Aware of their discussion, Jesus asked them: "Why are you talking about having no bread? Do you still not see or understand? Are your hearts hardened?
+
+#### v.18
+>Do you have eyes but fail to see, and ears but fail to hear? And don't you remember?
+
+#### v.19
+>When I broke the five loaves for the five thousand, how many basketfuls of pieces did you pick up?" "Twelve," they replied.
+
 #### v.29
 >“But what about you?” he asked. “Who do you say I am?”
 

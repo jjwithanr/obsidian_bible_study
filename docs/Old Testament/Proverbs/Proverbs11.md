@@ -43,5 +43,6 @@ Whoever seeks good is seeking divine favor.
 The idea of "winning souls" means capturing or laying hold of people with ideas or influence (2Sa 15:6).
 #allenpross 
 
-
+#### v.31
+>If the righteous achieve their due on earth, how much more the ungodly and the sinner!
 

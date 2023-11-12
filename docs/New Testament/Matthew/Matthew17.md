@@ -15,7 +15,7 @@ This was spoken to confirm the disciples; to make known to them that it was thei
 #### v.20
 >He replied, "Because you have so little faith. I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, ,'Move from here to there' and it will move. Nothing will be impossible for you."
 
-Part of the lesson here is the potency of genuine faith. In giving this reminder, Christ once again mentions the tiny mustard seed as a metaphor for living, active faith (Matthew 13:31–32).
+Part of the lesson here is the potency of genuine faith. In giving this reminder, Christ once again mentions the tiny mustard seed as a metaphor for living, active faith ([Matthew 13:31–32](Matthew13#v.31-32)).
 #bibleref 
 
 #### v.27

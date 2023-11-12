@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.2
+>He had James, the brother of John, put to death with the sword.
+
 #### v.5
 >So Peter was kept in prison, but the church was **earnestly praying** to God for him.
 

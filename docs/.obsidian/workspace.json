@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8542dca9b6b9373d",
+        "id": "8041d3e08a04fa22",
         "type": "tabs",
         "children": [
           {
-            "id": "0100744e85877fc4",
+            "id": "f51dcbf21901f3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Sac220-230.md",
+                "file": "New Testament/Matthew/Matthew28.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.50260543823242
   },
   "right": {
     "id": "219162062c6e662e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Sac220-230.md",
+                "file": "New Testament/Matthew/Matthew28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Sac220-230.md"
+                "file": "New Testament/Matthew/Matthew28.md"
               }
             }
           },
@@ -145,34 +145,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0100744e85877fc4",
+  "active": "f51dcbf21901f3f8",
   "lastOpenFiles": [
-    "New Testament/Acts/Acts10.md",
-    "New Testament/Acts/Acts9.md",
-    "New Testament/Acts/Acts12.md",
-    "New Testament/Acts/Acts11.md",
-    "New Testament/Acts/Acts28.md",
-    "New Testament/Acts/Acts14.md",
-    "New Testament/Acts/Acts13.md",
-    "New Testament/2 Timothy/2Timothy3.md",
-    "New Testament/2 Corinthians/2Cor11.md",
-    "New Testament/Galatians/Galatians6.md",
-    "Old Testament/Psalm/Psalm89.md",
-    "New Testament/Acts/Acts15.md",
-    "New Testament/Acts/Acts17.md",
-    "New Testament/Acts/Acts19.md",
-    "New Testament/Acts/Acts20.md",
+    "New Testament/Matthew/Matthew26.md",
+    "New Testament/Matthew/Matthew25.md",
+    "New Testament/Matthew/Matthew24.md",
+    "New Testament/Matthew/Matthew23.md",
+    "New Testament/Matthew/Matthew22.md",
     "New Testament/Acts/Acts23.md",
-    "New Testament/Acts/Acts24.md",
-    "Old Testament/Jeremiah/Jeremiah38.md",
-    "New Testament/John/John1.md",
-    "New Testament/Romans/Romans1.md",
-    "New Testament/Romans/Romans2.md",
-    "New Testament/Romans/Romans3.md",
-    "New Testament/Romans/Romans5.md",
-    "New Testament/Romans/Romans6.md",
-    "New Testament/Romans/Romans8.md",
-    "New Testament/Romans/Romans9.md",
+    "Old Testament/Exodus/Exodus3.md",
+    "Old Testament/Psalm/Psalm73.md",
+    "Psalm49.md",
+    "Old Testament/Psalm/Psalm17.md",
+    "Old Testament/Psalm/Psalm16.md",
+    "Old Testament/Genesis/Genesis28.md",
+    "Old Testament/Genesis/Genesis26.md",
+    "Old Testament/Genesis/Genesis24.md",
+    "New Testament/Matthew/Matthew21.md",
+    "New Testament/Matthew/Matthew18.md",
+    "New Testament/Matthew/Matthew17.md",
+    "New Testament/Matthew/Matthew13.md",
+    "New Testament/Matthew/Matthew16.md",
+    "New Testament/Matthew/Matthew15.md",
+    "New Testament/1 Corinthians/1Cor3.md",
+    "New Testament/Matthew/Matthew14.md",
+    "New Testament/Matthew/Matthew12.md",
+    "New Testament/Philippians/Philippians3.md",
+    "New Testament/Luke/Luke14.md",
+    "New Testament/Matthew/Matthew7.md",
+    "Apocrypha/Tobit",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
     "Apocrypha/Wisdom of Solomon",

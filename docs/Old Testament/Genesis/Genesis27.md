@@ -15,3 +15,5 @@ Rebekah responds to Jacob’s fears of bringing a a curse on himself by appropri
 The promise to Abraham (12:2-3) is alluded to the final words of the blessing. Similarly, Isaac's blessing foreshadows Jacob's later prophecy concerning the kingship of the house of Judah (cf. 49:8). Thus the words of Isaac are a crucial link in the development of the theme of the blessing of the seed of Abraham. So too Jacob's daring scheme is a link in the chain connecting the blessing of the offspring of Abraham with the rise of kingship in the house of Judah.
 #sailhamer 
 
+#### v.35
+>But he said, "Your brother came deceitfully and took your blessing."

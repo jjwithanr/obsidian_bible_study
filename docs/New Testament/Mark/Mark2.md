@@ -34,7 +34,7 @@ There is a time to ask and a time to receive. Lord, make us aware of the times w
 #### v.22
 >And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.”
 
-Christianity teaches differently: that God will change our hearts to want to do what He wants us to do (Philippians 2:13). This is how we love God (John 14:15; 1 John 5:3). To try to fit Jesus' teachings of love and freedom into the Pharisaical legalism (or even its modern-day equivalences) would have resulted in a burst tradition and pieces of love and freedom spilled out all over the floor.
+Christianity teaches differently: that God will change our hearts to want to do what He wants us to do ([Philippians 2:13](Philippians2#v.13)). This is how we love God ([John 14:15](John14#v.15); [1 John 5:3](1John5#v.3)). To try to fit Jesus' teachings of love and freedom into the Pharisaical legalism (or even its modern-day equivalences) would have resulted in a burst tradition and pieces of love and freedom spilled out all over the floor.
 #bibleref 
 
 #### v.27

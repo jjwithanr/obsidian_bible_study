@@ -56,3 +56,6 @@ Patience is preferable to physical power. Normally patience is an attribute of G
 
 Lord, give me grace to be patient like you. At work. At church. With family. With friends. With myself.
 #jj 
+
+#### v.33
+>The lot is cast into the lap, but its every decision is from the LORD.

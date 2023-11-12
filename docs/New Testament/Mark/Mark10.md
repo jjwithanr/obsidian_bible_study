@@ -5,9 +5,9 @@
 #### v.5
 >“It was because your hearts were hard that Moses wrote you this law,” Jesus replied.
 
-Many of the laws in the Old Testament are designed to mitigate the hardship sin caused others. Men in the Old Testament era had cultural authority which, if they chose to abuse it, could devastate women. Malachi 2:16 is often translated "'For I hate divorce,' says the LORD." An extremely literal translation is "I hate \[when men\] send away \[their wives\]." But Jewish scribes twisted the meaning and translated it, "if you hate her, divorce her."  
+Many of the laws in the Old Testament are designed to mitigate the hardship sin caused others. Men in the Old Testament era had cultural authority which, if they chose to abuse it, could devastate women. [Malachi 2:16](Malachi2#v.16) is often translated "'For I hate divorce,' says the LORD." An extremely literal translation is "I hate \[when men\] send away \[their wives\]." But Jewish scribes twisted the meaning and translated it, "if you hate her, divorce her."  
   
-Malachi, the last of God's prophets, records God's condemnation of the Israelites for dishonoring their wives (Malachi 2:13–16). God intended the wife to be a companion, a covenant-holder, a partner in raising godly offspring. To be married is to have "a portion of the Spirit in their union" (Malachi 2:15).
+Malachi, the last of God's prophets, records God's condemnation of the Israelites for dishonoring their wives ([Malachi 2:13–16](Malachi2#v.16)). God intended the wife to be a companion, a covenant-holder, a partner in raising godly offspring. To be married is to have "a portion of the Spirit in their union" ([Malachi 2:15](Malachi2#v.15)).
 #bibleref 
 
 #### v.6

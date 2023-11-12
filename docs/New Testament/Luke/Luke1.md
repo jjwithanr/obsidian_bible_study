@@ -20,8 +20,6 @@ Message:
 
 #theosu 
 
-#### v.
->
-
-
+#### v.71
+>salvation from our enemies and from the hand of all who hate us—
 

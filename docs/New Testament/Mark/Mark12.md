@@ -38,8 +38,6 @@ They professed to believe in Moses, yet they denied the existence of spirits and
 >until I put your enemies  
 >under your feet.”’
 
-
-
 #### v.40
 >They devour widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”
 

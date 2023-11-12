@@ -21,7 +21,7 @@ See also comment in [Mark 1:23-24](Mark1#v.23-24).
 #### v.16-18
 >These are the twelve he appointed: Simon (to whom he gave the name Peter); <sup>17</sup>James son of Zebedee and his brother John (to them he gave the name Boanerges, which means Sons of Thunder); <sup>18</sup>Andrew, Philip, Barthelomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot
 
-Since Bartholemew is not a personal name but a patronymic, meaning "son of Talmai," this disciple probably had another name (Nathaniel? cf. Jn 1:45).
+Since Bartholemew is not a personal name but a patronymic, meaning "son of Talmai," this disciple probably had another name (Nathaniel? cf. [Jn 1:45](John1#v.45)).
 #walterwessel 
 
 See more in [[meekness,greatness#GotQuestions on James son Alphaeus Mark3 v 18]].

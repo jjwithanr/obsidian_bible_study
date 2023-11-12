@@ -9,6 +9,9 @@
 #### v.25-26
 >Jesus said to them, "The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors. <sup>26</sup>But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves.
 
+#### v.27
+>For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves.
+
 #### v.32
 >But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers."
 
@@ -29,3 +32,4 @@ In telling how the Lord looked at peter (v.61), Luke uses the same word John use
 
 #### v.64
 >They blinded him and demanded, "Prophesy! Who hit you?"
+

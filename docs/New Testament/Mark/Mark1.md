@@ -30,7 +30,7 @@ Message:
 #### v.12-13
 >At once the Spirit sent him out into the desert, <sup>13</sup>and he was in the desert forty days, being tempted by Satan. He was with the wild animals, and angels attended him.
 
-Sources suggest that many believed that demons were especially attracted to places like pagan temples, bathhouses, graveyards and deserts. Readers would thus sense the suspense as Jesus battled with Satan on Satan’s own turf. Safety among beasts showed God’s protection (Ezek 34:25; Dan 6:22).
+Sources suggest that many believed that demons were especially attracted to places like pagan temples, bathhouses, graveyards and deserts. Readers would thus sense the suspense as Jesus battled with Satan on Satan’s own turf. Safety among beasts showed God’s protection ([Ezek 34:25](Ezekiel34#v.25); [Dan 6:22](Daniel6#v.22)).
 #craigkeener 
 
 #### v.15
@@ -69,7 +69,7 @@ See more in [[morning#Barnes on Mark 1 35 Mark1 v 35]].
 Could it be that the intensity of the previous evening's ministry gave Him an even greater urgency to be with His Father in the morning? One thing seems clear: It wasn't an especially long night. **Even when His body craved more sleep, Jesus knows his true source of revitalization would not be on His back but on His face.**
 #bobsorge 
 
-Jesus, after a busy evening of healing and exorcisms got up early the next morning and sought a quiet place to pray (cf. 6:46; 14:32-41). **He was facing a crisis—the shallow and superficial response of the people who were only interested in what he could do to heal their physical afflictions. So he sought the strength that only communion and fellowship with the Father could provide.**
+Jesus, after a busy evening of healing and exorcisms got up early the next morning and sought a quiet place to pray (cf.[ 6:46](Mark6#v.46); [14:32-41](Mark14)). **He was facing a crisis—the shallow and superficial response of the people who were only interested in what he could do to heal their physical afflictions. So he sought the strength that only communion and fellowship with the Father could provide.**
 The disciples did not understand Jesus or his need for communion with the Father, so they went to look for him. Apparently the thought Jesus would be pleased to know that everyone was looking for him (v.37). **They did not understand that this popular and shallow reception of him was the very reason he withdrew to pray.**
 #walterwessel 
 

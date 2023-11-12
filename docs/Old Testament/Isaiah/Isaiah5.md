@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.2
+>He dug it up and cleared it of stones and planted it with the choicest of vines. He built a watchtower in it and cut out a winepress as well. Then he looked for a crop of good grapes, but it yielded only bad fruit.
 
 #### v.12
 >They have harps and lyres at their banquets, tambourines and flutes and wine, but they have no regard for the deeds of the Lord, no respect for the work of his hands.

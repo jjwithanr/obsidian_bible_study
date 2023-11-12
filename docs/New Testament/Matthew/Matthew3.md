@@ -27,7 +27,7 @@ An ancient tradition suggested that some kinds of vipers ate their way out of th
 #### v.8
 >Produce fruit in keeping with repentance.
 
-The \*Pharisees themselves are known to have questioned professions of repentance if the supposedly repentant person continued sinning. The Old Testament prophets had sometimes described the obedience one owed God, or God’s future blessing of his people, in terms of fruit (a natural image in an agricultural society; cf. Is 5:2; 27:6; Hos 10:1, 12-13; 14:7-8; Prov 11:30-31).
+The \*Pharisees themselves are known to have questioned professions of repentance if the supposedly repentant person continued sinning. The Old Testament prophets had sometimes described the obedience one owed God, or God’s future blessing of his people, in terms of fruit (a natural image in an agricultural society; cf. [Is 5:2](Isaiah5#v.2); [27:6](Isaiah27#v.6); [Hos 10:1](Hosea10#v.1), [12-13](Hosea10#v.12); [14:7-8](Hosea14#v.7); [Prov 11:30-31](Proverbs11#v.30)).
 #craigkeener 
 
 Do not bring your cunning and dissimulation to this work; do not carry your hypocrisy into your professed repentance, but evince your sincerity by forsaking sin, and thus give evidence that this coming to Jordan to be baptized is not an act of dissimulation. No discourse could have been more appropriate or more cutting.

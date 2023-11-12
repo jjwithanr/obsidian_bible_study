@@ -16,7 +16,7 @@
 >After he had spent everything, there was a severe famine in that whole country, and he began to be in need. <sup>15</sup>So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs.
 
 #### v.17
->"When he came to his senses, he said, `How many of my father's hired men have food to spare, and here I am starving to death!
+>"When he came to his senses, he said, 'How many of my father's hired men have food to spare, and here I am starving to death!
 
 #### v.20
 >So he got up and went to his father. "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.
@@ -29,8 +29,4 @@ The older brother was angry perhaps because his pride insisted he be celebrated 
 
 #### v.31-32
 >"'My son,' the father said, 'you are always with me, and everything I have is yours. <sup>32</sup>But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.'"
-
-
-
-
 

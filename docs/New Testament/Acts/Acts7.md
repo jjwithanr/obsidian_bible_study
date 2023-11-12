@@ -3,10 +3,6 @@
 ## Overview:
 
 
-
-#### v.
->
-
 #### v.22
 >Moses was educated in all the wisdom of the Egyptians and was poweful in speech and action.
 

@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.20
+>Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty.
+
 #### v.33-35
 >If only there were someone to arbitrate between us, to lay his hand upon us both, <sup>34</sup>someone to remove God's rod from me, so that his terror would frighten me no more. <sup>35</sup>Then I would speak up without fear of him, but as it now stands with me, I cannot.
 

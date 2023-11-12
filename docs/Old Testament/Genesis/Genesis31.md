@@ -33,6 +33,9 @@ Since you are saved and joined to Christ, appraise the world and ask, ‘Is ther
 #### v.24
 >Then God came to Laban the Aramean in a dream at night and said to him, "Be careful not to say anything to Jacob, either good or bad."
 
+#### v.26
+>Then Laban said to Jacob, "What have you done? You've deceived me, and you've carried of my daughters like captives in war."
+
 #### v.35
 >Rachel said to her father, "Don't be angry, my lord, that I cannot stand up in your presence; I'm having my period." So he searched but could not find the household gods.
 

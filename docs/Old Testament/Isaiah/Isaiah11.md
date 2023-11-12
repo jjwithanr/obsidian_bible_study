@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.1-2
+>A shoot will come up from the stump of Jesse; from his roots a Branch will bear fruit. <sup>2</sup>The Spirit of the Lord will rest on him—the Spirit of wisdom and of understanding, the Spirit of counsel and of power, the Spirit of knowledge and of the fear of the Lord—
 
 #### v.3
 >and he will delight in the fear of the Lord. He will not judge by what he sees with his eyes, or decide by what he hears with his ears;

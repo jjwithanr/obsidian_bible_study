@@ -18,6 +18,9 @@ Prayer and fellowship with the Lord had safeguarded him from the corrupting infl
 #### v.11
 >Then these men went as a group and found Daniel praying and asking God for help.
 
+#### v.22
+>My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you O king."
+
 #### v.23
 >The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.
 

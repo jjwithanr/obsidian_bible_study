@@ -24,6 +24,9 @@ This is why we are filled with compassion when see sheep without a shepherd: the
 Don’t read into ‘rams and he-goats’ (v. 17) the New Testament image of ‘sheep and goats’ as found in [Matthew 25:31–46](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Matthew+25.31%E2%80%9346&t=NKJV), because in Bible times, it was customary for shepherds to have both sheep and goats in the flocks.
 #enduringword 
 
+#### v.25
+>"'I will make a covenant of peace with them and rid the land of wild beasts so that they may live in the desert and sleep in the forests in safety.
+
 #### v.31
 >You are my sheep, the sheep of my pasture, and I am your God, declares the Sovereign Lord.’”
 

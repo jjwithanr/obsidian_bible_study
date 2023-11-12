@@ -16,5 +16,6 @@ God was a Father before Creator or anything else.
 #### v.9
 >I pray for them. I am not praying for the world, but for those you have given me, for they are yours.
 
-
+#### v.12
+>While I was with them, I protected them and kept them safe by that name you gave me. None has been lost except the one doomed to destruction so that Scripture would be fulfilled.
 

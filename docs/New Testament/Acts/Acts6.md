@@ -17,7 +17,3 @@ The ministry is a lot of work, even apart from administrative headaches. A young
 This is recorded justly as a remarkable instance of the power of the gospel. How great this company was is not mentioned, but the number of the priests in Jerusalem was very great; and their conversion was a striking proof of the power of truth. It is probable that they had been opposed to the gospel with quite as much hostility as any other class of the Jews. And it is now mentioned, as worthy of special record, that the gospel was sufficiently mighty to humble even the proud, and haughty, and selfish, and envious priests to the foot of the cross. One design of the gospel is to evince the power of truth in subduing all classes of people; and hence, in the New Testament we have the record of its having actually subdued every class to the obedience of faith.
 #barnes 
 
-
-#### v.
->
-

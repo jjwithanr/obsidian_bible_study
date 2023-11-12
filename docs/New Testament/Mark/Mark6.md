@@ -21,7 +21,7 @@ We are not to suppose that his power was limited by the belief or unbelief of pe
 #### v.12
 >They went out and preached that people should repent.
 
-The work of the Apostles appears from this to have been a continuation of that of the Baptist. They announced the nearness of the kingdom of God, and repentance as the one adequate preparation for it, and baptised as the outward token of that repentance and the new life in which it was to issue ([John 3:5](https://biblehub.com/john/3-5.htm "Jesus answered, Truly, truly, I say to you, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."); [John 4:2](https://biblehub.com/john/4-2.htm "(Though Jesus himself baptized not, but his disciples,)")), but they did not as yet proclaim their Master as being Himself the Christ, and therefore the Head of that kingdom.
+The work of the Apostles appears from this to have been a continuation of that of the Baptist. They announced the nearness of the kingdom of God, and repentance as the one adequate preparation for it, and baptised as the outward token of that repentance and the new life in which it was to issue ([John 3:5](John3#v.5); [John 4:2](John4#v.2)), but they did not as yet proclaim their Master as being Himself the Christ, and therefore the Head of that kingdom.
 #ellicott 
 
 #### v.34
@@ -42,7 +42,7 @@ Compassion led to Jesus teaching the crowds.
 Their "mind" was dull to perceive it. This does not mean that they were "opposed" to Jesus, or that they had what we denominate "hardness of heart," but simply that they were slow to perceive his power. They did not quickly learn, as they ought to have done, that he had all power, and could therefore allay the storm.
 #barnes 
 
-This entire episode is an illustration of God giving the Twelve what they need. Although they didn't get to debrief their missions trip, they do get time away from the crowds. They didn't bring food, but God provided (Mark 6:39–43). The next day, when the crowd finds them again, Jesus will say, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst" (John 6:35). Jesus will show that man lives on the Word of God, not by bread alone (Matthew 4:1–4) when He tells the Twelve that to do God's will is more satisfying than bread (John 4:31–34). For a while yet, however, the Twelve will miss the point that **if we trust and obey God, He will take care of us** (Mark 8:16–21).
+This entire episode is an illustration of God giving the Twelve what they need. Although they didn't get to debrief their missions trip, they do get time away from the crowds. They didn't bring food, but God provided (Mark 6:39–43). The next day, when the crowd finds them again, Jesus will say, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst" ([John 6:35](John6#v.35)). Jesus will show that man lives on the Word of God, not by bread alone ([Matthew 4:1–4](Matthew4#v.4)) when He tells the Twelve that to do God's will is more satisfying than bread ([John 4:31–34](John4#v.34)). For a while yet, however, the Twelve will miss the point that **if we trust and obey God, He will take care of us** ([Mark 8:16–21](Mark8#v.17)).
 #bibleref connected to [[Good Soil]].
 
 #### v.54

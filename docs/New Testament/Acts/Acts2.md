@@ -11,6 +11,9 @@
 #### v.4
 >All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.
 
+#### v.10
+>Phrygia and Pamphylia, Egypt, and the parts of Libya near Cyrene; visitors from Rome
+
 #### v.12
 >Amazed and perplexed, they asked one another, "What does this mean?"
 
@@ -20,6 +23,9 @@ Is this the same wonder the Twelve may have felt in [Luke 8:25](Luke8.md#v.25)?
 
 #### v.13
 >Some, however, made fun of them and said, "They have had too much wine."
+
+#### v.21
+>And everyone who calls on the name of the Lord will be saved.'
 
 #### v.36
 >"Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Christ."

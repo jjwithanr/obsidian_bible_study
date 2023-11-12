@@ -6,7 +6,7 @@
 #### v.1-2
 >"Do not judge, or you too will be judged. <sup>2</sup>For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
 
-This may be the most often-misused verse in the entire Bible. Modern culture garbles this comment into a command to never disapprove or correct the actions of another. This mishandling of Christ's words is out of context _three times over_. First and foremost, **Christ does not say "never judge,"** He warns that there is a consequence to judgment. Second, this statement is immediately followed by instructions from Christ on the proper way to use judgment. Third, Jesus' other teachings explicitly indicate that **right judgment is necessary** (John 7:24), while hypocritical or shallow judgment is wrong.
+This may be the most often-misused verse in the entire Bible. Modern culture garbles this comment into a command to never disapprove or correct the actions of another. This mishandling of Christ's words is out of context _three times over_. First and foremost, **Christ does not say "never judge,"** He warns that there is a consequence to judgment. Second, this statement is immediately followed by instructions from Christ on the proper way to use judgment. Third, Jesus' other teachings explicitly indicate that **right judgment is necessary** ([John 7:24](John7#v.24)), while hypocritical or shallow judgment is wrong.
 #bibleref 
 
 #### v.6
@@ -44,5 +44,4 @@ Knowledge puffs up, love alone builds up. My dear friends, I am most earnest tha
 
 #### v.29
 >because he taught as one who had authority, and not as their teachers of the law.
-
 

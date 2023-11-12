@@ -24,7 +24,7 @@
 #### v.24
 >They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled.
 
-This verse implies that an extended period of time is needed for its fulfillment—an idea consistent with Luke's twofold emphasis on a period of waiting along with an expectation of Christ's imminent return. It also implies an end to the period when Gentiles are prominent in God's plan (cf. Ro 11:11-27).
+This verse implies that an extended period of time is needed for its fulfillment—an idea consistent with Luke's twofold emphasis on a period of waiting along with an expectation of Christ's imminent return. It also implies an end to the period when Gentiles are prominent in God's plan (cf. [Ro 11:11-27](Romans11)).
 #walterliefield 
 
 #### v.28
@@ -44,8 +44,4 @@ The other major alternative, "generation" as a class or race of people, makes mo
 
 #### v.36
 >Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man."
-
-
-
-
 

@@ -24,3 +24,6 @@ Messages:
 
 #theosu 
 
+#### v.1
+>In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.
+

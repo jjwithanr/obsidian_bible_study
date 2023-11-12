@@ -47,8 +47,11 @@ It is common to give a quick, impulsive answer to questions and problems. We res
 #### v.15
 >The heart of the discerning acquires knowledge; the ears of the wise seek it out.
 
+#### v.18
+>Casting the lot settles disputes and keeps strong opponents apart.
+
 #### v.19
->An offended brother is more unyielding than a foritified city, and disputes are like the barred gates of a citadel.
+>An offended brother is more unyielding than a fortified city, and disputes are like the barred gates of a citadel.
 
 Good verse to better interpret speaking the truth in love. We should be truthful but do all in our power not to instigate offense so as to lose a brother to offense.
 #jj 

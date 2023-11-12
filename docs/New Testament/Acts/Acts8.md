@@ -4,9 +4,6 @@
 
 
 
-#### v.
->
-
 #### v.20
 >Peter answered: "May your money perish with you, because you thought you could buy the gift of God with money!"
 

@@ -15,10 +15,7 @@ Even Jesus' silence provokes a wonder and amazement.
 
 This Rufus is likely the same one referenced by Paul in [Romans 16:13](Romans16#v.13).
 
-Luke records men from Cyrene being among those converted at Pentecost ([Acts 2:10](https://biblia.com/bible/esv/Acts%202.10)). After the martyrdom of Stephen ([Acts 7](https://biblia.com/bible/esv/Acts%207)), believers from Cyrene were among the first to be scattered by the persecution in Jerusalem; arriving in Antioch, they preached to the Gentiles there ([Acts 11:20](https://biblia.com/bible/esv/Acts%2011.20)). These believers were instrumental in the formation of the church at Antioch, where, for the first time, “the disciples were called Christians” ([Acts 11:26](https://biblia.com/bible/esv/Acts%2011.26)).
+Luke records men from Cyrene being among those converted at Pentecost ([Acts 2:10](Acts2#v.10)). After the martyrdom of Stephen ([Acts 7](Acts7)), believers from Cyrene were among the first to be scattered by the persecution in Jerusalem; arriving in Antioch, they preached to the Gentiles there ([Acts 11:20](Acts11#v.20)). These believers were instrumental in the formation of the church at Antioch, where, for the first time, “the disciples were called Christians” ([Acts 11:26](Acts11#v.26)).
 #gotquestions 
 
 See more in [[meekness,greatness#Maclaren on Simon in Mark 15 21 Mark15 v 21]].
-#### v.
->
-

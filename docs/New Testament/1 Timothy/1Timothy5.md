@@ -33,6 +33,9 @@ There is great emphasis in this expression, and nothing could convey more forcib
 Notice the contrast in the previous verse. Paul juxtaposes the widow who is persistent in prayer to the one who lives for pleasure. Beloved, the one who prays cannot be the one who lives for pleasure. Lord, help us in Southern California.
 #jj 
 
+#### v.8
+>If anyone does not provide for his relatives, and especially for his immediate family, he has denied the faith and is worse than an unbeliever.
+
 #### v.17
 >The elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching.
 

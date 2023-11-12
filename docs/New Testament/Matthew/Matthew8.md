@@ -30,6 +30,3 @@ We should concern ourselves for the souls of our children and servants, who are 
 #### v.27
 >The men were amazed and asked, "What kind of man is this? Even the winds and the waves obey him!"
 
-
-
-

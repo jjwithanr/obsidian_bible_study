@@ -21,7 +21,7 @@ John's preaching elicited a response from the crowd. That's hunger. That's anoin
 #### v.16-17
 >John answered them all, "I baptize you with water. But one more powerful than I will come, the thongs of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire. <sup>17</sup>His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire."
 
-Fire is an ancient symbol of judgement, refinement, and purification (cg. Ge 19:26; Am 7:4; Mal 3:2). John is thus portraying the Holy Spirit as being active in saving, purifying, and judging. The Spirit had definitely, though not frequently, been associated with the Messiah (Isaiah 11:1-2), whose coming would mean the availability of the Spirit's ministry.
+Fire is an ancient symbol of judgement, refinement, and purification (cg. [Ge 19:26](Genesis19#v.26); [Am 7:4](Amos7#v.4); [Mal 3:2](Malachi3#v.2)). John is thus portraying the Holy Spirit as being active in saving, purifying, and judging. The Spirit had definitely, though not frequently, been associated with the Messiah ([Isaiah 11:1-2](Isaiah11#v.1-2)), whose coming would mean the availability of the Spirit's ministry.
 #walterliefield
 
 

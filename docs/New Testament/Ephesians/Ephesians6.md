@@ -65,7 +65,7 @@ Often, we misinterpret the context of what kind of peace the gospel brings. The 
 #### v.16
 >In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.
 
-Because the Greek and Roman god of passion (called Eros and Cupid, respectively) was said to strike with flaming arrows, some of Paul’s readers may have thought specifically of the temptation of sexual desire in this verse, although Paul probably intended the image to cover more than that danger (cf. [Ps 11:2](Psalm11#v.2); [57:4](Psalm57#v.4); [58:3-7](Psalm58#v.3); [64:3](Psalm64#v.3); perhaps [120:1-4](Psalm120#v.4); [Prov 25:18](Proverbs25#v.18)).
+Because the Greek and Roman god of passion (called Eros and Cupid, respectively) was said to strike with flaming arrows, some of Paul’s readers may have thought specifically of the temptation of sexual desire in this verse, although Paul probably intended the image to cover more than that danger (cf. [Ps 11:2](Psalm11#v.2); [57:4](Psalm57#v.4); [58:3-7](Psalm58.md#v.3); [64:3](Psalm64#v.3); perhaps [120:1-4](Psalm120#v.4); [Prov 25:18](Proverbs25#v.18)).
 #craigkeener 
 
 #### v.17
