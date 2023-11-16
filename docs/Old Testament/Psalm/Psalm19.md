@@ -18,6 +18,9 @@ One of the reasons why it needs no special education to be a Christian is that *
 I learned to love reading by reading the Bible with the aid of free online commentaries. I despised reading growing up, but the Word has opened my eyes to the wonder of His word. It has indeed revived my soul.
 #jj 
 
+Although the benefits of natural revelation are with us on a daily basis, the comprehensive benefits of God's revelation in the law are so much greater.
+#vangemeren 
+
 #### v.8
 >The precepts of the LORD are right, giving joy to the heart. The commands of the LORD are radiant, giving light to the eyes.
 
@@ -36,8 +39,14 @@ Thus the Lord has made the sun for light in creation and given his word for ligh
 Is this not true faith? Faith demands belief in His existence—implying the truthfulness of His word—and the expectation that God rewards those who earnestly seek Him. See [Hebrews 11:6](Hebrews11#v.6).
 #jj 
 
+#### v.12-13
+>Who can discern his errors? Forgive my hidden faults. <sup>13</sup>Keep your servant also from willful sins; may they not rule over me. Then will I be blameless, innocent of great transgression.
+
+The psalmist reflects on himself in relation God and his revelation. In [Ps 8](Psalm8) he looked at the dignity of humanity ([8:4a](Psalm8#v.4)). Now he reflects on humanity's sinfulness and limitations. Human beings are such insignificant parts in the vastness of space. Just as nothing is hidden from the heat of the sun (v.6), and even as the "voice" of the natural revelation penetrates to "the ends of the earth" (v.4), so God's word with all its perfections (vv.7-9) penetrates and examines a person. The godly stand, therefore, in fear before their Creator-Redeemer, knowing that they may have "hidden faults" or "errors" that he has not yet discovered.
+#vangemeren 
+
 #### v.14
 >May the words of my mouth and the meditation of my heart be pleasing in your sight, O LORD, my Rock and my Redeemer.
 
-The heavens "declare," "proclaim," "pour forth," and "display" without the benefit of human speech; yet they speak clearly of the glory, power, and wisdom of God. The Lord has revelead his word in speech and written forms accessible to people. In turn the psalmist, as a redeemed creature of God, prays that his expressed and unspoken words may be acceptable to his God, his Rock and his Redeemer; namely, the Lord, the covenant-loving God.
+The heavens "declare," "proclaim," "pour forth," and "display" without the benefit of human speech; yet they speak clearly of the glory, power, and wisdom of God. The Lord has revealed his word in speech and written forms accessible to people. In turn the psalmist, as a redeemed creature of God, prays that his expressed and unspoken words may be acceptable to his God, his Rock and his Redeemer; namely, the Lord, the covenant-loving God.
 #vangemeren 

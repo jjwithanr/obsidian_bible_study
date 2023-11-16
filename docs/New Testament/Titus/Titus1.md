@@ -81,6 +81,9 @@ Not all topics are up for discussion. Don't be so open-minded your brains fall o
 Paul didn’t say to Titus, “Cretans are liars and cheats and gluttons, with one of the worst reputations of any group in the Roman Empire. You should look for an easier group to work with.” Instead he said, “I know how bad they are. Go out and change them with the power of Jesus and for His glory.”
 #enduringword 
 
+#### v.14
+>and will pay no attention to Jewish myths or to the commands of those who reject the truth.
+
 #### v.15
 >To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted.
 

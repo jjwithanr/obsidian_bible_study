@@ -36,6 +36,9 @@ Notice the contrast in the previous verse. Paul juxtaposes the widow who is pers
 #### v.8
 >If anyone does not provide for his relatives, and especially for his immediate family, he has denied the faith and is worse than an unbeliever.
 
+#### v.15
+>Some have in fact already turned away to follow Satan.
+
 #### v.17
 >The elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching.
 
