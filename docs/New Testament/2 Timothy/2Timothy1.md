@@ -54,6 +54,11 @@ The idea is, that Timothy was to use all proper means to keep the flame of pure 
 The Greek word denotes one of sober mind; a man of prudence and discretion. The state referred to here is that in which the mind is well balanced, and under right influences; in which **it sees things in their just proportions and relations; in which it is not feverish and excited, but when everything is in its proper place.** It was this state of mind which Timothy was exhorted to cultivate; this which Paul regarded as so necessary to the performance of the duties of his office. It is as needful now for the minister of religion as it was then.
 #barnes 
 
+For to many He gives a spirit of fear, as we read in the wars of the Kings. A spirit of fear fell upon them. Exodus 15:16? That is, he infused terror into them. But to you He has given, on the contrary, a spirit of power, and of love toward Himself. This, then, is of grace, and yet not merely of grace, but when we have first performed our own parts. For the Spirit that makes us cry, Abba, Father, inspires us with love both towards Him, and towards our neighbor, that we may love one another. For love arises from power, and from not fearing.
+#johnchrysostom 
+
+Indeed subsequent grace assists man’s good purpose, but the purpose itself would not exist if grace did not precede.
+#augustine 
 
 #### v.12
 >That is why I am suffering as I am. Yet I am not ashamed, because I know whom I have believed, and am convinced that he is able to **guard what I have entrusted to him** for that day.
@@ -63,6 +68,9 @@ The Greek word denotes one of sober mind; a man of prudence and discretion. The 
 
 One of the best methods of preserving the knowledge and the love of truth is to cherish the influences of the Holy Spirit.
 #barnes 
+
+That good thing which was committed unto you keep,— how?— by the Holy Ghost which dwells in us. For it is not in the power of a human soul, when instructed with things so great, to be sufficient for the keeping of them. And why? Because there are many robbers, and thick darkness, and the devil still at hand to plot against us; and we know not what is the hour, what the occasion for him to set upon us. How then, he means, shall we be sufficient for the keeping of them? By the Holy Ghost; that is if we have the Spirit with us, if we do not expel grace, He will stand by us. For, Except the Lord build the house, they labor in vain that build it. Except the Lord keep the city, the watchman wakes but in vain. Psalm 127:1 This is our wall, this our castle, this our refuge. If therefore It dwells in us, and is Itself our guard, what need of the commandment? That we may hold It fast, may keep It, and not banish It by our evil deeds.
+#johnchrysostom 
 
 #### v.15
 >You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.

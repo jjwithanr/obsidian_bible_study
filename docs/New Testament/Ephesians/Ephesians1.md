@@ -40,6 +40,9 @@ That is to say, he calls them ‘spiritual,’ not because they are, unlike mate
 #### v.13-14
 >And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, <sup>14</sup>who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession—to the praise of his glory.
 
+#### v.15
+>For this reason, ever since I heard about your faith in the Lord Jesus and your love for all the saints,
+
 #### v.16
 >I have not stopped giving thanks for you, remembering you in my prayers.
 

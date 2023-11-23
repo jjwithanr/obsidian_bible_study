@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.2
+>Surely you have heard about the administration of God's grace that was given to me for you,
+
 #### v.5
 >which was not made known to men in other generations as it has now been revealed by the Spirit to God's holy apostles and prophets.
 

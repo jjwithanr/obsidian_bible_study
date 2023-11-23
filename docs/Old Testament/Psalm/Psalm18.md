@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.24
+>The Lord has rewarded me according to my righteousness, according to the cleanness of my hands in his sight.
 
 #### v.25-26
 >To the faithful you show yourself faithful, to the blameless you show yourself blameless, <sup>26</sup> to the pure you show yourself pure, but to the crooked you show yourself shrewd.

@@ -12,5 +12,6 @@
 To ignore the drive for achievement and become a dropout is foolish self-destructiveness. But the drive must be harnessed to what is compatible with inner peace.
 #jstaffordwright 
 
-
+#### v.7-8
+>Again I saw something meaningless under the sun: <sup>8</sup>There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. "For whom am I toiling," he asked, "and why am I depriving myself of enjoyment?" This too is meaningless—a miserable business!
 

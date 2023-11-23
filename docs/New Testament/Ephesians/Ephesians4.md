@@ -47,6 +47,9 @@ Sin is not only destructive, it is addictive. Saddest of all, the brutal oppress
 This is an accurate description of the state of a sinner. He has no "feeling," no emotion. He often gives an intellectual assent to the truth, But it is without emotion of any kind. The heart is insensible as the hard rock.
 #barnes 
 
+#### v.21
+>Surely you heard of him and were taught in him in accordance with the truth that is in Jesus.
+
 #### v.22
 >You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;
 
