@@ -6,6 +6,9 @@
 #### v.5
 >He sought God during the days of Zechariah, who instructed him in the fear of God. As long as he sought the LORD, God gave him success.
 
+#### v.15
+>In Jerusalem he made machines designed by skillful men for use on the towers and on the corner defenses to shoot arrows and hurl large stones. His fame spread far and wide, for he was greatly helped until he became powerful.
+
 #### v.16
 >But after Uzziah became powerful, his pride led to his downfall. He was unfaithful to the LORD his God, and entered the temple of the LORD to burn incense on the altar of incense.
 
