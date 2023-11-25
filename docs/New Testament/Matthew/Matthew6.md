@@ -57,3 +57,7 @@ Do not exhaust your strength and spend your days in providing for the life here,
 
 You will find people form a pretty accurate estimate of the value of their own religion by the proportion which they are prepared to sacrifice for it.
 #spurgeon 
+
+#### v.34
+>Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+
