@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.1
+>So I reflected on all this and concluded that the righteous and the wise and what they do are in God's hands, but no man knows whether love or hate awaits him.
+
 #### v.4
 >Anyone who is among the living has hope—even a live dog is better off than a dead lion!
 
@@ -13,9 +16,9 @@ We should start with the assumption that our circumstances have come to us with 
 #jstaffordwright 
 
 #### v.9
->Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun-- all your meaningless days. For this is your lot in life and in your toilsome labor under the sun.
+>Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun—all your meaningless days. For this is your lot in life and in your toilsome labor under the sun.
 
-But the breadwinner is to... live the good life with an honest day's work. One knows the degrading feelings that come through continued unemployment and the dangers that surround the son who can become a playboy through ihs father's money (2:19). The Bible has a firm doctrine of work, summed up in [2Th 3:6-13](2Thess3).
+But the breadwinner is to... live the good life with an honest day's work. One knows the degrading feelings that come through continued unemployment and the dangers that surround the son who can become a playboy through his father's money ([2:19](Eccl2#v.19)). The Bible has a firm doctrine of work, summed up in [2Th 3:6-13](2Thess3).
 #jstaffordwright ^ LOL me in post-grad
 
 #### v.10
@@ -27,11 +30,15 @@ The NT agrees that it is deeds done in the body that count (e.g., [2Co 5:10](2Co
 #### v.11
 >I have seen something else under the sun: The race is not to the swift or the battle to the strong, nor does food come to the wise or wealth to the brilliant or favor to the learned; but time and chance happen to them all.
 
-His theme, however, is that we live in a world where we cannot calculate the future precisely but must share the day-by-day events that come to good and bad alike (cf. Mt 5:45)... We cannot bulldoze our way through life. These capacities must be used against a background of intelligent anticipation and a sense of uncertainty.
+His theme, however, is that we live in a world where we cannot calculate the future precisely but must share the day-by-day events that come to good and bad alike (cf. [Mt 5:45](Matthew5#v.44-45))... We cannot bulldoze our way through life. These capacities must be used against a background of intelligent anticipation and a sense of uncertainty.
 #jstaffordwright 
 
 #### v.12
 >Moreover, no man knows when his hour will come: As fish are caught in a cruel net, or birds are taken in a snare, so men are trapped by evil times that fall unexpectedly upon them.
+
+“I wish it need not have happened in my time,” said Frodo.  
+“So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.”
+#tolkien
 
 #### v.15-16
 >Now there lived in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man. <sup>16</sup>So I said, "Wisdom is better than strength." But the poor man's wisdom is despised, and his words are no longer heeded.

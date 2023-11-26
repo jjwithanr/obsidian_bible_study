@@ -110,8 +110,8 @@ The word **abominable** has the idea of _polluted by idolatry_.
 Are there none now who profess that they know God, but in works deny him; whose conduct is such that it ought to be abhorred; who are disobedient to the plain commands of God, and whose character in respect to all that pertains to true piety is to be disapproved by the truly pious, and will be by God at the last day? Alas, taking the church at large, there are many such, and the fact that there are such persons is the grand hindrance to the triumphs of religion on the earth. **“The way to heaven is blocked up by dead professors of religion.”**
 #barnes 
 
-In the Old Testament, “knowing God” was being in covenant relationship with him; on a personal level, this meant an intimate relationship of faithfulness to him. But the claim was false if not accompanied by just treatment of others and obedience to the Scriptures ([Hos 8:2-3](Hosea8#v.2-3); Jer 22:16).
+In the Old Testament, “knowing God” was being in covenant relationship with him; on a personal level, this meant an intimate relationship of faithfulness to him. But the claim was false if not accompanied by just treatment of others and obedience to the Scriptures ([Hos 8:2-3](Hosea8#v.2-3); [Jer 22:16](Jeremiah22#v.16)).
 #craigkeener 
 
-Moral quality of life is the determinative test of religious profession (1Jn 2:4) and by it true character is exposed.
+Moral quality of life is the determinative test of religious profession ([1Jn 2:4](1John2#v.4)) and by it true character is exposed.
 #hiebert 

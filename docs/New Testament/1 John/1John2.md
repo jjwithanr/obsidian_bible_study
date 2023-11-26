@@ -13,8 +13,11 @@
 Though Jesus made His propitiation **for the whole world**, yet the whole world is not saved and in fellowship with God. This is because _atonement_ does not equal _forgiveness_. The Old Testament Day of Atonement ([Leviticus 16:34](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Leviticus+16.34&t=NKJV)) demonstrates this, when the sin of all Israel was atoned for every year at the Day of Atonement, yet not all of Israel was saved.
 #enduringword 
 
+#### v.4
+>The man who says, "I know him," but does not do what he commands is a liar, and the truth is not in him.
+
 #### v.5-6
->But if anyone obeys his word ,God's love is turly made complete in him. This is how we know we are in him: <sup>6</sup>Whoever claims to live in him must walk as Jesus did.
+>But if anyone obeys his word ,God's love is truly made complete in him. This is how we know we are in him: <sup>6</sup>Whoever claims to live in him must walk as Jesus did.
 
 _The Christian no longer loves sin;_ it is the object of his sternest horror: he no longer regards it as a mere trifle, plays with it, or talks of it with unconcern… Sin is dejected in the Christian’s heart, though it is not ejected. Sin may enter the heart, and fight for dominion, but it cannot sit upon the throne.
 #spurgeon 

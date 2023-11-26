@@ -9,6 +9,9 @@
 #### v.13
 >I saw that wisdom is better than folly, just as light is better than darkness.
 
+#### v.19
+>And who knows whether he will be a wise man or a fool? Yet he will have control over all the work into which I have poured my effort and skill under the sun. This too is meaningless.
+
 #### v.24-25
 >A man can do nothing better than to eat and drink and find satisfaction in his work. This too, I see, is from the hand of God, <sup>25</sup>for without him, who can eat or find enjoyment?
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8041d3e08a04fa22",
+        "id": "db1b1f462d0c55a0",
         "type": "tabs",
         "children": [
           {
-            "id": "f51dcbf21901f3f8",
+            "id": "893e6bb377470a1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Ecclesiastes/Eccl3.md",
+                "file": "Reading Journals/Scripture As Communication/Part1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Ecclesiastes/Eccl3.md",
+                "file": "Reading Journals/Scripture As Communication/Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Ecclesiastes/Eccl3.md"
+                "file": "Reading Journals/Scripture As Communication/Part1.md"
               }
             }
           },
@@ -145,8 +145,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f51dcbf21901f3f8",
+  "active": "893e6bb377470a1d",
   "lastOpenFiles": [
+    "Pics/fig2-1.jpg",
+    "Reading Journals/Scripture As Communication/Part1.md",
+    "index.md",
+    "Old Testament/Obadiah.md",
+    "Pics/fig3-1.jpg",
+    "Pics",
+    "Graphics",
+    "New folder",
+    "Reading Journals/Scripture As Communication/Appendices.md",
+    "New Testament/Titus/Titus1.md",
+    "New Testament/1 John/1John2.md",
+    "Old Testament/Jeremiah/Jeremiah22.md",
+    "Old Testament/Ecclesiastes/Eccl9.md",
+    "New Testament/Matthew/Matthew5.md",
+    "Old Testament/Ecclesiastes/Eccl2.md",
+    "Old Testament/Leviticus/Leviticus26.md",
+    "Old Testament/Ecclesiastes/Eccl3.md",
     "Old Testament/Ecclesiastes/Eccl8.md",
     "New Testament/Matthew/Matthew6.md",
     "Eccl6.md",
@@ -157,22 +174,9 @@
     "Old Testament/Deuteronomy/Untitled.md",
     "Apocrypha/Wisdom of Solomon/Wisdom2.md",
     "Old Testament/2 Chronicles/2Chron26.md",
-    "Reading Journals/Scripture As Communication/Appendices.md",
     "New Testament/Ephesians/Ephesians3.md",
     "New Testament/Ephesians/Ephesians4.md",
     "New Testament/Ephesians/Ephesians1.md",
-    "Old Testament/Psalm/Psalm81.md",
-    "Old Testament/Psalm/Psalm72.md",
-    "Old Testament/Psalm/Psalm18.md",
-    "Old Testament/Isaiah/Isaiah40.md",
-    "Old Testament/Psalm/Psalm136.md",
-    "Old Testament/Psalm/Psalm119.md",
-    "Old Testament/Psalm/Psalm6.md",
-    "Untitled.md",
-    "Old Testament/Psalm/Psalm28.md",
-    "Old Testament/Psalm/Psalm20.md",
-    "Reading Journals/Scripture As Communication/Part2.md",
-    "Reading Journals/Scripture As Communication/SaC250-END.md",
     "Apocrypha/Tobit",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",

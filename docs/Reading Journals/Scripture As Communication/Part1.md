@@ -3,17 +3,34 @@ Pages 1-138
 
 #### Terminology and Context for Hermeneutics
 Pages 19-28
-
+1. *Concepts are not what we think about; they are what we think with.* - Kathleen Callow (19)
+2. Hermeneutics is the study of the activity of interpretation.
+3. All reading is interpretation.
+4. Meaning is what we are trying to grasp when we interpret.
+5. *meaning is the communicative intention of the author, which has been inscribed in the text and addressed to the intended audience for purposes of engagement.* (22)
+6. Authorial intention is not their motive but what they actually communicate by intention in a text. The latter is accessible to the reader while the former is not.
+7. Exegesis is the task of carefully studying the Bible in order to determine as well as possible the author's meaning in the original context of writing. (23)
+![[fig2-1.jpg]]
 
 #### A Communication Model of Hermeneutics
 Pages 29-56
-
+1. *None of us is a clean slate. We have been guided, often without much conscious awareness, toward a theoretical understanding of what the Bible is and how it should be approached.* (30)
+2. Two theories to help understand Scripture as communication is speech-act theory and relevance theory.
+3. Speech-act theory insists that verbal utterances not only say things but also do things.
+4. Locution is what is said; illocution is what we verbally accomplish in what we say; perlocution is what the hearer does in response to that utterance.
+5. Relevance theory claims an utterance requires hearers to infer more than is provided in the utterance itself and that they will have to discern what is most relevant to understanding the utterance.
+6. "My stomach is growling" communicates both the explicit information about my stomach's activity and implicit information that I am hungry.
+7. Assumed context refers to the relevant presuppositions shared by speaker and hearer that make communication work.
+8. The implied reader is the reader presupposed by the narrative.
 
 #### Authors, Texts, Readers: Historical Movements and Reactions
 Pages 57-78
-1. *Repeated interaction with a text—particularly with the awareness of one's own presuppositions, the otherness of the text, and the storied nature of the whole—can move one productively toward textual understanding.* (74)
-1. 🔥*At its heart, the hermeneutical process is open-ended, never fully completed. Maybe this should not surprise us, since an interpersonal view of hermeneutics invites the analogy of relationship or friendship, whose goal is not completion for its own sake but continual longing to know and be known.* (74)
-Graphic
+1. Friedrich Schleiermacher (1768-1834) is the "father of modern hermeneutics" who proposed that we can come to further understanding by connecting to the author.
+2. Wilhelm Dilthey (1833-1911) furthered Schleiermacher's ideas by insisting we should try to understand the author better than they understood themselves.
+3. "New Criticism" starkly opposed the need to connect to the author's world to attain meaning. They shifted to the text as the sole vehicle of meaning—insisting the text is autonomous.
+4. *Repeated interaction with a text—particularly with the awareness of one's own presuppositions, the otherness of the text, and the storied nature of the whole—can move one productively toward textual understanding.* (74)
+5. 🔥*At its heart, the hermeneutical process is open-ended, never fully completed. Maybe this should not surprise us, since an interpersonal view of hermeneutics invites the analogy of relationship or friendship, whose goal is not completion for its own sake but continual longing to know and be known.* (74)
+![[fig3-1.jpg]]
 
 
 #### Some Affirmations about *Meaning* from a Communication Model

@@ -100,6 +100,30 @@ Pages 284-285
 #### Appendix D: Epistles: Following an Author's Flow of Thought
 Pages 286-288
 
+##### Basic Guidelines
+1. Use either NASB or ESV to follow connecting words
+2. Divide passage into clauses
+3. Identify and underline connecting words that begin each clause
+4. From clause to clause, identify relationships between clauses by examining connecting words
+5. Keep entire analysis on one page
+
+[Galatians 5:1](Galatians5#v.1) example:
+1a It was for freedom that Christ set us free;
+1b <u>therefore</u> keep standing firm (*result*)
+1c <u>and</u> do not be subject again to a yoke of slavery. (negative-positive)
+
+Logical Connections: The most common types of logical relationships between ideas or clauses in English are listed below. They are typically identified by the connecting word that introduces the second clause or thought.
+
 
 #### Appendix E: How to Go about Topical Studies
 Pages 289-290
+
+1. Determine *if* Scripture speaks to the proposed idea or topic.
+2. Determine *how* Scripture speaks to the proposed idea or topic (i.e., directly or indirectly).
+3. Are there key texts that address the topic as their primary point?
+	1. If so, choose the text as your focal text. Concordance search can help with this.
+	2. Carefully study the text to get its main idea.
+	3. Could be helpful to select several secondary texts to support ideas from the primary text.
+4. If there are no key texts, choose some texts that deal with the topic as a secondary issue.
+5. If choosing a broad biblical topic, consider studying one author's take on that topic rather than selecting verses from across Scripture.
+6. Recognize the value of *not* finding what you were looking for. It's easy to assume the biblical "answer" rather than coming to learn what Scripture has to say for itself.

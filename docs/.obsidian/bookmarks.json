@@ -430,7 +430,57 @@
         {
           "type": "group",
           "ctime": 1699151524302,
-          "items": [],
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1700969017298,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1700969017320,
+                  "path": "Reading Journals/Scripture As Communication/Appendices.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700969017320,
+                  "path": "Reading Journals/Scripture As Communication/Part1.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1700969017320,
+                  "path": "Reading Journals/Scripture As Communication/Part2.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Scripture As Communication"
+            },
+            {
+              "type": "group",
+              "ctime": 1700969045006,
+              "items": [],
+              "title": "Perspectives"
+            },
+            {
+              "type": "group",
+              "ctime": 1700969045006,
+              "items": [],
+              "title": "Systematic Theology"
+            },
+            {
+              "type": "file",
+              "ctime": 1700969045006,
+              "path": "Reading Journals/Studies In The Sermon On The Mount.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1700969045006,
+              "path": "Reading Journals/The Gospel of Christ Crucified.md",
+              "subpath": "#^-"
+            }
+          ],
           "title": "Reading Journals"
         },
         {
