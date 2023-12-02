@@ -12,8 +12,11 @@
 #### v.22
 >“Therefore say to the Israelites, ‘This is what the Sovereign Lord says: It is not for your sake, people of Israel, that I am going to do these things, but for the sake of my holy name, which you have profaned among the nations where you have gone.
 
-#### v.24-25
->"'For I will take you out of the nations; I will gather you from all the countries and bring you back into your own land. <sup>25</sup>I will sprinkle clean water on you, and you will be clean; I will cleanse you from all your impurities and from all your idols.
+#### v.24
+>"'For I will take you out of the nations; I will gather you from all the countries and bring you back into your own land.
+
+#### v.25
+>I will sprinkle clean water on you, and you will be clean; I will cleanse you from all your impurities and from all your idols.
 
 #### v.26
 >I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.

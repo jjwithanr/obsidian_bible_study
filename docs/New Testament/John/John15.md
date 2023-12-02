@@ -24,6 +24,10 @@ Failure to maintain vital connection brings its own penalty—rejection and usel
 The connection is maintained by obedience and prayer. To remain in Christ and to allow his words to remain in oneself means a conscious acceptance of the authority of his word and a constant contact with him by prayer. The prayer request itself must be related to a definite need and must be for an object Jesus himself would desire (see comment on [14:14](John14#v.14)). Jesus never promises to gratify every chance which believers may have. But as long as they are seeking the Lord's will for their lives, Jesus promises to grant every request that will help accomplish this end.
 #merrillctenney 
 
+#### v.9
+>"As the Father has loved me, so have I loved you. Now remain in my love.
+
+
 #### v.10
 >If you obey my commands, you will remain in my love, just as I have obeyed my Father's commands and remain in his love.
 

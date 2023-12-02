@@ -1,15 +1,18 @@
 # Titus 3
 
 ## Overview:
-At the climax of his charge and commands to Titus, Paul concludes with a teaching on the importance of witnessing to the world through the church body's lifestyles. A recurring theme in the letter of Titus is Paul's charge for the chruch to devote themselves to do whatever is good and keep proper control over their passions. 
+At the climax of his charge and commands to Titus, Paul concludes with a teaching on the importance of witnessing to the world through the church body's lifestyles. A recurring theme in the letter of Titus is Paul's charge for the church to devote themselves to do whatever is good and keep proper control over their passions. 
 
+
+#### v.1-2
+>Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, <sup>2</sup>to slander no one, to be peaceable and considerate, and to show true humility toward all men.
 
 #### v.3
 >At one time we too were foolish, disobedient, deceived, and **enslaved by all kinds of passions and pleasures**. We lived in malice and envy, being hate and hating one another.
 
-See [Galations 4:9](Galatians4.md#v.8-9) also.
+See [Galatians 4:9](Galatians4#v.8-9) also.
 
-The attainment of divinely oriented desires is not emphasised here. It is the proper control of all the desires existing within the individual whether spiritual or not. Young people who are filled with passion for the Lord without enough respective self-control will simply become misguided in their own ambitions thinking it God's will all along. 
+The attainment of divinely oriented desires is not emphasized here. It is the proper control of all the desires existing within the individual whether spiritual or not. Young people who are filled with passion for the Lord without enough respective self-control will simply become misguided in their own ambitions thinking it God's will all along. 
 #jj 
 
 #### v.4-5
@@ -36,6 +39,9 @@ That it may be seen that their religion is not barren and worthless, but that it
 
 Christianity obliges all to seek some honest work and calling, and therein to abide with God.
 #matthewhenry 
+
+By appealing to the churches for further funds, he has an opportunity to train them in the practice of "doing what is good" (cf. 3:8). It will further the Gospel and develop their own Christian lives. This situation gives Paul a final opportunity to stress the theme that Christians must be characterized by the practice of noble deeds, thus assuring that their lives will not be "unproductive." Noble deeds are the fruit of the tree of salvation.
+#hiebert [[wealth,work]]
 
 #### v.15
 >Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.

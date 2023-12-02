@@ -39,4 +39,5 @@ See more in [[family#Spurgeon on parents in 3 John 4 3John v 4]].
 #### v.11
 >Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God.
 
-
+The issue, then, is not whether those outside the church are or are not Christian (their status is known), but whether those *within* the church are truly born again. If people claim to believe orthodox theology and do not live righteously, John states, the regeneration of those people should be doubted, for their life shows that they are still a child of the devil.
+#hardsayingsofthebible 

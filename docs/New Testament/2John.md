@@ -29,6 +29,12 @@ The commandment John mentions here was an old one because it was in the \*law (L
 #### v.6
 >And this is love: we walk in obedience to his commands. As you heave heard from the beginning, his commands is that you walk in love.
 
+#### v.7
+>Many deceivers, who do not acknowledge Jesus Christ as coming in the flesh, have gone out into the world. Any such person is the deceiver and the antichrist.
+
+This phrase in 2 John is designed to rule out Christological heresy. Two types of heresy appeared in the second century, arising out of the roots already appearing in the Johannine writings in the first century. The docetic heresy, on the one hand, argued that Jesus was not a real human being (not truly "in the flesh"), but only appeared to be human. He was truly Christ; the Christ was a spirit that appeared to materialize. Being a spirit, of course, he did not die on the cross, but in one way or another only appeared to suffer and die. (The term *docetic* comes from the Greek word meaning "to seem or appear.") The Cerinthian heresy, on the other hand, argued that Jesus was really a human being, but that at his baptism the Christ spirit came upon him, forsaking him at the crucifixion. Therefore the Christ did not die, although Jesus did. Although we do not know exactly what the heretics John is fighting believed (and some of them may have believed an early form of both of these heresies), the phrase in 2 John guards against both of them. And the believer acknowledges that this whole entity, "Jesus Christ," has come from God and is really human. The form of the phraseology in 1 John 4:2-3 stresses Jesus' having come from God and becoming truly incarnate. The form here in 2 John 7 stresses that Jesus remains incarnate and did not in some way "split apart" at death or the ascension. In John's view, an incarnate, truly human, truly divine Jesus Christ presently exists.
+#hardsayingsofthebible 
+
 #### v.8
 >Watch out that you do not lose what you have worked for, but that you may be rewarded fully.
 
