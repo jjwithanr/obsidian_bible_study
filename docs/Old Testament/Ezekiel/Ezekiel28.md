@@ -6,13 +6,13 @@
 #### v.2
 >“Son of man, say to the ruler of Tyre, ‘This is what the Sovereign LORD says: “ ‘In the pride of your heart you say, “I am a god; I sit on the throne of a god in the heart of the seas.” But you are a mere mortal and not a god, though you think you are as wise as a god.
 
-Claiming equality with Yawheh was the sin that casted Lucifer down from heaven.
+Claiming equality with Yahweh was the sin that casted Lucifer down from heaven.
 #jj 
 
 #### v.3
 >Are you wiser than Daniel ? Is no secret hidden from you?
 
-Even in his own day, Daniel was famous for his wisdom ([Daniel 1:20](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Daniel+1.20&t=NKJV), [2:20](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Daniel+2.20&t=NKJV), and [2:48](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Daniel+2.48&t=NKJV)) and God-given insight. This arrogant claim further exposed the pride of the prince of Tyre.
+Even in his own day, Daniel was famous for his wisdom ([Daniel 1:20](Daniel1#v.20), [2:20](Daniel2#v.20), and [2:48](Daniel2#v.48)) and God-given insight. This arrogant claim further exposed the pride of the prince of Tyre.
 
 iii. The example of Daniel is also meaningful because Daniel “was a classic example of a man whose head was not turned by his success.” (Taylor)
 #enduringword 
