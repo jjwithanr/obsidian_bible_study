@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Acts/Acts12.md",
+                "file": "New Testament/James/James1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Acts/Acts12.md",
+                "file": "New Testament/James/James1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Acts/Acts12.md"
+                "file": "New Testament/James/James1.md"
               }
             }
           },
@@ -147,8 +147,10 @@
   },
   "active": "6f90cbd330b40e7a",
   "lastOpenFiles": [
-    "New Testament/Acts/Acts8.md",
+    "Old Testament/Psalm/Psalm55.md",
+    "New Testament/James/James1.md",
     "New Testament/Acts/Acts12.md",
+    "New Testament/Acts/Acts8.md",
     "Old Testament/Numbers/Numbers13.md",
     "Old Testament/Song of Solomon/Song2.md",
     "Old Testament/Song of Solomon/Song1.md",
@@ -172,8 +174,6 @@
     "Old Testament/Ezekiel/Ezekiel36.md",
     "New Testament/John/John4.md",
     "New Testament/Titus/Titus3.md",
-    "New Testament/Galatians/Galatians4.md",
-    "Old Testament/Ecclesiastes/Eccl11.md",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",
     "Pics",

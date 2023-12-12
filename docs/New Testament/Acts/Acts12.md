@@ -10,7 +10,7 @@
 >He had James, the brother of John, put to death with the sword.
 
 And concerning this James, Clement, in the seventh book of Hypotyposes, relates a story which is worthy of mention; telling it as he received it from those who had lived before him. He says that the one who led James to the judgement-seat, when he saw him bearing his testimony, was moved, and confessed that he was himself also a Christian. They were both therefore, he says, led away together; and on the way he begged James to forgive him. And he, after considering a little, said, "Peace be with thee," and kissed him. And thus they were both beheaded at the same time. 
-#eusebius
+#eusebius Bk. II Ch.9 v.1-4 
 
 #### v.3
 >When he saw that this pleased the Jews, he proceeded to seize Peter also. This happened during the Feast of Unleavened Bread.

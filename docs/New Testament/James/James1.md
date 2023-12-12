@@ -27,6 +27,8 @@ Message:
 
 James exhorts his audience to consider it joy whenever they face adversity since we know God is for their growth and edification. God is not the source of our temptations and trying to make us disobey. Rather, he desires that we persevere and that our character would align with his.
 
+Martyrdom - Bk. II ch.23
+
 #### v.2-3
 >Consider it **pure joy**, my brothers, whenever you face trials of many kinds, <sup>3</sup>because you know that the **testing of your faith** develops perseverance.
 
@@ -86,11 +88,17 @@ Now mostly, men who are generous need to have their generosity excited. They wil
 #### v.20
 >for man's anger does not bring about the righteous life that God desires.
 
-We cannot use anger as our device to instruct others in living righteously. Rather, according to [Hebrews 3:13](Hebrews3#v.13) it God's charge for us to encourage one another daliy to prevent their souls from being hardened by sin's deceitfulness.
+We cannot use anger as our device to instruct others in living righteously. Rather, according to [Hebrews 3:13](Hebrews3#v.13) it God's charge for us to encourage one another daily to prevent their souls from being hardened by sin's deceitfulness.
 #jj 
 
+An angry attitude is not the atmosphere in which righteousness flourishes. James stresses this from the positive side when he later says, "Peacemakers who sow in peace raise a harvest of righteousness" (3:18).
+#donaldburdick 
+
 #### v.21
->Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word [planted in you](Luke8.md), which can save you.
+>Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word planted in you, which can save you.
+
+In further preparation for the reception of the Word, one must "get rid of all moral filth." The word translated "get rid of" (GK 700) was primarily used of taking off garments (cf. [Heb 12:1](Hebrews12#v.1), which speaks of throwing off any excessive weight to make ready for the race of faith). The "moral filth and the evil" that are so abundant must be stripped off like dirty clothes in preparation for "accept\[ing\] the word." **The reception of truth must of necessity be marked by humility or meekness (GK 4559).** This is not to be construed as spineless weakness. Instead, it is the quality of a strong man that makes him docile and submissive rather than haughty and rebellious. Only in such a spirit can one fully receive God's truth. That the Word is described as "planted in you" suggests that the readers were believers who already possessed the truth. The phrase "which can save you" simply describes the truth as saving truth. James is not calling for an initial acceptance of that message, but for a full appropriation of the truth as the Christians grows in spiritual understanding.
+#donaldburdick 
 
 #### v.25
 >But the man who **looks intently** into the *perfect law that gives freedom*, and continues to do this, not forgetting what he has heard, but doing it - he will be blessed in what he does.
