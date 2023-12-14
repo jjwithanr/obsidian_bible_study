@@ -77,7 +77,13 @@ I have already referred to the parable of the prodigal son, I will refer to it a
 #### v.11
 >Brothers, do not slander one another. Anyone who speaks against his brother or judges him speaks against the law and judges it. When you judge the law, you are not keeping it, but sitting in judgement on it.
 
-What is said may be true in its content but harsh and unkind in the manner of it presentation.
+What is said may be true in its content but harsh and unkind in the manner of it presentation... The law referred to is probably the command of [Lev 19:18](Leviticus19#v.18): "Love your neighbor as yourself." To speak against your neighbor is to violate this law
+#donaldburdick 
+
+#### v.12
+>There is only one Lawgiver and Judge, the one who is able to save and destroy. But you—who are you to judge your neighbor?
+
+With shattering bluntness, he crushes any right his readers may have claimed to sit in judgement over others. This is not to rule out civil courts and judges,  but it does root out the harsh, unkind, critical spirit that continually finds fault with others.
 #donaldburdick 
 
 #### v.13

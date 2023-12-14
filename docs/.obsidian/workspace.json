@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0360adeeb0d356de",
+        "id": "0ae043c146a65132",
         "type": "tabs",
         "children": [
           {
-            "id": "6f90cbd330b40e7a",
+            "id": "32a103d50c29c84e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/James/James1.md",
+                "file": "New Testament/James/James5.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/James/James1.md",
+                "file": "New Testament/James/James5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/James/James1.md"
+                "file": "New Testament/James/James5.md"
               }
             }
           },
@@ -145,35 +145,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6f90cbd330b40e7a",
+  "active": "32a103d50c29c84e",
   "lastOpenFiles": [
-    "Old Testament/Psalm/Psalm55.md",
     "New Testament/James/James1.md",
+    "New Testament/James/James5.md",
+    "Old Testament/Proverbs/Proverbs11.md",
+    "New Testament/Matthew/Matthew5.md",
+    "New Testament/Galatians/Galatians1.md",
+    "New Testament/2 Corinthians/2Cor1.md",
+    "Old Testament/Psalm/Psalm110.md",
+    "New Testament/1 John/1John2.md",
+    "Old Testament/Genesis/Genesis50.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom6.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom3.md",
+    "Apocrypha/Wisdom of Solomon/Wisdom2.md",
+    "Apocrypha/Sirach/Sirach2.md",
+    "Old Testament/Proverbs/Proverbs20.md",
+    "Old Testament/Proverbs/Proverbs3.md",
+    "New Testament/James/James4.md",
+    "Old Testament/Psalm/Psalm55.md",
     "New Testament/Acts/Acts12.md",
     "New Testament/Acts/Acts8.md",
     "Old Testament/Numbers/Numbers13.md",
     "Old Testament/Song of Solomon/Song2.md",
     "Old Testament/Song of Solomon/Song1.md",
     "Old Testament/Ecclesiastes/Eccl9.md",
-    "New Testament/Matthew/Matthew5.md",
     "Reading Journals/Systematic Theology/6Church.md",
     "New Testament/Romans/Romans2.md",
-    "Topics/temptation.md",
-    "Old Testament/Psalm/Psalm56.md",
-    "Old Testament/Psalm/Psalm130.md",
-    "Old Testament/Ezekiel/Ezekiel28.md",
-    "Old Testament/Daniel/Daniel2.md",
-    "Reading Journals/Perspectives/Perspectives10.md",
-    "New Testament/John/John5.md",
-    "Apocrypha/Sirach/Sirach2.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom2.md",
     "Apocrypha/Sirach",
-    "New Testament/John/John15.md",
-    "Old Testament/Isaiah/Isaiah18.md",
-    "New Testament/John/John3.md",
-    "Old Testament/Ezekiel/Ezekiel36.md",
-    "New Testament/John/John4.md",
-    "New Testament/Titus/Titus3.md",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",
     "Pics",

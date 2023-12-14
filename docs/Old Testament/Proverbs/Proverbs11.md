@@ -17,6 +17,9 @@ It is foolish to deride one's neighbor. This comes from the Hebrew term _buwz_,
 It is foolish to deride one's neighbor. This comes from the Hebrew term _buwz_, which implies contempt or a sneering form of spite. Snide, derogatory attitudes towards other people cause friction and hard feelings. If a man has good judgment, he will remain silent instead of deriding his neighbor. A flurry of insults never gains peace; refusing to say mean things about a neighbor contributes to a good, peaceful relationship (Proverbs 10:19; 29:20). At minimum, the choice to hold one's tongue gives opportunity to rethink before saying something which cannot be taken back.
 #bibleref 
 
+#### v.13
+>A gossip betrays a confidence, but a trustworthy man keeps a secret. 
+
 #### v.23
 >The desire of the righteous ends only in good, but the hope of the wicked only in wrath.
 

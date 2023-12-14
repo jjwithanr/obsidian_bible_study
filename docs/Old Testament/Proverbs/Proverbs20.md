@@ -24,13 +24,16 @@ This character is typical of all who want excellence without putting forth the e
 #### v.19
 >A gossip betrays a confidence; so avoid a man who talks too much.
 
+The first line pictures the gossip as one who goes about revealing secrets, and the second line warns against association with those who are always ready to talk.
+#allenpross 
+
 #### v.21
 >An inheritance quickly gained at the beginning will not be blessed at the end.
 
 #### v.24
 >A man's steps are directed by the Lord. How then can anyone understand his own way?
 
-God's control of our lives is beyond human comprehension. This proverb asks a rhetorical question regarding this topic: since the steps of a mighty person are from the Lord—how, then, can anyone discern or "understand" his way? How can we delude ourselves into thinking that we do not need the Lord when even a strong perosn's activities are divinely prepared? As an example, see Ge 50:20; see also Pr 3:6 for the proper advice in view of this truth.
+God's control of our lives is beyond human comprehension. This proverb asks a rhetorical question regarding this topic: since the steps of a mighty person are from the Lord—how, then, can anyone discern or "understand" his way? How can we delude ourselves into thinking that we do not need the Lord when even a strong person's activities are divinely prepared? As an example, see [Ge 50:20](Genesis50#v.20); see also [Pr 3:6](Proverbs3#v.5-6) for the proper advice in view of this truth.
 #allenpross 
 
 #### v.30

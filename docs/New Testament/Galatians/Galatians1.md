@@ -43,6 +43,9 @@ See more in [[SaC150-160]].
 #### v.11-12
 >I want you to know, brothers, that the gospel I preached is not something that man made up. <sup>12</sup>I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ.
 
+#### v.20
+>I assure you before God that what I am writing you is no lie.
+
 #### v.23
 >They only heard the report: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”
 

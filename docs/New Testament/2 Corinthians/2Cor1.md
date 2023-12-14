@@ -29,6 +29,9 @@ Messages:
 #### v.11
 >as you help us by your prayers. Then many will give thanks on our behalf for the gracious favor granted us in answer to the prayers of many.
 
+#### v.21
+>Now it is God who makes both us and you stand firm in Christ. He anointed us,
+
 #### v.22
 >set his seal of ownership on us, and put his Spirit in our hearts as a deposit, guaranteeing what is to come.
 

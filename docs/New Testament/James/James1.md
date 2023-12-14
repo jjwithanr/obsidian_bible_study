@@ -70,6 +70,9 @@ If we find a man who takes hold of the promises of God with firmness; who **feel
 David Kim quoted Mike Bickle's answer to someone's question about how those living in persecuted nations would receive abundantly more heavenly riches than those in non-persecuted nations. He said although there is a reward for those who *persevere under trial*, those in America and other non-persecuted nations will be rewarded for *enduring under temptations*. God rewards the ones who refuse every distraction that their non-persecuted nation offers and exclusively seek Him.
 #jj 
 
+#### v.16
+>Don't be deceived, my dear brothers.
+
 #### v.17
 >Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.
 

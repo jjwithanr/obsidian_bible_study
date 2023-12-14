@@ -1,4 +1,4 @@
-# Wisdom 2
+# Wisdom of Solomon 2
 
 ## Overview:
 

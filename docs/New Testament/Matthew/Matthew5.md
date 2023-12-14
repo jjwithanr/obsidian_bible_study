@@ -121,6 +121,15 @@ I'd rather die than sin
 If lies were not so common, oaths would be needless. And oaths increase the evil from which they come, by confirming the notion that there is no sin in a lie unless it is sworn to.
 #maclaren 
 
+#### v.35
+>or by the earth, for it his footstool; or by Jerusalem, for it is the city of the Great King.
+
+#### v.36
+>And do not swear by your head, for you cannot make even one hair white or black.
+
+#### v.37
+>Simply let your 'Yes' be 'Yes,' and your 'No,' 'No'; anything beyond this comes from the evil one.
+
 #### v.39
 >But I tell you, Do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also.
 
