@@ -27,6 +27,9 @@ Simple proverbs have enabled the King of Tyre to be successful but he let the af
 Ministry. Ministry does not point to YOUR glory. It shows MY glory. Do whatever it takes to give the glory to me alone, JJ.
 #jj 
 
+#### v.13-15
+>You were in Eden, the garden of God; every precious stone adorned you: ruby, topaz and emerald, chrysolite, onyx and jasper, sapphire, turquoise and beryl. Your settings and mountings were made of gold; on the day you were created they were prepared. <sup>14</sup>You were anointed as a guardian cherub, for so I ordained you. You were on the holy mount of God; you walked among the fiery stones. <sup>15</sup>You were blameless in your ways from the day you were created till wickedness was found in you.
+
 #### v.16
 >Through your widespread trade you were filled with violence, and you sinned. So I drove you in disgrace from the mount of God, and I expelled you, guardian cherub, from among the fiery stones.
 
