@@ -1,4 +1,4 @@
-# Galations 1
+# Galatians 1
 
 ## Overview:
 Theme: Christian Liberty

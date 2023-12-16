@@ -3,6 +3,18 @@
 ## Overview:
 
 
+#### v.1
+>Brothers, I could not address you as spiritual but as worldly—mere infants in Christ.
+
+#### v.2
+>I gave you milk, not solid food, for you were not yet ready for it. Indeed, you are still not ready.
+
+#### v.3
+>You are still worldly. For since there is jealousy and quarreling among you, are you not worldly? Are you not acting like mere men?
+
+#### v.4
+>For when one says, "I follow Paul," and another, "I follow Apollos," are you not mere men?
+
 #### v.6-7
 >I planted the seed, Apollos watered it, but God made it grow. <sup>7</sup>So neither he who plants or he who waters is anything, but only God, who makes things grow.
 

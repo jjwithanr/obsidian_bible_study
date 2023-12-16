@@ -1,4 +1,4 @@
-# Galations 4
+# Galatians 4
 
 ## Overview:
 

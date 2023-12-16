@@ -47,6 +47,9 @@ The word translated “**joy inexpressible**” occurs only here in the New Test
 As we mature in the faith, God gives us the language to more accurately express the cries of our hearts to Him. His Scriptures teaches us how we ought to pray to Him and present our petitions and requests unto Him. Yet, there is one thing that man cannot and will never be able to fully express. Joy. We believe in God and we have joy inexpressible as exemplified by the Trinitarian joy between the Father, Son, and the Holy Spirit.
 #jj 
 
+#### v.9
+>for you are receiving the goal of your faith, the salvation of your souls.
+
 #### v.13
 >Therefore, **prepare your minds for action**; be self-controlled; set your hope fully on the grace to be given you when Jesus Christ is revealed. 
 

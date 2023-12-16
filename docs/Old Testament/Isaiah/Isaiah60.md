@@ -13,6 +13,21 @@ As far as we have the knowledge of God in us, and the favour of God towards us, 
 The Hebrew word (יראה yērâ'eh) does not mean merely that that glory would be visible, but that it would be conspicuous. It would be so bright and luminous that it would be seen afar - like a cloud or column of glory standing over Jerusalem that would be conspicuous to far distant people.
 #barnes 
 
+#### v.9
+>Surely the islands look to me; in the lead are the ships of Tarshish, bringing your sons from afar, with their silver and gold, to the honor of the LORD your God, the Holy One of Israel, for he has endowed you with splendor.
+
+#### v.10
+>"Foreigners will rebuild your walls, and their kings will serve you. Though in anger I struck you, in favor I will show you compassion.
+
+#### v.11
+>Your gates will always stand open, they will never be shut, day or night, so that men may bring you the wealth of the nations-- their kings led in triumphal procession.
+
+#### v.12
+>For the nation or kingdom that will not serve you will perish; it will be utterly ruined.
+
+#### v.13
+>"The glory of Lebanon will come to you, the pine, the fir and the cypress together, to adorn the place of my sanctuary; and I will glorify the place of my feet.
+
 #### v.14
 >The sons of your oppressors will come bowing before you; all who despise you will bow down at your feet and will call you the City of the Lord, Zion of the Holy One of Israel.
 

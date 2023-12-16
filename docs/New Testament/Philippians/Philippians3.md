@@ -47,6 +47,11 @@ But let us forget our failures in so far as these might paralyse our hopes, or m
 The text in context was referring to the good things Paul had accomplished—the "medals" he had won in the race of life. He's saying that unless he puts those accomplishements behind him and bends all his efforts to winning the present race, he will not make it to the finish line. *It's the victories, not the defeats, we are to forget,* lest we glory in them and lose the next reace. **The Bible never tells us to ignore or bury past pain.**
 #charleskraft the last line gives context to Kraft's explanation of the Scriptural context
 
+#### v.15
+>All of us who are mature should take such a view of things. And if on some point you think differently, that too God will make clear to you.
+
+
+
 #### v.18
 >For, as I have often told you before and now say again even with tears, many live as enemies of the cross of Christ.
 

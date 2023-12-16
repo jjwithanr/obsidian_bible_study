@@ -1,4 +1,4 @@
-# Galations 2
+# Galatians 2
 
 ## Overview:
 

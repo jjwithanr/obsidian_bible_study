@@ -56,5 +56,5 @@ On the surface, they seem to be reasonable and wise. But this is only an appeara
 To sum up, v.23 teaches that ascetic rules have the appearance of wisdom for many people in that they seem to be expressions of devotion to God, of humility, and of a commendable discipline of the body. Paul, however, declares that these regulations have nothing to do with real wisdom, and the worship and humility they seem to express are both spurious. **His final appraisal is that asceticism is a dismal failure and not the way to spiritual victory. Christianity is not a religion of prescriptions but of a living relationship with Jesus Christ.**
 #curtisvaughun 
 
-See also [Galations 5:16](Galatians5.md#v.16).
+See also [Galatians 5:16](Galatians5#v.16).
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Job/Job42.md",
+                "file": "New Testament/1 Peter/1Peter2.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ezekiel36",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Job/Job42.md",
+                "file": "New Testament/1 Peter/1Peter2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Job/Job42.md"
+                "file": "New Testament/1 Peter/1Peter2.md"
               }
             }
           },
@@ -130,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,32 +148,32 @@
   },
   "active": "32a103d50c29c84e",
   "lastOpenFiles": [
-    "Old Testament/Job/Job38.md",
-    "Old Testament/Job/Job28.md",
-    "Old Testament/Job/Job14.md",
-    "Old Testament/Job/Job13.md",
-    "Old Testament/Job/Job9.md",
-    "Old Testament/Job/Job2.md",
-    "Old Testament/Job/Job1.md",
-    "Old Testament/Job/Job10.md",
-    "Old Testament/Ezekiel/Ezekiel28.md",
-    "Old Testament/Numbers/Numbers23.md",
-    "Old Testament/Genesis/Genesis6.md",
-    "New Testament/James/James5.md",
-    "New Testament/James/James1.md",
-    "Old Testament/Proverbs/Proverbs11.md",
-    "New Testament/Matthew/Matthew5.md",
+    "New Testament/1 Peter/1Peter4.md",
+    "New Testament/2 Corinthians/2Cor10.md",
+    "Old Testament/Ezekiel/Ezekiel11.md",
     "New Testament/Galatians/Galatians1.md",
-    "New Testament/2 Corinthians/2Cor1.md",
-    "Old Testament/Psalm/Psalm110.md",
-    "New Testament/1 John/1John2.md",
-    "Old Testament/Genesis/Genesis50.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom7.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom6.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom3.md",
-    "Apocrypha/Wisdom of Solomon/Wisdom2.md",
-    "Apocrypha/Sirach/Sirach2.md",
-    "Old Testament/Proverbs/Proverbs20.md",
+    "New Testament/Galatians/Galatians2.md",
+    "New Testament/Colossians/Colossians2.md",
+    "New Testament/1 Thessalonians/1Thess3.md",
+    "New Testament/Galatians/Galatians4.md",
+    "New Testament/1 Peter/1Peter2.md",
+    "New Testament/Galatians/Galatians5.md",
+    "New Testament/1 Corinthians/1Cor3.md",
+    "New Testament/1 Peter/1Peter1.md",
+    "Old Testament/Isaiah/Isaiah14.md",
+    "Topics/sovereign.md",
+    "Old Testament/Ezra/Ezra6.md",
+    "Old Testament/Joshua/Joshua9.md",
+    "Old Testament/Isaiah/Isaiah60.md",
+    "Old Testament/Isaiah/Isaiah56.md",
+    "Old Testament/Exodus/Exodus22.md",
+    "Templates/chapter.md",
+    "Old Testament/Exodus/Exodus20.md",
+    "Old Testament/Psalm/Psalm66.md",
+    "Old Testament/Numbers/Numbers24.md",
+    "Old Testament/Psalm/Psalm45.md",
+    "Old Testament/Ezekiel/Ezekiel32.md",
+    "New Testament/Philippians/Philippians3.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

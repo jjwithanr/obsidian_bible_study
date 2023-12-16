@@ -9,7 +9,7 @@ Paul in deepest anxiety for the new-born Thessalonian Church, had sent Timothy b
 #### v.5
 >For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter might have tempted you and our efforts might have been useless.
 
-Similar to [Galations 4:11](Galatians4.md#v.11).
+Similar to [Galatians 4:11](Galatians4#v.11).
 
 #### v.7
 >Therefore, brothers, in all our distress and persecution we were encouraged about you because of your faith.
