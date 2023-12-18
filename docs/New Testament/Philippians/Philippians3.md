@@ -35,6 +35,12 @@ Growing in our knowledge of Christ coincides with dying to our flesh.
 The ultimate revelation in the Old Testament was to “know” God ([Ex 33:13](Exodus33#v.13)), a relationship available to all the people of the new covenant ([Jer 31:34](Jeremiah31#v.31-34)). This language reflects both the covenant relationship (on the corporate level) and intimate fellowship with God (on the personal level experienced by the prophets). But Paul also connects knowing *Christ with sharing his sufferings and glory.
 #craigkeener 
 
+#### v.11
+>and so, somehow, to attain to the resurrection from the dead.
+
+#### v.12
+>Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me.
+
 #### v.13
 >Brothers, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead,
 
@@ -47,9 +53,23 @@ But let us forget our failures in so far as these might paralyse our hopes, or m
 The text in context was referring to the good things Paul had accomplished—the "medals" he had won in the race of life. He's saying that unless he puts those accomplishements behind him and bends all his efforts to winning the present race, he will not make it to the finish line. *It's the victories, not the defeats, we are to forget,* lest we glory in them and lose the next reace. **The Bible never tells us to ignore or bury past pain.**
 #charleskraft the last line gives context to Kraft's explanation of the Scriptural context
 
+#### v.14
+>I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.
+
 #### v.15
 >All of us who are mature should take such a view of things. And if on some point you think differently, that too God will make clear to you.
 
+Paul concludes this subsection (3:1-16) by stating that "all ... mature" (NASB, KJV perfect) Christians "should take such a view" (v. 15), namely, that believers have not "already been made perfect" (v. 12) in this life, but must continually identify themselves with Christ (vv. 10-11) and press on without distraction in living out their commitment in faith (vv. 9,12-14). He is confident that God will reveal to his readers any disputed point.
+#boydluter
+
+#### v.16
+>I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.
+
+The biggest problem to be faced, however, is not understanding, but application (v.16). Paul knew very well the tendency Christians have not to practice what they already have in Christ.
+#boydluter 
+
+#### v.17
+>Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you.
 
 
 #### v.18

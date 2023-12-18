@@ -12,10 +12,13 @@ From this passage we learn that the **Lord by his Spirit strives with man up to 
 #### v.5
 >The Lord saw how great man's wickedness on the earth had become, and that every inclination of the thoughts of his heart was only evil all the time.
 
-
-
 #### v.6
 >The Lord was grieved that he had made man on the earth, and his heart was filled with pain.
+
+Based on this verse, Rabbi David Hartman described God as the most tragic figure in the Bible. His reasoning? God is repeatedly disappointed by His favorite creature—the human being. The beginning of Genesis is a series of successive frustrations on the part of God, who sets about creating a world that will be good for human beings, only to find that they thwart his plans for the world to such an extent that He ultimately destroys it.
+	Consistent with this tragic sensibility, Nahum Sarna notes that God destroys the world out of sadness rather than anger. Although there are other points in the Torah where God is angry, this time He is simply sad.
+#dennisprager
+
 
 #### v.8
 >But Noah found favor in the eyes of the Lord.

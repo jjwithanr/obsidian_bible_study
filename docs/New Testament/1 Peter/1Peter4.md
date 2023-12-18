@@ -20,6 +20,21 @@ Similar to [Galatians 2:20](Galatians2#v.20).
 #### v.2
 >As a result, he does not live the rest of his earthly life for evil human desires, but rather for the will of God.
 
+#### v.3
+>For you have spent enough time in the past doing what pagans choose to do--living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry.
+
+#### v.4
+>They think it strange that you do not plunge with them into the same flood of dissipation, and they heap abuse on you.
+
+#### v.5
+>But they will have to give account to him who is ready to judge the living and the dead.
+
+Christians are supported in their stand against the ungodly life by the truth of the coming judgement. In both OT and NT, God is the Judge. Yet the NT also shows that the Father has given judgement into Jesus' hands ([Jn 5:22-23](John5#v.22-23)). This judgement is near (4:7); it will be universal, for it will embrace all the living and the dead. In it unbelievers will have to given an account of their lives and will not be able to withstand the divine scrutiny (cf. [Ps 1:5-6](Psalm1#v.5)).
+#edwinblum 
+
+#### v.6
+>For this is the reason the gospel was preached even to those who are now dead, so that they might be judged according to men in regard to the body, but live according to God in regard to the spirit.
+
 #### v.7
 >The end of all things is near. Therefore be clear minded and self-controlled so that you can pray.
 
@@ -33,10 +48,12 @@ See more in [[self-control#1 Peter 4 7 1Peter4 v 7]].
 #barnes 
 
 *You can't love someone when you're always focused on the their weaknesses.*
-Similar to [James 5:20](James5.md#v.20) and taken from [Proverbs 10:12](Proverbs10#v.12).
+Similar to [James 5:20](James5#v.19-20) and taken from [Proverbs 10:12](Proverbs10#v.12). This is how we cultivate [[family]].
 #jj 
 
-This is how we cultivate [[family]].
+This quotation from [Pr 10:12](Proverbs10#v.12) does not mean that our love covers or atones for our sins. In the proverb the meaning is that love does not "stir up" or broadcast sins. So the major idea is that love suffers in silence and bears all things ([1Co 13:5-7](1Cor13#v.5)). Christians forgive faults in others because they know the forgiving grace of God in their own lives.
+#edwinblum 
+
 
 #### v.10-11
 >Each one should use whatever gift he has received to serve others, faithfully administering God's grace in its various forms. <sup>11</sup>If anyone speaks, he should do it as one speaking the very words of God. If anyone serves, he should do it with the strength God provides, so that in all things God may be praised through Jesus Christ. To him be the glory and the power for ever and ever. Amen.

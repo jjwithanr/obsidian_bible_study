@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/1 Peter/1Peter2.md",
+                "file": "New Testament/1 Peter/1Peter4.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/1 Peter/1Peter2.md",
+                "file": "New Testament/1 Peter/1Peter4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/1 Peter/1Peter2.md"
+                "file": "New Testament/1 Peter/1Peter4.md"
               }
             }
           },
@@ -148,7 +147,15 @@
   },
   "active": "32a103d50c29c84e",
   "lastOpenFiles": [
+    "New Testament/1 Corinthians/1Cor13.md",
     "New Testament/1 Peter/1Peter4.md",
+    "New Testament/James/James5.md",
+    "New Testament/John/John5.md",
+    "Old Testament/Psalm/Psalm1.md",
+    "Old Testament/Genesis/Genesis6.md",
+    "Old Testament/Genesis/Genesis1.md",
+    "New Testament/1 Peter/1Peter2.md",
+    "New Testament/Philippians/Philippians3.md",
     "New Testament/2 Corinthians/2Cor10.md",
     "Old Testament/Ezekiel/Ezekiel11.md",
     "New Testament/Galatians/Galatians1.md",
@@ -156,7 +163,6 @@
     "New Testament/Colossians/Colossians2.md",
     "New Testament/1 Thessalonians/1Thess3.md",
     "New Testament/Galatians/Galatians4.md",
-    "New Testament/1 Peter/1Peter2.md",
     "New Testament/Galatians/Galatians5.md",
     "New Testament/1 Corinthians/1Cor3.md",
     "New Testament/1 Peter/1Peter1.md",
@@ -167,13 +173,6 @@
     "Old Testament/Isaiah/Isaiah60.md",
     "Old Testament/Isaiah/Isaiah56.md",
     "Old Testament/Exodus/Exodus22.md",
-    "Templates/chapter.md",
-    "Old Testament/Exodus/Exodus20.md",
-    "Old Testament/Psalm/Psalm66.md",
-    "Old Testament/Numbers/Numbers24.md",
-    "Old Testament/Psalm/Psalm45.md",
-    "Old Testament/Ezekiel/Ezekiel32.md",
-    "New Testament/Philippians/Philippians3.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

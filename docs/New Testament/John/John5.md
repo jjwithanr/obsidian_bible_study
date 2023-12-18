@@ -33,6 +33,9 @@ Wya JWs, Mormons, and Unitarians?
 #### v.21
 >For just as the Father raises the dead and gives them life, even so the Son gives life to whom he is pleased to give it.
 
+#### v.22-23
+>Moreover, the Father judges no one, but has entrusted all judgment to the Son, <sup>23</sup>that all may honor the Son just as they honor the Father. He who does not honor the Son does not honor the Father, who sent him.
+
 #### v.24
 >"I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.
 

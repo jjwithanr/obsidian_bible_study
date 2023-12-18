@@ -36,6 +36,10 @@ Same as [Isaiah 28:16](Isaiah28#v.16). Also mentioned in [Romans 9:33](Romans9#v
 
 Similar to [Galatians 5:17](Galatians5#v.17).
 
+#### v.12
+>Live such good lives among the pagans that, though they accuse you of doing wrong, they may see your good deeds and glorify God on the day he visits us.
+
+
 #### v.13-14
 >Submit yourselves for the Lord's sake to every authority instituted among men: whether to the king, as the supreme authority, <sup>14</sup>or to governors, who are sent by him to punish those who do wrong and to commend those who do right.
 
@@ -47,6 +51,12 @@ Similar to [Galatians 5:17](Galatians5#v.17).
 
 #### v.20
 >But how is it to your credit if you receive a beating for doing wrong and endure it? But if you suffer for doing good and you endure it, this is commendable before God.
+
+#### v.22
+>"He committed no sin, and no deceit was found in his mouth."
+
+Peter has deliberately placed this hymn in the middle of this section, so that it has a central place: Jesus is our example, not just in the way he suffered, but in his obedient submission to the powers of this world.
+#stephenmotyer
 
 #### v.23
 >When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly.
