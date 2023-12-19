@@ -29,7 +29,7 @@ She has showed the highest attachment in her power; and it was, as it is now, a 
 #### v.39
 >Once more he went away and prayed the same thing.
 
-Last night was the first time I saw Edward face to face since March of 2020. Amidst the discouragement of the path he's now on, I wrestle with whether it is the Lord's will for me to keep praying for him. This is the sign. Once I'll return to the prayer closet and *pray the same thing.*
+Last night was the first time I saw Edward face to face since March of 2020. Amidst the discouragement of the path he's now on, I wrestle with whether it is the Lord's will for me to keep praying for him. This is the sign. Once more I'll return to the prayer closet and *pray the same thing.*
 
 When Jesus returned to check on his disciple's status after a short time, they were of a disappointing disposition. Yet, His love for them brought him back to the place of prayer while knowing the Son of Man would be betrayed by his closest friends.
 
@@ -41,3 +41,4 @@ Oh Lord, you're not done with Edward. I just want tickets to the front row seat 
 
 Oh Lord, would your word be hidden in my heart that I might not sin against you. I forget to remember your word. 
 #jj 
+

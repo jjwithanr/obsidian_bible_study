@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.1
+>Then the LORD said to Moses, "Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country."
+
 #### v.2
 >God also said to Moses, "I am the LORD.
 

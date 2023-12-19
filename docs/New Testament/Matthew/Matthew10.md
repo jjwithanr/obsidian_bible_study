@@ -41,6 +41,12 @@ In a sense the apostles were to have more of a public ministry than Jesus himsel
 #### v.28
 >Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.
 
+#### v.29
+>Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father.
+
+#### v.30
+>And even the very hairs of your head are all numbered.
+
 #### v.31
 >So don't be afraid: you are worth more than many sparrows.
 
