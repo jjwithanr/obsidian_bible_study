@@ -21,7 +21,7 @@ The psalmist readily and publicly admits that he "envied the arrogant" and ungod
 #### v.13-14
 >Surely in vain have I kept my heart pure; in vain have I washed my hands in innocence. <sup>14</sup>All day long I have been plagued; I have been punished every morning.
 
-The psalmist confesses that he doubted the value of his own concern with sanctification. Keeping his heart "pure" and his hands "washed...in innocence" expresses his concern for justice and righteousness. The psalmist confesses his self-dobut and envy. **Being "plagued" and "punished" probably refers to his mental turmoil.**
+The psalmist confesses that he doubted the value of his own concern with sanctification. Keeping his heart "pure" and his hands "washed...in innocence" expresses his concern for justice and righteousness. The psalmist confesses his self-doubt and envy. **Being "plagued" and "punished" probably refers to his mental turmoil.**
 #vangemeren 
 
 VanGemeren's comment on verse 14 is so relatable. In this jobless season, I feel I've suffered so much mental turmoil in processing where God has me and where God is leading in this season.
