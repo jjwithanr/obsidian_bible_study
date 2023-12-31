@@ -94,6 +94,9 @@ Similar to [Acts 6:3-4](Acts6#v.3-4).
 Discouragement is based on an erroneous belief. The error is simply that you think you are alone when actually you are not. In the first place, there are many like you. Your discouragement is also based on not remembering that God is with you and that you are never alone. What kind of God would God be if He did not send His Angel to go before us?
 #tozer  
 
+The Christian must have his spirits sustained, in order that he may glorify the Lord. If his spirits are kept up, he will be able to endure trial upon trial... Oh, how much depends on your spirit being supported!... Unless the spirits of God’s people are sustained, they will dishonor their God; they will think harsh things of Him, and perhaps they will speak harsh things against Him, and so the holy name of God will not be had in good repute.
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs537.pdf)
+
 #### v.22
 >Then all of you came to me and said, "Let us send men ahead to spy out the land for us and bring back a report about the route we are to take and the towns we will come to."
 
@@ -144,6 +147,8 @@ The size and strength of the inhabitants, the high fortifications of their large
 
 #### v.38
 >But your assistant, Joshua son of Nun, will enter it. Encourage him, because he will lead Israel to inherit it.
+
+[Spurgeon sermon](https://www.spurgeongems.org/sermon/chs537.pdf)
 
 #### v.39
 >And the little ones that you said would be taken captive, your children who do not yet know good from bad—they will enter the land. I will give it to them and they will take possession of it.

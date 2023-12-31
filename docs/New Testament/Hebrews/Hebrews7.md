@@ -10,6 +10,9 @@ Jesus' identity as high priest is better understood when reading into the histor
 “Let all legalists mark this: **The Law made nothing perfect**. Let the Seventh Day Adventists mark: **The Law made nothing perfect**. Let all those who dream of the Law as a rule of life remember: **The Law made nothing perfect**.” (Newell)
 #enduringword 
 
+The law may lead a man out of the Egypt of his sin, and it may bring him into the wilderness of conviction; there it may provide him with food, and nourish him with some little comfort, but the law can never give rest to the spirit. Into Canaan, Moses can never conduct the Israel of God. This was left for Joshua, whose name, you know, is but another form of the name Jesus. As Joshua, alone, could drive the Canaanites out of the land, and give a portion to all the seed of Israel, so Jesus, alone, can give rest unto the heirs of heaven.
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs537.pdf)
+
 
 #### v.25
 >Therefore he is able to save completely those who come to God through him, because he **always lives to intercede** for them.

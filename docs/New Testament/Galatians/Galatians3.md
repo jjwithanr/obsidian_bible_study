@@ -21,7 +21,7 @@
 #### v.11-12
 >Clearly no one who relies on the law is justified before God, because “the righteous will live by faith.” <sup>12</sup>The law is not based on faith; on the contrary, it says, “The person who does these things will live by them.”
 
-Paul’s knowledge of the \*Old Testament is thorough: he has selected the only two texts in the entire Old Testament that speak of both righteousness and faith together (in v. 6 [Gen 15:6](Genesis15#v.6); here [Hab 2:4](Habukkuk2#v.4)).
+Paul’s knowledge of the \*Old Testament is thorough: he has selected the only two texts in the entire Old Testament that speak of both righteousness and faith together (in v. 6 [Gen 15:6](Genesis15#v.6); here [Hab 2:4](Habakkuk2.md#v.4)).
 #craigkeener 
 
 #### v.13

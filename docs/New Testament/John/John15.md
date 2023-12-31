@@ -44,3 +44,10 @@ Joy logically follows when the disciples realize that the life of Christ in them
 
 Keeping the commandments (here epitomized as love) was supposed to bring joy [(Ps 19:8](Psalm19#v.8) and often in later Jewish teachings).
 #craigkeener 
+
+#### v.26
+>"When the Counselor comes, whom I will send to you from the Father, the Spirit of truth who goes out from the Father, he will testify about me.
+
+Now, our body is the house of the Holy Spirit. He dwells in the body as in a temple, and do you think that He will see His people languish for lack of divine grace while He is present with them? Can it be that He will walk in them and see them famish, perceive their lack and destitution, and not supply their needs? Dream not so harshly of the tender and blessed Spirit, whose name is “the Comforter.” Be it never forgotten that it is His office to supply the needs of God’s people. It is the Holy Spirit’s business to see after the saints. “If I go away,” said Jesus, “I will send the Comforter to you.” So long as they had the personal presence of the Lord Jesus Christ, the disciples could want for nothing
+#spurgeon [sermon](https://www.spurgeongems.org/sermon/chs537.pdf)
+

@@ -4,7 +4,7 @@
 More a dialogue with God than a prophecy
 Time of Writing: 630 B.C. (King Josiah, King Jehoahaz, King Jehoiakim)
 Theme: Trusting God in turmoil and judgement
-Key Scripture: [2:4](Habukkuk2#v.4)
+Key Scripture: [2:4](Habakkuk2.md#v.4)
 
 Chapter 1-1:11 → Babylon to Invade Judah (Judah's sin)
 Chapter 1:12-2:20 → God's Justice, Babylon to be Judged (Babylon's cruelty)
