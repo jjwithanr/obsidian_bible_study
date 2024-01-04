@@ -3,6 +3,14 @@
 ## Overview:
 
 
+#### v.9
+> They will come with weeping;  
+    they will pray as I bring them back.  
+I will lead them beside streams of water  
+    on a level path where they will not stumble,  
+because I am Israel’s father,  
+    and Ephraim is my firstborn son.
+
 #### v.31-34
 >The timing is coming, declares the Lord, when I will make a new **new covenant** with the house of Israel and with the house of Judah.
 >

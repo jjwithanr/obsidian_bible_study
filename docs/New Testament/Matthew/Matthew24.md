@@ -24,6 +24,13 @@ The gospel is testimony to all nations. It proclaims the universal sinfulness of
 #### v.26-27
 >"So if anyone tells you, 'There he is, out in the desert,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it. <sup>27</sup>For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.
 
+#### v.29
+>“Immediately after the distress of those days
+“‘the sun will be darkened,  
+    and the moon will not give its light;  
+the stars will fall from the sky,  
+    and the heavenly bodies will be shaken.'
+
 #### v.35
 >Heaven and earth will pass away, but my words will never pass away.
 

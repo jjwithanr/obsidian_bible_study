@@ -19,6 +19,12 @@
 #### v.16
 >He will speak to the people for you, and it will be as if he were your mouth and as if you were God to him.
 
+#### v.22
+> Then say to Pharaoh, ‘This is what the Lord says: Israel is my firstborn son,
+
+The passage artfully develops the issue of jeopardy to the firstborn: God’s first-born, Israel; Pharaoh’s firstborn; and Moses’ firstborn. Israel is God’s first-born in the sense that they are the first nation to enter into a relationship with him
+#johnwalton 
+
 #### v.24
 >At a lodging place on the way, the Lord met Moses and was about to kill him.
 

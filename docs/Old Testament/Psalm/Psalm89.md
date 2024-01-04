@@ -66,11 +66,14 @@
 #### v.21
 >My hand will sustain him; surely my arm will strengthen him.
 
-#### v.22
->No enemy will subject him to tribute; no wicked man will oppress him.
+The real source of David's power and authority lay in the Lord's presence and purpose. The mighty "hand" and "arm" of the Lord strengthened David in all his exploits. No one could say that David was strong by himself.
+#vangemeren 
 
-#### v.23
->I will crush his foes before him and strike down his adversaries.
+#### v.22-23
+>No enemy will subject him to tribute; no wicked man will oppress him. <sup>23</sup>I will crush his foes before him and strike down his adversaries.
+
+The goal of the Lord's succor was to extend his dominion over earth. Since his purposes stand, no power on earth can thwart him.
+#vangemeren 
 
 #### v.24
 >My faithful love will be with him, and through my name his horn will be exalted.
@@ -81,8 +84,14 @@
 #### v.26
 >He will call out to me, 'You are my Father, my God, the Rock my Savior.'
 
+The messianic ruler will be treated as a son rather than as a vassal or servant. In this relationship he will more fully experience God's power of deliverance as "the Rock my Savior."
+#vangemeren 
+
 #### v.27
 >I will also appoint him my firstborn, the most exalted of the kings of the earth.
+
+The primacy over the nations is given to the Davidic king. He is recognized as "my firstborn," even as Israel is the "first-born" of the Lord ([Ex 4:22](Exodus4#v.22); cf. [Jer 31:9](Jeremiah31#v.9); [Rev 1:5](Revelation1#v.5-6)). Furthermore, he is "the most exalted" king among the nations.
+#vangemeren 
 
 #### v.28
 >I will maintain my love to him forever, and my covenant with him will never fail.

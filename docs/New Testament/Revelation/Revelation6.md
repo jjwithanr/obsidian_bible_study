@@ -7,6 +7,9 @@
 #### v.11
 >Then each of them was given a white robe, and they were told to wait a little longer, until the number of their fellow servants and brothers who were to be killed as they had been was completed.
 
+#### v.13-14
+>and the stars in the sky fell to earth, as figs drop from a fig tree when shaken by a strong wind. <sup>14</sup>The heavens receded like a scroll being rolled up, and every mountain and island was removed from its place.
+
 #### v.17
 >For the great day of their wrath has come, and who can stand?"
 
