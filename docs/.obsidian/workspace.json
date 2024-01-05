@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Exodus/Exodus4.md",
+                "file": "Old Testament/Deuteronomy/Deut7.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"third and fourth generation\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Exodus/Exodus4.md",
+                "file": "Old Testament/Deuteronomy/Deut7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Exodus/Exodus4.md"
+                "file": "Old Testament/Deuteronomy/Deut7.md"
               }
             }
           },
@@ -149,10 +149,14 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
+    "Old Testament/Psalm/Psalm90.md",
+    "Old Testament/Deuteronomy/Deut7.md",
+    "Old Testament/Deuteronomy/Deut5.md",
+    "Old Testament/Exodus/Exodus20.md",
+    "Old Testament/Exodus/Exodus4.md",
     "Old Testament/Psalm/Psalm89.md",
     "New Testament/Revelation/Revelation1.md",
     "Old Testament/Jeremiah/Jeremiah31.md",
-    "Old Testament/Exodus/Exodus4.md",
     "Old Testament/Isaiah/Isaiah34.md",
     "Old Testament/Isaiah/Isaiah40.md",
     "New Testament/Revelation/Revelation6.md",
@@ -171,10 +175,6 @@
     "Old Testament/Habakkuk/Habakkuk3.md",
     "Topics/preaching.md",
     "Old Testament/Isaiah/Isaiah30.md",
-    "Old Testament/Isaiah/Isaiah51.md",
-    "Old Testament/Psalm/Psalm87.md",
-    "Old Testament/Isaiah/Isaiah27.md",
-    "Old Testament/Job/Job26.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

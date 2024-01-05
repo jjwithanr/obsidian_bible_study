@@ -15,11 +15,8 @@
 #### v.4
 >"You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below.
 
-#### v.5
->You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me,
-
-#### v.6
->but showing love to a thousand \[generations\] of those who love me and keep my commandments.
+#### v.5-6
+>You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me, <sup>6</sup>but showing love to a thousand \[generations\] of those who love me and keep my commandments.
 
 #### v.7
 >"You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name.

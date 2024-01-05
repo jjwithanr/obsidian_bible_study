@@ -3,10 +3,13 @@
 ## Overview:
 
 
+#### v.11
+>Who knows the power of your anger? For your wrath is as great as the fear that is due you.
+
 #### v.12
 >Teach us to number our days, that we may gain a heart of wisdom.
 
-Counting our days points us to count our inadequecy in light of death. 
+Counting our days points us to count our inadequacy in light of death. 
 #jj 
 
 #### v.14
