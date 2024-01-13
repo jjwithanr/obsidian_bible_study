@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Deuteronomy/Deut7.md",
+                "file": "Old Testament/Isaiah/Isaiah45.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Deuteronomy/Deut7.md",
+                "file": "Old Testament/Isaiah/Isaiah45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Deuteronomy/Deut7.md"
+                "file": "Old Testament/Isaiah/Isaiah45.md"
               }
             }
           },
@@ -149,8 +149,14 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "Old Testament/Psalm/Psalm90.md",
+    "New Testament/Romans/Romans4.md",
+    "Old Testament/Isaiah/Isaiah45.md",
+    "New Testament/Romans/Romans2.md",
+    "New Testament/Matthew/Matthew8.md",
+    "New Testament/Philippians/Philippians2.md",
     "Old Testament/Deuteronomy/Deut7.md",
+    "psalm99.md",
+    "Old Testament/Psalm/Psalm90.md",
     "Old Testament/Deuteronomy/Deut5.md",
     "Old Testament/Exodus/Exodus20.md",
     "Old Testament/Exodus/Exodus4.md",
@@ -169,12 +175,6 @@
     "New Testament/Acts/Acts17.md",
     "New Testament/Hebrews/Hebrews11.md",
     "New Testament/Romans/Romans6.md",
-    "New Testament/Romans/Romans12.md",
-    "New Testament/Philippians/Philippians2.md",
-    "New Testament/Luke/Luke9.md",
-    "Old Testament/Habakkuk/Habakkuk3.md",
-    "Topics/preaching.md",
-    "Old Testament/Isaiah/Isaiah30.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

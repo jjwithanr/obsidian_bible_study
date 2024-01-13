@@ -21,6 +21,9 @@ The rawest expression of combining faith with expectation is inquiring of God's 
 We should concern ourselves for the souls of our children and servants, who are spiritually sick, who feel not spiritual evils, who know not that which is spiritually good; and we should bring them to Christ by faith and prayers. Observe his self-abasement. Humble souls are made more humble by Christ's gracious dealings with them. Observe his great faith. The more diffident we are of ourselves, the stronger will be our confidence in Christ.
 #matthewhenry 
 
+#### v.11-12
+>I say to you that many will come from the east and the west, and will take their places at the feast with Abraham, Isaac and Jacob in the kingdom of heaven. <sup>12</sup>But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth.”
+
 #### v.20
 >Jesus replied, "Foxes have holes and birds of the air have ness, but the Son of Man has no place to lay his head."
 
