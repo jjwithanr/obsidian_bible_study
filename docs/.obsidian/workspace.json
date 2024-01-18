@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Isaiah/Isaiah45.md",
+                "file": "Old Testament/Psalm/Psalm106.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Isaiah/Isaiah45.md",
+                "file": "Old Testament/Psalm/Psalm106.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Isaiah/Isaiah45.md"
+                "file": "Old Testament/Psalm/Psalm106.md"
               }
             }
           },
@@ -149,8 +149,16 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "New Testament/Romans/Romans4.md",
+    "New Testament/2 Corinthians/2Cor6.md",
+    "Old Testament/Psalm/Psalm106.md",
+    "New Testament/1 Corinthians/1Cor6.md",
+    "Old Testament/Numbers/Numbers16.md",
+    "Old Testament/Deuteronomy/Deut4.md",
+    "Old Testament/Exodus/Exodus25.md",
+    "Old Testament/Genesis/Genesis3.md",
+    "Old Testament/Deuteronomy/Deut32.md",
     "Old Testament/Isaiah/Isaiah45.md",
+    "New Testament/Romans/Romans4.md",
     "New Testament/Romans/Romans2.md",
     "New Testament/Matthew/Matthew8.md",
     "New Testament/Philippians/Philippians2.md",
@@ -167,14 +175,6 @@
     "Old Testament/Isaiah/Isaiah40.md",
     "New Testament/Revelation/Revelation6.md",
     "New Testament/Matthew/Matthew24.md",
-    "Old Testament/Isaiah/Isaiah24.md",
-    "New Testament/Revelation/Revelation4.md",
-    "Old Testament/Ezekiel/Ezekiel1.md",
-    "Old Testament/Isaiah/Isaiah6.md",
-    "New Testament/John/John20.md",
-    "New Testament/Acts/Acts17.md",
-    "New Testament/Hebrews/Hebrews11.md",
-    "New Testament/Romans/Romans6.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",
