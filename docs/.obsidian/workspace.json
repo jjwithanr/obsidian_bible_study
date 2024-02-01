@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalm/Psalm106.md",
+                "file": "New Testament/Matthew/Matthew11.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalm/Psalm106.md",
+                "file": "New Testament/Matthew/Matthew11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalm/Psalm106.md"
+                "file": "New Testament/Matthew/Matthew11.md"
               }
             }
           },
@@ -149,8 +149,14 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "New Testament/2 Corinthians/2Cor6.md",
+    "Old Testament/Isaiah/Isaiah53.md",
+    "New Testament/Matthew/Matthew11.md",
+    "Old Testament/Isaiah/Isaiah42.md",
+    "New Testament/Matthew/Matthew19.md",
+    "New Testament/Matthew/Matthew23.md",
+    "New Testament/Acts/Acts15.md",
     "Old Testament/Psalm/Psalm106.md",
+    "New Testament/2 Corinthians/2Cor6.md",
     "New Testament/1 Corinthians/1Cor6.md",
     "Old Testament/Numbers/Numbers16.md",
     "Old Testament/Deuteronomy/Deut4.md",
@@ -169,12 +175,6 @@
     "Old Testament/Exodus/Exodus20.md",
     "Old Testament/Exodus/Exodus4.md",
     "Old Testament/Psalm/Psalm89.md",
-    "New Testament/Revelation/Revelation1.md",
-    "Old Testament/Jeremiah/Jeremiah31.md",
-    "Old Testament/Isaiah/Isaiah34.md",
-    "Old Testament/Isaiah/Isaiah40.md",
-    "New Testament/Revelation/Revelation6.md",
-    "New Testament/Matthew/Matthew24.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

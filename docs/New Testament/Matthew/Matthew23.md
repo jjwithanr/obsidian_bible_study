@@ -9,6 +9,9 @@
 Where true authority comes from - uprightly walking the path before your hearers.
 #jj 
 
+#### v.4
+>They tie up heavy loads and put them on men's shoulders, but they themselves are not willing to lift a finger to move them.
+
 #### v.9
 >And do not call anyone on earth 'father' for you have one Father, and he is in heaven.
 

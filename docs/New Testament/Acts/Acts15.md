@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.10
+>Now then, why do you try to test God by putting on the necks of the disciples a yoke that neither we nor our fathers have been able to bear?
+
 #### v.20
 >Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.
 

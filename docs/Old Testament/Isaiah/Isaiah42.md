@@ -4,10 +4,11 @@
 
 
 
+#### v.2-3
+>He will not shout or cry out, or raise his voice in the streets. <sup>3</sup>A bruised reed he will not break, and a smoldering wick he will not snuff out. In faithfulness he will bring forth justice;
+
 #### v.4
 >he will not falter or be discouraged till he establishes justice on earth. In his law the islands put their hope."
-
-
 
 #### v.17
 >But those who trust in idols, who say to images, 'You are our gods,' will be turned back in utter shame.

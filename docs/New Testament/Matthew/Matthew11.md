@@ -34,3 +34,12 @@ for he sought not his own glory, but their good: all he did was, in order to bri
 
 As the old mystics used to say, Christ’s burden carries him that carries it. It may add a little weight, but it gives power to soar, and it gives power to progress. It is like the wings of a bird, it is like the sails of a ship.
 #maclaren 
+
+One must find rest in Jesus himself (v.28) before attempting to obey the law as Jesus expounds it ("Take my yoke upon you," v. 29). Otherwise law keeping becomes a terrible bondage. Many whom Jesus addresses because are weary and burdened precisely because of their efforts to keep the Law (cf. [Acts 15:10](Acts15#v.10)). Jesus grants rest to his people by giving them his law (vv. 28-29)! In fact, the subject of the very next passage is that God revealed the fourth commandment to grant rest (the meaning of the word *sabbath*). Jesus' yoke is easy (for "his commands are not burdensome" \[[1 John 5:3](1John5#v.3)\]), and his burden is light (v. 30; unlike others, he helps his followers bear the load; see [23:4](Matthew23#v.4)).
+#chamblin
+
+If Jesus is not offering the yoke of the law, neither is he offering freedom from all constraints. The "yoke" is Jesus' yoke; discipleship must be *to him*...
+The marvelous feature of this invitation is that out of the overwhelming authority (v.27) Jesus encourages the burdened to come to him because he is "gentle \[GK 4558\] and humble \[GK 5424\] in heart." Matthew stresses Jesus' gentleness ([18:1-10](Matthew18); [19:13-15](Matthew19#v.13-15)). Apparently the theme is connected with the messianic servant language ([Isa 42:2-3](Isaiah42#v.2-3); [53:1-2](Isaiah53#v.1-2)) that recurs in [12:15-21](Matthew12).
+The words "and you will find rest for your souls" (cf. v.28) are directly quoted from [Jer 6:16](Jeremiah6#v.16). The entire verse is steeped in OT language; most likely this is a fulfillment passage, where Jesus is saying that the "ancient paths" and "the good way" of [Jer 6:16](Jeremiah6#v.16) lie in taking on his yoke, because he is the one to whom OT Scriptures point... There is also irony here: Jesus offers real rest, while his opponents cannot do more than impose misguided standards of Sabbath rest ([12:1ff.](Matthew12)).
+#dacarson 
+

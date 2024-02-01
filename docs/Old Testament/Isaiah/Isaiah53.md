@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.1-2
+>Who has believed our message and to whom has the arm of the LORD been revealed? <sup>2</sup>He grew up before him like a tender shoot, and like a root out of dry ground. He had no beauty or majesty to attract us to him, nothing in his appearance that we should desire him.
+
 #### v.3
 >He was despised and rejected by men, a man of sorrows, and familiar with suffering. Like one from whom men hide their faces he was despised, and we esteemed him not.
 
