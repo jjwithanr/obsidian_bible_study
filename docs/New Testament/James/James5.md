@@ -59,6 +59,9 @@ James is echoing the words of Jesus in [Mt 5:34-37](Matthew5#v.34), which forbid
 #### v.14
 >Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord.
 
+#### v.15
+>And the prayer offered in faith will make the sick person well; the Lord will raise him up. If he has sinned, he will be forgiven.
+
 #### v.16
 >Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.
 

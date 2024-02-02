@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Matthew/Matthew11.md",
+                "file": "New Testament/1 John/1John5.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"third and fourth generation\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew11.md",
+                "file": "New Testament/1 John/1John5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Matthew/Matthew11.md"
+                "file": "New Testament/1 John/1John5.md"
               }
             }
           },
@@ -149,11 +149,17 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "Old Testament/Isaiah/Isaiah53.md",
+    "New Testament/Matthew/Matthew23.md",
+    "New Testament/1 John/1John5.md",
+    "Old Testament/Deuteronomy/Deut30.md",
+    "New Testament/1 John/1John4.md",
+    "New Testament/James/James5.md",
+    "New Testament/1 Corinthians/1Cor5.md",
+    "Old Testament/Proverbs/Proverbs13.md",
     "New Testament/Matthew/Matthew11.md",
+    "Old Testament/Isaiah/Isaiah53.md",
     "Old Testament/Isaiah/Isaiah42.md",
     "New Testament/Matthew/Matthew19.md",
-    "New Testament/Matthew/Matthew23.md",
     "New Testament/Acts/Acts15.md",
     "Old Testament/Psalm/Psalm106.md",
     "New Testament/2 Corinthians/2Cor6.md",
@@ -169,12 +175,6 @@
     "New Testament/Matthew/Matthew8.md",
     "New Testament/Philippians/Philippians2.md",
     "Old Testament/Deuteronomy/Deut7.md",
-    "psalm99.md",
-    "Old Testament/Psalm/Psalm90.md",
-    "Old Testament/Deuteronomy/Deut5.md",
-    "Old Testament/Exodus/Exodus20.md",
-    "Old Testament/Exodus/Exodus4.md",
-    "Old Testament/Psalm/Psalm89.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

@@ -13,6 +13,9 @@ John warned against believing **every spirit**; that is, we are never to assume 
 Do not confide implicitly in everyone who professes to be under the influences of the Holy Spirit.
 #barnes 
 
+#### v.2-3
+>This is how you recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God, <sup>3</sup>but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world.
+
 #### v.4
 >You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.
 

@@ -39,6 +39,9 @@ The woes are for teachers of the law. Not the zealots of the time wreaking civil
 Jews were no longer allowed to pronounce the sacred name of God in this period. By swearing lesser oaths, some people hoped to avoid the consequences of swearing by God’s name if they could not keep their vow or if their oath turned out to be mistaken. As people swore or vowed by things related to God instead of by God himself, more and more things became substitutes for the divine name and thus became roundabout ways of seeming to swear by God while hoping to buffer the consequences.
 #craigkeener 
 
+#### v.23
+>"Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices—mint, dill and cumin. But you have neglected the more important matters of the law—justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former.
+
 #### v.24
 >You blind guides! You strain out a gnat but swallow a camel.
 

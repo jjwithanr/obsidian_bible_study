@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.5
+>hand this man over to Satan, so that the sinful nature may be destroyed and his spirit saved on the day of the Lord.
+
 #### v.6
 >Your boasting is not good. Don't you know that a little yeast works through the whole batch of dough?
 
