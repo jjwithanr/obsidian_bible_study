@@ -39,14 +39,14 @@ The images of uprooting ([Jer 42:10](Jeremiah42.md#v.10); [45:4](Jeremiah45#v.4)
 #### v.32
 >Jesus called his disciples to him and said, "I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way."
 
+This is to a Gentile crowd. To allegorize, if the Gentiles are hungry for a relationship with the God of Israel, Jesus won't send them away without true life lest they perish in their unbelief.
+#jj 
+
 #### v.34
 >"How many loaves do you have?" Jesus asked.
 
 How much are you able to give me? He was not measuring the amount loaves to determine how many he can multiply. Jesus does not require perfection in outcome and results. He requires a total heart devotion and for us to give Him everything.
 #jj 
-
-
-
 
 
 

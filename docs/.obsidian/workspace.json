@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Matthew/Matthew15.md",
+                "file": "New Testament/Matthew/Matthew16.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew15.md",
+                "file": "New Testament/Matthew/Matthew16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Matthew/Matthew15.md"
+                "file": "New Testament/Matthew/Matthew16.md"
               }
             }
           },
@@ -149,8 +149,8 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "Old Testament/Isaiah/Isaiah9.md",
     "New Testament/Matthew/Matthew15.md",
+    "Old Testament/Isaiah/Isaiah9.md",
     "Old Testament/Isaiah/Isaiah3.md",
     "Old Testament/Isaiah/Isaiah42.md",
     "Old Testament/Isaiah/Isaiah6.md",
