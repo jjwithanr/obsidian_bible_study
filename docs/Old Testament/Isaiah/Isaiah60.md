@@ -49,3 +49,6 @@ We see everything in the natural in part as the sun rises in the day and sets by
 #### v.20
 >Your sun will never set again, and your moon will wane no more; the Lord will be your everlasting light, and your days of sorrow will end.
 
+#### v.21
+>Then all your people will be righteous and they will possess the land forever. They are the shoot I have planted, the work of my hands, for the display of my splendor.
+

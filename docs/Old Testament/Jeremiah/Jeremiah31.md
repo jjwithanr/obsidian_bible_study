@@ -11,6 +11,9 @@ I will lead them beside streams of water
 because I am Israel’s father,  
     and Ephraim is my firstborn son.
 
+#### v.28
+>Just as I watched over them to uproot and tear down, and to overthrow, destroy and bring disaster, so I will watch over them to build and to plant," declares the LORD.
+
 #### v.31-34
 >The timing is coming, declares the Lord, when I will make a new **new covenant** with the house of Israel and with the house of Judah.
 >

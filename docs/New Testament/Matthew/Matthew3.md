@@ -33,6 +33,12 @@ The \*Pharisees themselves are known to have questioned professions of repentanc
 Do not bring your cunning and dissimulation to this work; do not carry your hypocrisy into your professed repentance, but evince your sincerity by forsaking sin, and thus give evidence that this coming to Jordan to be baptized is not an act of dissimulation. No discourse could have been more appropriate or more cutting.
 #barnes 
 
+#### v.9
+>And do not think you can say to yourselves, ‘We have Abraham as our father.’ I tell you that out of these stones God can raise up children for Abraham.
+
+#### v.10
+> The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.
+
 #### v.12
 >His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire."
 

@@ -19,6 +19,9 @@ The sense here is, that they should find no such protection in their idol-gods a
 While the people of God are led by God's hand through new paths, and are illumined with abundant light, and have their difficulties smoothed away from before them. their idolatrous oppressors will be "turned back" or suffer defeat, and be put to shame, finding no help from their idols, whose powerlessness will be openly shown, to the utter confusion of their votaries.
 #pulpitcommentary 
 
+#### v.19
+>Who is blind but my servant, and deaf like the messenger I send? Who is blind like the one committed to me, blind like the servant of the LORD?
+
 #### v.20
 >You have seen many things, but have paid no attention; your ears are open, but you hear nothing."
 

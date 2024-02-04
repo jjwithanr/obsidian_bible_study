@@ -17,5 +17,6 @@ This is the only place in Scripture where a supernatural creature is designated 
 #### v.5
 >"Woe to me!" I cried. "I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the Lord Almighty."
 
-
+#### v.10
+>Make the heart of this people calloused; make their ears dull and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed."
 

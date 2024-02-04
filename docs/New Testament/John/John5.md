@@ -50,8 +50,8 @@ Resurrection of the both the righteous and the wicked. Similar to [[Revelation20
 #### v.38
 >nor does his word dwell in you, for you do not believe the one he sent.
 
-#### v.39
->You diligently study the Scriptures because you think that by them you possess eternal life. These are the Scriptures that testify about me,
+#### v.39-40
+>You diligently study the Scriptures because you think that by them you possess eternal life. These are the Scriptures that testify about me, <sup>40</sup>yet you refuse to come to me to have life.
 
 #### v.41
 >"I do not accept praise from men,
