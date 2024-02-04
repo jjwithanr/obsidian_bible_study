@@ -9,7 +9,7 @@
 #### v.2-3
 >He replied, "When evening comes, and you say, 'It will be fair weather, for the sky is red,' <sup>3</sup>and in the morning, 'Today it will be stormy, for the sky is red and overcast.' You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.
 
-These \[signs of the times\] testify to Jesus and the kingdom now dawning (cf. [11:4-6](Matthew11#v.4); [12:28](Matthew12#v.28)). The proof that they cannot discern the signs is simply that they ask for a sign (v.1)!
+These \[signs of the times\] testify to Jesus and the kingdom now dawning (cf. [11:4-6](Matthew11#v.4-6); [12:28](Matthew12#v.28-29)). The proof that they cannot discern the signs is simply that they ask for a sign (v.1)!
 #dacarson 
 
 #### v.4

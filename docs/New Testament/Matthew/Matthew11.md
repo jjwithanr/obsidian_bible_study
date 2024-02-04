@@ -2,8 +2,10 @@
 
 ## Overview:
 
-#### v.6
->And blessed is he who does not take offense at Me.”
+
+
+#### v.4-6
+>Jesus replied, "Go back and report to John what you hear and see: <sup>5</sup>The blind receive sight, the lame walk, those who have leprosy are cured, the deaf hear, the dead are raised, and the good news is preached to the poor. <sup>6</sup>And blessed is he who does not take offense at Me.”
 
 That is, happy is he who shall not take offence at my poverty and lowliness of life, so as to reject me and my doctrine. Happy is the one who can, notwithstanding that poverty and obscurity, see the evidence that I am the Messiah, and follow me.
 #barnes
