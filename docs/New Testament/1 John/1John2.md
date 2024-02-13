@@ -97,6 +97,9 @@ Gospel teachers aren’t new truth dispensers. We are dispensers of the very old
 And so this tells us how teachers ought to be teaching. Our goal is to lead people to a further grasp of the gospel. That’s it. You start teaching new and special things then nobody needs you as a teacher. But if you are a teacher that is laboring to help people grab hold of Jesus and apply the gospel then you are much needed in the kingdom.
 [article link](http://www.mikeleake.net/2014/10/does-1-john-227-mean-i-dont-need-my-sunday-school-teacher.html)
 
+#### v.28
+>And now, dear children, continue in him, so that when he appears we may be confident and unashamed before him at his coming.
+
 #### v.29
 >If you know that he is righteous, you know that everyone who does what is right has been born of him.
 

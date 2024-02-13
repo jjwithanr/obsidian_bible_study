@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.4
+>"Tell us, when will these things happen? And what will be the sign that they are all about to be fulfilled?"
+
 #### v.9
 >"You must be on your guard. You will be handed over to the local councils and flogged in the synagogues. On account of me you will stand before governors and kings as witnesses to them.
 

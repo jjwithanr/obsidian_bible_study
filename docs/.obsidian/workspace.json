@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Matthew/Matthew16.md",
+                "file": "New Testament/Matthew/Matthew24.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew16.md",
+                "file": "New Testament/Matthew/Matthew24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Matthew/Matthew16.md"
+                "file": "New Testament/Matthew/Matthew24.md"
               }
             }
           },
@@ -149,32 +149,34 @@
   },
   "active": "7552c7b3b3e58f1d",
   "lastOpenFiles": [
-    "New Testament/Matthew/Matthew12.md",
+    "Old Testament/Amos/Amos8.md",
+    "New Testament/Matthew/Matthew24.md",
+    "Apocrypha/2 Maccabees/2Macc8.md",
+    "Apocrypha/1 Maccabees/1Macc1.md",
+    "Apocrypha/2 Maccabees",
+    "Apocrypha/1 Maccabees",
+    "Old Testament/Daniel/Daniel12.md",
+    "Old Testament/Daniel/Daniel11.md",
+    "New Testament/Colossians/Colossians1.md",
+    "New Testament/Romans/Romans10.md",
+    "New Testament/Acts/Acts17.md",
+    "New Testament/Acts/Acts11.md",
+    "New Testament/Matthew/Matthew13.md",
+    "New Testament/1 John/1John2.md",
+    "New Testament/1 Thessalonians/1Thess2.md",
+    "New Testament/1 Corinthians/1Cor15.md",
+    "New Testament/Mark/Mark13.md",
+    "Old Testament/Ezekiel/Ezekiel32.md",
+    "Old Testament/Isaiah/Isaiah13.md",
+    "Old Testament/Jeremiah/Jeremiah10.md",
+    "Old Testament/Jeremiah/Jeremiah51.md",
+    "New Testament/1 Corinthians/1Cor1.md",
+    "Old Testament/Joshua/Joshua21.md",
     "New Testament/Matthew/Matthew16.md",
+    "New Testament/Matthew/Matthew12.md",
     "New Testament/Matthew/Matthew11.md",
     "New Testament/Matthew/Matthew15.md",
     "Old Testament/Isaiah/Isaiah9.md",
-    "Old Testament/Isaiah/Isaiah3.md",
-    "Old Testament/Isaiah/Isaiah42.md",
-    "Old Testament/Isaiah/Isaiah6.md",
-    "Old Testament/Deuteronomy/Deut29.md",
-    "Old Testament/Jeremiah/Jeremiah31.md",
-    "Old Testament/Jeremiah/Jeremiah24.md",
-    "Old Testament/Jeremiah/Jeremiah12.md",
-    "Old Testament/Jeremiah/Jeremiah11.md",
-    "Old Testament/Jeremiah/Jeremiah1.md",
-    "Old Testament/Jeremiah/Jeremiah45.md",
-    "Old Testament/Jeremiah/Jeremiah42.md",
-    "New Testament/Matthew/Matthew1.md",
-    "New Testament/Matthew/Matthew3.md",
-    "New Testament/John/John5.md",
-    "Old Testament/Isaiah/Isaiah60.md",
-    "New Testament/1 John/1John5.md",
-    "New Testament/Matthew/Matthew23.md",
-    "Old Testament/Deuteronomy/Deut30.md",
-    "New Testament/1 John/1John4.md",
-    "New Testament/James/James5.md",
-    "New Testament/1 Corinthians/1Cor5.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

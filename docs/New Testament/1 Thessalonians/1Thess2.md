@@ -59,5 +59,7 @@ Once received, this word of God becomes an active power operating continually in
 #### v.16
 >in their effort to keep us from speaking to the Gentiles so that they may be saved. In this way they always heap up their sins to the limit. The wrath of God has come upon them at last.
 
+#### v.19
+>For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you?
 
 

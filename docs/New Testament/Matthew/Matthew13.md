@@ -25,6 +25,12 @@ For example, the parables of the soils not only says that the kingdom advances s
 #### v.31-32
 >He told them another parable: "The kingdom of heaven is like a mustard seed, which a man took and planted in his field. <sup>32</sup>Though it is the smallest of all your seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds of the air come and perch in its branches."
 
+#### v.39
+>and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels.
+
+#### v.40
+>"As the weeds are pulled up and burned in the fire, so it will be at the end of the age.
+
 #### v.41
 >The Son of Man will send out his angels, and they will weed out of his kingdom everything that causes sin and all who do evil.
 
@@ -36,6 +42,9 @@ What is clear is that Jesus ascribes to himself the role of eschatological Judge
 
 When a person sees it and hears it, it is his duty to sacrifice all that hinders his obtaining it, and to seek it with the earnestness with which other people seek for gold. The truth often lies buried: it is like rich veins of ore in the sacred Scriptures; it must be searched out with diligence, and its discovery will repay a man for all his sacrifices, [Luke 14:33](Luke14#v.33); [Philippians 3:8](Philippians3#v.8-9).
 #barnes 
+
+#### v.49-50
+>This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous <sup>50</sup>and throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
 
 #### v.52
 >He said to them, "Therefore every teacher of the law who has been instructed about the kingdom of heaven is like the owner of a house who brings out his storeroom new treasures as well as old."

@@ -19,6 +19,8 @@ The believers in Jerusalem marvel that God has given “even the Gentiles” (cf
 #### v.26
 >and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.
 
+#### v.28
+>One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire ~~Roman~~ world. (This happened during the reign of Claudius.)
 
 #### v.29
 >The disciples, each according to his ability, decided to provide help for the brothers living in Judea.

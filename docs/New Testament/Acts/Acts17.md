@@ -6,6 +6,9 @@
 #### v.5
 >But the Jews were jealous; so they rounded up some bad characters from the marketplace, formed a mob and started a riot in the city. They rushed to Jason's house in search of Paul and Silas in order to bring them out to the crowd.
 
+#### v.6
+>But when they did not find them, they dragged Jason and some other brothers before the city officials, shouting: "These men who have caused trouble all over the world have now come here,
+
 #### v.11
 >Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.
 

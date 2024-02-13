@@ -21,11 +21,8 @@
 #### v.6
 >I will drench the land with your flowing blood all the way to the mountains, and the ravines will be filled with your flesh.
 
-#### v.7
->When I snuff you out, I will cover the heavens and darken their stars; I will cover the sun with a cloud, and the moon will not give its light.
-
-#### v.8
->All the shining lights in the heavens I will darken over you; I will bring darkness over your land, declares the Sovereign LORD.
+#### v.7-8
+>When I snuff you out, I will cover the heavens and darken their stars; I will cover the sun with a cloud, and the moon will not give its light. <sup>8</sup>All the shining lights in the heavens I will darken over you; I will bring darkness over your land, declares the Sovereign LORD.
 
 #### v.9
 >I will trouble the hearts of many peoples when I bring about your destruction among the nations, among lands you have not known.

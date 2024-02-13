@@ -12,6 +12,9 @@
 There were religious festivals in surrounding cultures (see comment on Ex 20:8-11), but only Israel was commanded to obey the sabbath law and cease all work (see comment on Ex 31:12-17). This restriction on trade caused friction and apparently contributed to corrupt business practices as a way of **“making up” the losses**.
 #johnwalton 
 
+#### v.9-10
+>“In that day,” declares the Sovereign Lord, “I will make the sun go down at noon and darken the earth in broad daylight. <sup>10</sup>I will turn your religious festivals into mourning and all your singing into weeping. I will make all of you wear sackcloth and shave your heads. I will make that time like mourning for an only son and the end of it like a bitter day.
+
 #### v.11
 >"The days are coming," declares the Sovereign Lord, "when I will send a famine through the land - not a famine of food or a thirst for water, but a famine of **hearing the words of the Lord.**
 

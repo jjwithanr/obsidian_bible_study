@@ -39,7 +39,8 @@ Do not let us continue to say, in _effect_, "Who shall ascend into heaven, that
 #### v.17
 >Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.
 
-
+#### v.18
+>But I ask: Did they not hear? Of course they did: "Their voice has gone out into all the earth, their words to the ends of the world."
 
 
 
