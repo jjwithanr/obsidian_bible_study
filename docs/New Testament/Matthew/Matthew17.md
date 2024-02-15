@@ -18,6 +18,9 @@ This was spoken to confirm the disciples; to make known to them that it was thei
 Part of the lesson here is the potency of genuine faith. In giving this reminder, Christ once again mentions the tiny mustard seed as a metaphor for living, active faith ([Matthew 13:31–32](Matthew13#v.31-32)).
 #bibleref 
 
+#### v.22-23
+>When they came together in Galilee, he said to them, "The Son of Man is going to be betrayed into the hands of men. <sup>23</sup>They will kill him, and on the third day he will be raised to life." And the disciples were filled with grief.
+
 #### v.27
 >"But so that we may not offend them, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours."
 

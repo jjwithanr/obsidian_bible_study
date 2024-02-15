@@ -27,6 +27,9 @@ These \[signs of the times\] testify to Jesus and the kingdom now dawning (cf. [
 The disciples have seen Jesus for who He truly is. Wonder begets intimate knowledge.
 #jj 
 
+#### v.21
+>From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, chief priests and teachers of the law, and that he must be killed an on the third day be raised to life.
+
 #### v.23
 >Jesus turned and said to Peter, "Get behind me, Satan! You are a stumbling block to me; you do not have in mind the things of God, but the things of men."
 
