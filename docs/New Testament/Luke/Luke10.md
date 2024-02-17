@@ -31,6 +31,9 @@
 The only way to justify oneself is to limit the extent of the law's demand and consequently limit one's own responsibility. This maneuver not only fails but has an opposite effect. Jesus will change the man's very words ("Who is my neighbor?") from a passive to an active sense (v.36).
 #walterliefield 
 
+#### v.32
+>So too, a Levite, when he came to the place and saw him, passed by on the other side.
+
 #### v.36
 >"Which of these three do you think was a neighbor to the man who fell into the hands of robbers?"
 

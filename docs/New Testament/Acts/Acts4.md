@@ -3,6 +3,13 @@
 ## Overview:
 
 
+
+#### v.11
+>He is "'the stone you builders rejected, which has become the capstone.'
+
+God salvaged the stone that the builders discarded and built another temple, the end-time temple not made with hands ([Ps. 118:22](Psalm118#v.22); [Luke 20:17](Luke20#v.17)). As a spiritual temple, it replaces the leaders’ physical temple as the place where God is present among the people.
+#davidgarland #teachthetext 
+
 #### v.12
 >Salvation is found in no one else, for there is **no other name under heaven given to men by which we must be saved.**
 
@@ -20,6 +27,15 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.24
 >When they heard this, they raised their voices together in prayer to God. "Sovereign Lord," they said, "you made the heaven and the earth and the sea, and everything in them.
 
+The church does not complain to God about what happened to Peter and John. Instead, they first turn to Scripture ([Ps. 2](Psalm2)) to acknowledge God’s sovereign authority. The maker of heaven and earth is still in control even when enemies rage against God’s people as they did against God’s Son.
+#davidgarland #teachthetext 
+
+#### v.27
+>Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.
+
+Second, in the church's prayer the sufferings of Christian believers are related directly to the sufferings of Christ and inferentially to the sufferings of God's righteous servants in the OT. This theme of the union of the sufferings of Christ and those of his own people is a theme that is developed in many ways throughout the NT (cf. esp. Mk 8-10; [Ac 9:4-5](Acts9#v.4-5); [Ro 8:17](Romans8#v.17); [Col 1:24](Colossians1#v.24); [1Pe 2:20-25](1Peter2#v.20); [3:14](1Peter3#v.14)-[4:2](1Peter4#v.2); [4:12-13](1Peter4#v.12-13)). It reaches its loftiest expression in Paul's metaphor of the body of Christ.
+#davidgarland #teachthetext 
+
 #### v.28
 >They did what your power and will had decided beforehand should happen.
 
@@ -32,7 +48,7 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.32
 >All the believers were one in heart and mind. No one claimed that any of his possessions was his own, but they shared everything they had.
 
-Theologically, the early believers considered themselves the righteous remnant within Israel. So Dt 15:4 was undoubtedly in their mind, that if they wanted God to bless them, there should be no poor among them.
+Theologically, the early believers considered themselves the righteous remnant within Israel. So [Dt 15:4](Deut15#v.4) was undoubtedly in their mind, that if they wanted God to bless them, there should be no poor among them.
 #longnecker
 
 #### v.33
@@ -43,3 +59,7 @@ Theologically, the early believers considered themselves the righteous remnant w
 
 Barnabas is the redeemed rich young ruler. Only with God is this possible.
 #jj 
+
+The field that Barnabas sells recalls the field that Judas bought with the blood money for betraying Jesus ([1:18](Acts1#v.18)). Barnabas is the antithesis of Judas as one who sacrificially gives up property to serve others. Ananias is Judas’s spiritual match as an example of selfishness. As a Levite, Barnabas is also the antithesis to the Levite who ignored the mugging victim on the roadway and passed by on the other side in Jesus’s parable ([Luke 10:32](Luke10#v.32)). He shows compassion to the disadvantaged. Levites were not accorded an allotment in the land ([Num. 18:20](Numbers18#v.20), [24](Numbers18#v.24); [Deut. 10:9](Deut10#v.9)), but Barnabas’s property may have been in his native Cyprus. Regardless of where this property came from, as a Christian, Barnabas fully recognizes that “the LORD is \[his] inheritance” [(Deut. 10:9](Deut10#v.9)), and he does not need this land.
+#davidgarland #teachthetext 
+

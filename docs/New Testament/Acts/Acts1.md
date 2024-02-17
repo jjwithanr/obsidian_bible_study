@@ -36,6 +36,9 @@ Jesus' promise and encounter with them stirred their community to devote themsel
 The disciples were men of urgency, mission, excitement, and wonder, yet I believe the Lord provided them a mother to care for them and ensure they were looked after in the hectic sequence of events that just happened.
 #jj
 
+#### v.18
+>(With the reward he got for his wickedness, Judas bought a field; there he fell headlong, his body burst open and all his intestines spilled out.
+
 #### v.24-25
 >Then they prayed, "Lord, you know everyone's heart. Show us which of these two you have chosen <sup>25</sup>to **take over this apostolic ministry**, which Judas left to go where he belongs."
 

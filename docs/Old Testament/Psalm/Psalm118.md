@@ -10,6 +10,9 @@
 #### v.6
 >The Lord is with me; I will not be afraid. What can man do to me?
 
+#### v.22
+>The stone the builders rejected has become the capstone;
+
 #### v.24
 >This is the day the Lord has made; let us rejoice and be glad in it.
 

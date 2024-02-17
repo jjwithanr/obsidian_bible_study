@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a10f4d5aecc05ff",
+        "id": "759671d77c51662c",
         "type": "tabs",
         "children": [
           {
-            "id": "d29c07c86cea392f",
+            "id": "13008e42b6dc35ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Matthew/Matthew26.md",
+                "file": "Old Testament/Jeremiah/Jeremiah14.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Matthew/Matthew26.md",
+                "file": "Old Testament/Jeremiah/Jeremiah14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Matthew/Matthew26.md"
+                "file": "Old Testament/Jeremiah/Jeremiah14.md"
               }
             }
           },
@@ -147,10 +147,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d29c07c86cea392f",
+  "active": "13008e42b6dc35ef",
   "lastOpenFiles": [
-    "New Testament/Matthew/Matthew4.md",
+    "Old Testament/Jeremiah/Jeremiah14.md",
+    "Old Testament/Judges/Judges1.md",
+    "New Testament/Acts/Acts4.md",
+    "Old Testament/Psalm/Psalm2.md",
+    "New Testament/Luke/Luke20.md",
+    "Old Testament/Psalm/Psalm118.md",
+    "Old Testament/Numbers/Numbers18.md",
+    "New Testament/Acts/Acts1.md",
+    "New Testament/Luke/Luke10.md",
+    "Old Testament/Deuteronomy/Deut10.md",
     "New Testament/Matthew/Matthew26.md",
+    "New Testament/Matthew/Matthew4.md",
     "New Testament/Matthew/Matthew24.md",
     "Old Testament/Jeremiah/Jeremiah49.md",
     "Old Testament/Jeremiah/Jeremiah25.md",
@@ -167,16 +177,6 @@
     "Apocrypha/2 Maccabees",
     "Apocrypha/1 Maccabees",
     "Old Testament/Daniel/Daniel12.md",
-    "Old Testament/Daniel/Daniel11.md",
-    "New Testament/Colossians/Colossians1.md",
-    "New Testament/Romans/Romans10.md",
-    "New Testament/Acts/Acts17.md",
-    "New Testament/Acts/Acts11.md",
-    "New Testament/Matthew/Matthew13.md",
-    "New Testament/1 John/1John2.md",
-    "New Testament/1 Thessalonians/1Thess2.md",
-    "New Testament/1 Corinthians/1Cor15.md",
-    "New Testament/Mark/Mark13.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",
