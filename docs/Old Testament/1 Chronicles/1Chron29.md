@@ -28,7 +28,7 @@ God loves cheerful givers ([2Co 9:7](2Cor9#v.7)).
 #### v.12
 >Wealth and honor come from you; you are the ruler of all things. In your hands are strength and power to exalt and give strength to all.
 
-The truth that "everything" we have "comes from" God is the foundation for the doctrine of stewardship. Its basis is this: since our property is his ([Ps 24:1](Psalm24#v.1)), and since we hold it only temporarily and in trust (1Ch 29:15-16), it should therefore be used for him ([Lk 17:10](Luke17#v.10)).
+The truth that "everything" we have "comes from" God is the foundation for the doctrine of stewardship. Its basis is this: since our property is his ([Ps 24:1](Psalm24.md#v.1)), and since we hold it only temporarily and in trust (1Ch 29:15-16), it should therefore be used for him ([Lk 17:10](Luke17#v.10)).
 #payne 
 
 #### v.14

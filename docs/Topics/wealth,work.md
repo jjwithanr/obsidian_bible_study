@@ -51,7 +51,7 @@ We cannot expect that he will work a miracle in answer to our prayers; **we cann
 This is a similar sentiment to Paul Washer's distinction of faith and presumption. Most of us struggle with the sin of unbelief which is believing God is unable to carry something out; yet, there is a sin that has gone long unseen called presumption which is believing God is able to carry something out that He did not say he would.
 #jj 
 
-### Barnes on [Psalm 127:2](Psalm127#v.2)
+### Barnes on [Psalm 127:2](Psalm127.md#v.2)
 
 It is vain for you to rise up early - The psalmist does not here say that it is improper to rise early; or that there could be no advantage in it; or that people would be more likely to be successful in their undertakings if they did not rise early; but that, although this was done, they would be still altogether dependent on God. Mere early rising, without his blessing, would not secure what they hoped to accomplish, for everything is still in the hand of God. Health, strength, clearness of mind, and success, are all under his control; and though early rising may tend to produce all these - as it does in fact - yet still people are not the less dependent on God for success.
 

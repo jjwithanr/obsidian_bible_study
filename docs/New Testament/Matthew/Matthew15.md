@@ -18,7 +18,7 @@ The point of Jesus’ response to his disciples is: Do not worry about the Phari
 Religious doctrine is not inaptly compared to a plant. See [1 Corinthians 3:6-8](1Cor3#v.6-7). It is planted in the mind for the purpose of producing fruit in the life, or right conduct. Jesus here says that all those doctrines of which his Father was not the author must be rooted up or corrected.
 #barnes 
 
-Israel often saw herself as a plant God had planted ([Ps 1:3](Psalm1#v.3); [Isa 60:21](Isaiah60#v.21)), and the prophets turned the image against them [(Isa 5:1-7](Isaiah5)). Jesus is saying here that the Pharisees, the leaders of the Jewish people, are not truly part of God's planting. This shocking idea has already been hinted at in [3:9](Matthew3#v.9); [8:11-12](Matthew8#v.11-12) and will recur.
+Israel often saw herself as a plant God had planted ([Ps 1:3](Psalm1.md#v.3); [Isa 60:21](Isaiah60#v.21)), and the prophets turned the image against them [(Isa 5:1-7](Isaiah5)). Jesus is saying here that the Pharisees, the leaders of the Jewish people, are not truly part of God's planting. This shocking idea has already been hinted at in [3:9](Matthew3#v.9); [8:11-12](Matthew8#v.11-12) and will recur.
 #dacarson 
 
 #### v.14

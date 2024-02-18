@@ -7,7 +7,7 @@
 #### v.11
 >He is "'the stone you builders rejected, which has become the capstone.'
 
-God salvaged the stone that the builders discarded and built another temple, the end-time temple not made with hands ([Ps. 118:22](Psalm118#v.22); [Luke 20:17](Luke20#v.17)). As a spiritual temple, it replaces the leaders’ physical temple as the place where God is present among the people.
+God salvaged the stone that the builders discarded and built another temple, the end-time temple not made with hands ([Ps. 118:22](Psalm118.md#v.22); [Luke 20:17](Luke20#v.17)). As a spiritual temple, it replaces the leaders’ physical temple as the place where God is present among the people.
 #davidgarland #teachthetext 
 
 #### v.12
@@ -27,7 +27,7 @@ It is significant that Peter makes this statement in front of Jewish leaders. Th
 #### v.24
 >When they heard this, they raised their voices together in prayer to God. "Sovereign Lord," they said, "you made the heaven and the earth and the sea, and everything in them.
 
-The church does not complain to God about what happened to Peter and John. Instead, they first turn to Scripture ([Ps. 2](Psalm2)) to acknowledge God’s sovereign authority. The maker of heaven and earth is still in control even when enemies rage against God’s people as they did against God’s Son.
+The church does not complain to God about what happened to Peter and John. Instead, they first turn to Scripture ([Ps. 2](Psalm2.md)) to acknowledge God’s sovereign authority. The maker of heaven and earth is still in control even when enemies rage against God’s people as they did against God’s Son.
 #davidgarland #teachthetext 
 
 #### v.27

@@ -1,6 +1,6 @@
 # Morning
 
-### Barnes on [Psalm 92:2](Psalm92#v.2)
+### Barnes on [Psalm 92:2](Psalm92.md#v.2)
 In the morning - That is, there is a fitness in doing this in the morning; or, there are special reasons why we should do this at that time.
 
 (a) We have been preserved through the dangers of the night; dangers when we were asleep, unconscious, and defenseless.

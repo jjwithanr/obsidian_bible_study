@@ -34,7 +34,7 @@ The elect are the Jews.
 >Here is a trustworthy saying: If we died with him, we will also live with him; <sup>12</sup>if we endure, we will also reign with him. If we disown him, he will also disown us; <sup>13</sup>if we are faithless, he will remain faithful, for he cannot disown himself.
 
 Although God's character is **immutable**, his dealings with people depend on their response to him. The faithfulness of God to his covenant is not suspended by the breach of that covenant by the unfaithful; but those individuals who break his covenant are not saved.
-#craigkeener see also [Psalm 18:25-26](Psalm18#v.25-26)
+#craigkeener see also [Psalm 18:25-26](Psalm18.md#v.25-26)
 
 The meaning must be, that **if we are unbelieving and unfaithful, Christ will remain true to his word, and we cannot hope to be saved.** The object of the apostle evidently is, to **excite Timothy to fidelity in the performance of duty, and to encourage him to bear trials, by the assurance that we cannot hope to escape if we are not faithful to the cause of the Saviour.** This interpretation accords with the design which he had in view.
 Verse 13b implying that it would be a denial of his very nature to save those who are unfaithful. He is holy; and how can he save one who is unholy? His very nature is purity; and how can he save one who has no purity?

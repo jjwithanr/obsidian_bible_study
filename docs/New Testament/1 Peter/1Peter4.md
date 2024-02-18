@@ -29,7 +29,7 @@ Similar to [Galatians 2:20](Galatians2#v.20).
 #### v.5
 >But they will have to give account to him who is ready to judge the living and the dead.
 
-Christians are supported in their stand against the ungodly life by the truth of the coming judgement. In both OT and NT, God is the Judge. Yet the NT also shows that the Father has given judgement into Jesus' hands ([Jn 5:22-23](John5#v.22-23)). This judgement is near (4:7); it will be universal, for it will embrace all the living and the dead. In it unbelievers will have to given an account of their lives and will not be able to withstand the divine scrutiny (cf. [Ps 1:5-6](Psalm1#v.5)).
+Christians are supported in their stand against the ungodly life by the truth of the coming judgement. In both OT and NT, God is the Judge. Yet the NT also shows that the Father has given judgement into Jesus' hands ([Jn 5:22-23](John5#v.22-23)). This judgement is near (4:7); it will be universal, for it will embrace all the living and the dead. In it unbelievers will have to given an account of their lives and will not be able to withstand the divine scrutiny (cf. [Ps 1:5-6](Psalm1.md#v.5)).
 #edwinblum 
 
 #### v.6

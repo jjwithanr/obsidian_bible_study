@@ -45,7 +45,7 @@ Pages 189-211
 1. "There is an innate laziness which affects us all: the sense of 'd'you mean I've got to learn all that stuff about first-century Judaism just to get the simple gospel message?' Answer: Yes. If God chose to become a first-century Jew you might have thought finding out about first-century Jews would be something a believer in God would want to do!" - N.T. Wright (190)
 2. We need to mind the gap between our understanding of the culture we live and the one the characters of the Bible lived in.
 3. Levels of context
-	1. World Context: we all understand "light" and "dark" metaphors like in [Psalm 119:105](Psalm119#v.105).
+	1. World Context: we all understand "light" and "dark" metaphors like in [Psalm 119:105](Psalm119.md#v.105).
 	2. Cultural Context: professional mourners for the death of a loved one was a Hebrew practice (Amos 5:16)
 		1. Covers these domains: geography, politics, economics, military/war, religious customs, and cultural practices, family customs, material customs (home/dress), everyday customs, athletics, recreation, music, and art.
 	3. Audience Context: the original audience of Malachi was the post-exile people of Judah who were familiar with the abuses of the Levitical priesthood.

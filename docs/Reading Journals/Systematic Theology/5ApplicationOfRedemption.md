@@ -7,7 +7,7 @@ Pages 803-1047
 1. One restraint that common grace bestows is the force of conscience as noted in [Romans 2:14-15](Romans2#v.14-15). This shows that although their moral behavior cannot grant them salvation, unbelievers are capable of "doing good" according to [Luke 6:33](Luke6#v.33).
 1. Adam and Eve remained married after the fall and bore children, creating the first family. The existence of families in unbelievers is evidence of common grace.
 1. It is biblical to seek good for unbelievers according to [Matthew 5:45](Matthew5#v.44-45) where God bestows rain on the just and the unjust. Jesus did not require anyone to believe first in order to receive healing from him.
-2. God shows goodness even to unbelievers as evident in [Psalm 145:9](Psalm145#v.9) and [Mark 10:21](Mark10#v.21).
+2. God shows goodness even to unbelievers as evident in [Psalm 145:9](Psalm145.md#v.9) and [Mark 10:21](Mark10#v.21).
 3. [1 Corinthians 8:3](1Cor8#v.3) hits diff.
 4. God's highest value is His own glory, according to the Reformed view, while Arminians believe His highest value is the libertarian free will of man.
 5. Even John Calvin cringed at the doctrine of reprobation. Reprobation brings God sorrow.

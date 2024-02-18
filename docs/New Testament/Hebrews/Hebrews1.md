@@ -52,6 +52,6 @@ Deity is not to be explained, but to be adored—and the Sonship of Christ is to
 > "Your throne, O god, will last for ever and ever, and righteousness will be the scepter of your kingdom.
 > You have loved righteousness and hated wickedness; therefore God, your God, has set you above your companions by anointing you with the **oil of joy**.""
 
-Same as [Psalm 45:6-7](Psalm45#v.6-7).
+Same as [Psalm 45:6-7](Psalm45.md#v.6-7).
 
 

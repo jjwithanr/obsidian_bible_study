@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.4
+>But when the time had fully come, God sent his Son, born of a woman, born under law,
+
 #### v.5
 >to redeem those under the law, that we might receive adoption to sonship.
 

@@ -50,7 +50,7 @@ Give thanks for someone whenever you feel tempted to grumble about them.
 #### v.12
 >Above all, my brothers, do not swear—not by heaven or earth or by anything else. Let your "Yes" be yes, and your "No," be no, or you will be condemned.
 
-James is echoing the words of Jesus in [Mt 5:34-37](Matthew5#v.34), which forbid swearing altogether. It should be obvious that what is referred to in Matthew and James is the light, casual use of oaths in informal conversation—not formal oaths in such places as courts of law. God himself is said to have taken an oath ([Ps 110:4](Psalm110#v.4)), and Paul sometimes called God to witness ([2Co 1:21](2Cor1#v.21); [Gal 1:20](Galatians1#v.20)).
+James is echoing the words of Jesus in [Mt 5:34-37](Matthew5#v.34), which forbid swearing altogether. It should be obvious that what is referred to in Matthew and James is the light, casual use of oaths in informal conversation—not formal oaths in such places as courts of law. God himself is said to have taken an oath ([Ps 110:4](Psalm110.md#v.4)), and Paul sometimes called God to witness ([2Co 1:21](2Cor1#v.21); [Gal 1:20](Galatians1#v.20)).
 #donaldburdick 
 
 #### v.13

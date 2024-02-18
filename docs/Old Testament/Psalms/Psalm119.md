@@ -38,7 +38,7 @@ the sheep for whom the Shepherd died.
 #### v.34
 >Give me understanding, and I will keep your law and obey it with all my heart.
 
-Give me right views of it, of its nature and obligation. It is not a prayer that God would give him the faculty of understanding or intelligence; but that he would enable him to take just views of the law. The word is the same as in [Psalm 119:27](Psalm119#v.27), rendered there, "Make me to understand."
+Give me right views of it, of its nature and obligation. It is not a prayer that God would give him the faculty of understanding or intelligence; but that he would enable him to take just views of the law. The word is the same as in [Psalm 119:27](Psalm119.md#v.27), rendered there, "Make me to understand."
 #barnes 
 
 The understanding operates upon the affections; it convinces the heart of the beauty of the law, so that the soul loves it with all its powers; and then it reveals the majesty of the lawgiver, and the whole nature bows before his supreme will.

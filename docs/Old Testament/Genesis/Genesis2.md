@@ -72,7 +72,7 @@ For the first time since the account of the creation of the man and the woman  i
 #### v.21
 >So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs and closed up the place with flesh.
 
-**Just as at other crucial points when a new relationship is initiated (e.g., 15:12; 28:11), the recipient of God's provision sleeps while God acts. The purpose of the sleep is not merely anesthetic but portrays a sense of passivity and acceptance of the divine provision (cf. [Ps 127:2](Psalm127#v.2)).** A homiletic midrash says that "just as the rib is found at the side of the man and is attached to him, even so the good wife, the rib of her husband, stands at his side to be his helper-counterpart, and her soul is bound up with his."
+**Just as at other crucial points when a new relationship is initiated (e.g., 15:12; 28:11), the recipient of God's provision sleeps while God acts. The purpose of the sleep is not merely anesthetic but portrays a sense of passivity and acceptance of the divine provision (cf. [Ps 127:2](Psalm127.md#v.2)).** A homiletic midrash says that "just as the rib is found at the side of the man and is attached to him, even so the good wife, the rib of her husband, stands at his side to be his helper-counterpart, and her soul is bound up with his."
 #sailhamer 
 
 #### v.22

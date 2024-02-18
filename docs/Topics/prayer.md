@@ -90,7 +90,7 @@ I will tell you my own answer to this question. **I cry to God, principally, bec
 A man who never speaks to his Maker! A man? Can he be a man? Let me look him up and down. A man, “fearfully and wonderfully made” by God, yet he never speaks to his Creator!
 #spurgeon
 
-### Spurgeon on [Psalm 130:4](Psalm130#v.4)
+### Spurgeon on [Psalm 130:4](Psalm130.md#v.4)
 [Sermon link](https://www.spurgeongems.org/sermon/chs2792.pdf)
 But the very best prayer in all the world is that which comes from a broken heart and a contrite spirit—when, away in the corner there, beside the conscience stricken publican, we smite upon our breast and cry, “God be merciful to me a sinner.” Do not, I beg you, think that your prayer will not succeed because you are in the depths. There is no place for praying like that, if ever a man is more sure to succeed with God at one time than at another, it is when he is in his greatest straits.
 

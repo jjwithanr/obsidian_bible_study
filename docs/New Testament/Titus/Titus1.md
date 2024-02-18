@@ -94,7 +94,7 @@ Paul didn’t say to Titus, “Cretans are liars and cheats and gluttons, with o
 These Cretan teachers apparently were engrossed in perpetuating ceremonial distinctions between the pure and the impure. They tended to lay emphasis on outward appearance and judged others on the basis of their own external criteria. Paul teaches that true piety lies not in adherence to nonmoral external rites and regulations but in the inner purity of the regenerated heart. **Material things receive their moral character from the inner attitude of the user**. This maxim does not, however, invalidate the revelation that certain things are morally wrong.
 #hiebert 
 
-See also [Psalm 18:25-26](Psalm18#v.25-26).
+See also [Psalm 18:25-26](Psalm18.md#v.25-26).
 
 #### v.16
 >They claim to know God, but by their actions they deny him. They are **detestable**, disobedient and **unfit** for doing anything good.

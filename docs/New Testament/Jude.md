@@ -20,7 +20,7 @@ See also [1 Peter 1:5](1Peter1#v.5). The meaning is, that they **owed their pres
 The Greek word (ἐνυπνιάζω enupniazō) means to dream; and is applied to these persons as holding doctrines and opinions which sustained the same relation to truth which dreams do to good sense. Their doctrines were the fruits of mere imagination, foolish vagaries and fancies.
 #barnes 
 
-Big dreams does not qualify a ministry. Jude calls the false teachers dreamers since their theology were founded upon a revelation apart from Christ's testimony. A dream remains a dream when it resides in our own psyche. The ones who dreamed in [Psalm 126](Psalm126) were captives who returned to Zion and filled with joy for all **what the Lord has done - NOT what their dreams had done.**
+Big dreams does not qualify a ministry. Jude calls the false teachers dreamers since their theology were founded upon a revelation apart from Christ's testimony. A dream remains a dream when it resides in our own psyche. The ones who dreamed in [Psalm 126](Psalm126.md) were captives who returned to Zion and filled with joy for all **what the Lord has done - NOT what their dreams had done.**
 #jj
 
 #### v.9
@@ -92,7 +92,7 @@ Keeping us spiritually safe _is_ God’s work. But you can always tell the peopl
 #enduringword 
 
 It is wise to look round on the dangers and evils that tempt; it is wise to look inward to the weaknesses that may yield to the temptations. But every look on surrounding dangers, and every look at personal weakness, **ought to end in a look upwards** ‘ to Him that is able to keep’ the weakest ‘from falling’ before the assaults of the strongest foes.
-So our highest praise, and our deepest thankfulness, ought to arise, and will arise-if the possibility has become, in any measure, an actuality, in ourselves-to Him, because our experience will be that of the Psalmist who sang, ['When I said, my foot slippeth, Thy mercy, O Lord, held me up.''](Psalm94#v.18) Let us take the comfort of believing, ['He shall not fall, for the Lord is able to make him stand'](Romans14#v.4); and let us remember the expansion which another Apostle gives us when, with precision, he discriminates and says, ['Kept by the power of God through faith, unto salvation.'](1Peter1#v.4-5)
+So our highest praise, and our deepest thankfulness, ought to arise, and will arise-if the possibility has become, in any measure, an actuality, in ourselves-to Him, because our experience will be that of the Psalmist who sang, ['When I said, my foot slippeth, Thy mercy, O Lord, held me up.''](Psalm94.md#v.18) Let us take the comfort of believing, ['He shall not fall, for the Lord is able to make him stand'](Romans14#v.4); and let us remember the expansion which another Apostle gives us when, with precision, he discriminates and says, ['Kept by the power of God through faith, unto salvation.'](1Peter1#v.4-5)
 #maclaren 
 
 With every breath I long to follow Jesus  

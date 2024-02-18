@@ -34,7 +34,7 @@ God mourns for unrepentant people, who must be judged.
 >Although our sins testify against us, O LORD, do something for the sake of your name. For our backsliding is great; we have sinned against you.
 
 Jeremiah knows that he is on flimsy legal ground asking God for a reprieve from his judgment, since the covenant is broken. He mentions God’s “name” twice (14:7, 9). Jeremiah seems to be implying that perhaps God’s name or his glory will be diminished if Judah, which bears his name, is destroyed. In 14:10 God responds by saying no, and then in 14:11 he admonishes Jeremiah not to intercede for these people in this way anymore.
-#teachthetext 
+#jdanielhays #teachthetext 
 
 #### v.8
 >O Hope of Israel, its Savior in times of distress, why are you like a stranger in the land, like a traveler who stays only a night?
@@ -71,8 +71,6 @@ One of the themes running throughout Jeremiah is the fact that religious rituals
 
 #### v.17
 >"Speak this word to them: "'Let my eyes overflow with tears night and day without ceasing; for my virgin daughter—my people— has suffered a grievous wound, a crushing blow.
-
-
 
 #### v.18
 >If I go into the country, I see those slain by the sword; if I go into the city, I see the ravages of famine. Both prophet and priest have gone to a land they know not.'"

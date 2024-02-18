@@ -42,7 +42,7 @@ Is this not true faith? Faith demands belief in His existence—implying the tru
 #### v.12-13
 >Who can discern his errors? Forgive my hidden faults. <sup>13</sup>Keep your servant also from willful sins; may they not rule over me. Then will I be blameless, innocent of great transgression.
 
-The psalmist reflects on himself in relation God and his revelation. In [Ps 8](Psalm8) he looked at the dignity of humanity ([8:4a](Psalm8#v.4)). Now he reflects on humanity's sinfulness and limitations. Human beings are such insignificant parts in the vastness of space. Just as nothing is hidden from the heat of the sun (v.6), and even as the "voice" of the natural revelation penetrates to "the ends of the earth" (v.4), so God's word with all its perfections (vv.7-9) penetrates and examines a person. The godly stand, therefore, in fear before their Creator-Redeemer, knowing that they may have "hidden faults" or "errors" that he has not yet discovered.
+The psalmist reflects on himself in relation God and his revelation. In [Ps 8](Psalm8.md) he looked at the dignity of humanity ([8:4a](Psalm8.md#v.4)). Now he reflects on humanity's sinfulness and limitations. Human beings are such insignificant parts in the vastness of space. Just as nothing is hidden from the heat of the sun (v.6), and even as the "voice" of the natural revelation penetrates to "the ends of the earth" (v.4), so God's word with all its perfections (vv.7-9) penetrates and examines a person. The godly stand, therefore, in fear before their Creator-Redeemer, knowing that they may have "hidden faults" or "errors" that he has not yet discovered.
 #vangemeren 
 
 #### v.14

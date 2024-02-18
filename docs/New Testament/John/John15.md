@@ -42,7 +42,7 @@ Obedience marks the cause of their fruitfulness; joy is its result. Jesus intend
 Joy logically follows when the disciples realize that the life of Christ in them is bringing fruit—something they could never produce in their own strength.
 #merrillctenney 
 
-Keeping the commandments (here epitomized as love) was supposed to bring joy [(Ps 19:8](Psalm19#v.8) and often in later Jewish teachings).
+Keeping the commandments (here epitomized as love) was supposed to bring joy [(Ps 19:8](Psalm19.md#v.8) and often in later Jewish teachings).
 #craigkeener 
 
 #### v.26

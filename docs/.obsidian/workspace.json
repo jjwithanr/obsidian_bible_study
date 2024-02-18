@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13008e42b6dc35ef",
+            "id": "ab19fecd5988deb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah14.md",
+                "file": "New Testament/Mark/Mark1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah14.md",
+                "file": "New Testament/Mark/Mark1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah14.md"
+                "file": "New Testament/Mark/Mark1.md"
               }
             }
           },
@@ -147,14 +147,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "13008e42b6dc35ef",
+  "active": "ab19fecd5988deb0",
   "lastOpenFiles": [
+    "New Testament/Luke/Luke3.md",
+    "New Testament/Mark/Mark1.md",
+    "New Testament/Galatians/Galatians4.md",
+    "Old Testament/Isaiah/Isaiah11.md",
+    "Old Testament/Jeremiah/Jeremiah15.md",
+    "Topics/lament.md",
+    "Old Testament/Psalms/Psalm26.md",
+    "Old Testament/Psalms/Psalm17.md",
+    "Old Testament/Psalms/Psalm7.md",
+    "Old Testament/Psalms/Psalm5.md",
     "Old Testament/Jeremiah/Jeremiah14.md",
+    "Old Testament/Job/Job3.md",
     "Old Testament/Judges/Judges1.md",
     "New Testament/Acts/Acts4.md",
-    "Old Testament/Psalm/Psalm2.md",
+    "Old Testament/Psalms/Psalm2.md",
     "New Testament/Luke/Luke20.md",
-    "Old Testament/Psalm/Psalm118.md",
+    "Old Testament/Psalms/Psalm118.md",
     "Old Testament/Numbers/Numbers18.md",
     "New Testament/Acts/Acts1.md",
     "New Testament/Luke/Luke10.md",
@@ -164,19 +175,8 @@
     "New Testament/Matthew/Matthew24.md",
     "Old Testament/Jeremiah/Jeremiah49.md",
     "Old Testament/Jeremiah/Jeremiah25.md",
-    "New Testament/Matthew/Matthew28.md",
-    "New Testament/Matthew/Matthew23.md",
-    "Old Testament/Deuteronomy/Deut15.md",
-    "New Testament/Matthew/Matthew25.md",
-    "New Testament/Matthew/Matthew20.md",
-    "New Testament/Matthew/Matthew17.md",
-    "New Testament/Matthew/Matthew16.md",
-    "Old Testament/Amos/Amos8.md",
-    "Apocrypha/2 Maccabees/2Macc8.md",
-    "Apocrypha/1 Maccabees/1Macc1.md",
     "Apocrypha/2 Maccabees",
     "Apocrypha/1 Maccabees",
-    "Old Testament/Daniel/Daniel12.md",
     "Apocrypha/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",

@@ -18,7 +18,7 @@ Connected to [[prayer]].
 #### v.8-9
 >Although he was a son, he **learned obedience from what he suffered** <sup>9</sup>and once made perfect, he became the source of eternal salvation for all who obey him
 
-See also [Psalm 119:71](Psalm119#v.71) and [[suffering]].
+See also [Psalm 119:71](Psalm119.md#v.71) and [[suffering]].
 
 This, startling though it is, does not mean that Jesus passed from disobedience to obedience. Rather, he learned obedience by actually obeying. There is a certain quality involved when one has performed a required action—a quality that is lacking when there is only a readiness to act. **Innocence differs from virtue.**
 #leonmorris 

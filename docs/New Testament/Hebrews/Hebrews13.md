@@ -35,7 +35,7 @@ Here it is – ‘For he hath said, I will never leave thee, nor forsake thee.�
 #### v.6
 >So we say with confidence, "The Lord is my helper; I will not be afraid. What can man do to me?"
 
-Same as [Psalm 118:6-7](Psalm118#v.6-7)
+Same as [Psalm 118:6-7](Psalm118.md#v.6-7)
 
 #### v.7
 >Remember your leaders, who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith.

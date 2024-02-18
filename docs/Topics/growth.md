@@ -47,7 +47,7 @@ They are neither hot for the truth, nor hot for conversions, nor hot for holines
 #spurgeon
 
 
-### Maclaren on [Psalm 143:10](Psalm143#v.10)
+### Maclaren on [Psalm 143:10](Psalm143.md#v.10)
 
 These two clauses mean substantially the same thing. The Psalmist’s longings are expressed in the first of them in plain words, and in the second in a figure. ‘To do God’s will’ is to be in ‘the land of uprightness.’ That phrase, in its literal application, means a stretch of level country, and hence is naturally employed as an emblem of a moral or religious condition. A life of obedience to the will of God is likened to some far stretching plain, easy to traverse, broken by no barren mountains or frowning cliffs, but basking, peaceful and fruitful, beneath the smile of God. Into such a garden of the Lord the Psalmist prays to be led.  
   
@@ -85,5 +85,5 @@ And there is the other plea with Him and guarantee for us, drawn from God’s ow
   
 It is a daring thought. The Psalmist’s desire was a prophecy. The New Testament vindicates and fulfils it when it says [‘We shall be like Him, for we shall see Him as He is.’](1John3#v.2) Since He now dwells in ‘the land of uprightness,’ who once dwelt among us in this weary world of confusion and of sin, then we one day shall be with Him. Christ’s heart cannot be satisfied, Christ’s Cross cannot be rewarded, the divine nature cannot be at rest, the purpose of redemption cannot be accomplished, until all who have trusted in Christ be partakers of divine purity, and all the wanderers be led by devious and yet by right paths, by crooked and yet by straight ways, by places rough and yet smooth, into ‘the land of uprightness.’ **Where and what He is, there and that shall also His servants be.**  
   
-My brother! if to do the will of God is to dwell in the land of uprightness, disobedience is to dwell in a dry and thirsty land, barren and dreary, horrid with frowning rocks and jagged cliffs, where every stone cuts the feet and every step is a blunder, and all the paths end at last on the edge of an abyss, and crumble into nothingness beneath the despairing foot that treads them. Do you see to it that you walk in ways of righteousness which are paths of peace; and look for all the help you need, with assured faith, to Him who shall [‘guide us by His counsel and afterwards receive us to His glory.’](Psalm73#v.24)
+My brother! if to do the will of God is to dwell in the land of uprightness, disobedience is to dwell in a dry and thirsty land, barren and dreary, horrid with frowning rocks and jagged cliffs, where every stone cuts the feet and every step is a blunder, and all the paths end at last on the edge of an abyss, and crumble into nothingness beneath the despairing foot that treads them. Do you see to it that you walk in ways of righteousness which are paths of peace; and look for all the help you need, with assured faith, to Him who shall [‘guide us by His counsel and afterwards receive us to His glory.’](Psalm73.md#v.24)
 #maclaren 

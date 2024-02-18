@@ -30,7 +30,7 @@ That the Lord "saw" and "knew" is enough, because this is the first stage of his
 #### v.23-24
 >Oh, love Yahweh, all you His holy ones! Yahweh guards the faithful. But repays fully the one who acts in lofty pride. <sup>24</sup>Be strong and let your heart take courage, All you who wait for Yahweh.
 
-Similar to [Psalm 27:14](Psalm27#v.14).
+Similar to [Psalm 27:14](Psalm27.md#v.14).
 
 The lesson is this: It is with the heart we must wait upon God. “Let your heart take courage.” All our waiting depends upon the state of the heart. As a man’s heart is, so is he before God.
 #andrewmurray

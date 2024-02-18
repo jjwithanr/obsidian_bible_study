@@ -77,22 +77,22 @@ Redaction refers to the editing of source material by biblical authors. One goal
 #### Appendix C: Parallelism in Hebrew Poetry
 Pages 284-285
 1. Synonymous Parallelism
-	1. A is essentially parallel in meaning to B with a shift in nuance between the two. Together A and B expresses a unified idea (e.g., [Ps. 20:1](Psalm20#v.1)).
+	1. A is essentially parallel in meaning to B with a shift in nuance between the two. Together A and B expresses a unified idea (e.g., [Ps. 20:1](Psalm20.md#v.1)).
 2. Antithetical Parallelism
-	1. A is a contrast to B (e.g., [Ps. 20:7](Psalm20#v.7)).
+	1. A is a contrast to B (e.g., [Ps. 20:7](Psalm20.md#v.7)).
 3. Synthetic Parallelism
 	A is more loosely related to B in one of the following ways:
-	1. Statement/Reason (e.g., [Ps. 28:6](Psalm28#v.6))
+	1. Statement/Reason (e.g., [Ps. 28:6](Psalm28.md#v.6))
 		1. B gives reason for A (often connected by "because" or "for")
-	2. Statement/Question or Question/Statement (e.g., [Pss. 6:5](Psalm6#v.5); [119:9](Psalm119#v.9-11)))
+	2. Statement/Question or Question/Statement (e.g., [Pss. 6:5](Psalm6.md#v.5); [119:9](Psalm119.md#v.9-11)))
 		1. A or B is a question
-	3. Statement/Refrain (e.g., [Ps. 136:1-26](Psalm136))
+	3. Statement/Refrain (e.g., [Ps. 136:1-26](Psalm136.md))
 		1. Refrain (B) is repeated throughout the psalm section
-	4. Progression (e.g., [Isa. 40:9](Isaiah40#v.9); [Ps. 1:3](Psalm1#v.3))
+	4. Progression (e.g., [Isa. 40:9](Isaiah40#v.9); [Ps. 1:3](Psalm1.md#v.3))
 		1. B extends or develops the thought of A
-	5. Specification or Explanation (e.g., [Pss. 18:24](Psalm18#v.24); [72:9](Psalm72#v.9))
+	5. Specification or Explanation (e.g., [Pss. 18:24](Psalm18.md#v.24); [72:9](Psalm72.md#v.9))
 		1. B explains or makes more specific the thought of A
-	6. Statement/Result (e.g., [Ps. 81:12](Psalm81#v.12))
+	6. Statement/Result (e.g., [Ps. 81:12](Psalm81.md#v.12))
 		1. B provides the result or purpose of A (often connected by "to" or "that")
 
 

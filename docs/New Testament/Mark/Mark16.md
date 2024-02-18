@@ -33,7 +33,7 @@ Ancient writers often valued irony. Throughout Mark, people spread news that the
 #### v.19
 >After the Lord Jesus had spoken to them, he was taken up to heaven and he sat at the right hand of God.
 
-Both Jewish and Greek readers could relate to the idea of an ascension of a great hero to heaven (like Heracles or, in postbiblical Jewish tradition, Moses); the closest and best-known idea would likely be Elijah. For Jesus to sit at God’s right hand, however, goes beyond this idea—it means that Jesus reigns as God’s agent ([Ps 110:1](Psalm110#v.1); cf. [Mk 12:36](Mark12#v.36)).
+Both Jewish and Greek readers could relate to the idea of an ascension of a great hero to heaven (like Heracles or, in postbiblical Jewish tradition, Moses); the closest and best-known idea would likely be Elijah. For Jesus to sit at God’s right hand, however, goes beyond this idea—it means that Jesus reigns as God’s agent ([Ps 110:1](Psalm110.md#v.1); cf. [Mk 12:36](Mark12#v.36)).
 #craigkeener 
 
 

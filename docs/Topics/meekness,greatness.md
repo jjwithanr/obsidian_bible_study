@@ -33,7 +33,7 @@ The church of Philadelphia is commended for keeping the Word of the Lord and not
 #barnhouse
 
 
-### Spurgeon on [Psalm 131:2](Psalm131#v.2)
+### Spurgeon on [Psalm 131:2](Psalm131.md#v.2)
 [Sermon](https://www.spurgeongems.org/sermon/chs1210.pdf)
 Baruch had been writing the roll for the prophet, and straightway Baruch thought he was somebody. He had been writing the word of the Lord, had he not? But the prophet said to him, “Seek you great things for yourself? Seek them not.” And so says the mind of the Spirit to us all. **Do not desire to occupy positions of eminence and prominence, but let your soul be as a weaned child—not exercising itself in great matters.**
 

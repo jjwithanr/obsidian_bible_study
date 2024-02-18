@@ -1,6 +1,6 @@
 # Leadership
 
-### Spurgeon on [Psalm 73:24](Psalm73#v.24)
+### Spurgeon on [Psalm 73:24](Psalm73.md#v.24)
 [Sermon link](https://www.spurgeongems.org/sermon/chs2389.pdf)
 Haste too, is the author of a great deal of mischief in human life. Men are in such a hurry that they make all manner of mistakes, but the habit of praying about everything is in itself a great guide. You have to stop a while, and the very stopping lets you see more than you would have seen in your hurry. The habit of praying before you leap leads to the habit of looking before you leap, and then, when you perceive that you cannot leap, prayer gives you enough of prudence to resolve that you will go round some other way. Thus you are wisely guided in life.
 

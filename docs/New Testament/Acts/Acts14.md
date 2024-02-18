@@ -27,7 +27,7 @@ Evidence that Barnabas was considered an apostle.
 #### v.17
 >Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy."
 
-Various philosophers, especially Stoics, believed that nature itself testified to the character of the supreme god. Jewish teachers agreed that nature testifies to God’s character (this is biblical; cf.[ Ps 19:1](Psalm19#v.1); [89:37](Psalm89#v.37)) and taught that he provides all peoples with health, food and so forth. Scripture already emphasized that God was the source of these agricultural blessings
+Various philosophers, especially Stoics, believed that nature itself testified to the character of the supreme god. Jewish teachers agreed that nature testifies to God’s character (this is biblical; cf.[ Ps 19:1](Psalm19.md#v.1); [89:37](Psalm89.md#v.37)) and taught that he provides all peoples with health, food and so forth. Scripture already emphasized that God was the source of these agricultural blessings
 #craigkeener 
 
 #### v.19-20

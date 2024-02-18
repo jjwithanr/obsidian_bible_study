@@ -21,6 +21,13 @@ Message:
 
 #theosu 
 
+### Big Idea
+The good news centers on Jesus the Messiah, who shows himself to be the Son of God by inaugurating God’s kingdom age. He is declared as such first by Old Testament prophecy and then by the wilderness voice, his forerunner John the Baptist.
+### Key Themes of Mark 1:1–8
+- Jesus is the Messiah and Son of God, which is the core of the kingdom message.
+- As messianic forerunner, John introduces the fulfillment of the Isaianic promise by preparing the way for the coming of Jesus.
+- As wilderness prophet, John introduces the nation to the need for repentance and confession for forgiveness.
+
 #### v.4
 >And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.
 
@@ -33,11 +40,22 @@ Message:
 Sources suggest that many believed that demons were especially attracted to places like pagan temples, bathhouses, graveyards and deserts. Readers would thus sense the suspense as Jesus battled with Satan on Satan’s own turf. Safety among beasts showed God’s protection ([Ezek 34:25](Ezekiel34#v.25); [Dan 6:22](Daniel6#v.22)).
 #craigkeener 
 
+It is debated whether this continues the idea of the wilderness testing, with the animals as hostile predators, or whether this is part of a “paradise” theme, as the animals are reconciled [(Isa. 11:6–9](Isaiah11#v.6)) and the wilderness transformed with Jesus, the new Adam. As part of a new creation theme, the latter view has merit. There are two negative elements (the wilderness, Satan) and two positive elements (the animals, the angels).
+#grantosborne #teachthetext 
+
+Mark's account of the temptation is brief, recording no specific temptation and no victory over Satan. This emphasizes that Jesus' entire ministry was one continuous encounter with the devil and not limited to a few temptations in the desert... Only Mark mentions the "wild animals"—a touch that heightens the fierceness of Jesus' entire temptation experience.
+#walterwessel 
+
 #### v.15
 >“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”
 
 In Mk 1:15 the kingdom is emphasized as having drawn near in the person of Jesus. The only appropriate response is repentance and faith. There is an urgency about the nearness of God's kingdom. Since it ushers in the End, it speaks of judgement
 #walterwessel 
+
+There are four elements, the first two providing God’s part and the last two our part. This verse refers to “the fullness of time,” as in [Galatians 4:4](Galatians4#v.4), the decisive moment of salvation history when all the hopes of the Old Testament would be fulfilled. [Luke 3:1](Luke3#v.1) tells us that Jesus began his ministry in the fifteenth year of the emperor Tiberias, and [John 2:20](John2#v.20) that it was the forty-sixth year after Herod began to rebuild the temple. This would correspond to AD 27–28, when Jesus was thirty-three or thirty-four (he probably was born in 6 BC).
+
+Mark often stresses the encounter with Christ, and the only proper response is to repent (see 1:4 above) and come to a faith decision. As in 1:1, the kingdom message is called the “gospel” or “good news.”
+#grantosborne #teachthetext 
 
 #### v.20
 >Without delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.

@@ -10,7 +10,7 @@
 #### v.2
 >to proclaim your love in the morning and your faithfulness at night,
 
-Similar to [Psalm 143:8](Psalm143#v.8).
+Similar to [Psalm 143:8](Psalm143.md#v.8).
 See more in [[morning#Barnes on Psalm 92 2 Psalm92 v 2]].
 
 #### v.3

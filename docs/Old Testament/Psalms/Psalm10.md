@@ -15,7 +15,7 @@ The evil man's hatred for the godly expresses a total disregard for the Lord and
 #### v.5
 >His ways are always prosperous; he is haughty and your laws are far from him; he sneers at all his enemies.
 
-Success may crown injustice. The prosperity of the godly ([1:3](Psalm1#v.3)) is guaranteed by God, but the wicked make every effort to take their share. They flaunt the "judgements" ("laws") of God. Because has not yet come in judgement, the wicked become more brazen in their selfish, despotic rule. They have contempt for any who get in their way and count them as their "enemies" (cf. [Mal 1:13](Malachi1#v.13)).
+Success may crown injustice. The prosperity of the godly ([1:3](Psalm1.md#v.3)) is guaranteed by God, but the wicked make every effort to take their share. They flaunt the "judgements" ("laws") of God. Because has not yet come in judgement, the wicked become more brazen in their selfish, despotic rule. They have contempt for any who get in their way and count them as their "enemies" (cf. [Mal 1:13](Malachi1#v.13)).
 #vangemeren 
 
 #### v.6

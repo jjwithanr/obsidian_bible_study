@@ -4,7 +4,7 @@
 Psalm in Hebrew → a song of praise
 Theme: Prayer and Praise
 Authors: 34 anonymous, 73 David, 12 Asaph, 11 Sons of Korah, Moses, Solomon, Heman, Ethan.
-Key Scripture: [23:1-3](Psalm23)
+Key Scripture: [23:1-3](Psalm23.md)
 
 **5 Books that parallel the Pentateuch:**
 Chapters 1-41: The Genesis Book concerning Man

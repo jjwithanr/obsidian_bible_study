@@ -44,7 +44,7 @@ I remember the days of old - Former times.
 I meditate on all thy works ... - On what thou hast done; on thy gracious interpositions in the time of trial; on the manifestations of thy power in my behalf, and in behalf of thy people. I call all this to mind, remembering that thou art an unchangeable God; that thou hast the same power still; that thou canst interpose now as thou didst then; and that, as an unchangeable God, thou wilt do it in the same circumstances. I, therefore, come to thee, and pray that thou wilt interpose in my behalf
 #barnes 
 
-### Spurgeon on [Psalm 131:3](Psalm131#v.3)
+### Spurgeon on [Psalm 131:3](Psalm131.md#v.3)
 [Sermon](https://www.spurgeongems.org/sermon/chs1210.pdf)
 I have very much to say on this point, but my time is gone. I will only close with the last inquiry, which is this—IS THIS STATE ATTAINABLE? Certainly. David said, “My soul is even as a weaned child.” He did not say that he hoped it would be so. We can surely get where David got, for he was a man of like passions with ourselves...
 

@@ -29,7 +29,7 @@ The idea here seems to be, that God had been silent a long time, and they had, t
 The word 'contrite' (דכא dakkâ') means properly that which is broken, crushed, beaten small, trodden down. Here it denotes a soul that is borne down with a sense of sin and unworthiness; a heart that is, as it were, crushed under a superincumbent weight of guilt.
 #barnes 
 
-Similar to [Psalm 51:17](Psalm51#v.17).
+Similar to [Psalm 51:17](Psalm51.md#v.17).
 
 #### v.17-18
 >I was enraged by his sinful greed; I punished him, and hid my face in anger, yet he kept on in his sinful greed; I punished him, and hid my face in anger, yet he kept on in his willful ways. <sup>18</sup>I have seen his ways, but I will heal him; I will guide him and restore comfort to him,

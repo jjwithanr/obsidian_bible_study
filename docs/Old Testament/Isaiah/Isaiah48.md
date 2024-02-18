@@ -13,7 +13,7 @@ It was on his own account - in order to show his covenant faithfulness; his fide
 #### v.10
 >See, I have refined you, though not as silver; I have tested you in the furnace of affliction.
 
-Similar to [Psalm 119:71](Psalm119#v.71).
+Similar to [Psalm 119:71](Psalm119.md#v.71).
 
 #### v.11
 >For my own sake, for my own sake, I do this. How can I let myself be defamed? I will not yield my glory to another.

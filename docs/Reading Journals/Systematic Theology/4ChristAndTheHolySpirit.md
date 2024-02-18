@@ -40,7 +40,7 @@ Pages 663-803
 ##### What I learned:
 1. The Holy Spirit has some restraining influence on unbelievers since he convicts the world of sin ([John 16:8-11](John16#v.8)).
 1. [2 Corinthians 13:14](2Cor13#) shows that Paul attributes fellowship among believers to the Holy Spirit, not the Father or the Son.
-1. David's cry for the Holy Spirit to not depart from him in [Psalm 51:11](Psalm51#v.11) can be better understood when read in light of the Holy Spirit having anointed and leaving King Saul in [1 Samuel 16:13](1Samuel16.md#v.13).
+1. David's cry for the Holy Spirit to not depart from him in [Psalm 51:11](Psalm51.md#v.11) can be better understood when read in light of the Holy Spirit having anointed and leaving King Saul in [1 Samuel 16:13](1Samuel16.md#v.13).
 
 ##### Interesting Quote:
 - *Therefore, when the Holy Spirit is working strongly in the church to manifest God's presence, the church community will be in beautiful harmony and overflowing with love for one another.* (782)

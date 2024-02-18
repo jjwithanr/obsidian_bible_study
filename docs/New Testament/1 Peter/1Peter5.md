@@ -30,7 +30,7 @@ Also [[Proverbs3#v.34]].
 
 Similar to [Proverbs 15:33](Proverbs15#v.33), [Proverbs 18:12](Proverbs18#v.12).
 
-In the OT, God's hand symbolized discipline ([Ex 3:19](Exodus3#v.19); [6:1](Exodus6#v.1); [Job 30:21](Job30#v.21); [Ps 32:4](Psalm32#v.4)) and deliverance ([Dt 9:26](Deut9#v.26); [Eze 20:34](Ezekiel20#v.34)). Both meanings are appropriate in view of the sufferings of the Asian Christians. Once more Peter ties his exhortation to humility to the end times. The "due time" is the time God has set for Christ's appearing. Thus the whole destiny of Christians—whether it is suffering or glory—is God-ordained.
+In the OT, God's hand symbolized discipline ([Ex 3:19](Exodus3#v.19); [6:1](Exodus6#v.1); [Job 30:21](Job30#v.21); [Ps 32:4](Psalm32.md#v.4)) and deliverance ([Dt 9:26](Deut9#v.26); [Eze 20:34](Ezekiel20#v.34)). Both meanings are appropriate in view of the sufferings of the Asian Christians. Once more Peter ties his exhortation to humility to the end times. The "due time" is the time God has set for Christ's appearing. Thus the whole destiny of Christians—whether it is suffering or glory—is God-ordained.
 #edwinblum 
 
 For all that he has urged us to submit to our earthly circumstances, however trying, it is really to God himself that we submit (v.6), in hope of his deliverance. We humble ourselves before him not as before an earthly master, awaiting instructions, but so as to feel the burden of anxiety lifted from our shoulders (v.7).
@@ -39,7 +39,7 @@ For all that he has urged us to submit to our earthly circumstances, however try
 #### v.7
 >Cast all your anxiety on him because he cares for you.
 
-Similar to [Psalm 55:22](Psalm55#v.22).
+Similar to [Psalm 55:22](Psalm55.md#v.22).
 
 This conception of God's concern for human affliction is one of the peculiar treasures of the Judeo-Christian faith; though Greek philosophy at its highest could formulate a doctrine of God's perfect goodness, it could not even imagine his active concern for humankind. The Incarnation reveals a caring God, and Christ's teaching about his heavenly Father stresses his intimate concern for his children [Mt 10:29-31](Matthew10#v.29).
 #edwinblum 

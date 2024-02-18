@@ -22,7 +22,7 @@ Biblical justification for morning prayer?
 #### v.7
 >Because the Sovereign Lord helps me, I will not be disgraced. Therefore have I set my face like flint, and I know I will not be put to shame.
 
-Similar to [Psalm 25:3](Psalm25#v.3).
+Similar to [Psalm 25:3](Psalm25.md#v.3).
 
 
 #### v.9

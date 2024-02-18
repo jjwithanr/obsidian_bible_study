@@ -24,10 +24,19 @@ A wise man once said, "His mouth is Jesus' choicest weapon."
 In the divine economy, the word is active and powerful (cf. Ge 1:3; Isa 55:10-11), and the Messiah's word of judgement will be utterly effective (cf. Jn 12:48). He judges as "the Word of God" (Rev 19:13-15). This testifies to his great power (cf. v.2), because he is well able to execute the judgements he pronounces. **In him word and consequent action are virtually one.**
 #geoffreygrogan 
 
+#### v.6
+>The wolf will live with the lamb, the leopard will lie down with the goat, the calf and the lion and the yearling together; and a little child will lead them.
+
+#### v.7
+>The cow will feed with the bear, their young will lie down together, and the lion will eat straw like the ox.
+
+#### v.8
+>The infant will play near the hole of the cobra, and the young child put his hand into the viper's nest.
+
 #### v.9
 >They will neither harm nor destroy on all my holy mountain, for the earth will be full of the knowledge of the Lord as the waters cover the sea.
 
-Katlyn quoted commentators who also compared the seas having varying depths. Some parts of the seas will experience a greater depth of God's knowledge since they prepared the way.
+Katlyn quoted commentators who also compared the seas having varying depths. Some parts of the seas will experience a greater depth of God's glory since they prepared the way.
 #jj 
 
 The restoration of human beings to God that is implied in "the knowledge of God" reverses the alienation introduced by the Fall, so making possible the restoration of their environment to its unfallen condition.

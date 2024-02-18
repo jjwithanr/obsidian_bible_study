@@ -1,6 +1,6 @@
 # Law
 
-### MacLaren on [Psalm 119:165](Psalm119#v.165)
+### MacLaren on [Psalm 119:165](Psalm119.md#v.165)
 
 We do great injustice to this psalm-so exuberant in its praises of ‘the law of the Lord’-if we suppose that that expression means nothing more than the Mosaic or Jewish revelation. It does mean that, of course, but the psalm itself shows that the writer uses the expression and its various synonyms as including a great deal more than any one method by which God’s will is made known to man. For he speaks, for instance, in one part of the psalm of God’s ‘word,’ as being settled for ever in the heavens, and of the heavens and earth as continuing to this day, ‘according to Thine ordinances.’  
   

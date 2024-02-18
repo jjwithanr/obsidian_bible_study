@@ -16,7 +16,7 @@ Continuous nourishment from the "milk" causes the newborn to "grow up in \[their
 #### v.3
 >now that you have tasted that the Lord is good.
 
-The image of "tasting" the Lord goes back to [Ps 34:8](Psalm34#v.8): "Taste and see that the Lord is good." Those who have come to taste the graciousness or goodness of the Lord should have a continuing appetite for spiritual food. In [Ps 34](Psalm34) the reference is to Yahweh ("LORD"; GK 3378), Israel's God. In his writings, Peter applies the Greek word used to translate this title—i.e., "Lord" (GK 3261)—to Jesus. He thus implies the full deity of Christ.
+The image of "tasting" the Lord goes back to [Ps 34:8](Psalm34.md#v.8): "Taste and see that the Lord is good." Those who have come to taste the graciousness or goodness of the Lord should have a continuing appetite for spiritual food. In [Ps 34](Psalm34.md) the reference is to Yahweh ("LORD"; GK 3378), Israel's God. In his writings, Peter applies the Greek word used to translate this title—i.e., "Lord" (GK 3261)—to Jesus. He thus implies the full deity of Christ.
 #edwinblum 
 
 #### v.6
