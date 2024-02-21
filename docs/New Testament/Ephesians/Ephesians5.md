@@ -67,6 +67,9 @@ By your life, your conversation, and all your influence. This is the business of
 #### v.16
 >making the most of every opportunity, because the days are evil.
 
+#### v.17
+>Therefore do not be foolish, but understand what the Lord's will is.
+
 #### v.18
 >Do not get drunk on wine, which leads to debauchery. Instead be filled with the Spirit.
 

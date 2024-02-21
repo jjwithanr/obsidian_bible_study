@@ -103,6 +103,12 @@ An angry attitude is not the atmosphere in which righteousness flourishes. James
 In further preparation for the reception of the Word, one must "get rid of all moral filth." The word translated "get rid of" (GK 700) was primarily used of taking off garments (cf. [Heb 12:1](Hebrews12#v.1), which speaks of throwing off any excessive weight to make ready for the race of faith). The "moral filth and the evil" that are so abundant must be stripped off like dirty clothes in preparation for "accept\[ing\] the word." **The reception of truth must of necessity be marked by humility or meekness (GK 4559).** This is not to be construed as spineless weakness. Instead, it is the quality of a strong man that makes him docile and submissive rather than haughty and rebellious. Only in such a spirit can one fully receive God's truth. That the Word is described as "planted in you" suggests that the readers were believers who already possessed the truth. The phrase "which can save you" simply describes the truth as saving truth. James is not calling for an initial acceptance of that message, but for a full appropriation of the truth as the Christians grows in spiritual understanding.
 #donaldburdick 
 
+#### v.22
+>Do not merely listen to the word, and so deceive yourselves. Do what it says.
+
+#### v.23-24
+>Anyone who listens to the word but does not do what it says is like a man who looks at his face in a mirror <sup>24</sup>and, after looking at himself, goes away and immediately forgets what he looks like.
+
 #### v.25
 >But the man who **looks intently** into the *perfect law that gives freedom*, and continues to do this, not forgetting what he has heard, but doing it - he will be blessed in what he does.
 

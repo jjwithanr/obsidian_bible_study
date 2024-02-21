@@ -18,6 +18,9 @@
 We are not to suppose that his power was limited by the belief or unbelief of people; but they were so "prejudiced," so set against him, that they were not in a condition to "judge of evidence" and to be convinced. They would have charged it to derangement, or sorcery, or the agency of the devil. Compare [John 10:20](John10.md#v.20). It would have been of no use, therefore, in proving to them that he was from God, to have worked miracles. He did, therefore, only those things which were the proper work of benevolence, and which could not easily be charged on the devil. He gave "sufficient" proof of his mission, and left them in their chosen unbelief without excuse. It is also true, in spiritual things, that the unbelief of a people prevents the influences of the Holy Spirit from being sent down to bless them. God requires faith. He hears only the prayers of faith. And when there is little true belief, and prayer is cold and formal, there the people sleep in spiritual death and are unblessed.
 #barnes 
 
+#### v.7
+>Calling the Twelve to him, he sent them out two by two and gave them authority over evil spirits.
+
 #### v.12
 >They went out and preached that people should repent.
 

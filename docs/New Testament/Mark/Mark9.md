@@ -38,8 +38,11 @@ Give me strength and grace to put "entire" confidence in thee. Everyone who come
 #### v.30-31
 >They left that place and passed through Galilee. Jesus did not want to anyone to know where they were, <sup>31</sup>because he was teaching his disciples. He said to them, "The Son of Man is going to be betrayed into the hands of men. They will kill him, and after three days he will rise."
 
-Jesus witheld certain teachings from the crowd for his disciples. He knows what revelation we are capable of stewarding. **As we are held accountable to "consider carefully how we listen", Jesus also considers carefully what he says to us.**
+Jesus withheld certain teachings from the crowd for his disciples. He knows what revelation we are capable of stewarding. **As we are held accountable to "consider carefully how we listen", Jesus also considers carefully what he says to us.**
 #jj
+
+#### v.35
+>Sitting down, Jesus called the Twelve and said, "If anyone wants to be first, he must be the very last, and the servant of all."
 
 #### v.40
 >for whoever is not against us is for us.

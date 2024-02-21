@@ -91,6 +91,9 @@ Jesus, after a busy evening of healing and exorcisms got up early the next morni
 The disciples did not understand Jesus or his need for communion with the Father, so they went to look for him. Apparently the thought Jesus would be pleased to know that everyone was looking for him (v.37). **They did not understand that this popular and shallow reception of him was the very reason he withdrew to pray.**
 #walterwessel 
 
+#### v.38
+>Jesus replied, "Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come."
+
 #### v.40-41
 >A man with leprosy came to him and begged him on his knees, “If you are willing, you can make me clean.” <sup>41</sup>Jesus was indignant. He reached out his hand and touched the man. “I am willing,” he said. “Be clean!”
 

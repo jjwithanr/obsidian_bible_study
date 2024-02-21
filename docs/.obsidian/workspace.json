@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Mark/Mark1.md",
+                "file": "Old Testament/Jeremiah/Jeremiah18.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#walterwessel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Mark/Mark1.md",
+                "file": "Old Testament/Jeremiah/Jeremiah18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Mark/Mark1.md"
+                "file": "Old Testament/Jeremiah/Jeremiah18.md"
               }
             }
           },
@@ -149,8 +149,22 @@
   },
   "active": "ab19fecd5988deb0",
   "lastOpenFiles": [
-    "New Testament/Luke/Luke3.md",
+    "New Testament/Mark/Mark4.md",
+    "Old Testament/Jeremiah/Jeremiah18.md",
+    "New Testament/1 Corinthians/1Cor3.md",
+    "New Testament/Mark/Mark3.md",
+    "New Testament/James/James1.md",
+    "New Testament/1 Thessalonians/1Thess5.md",
+    "New Testament/Ephesians/Ephesians5.md",
+    "New Testament/Romans/Romans12.md",
+    "New Testament/Mark/Mark6.md",
+    "New Testament/Mark/Mark9.md",
+    "New Testament/Hebrews/Hebrews3.md",
+    "Old Testament/Jeremiah/Jeremiah17.md",
+    "Topics/prayer.md",
+    "New Testament/Mark/Mark2.md",
     "New Testament/Mark/Mark1.md",
+    "New Testament/Luke/Luke3.md",
     "New Testament/Galatians/Galatians4.md",
     "Old Testament/Isaiah/Isaiah11.md",
     "Old Testament/Jeremiah/Jeremiah15.md",
@@ -161,20 +175,6 @@
     "Old Testament/Psalms/Psalm5.md",
     "Old Testament/Jeremiah/Jeremiah14.md",
     "Old Testament/Job/Job3.md",
-    "Old Testament/Judges/Judges1.md",
-    "New Testament/Acts/Acts4.md",
-    "Old Testament/Psalms/Psalm2.md",
-    "New Testament/Luke/Luke20.md",
-    "Old Testament/Psalms/Psalm118.md",
-    "Old Testament/Numbers/Numbers18.md",
-    "New Testament/Acts/Acts1.md",
-    "New Testament/Luke/Luke10.md",
-    "Old Testament/Deuteronomy/Deut10.md",
-    "New Testament/Matthew/Matthew26.md",
-    "New Testament/Matthew/Matthew4.md",
-    "New Testament/Matthew/Matthew24.md",
-    "Old Testament/Jeremiah/Jeremiah49.md",
-    "Old Testament/Jeremiah/Jeremiah25.md",
     "Apocrypha/2 Maccabees",
     "Apocrypha/1 Maccabees",
     "Apocrypha/Sirach",
