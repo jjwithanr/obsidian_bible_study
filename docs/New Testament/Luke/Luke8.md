@@ -27,6 +27,12 @@
 #### v.21
 >He replied, "My mother and brothers are those who hear God's word and put it into practice."
 
+#### v.22
+>One day Jesus said to his disciples, "Let's go over to the other side of the lake." So they got into a boat and set out.
+
+#### v.23-24
+>As they sailed, he fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in great danger. <sup>24</sup>The disciples went and woke him, saying, "Master, Master, we're going to drown!" He got up and rebuked the wind and the raging waters; the storm subsided, and all was calm.
+
 #### v.25
 >"Where is your faith?" he asked his disciples. In fear and amazement they asked one another, "Who is this? He commands even the winds and the water, and they obey him."
 

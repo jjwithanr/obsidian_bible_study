@@ -1,7 +1,7 @@
 # Baptism
 
 ### Craig Keener on [Acts 2:37](Acts2#v.37)
-Peter instructs the people how to call on the Lord's name (2:21): be baptized in Jesus' name. Because baptism was a sign of conversion to Judaism normally reserved for pagans, Peter's demand would offend his Jewish hearers and cost them respectability. He calls for a public, radical testimony of conversion, not a private, non-committal request for salvation with no conditions. "In the name of Jesus Christ" distinguishes this sort of baptism, requiring faith in Christ, from other ancient baptisms; this phrase simply means that the person being baptized confesses Christ. (Acts always uses this phrase "be baptized" - the passive, never the active; presumably it thus does not denote a formula said over the person being baptized, but rather indicates the confession of faith of the person receiving baptism; see 2:21 and 22:16.)
+Peter instructs the people how to call on the Lord's name ([2:21](Acts2#v.21)): be baptized in Jesus' name. Because baptism was a sign of conversion to Judaism normally reserved for pagans, Peter's demand would offend his Jewish hearers and cost them respectability. He calls for a public, radical testimony of conversion, not a private, non-committal request for salvation with no conditions. "In the name of Jesus Christ" distinguishes this sort of baptism, requiring faith in Christ, from other ancient baptisms; this phrase simply means that the person being baptized confesses Christ. (Acts always uses this phrase "be baptized" - the passive, never the active; presumably it thus does not denote a formula said over the person being baptized, but rather indicates the confession of faith of the person receiving baptism; see [2:21](Acts2#v.21) and [22:16](Acts22#v.16.)
 #craigkeener 
 
 ### [Messianic Bible](https://free.messianicbible.com/feature/mikvah-baptism-the-connection-between-immersion-conversion-and-being-born-again/) on mikvah
@@ -23,13 +23,13 @@ He was explaining to Nicodemus that we cannot rely on our “Jewishness” (or a
 
 In Hebrew, the word **mikvah** has the same root letters as the word hope! The great Prophet Jeremiah used the word mikvah in the sense of hope:
 
-“O Hashem, the Hope [mikvah] of Israel, all who forsake you will be ashamed … because they have forsaken Hashem, the fountain of living water.”  _(Jeremiah 17:13)_
+“O Hashem, the Hope \[mikvah] of Israel, all who forsake you will be ashamed … because they have forsaken Hashem, the fountain of living water.”  _(Jeremiah 17:13)_
 
 When Believers are immersed in the waters of the mikvah, as a declaration of faith in Yeshua, they have the hope of a new life, a new beginning in Him.
 
-“For I know the plans I have for you, says the Lord, plans to prosper you and not to harm you, plans to give you a hope [tikvah] and a future.”  _(Jeremiah 29:11)_
+“For I know the plans I have for you, says the Lord, plans to prosper you and not to harm you, plans to give you a hope \[tikvah] and a future.”  _(Jeremiah 29:11)_
 
 It is evident from Yeshua’s final instructions below that tevilah or mikvah would play a part in making all the Gentile nations into Talmidim (disciples) of the Jewish Messiah.  He said,
 
-“Go therefore and make disciples of all the nations, immersing them in the name of the Father and of the Son [Yeshua] and of Ruach HaKodesh [Holy Spirit].” _(Matthew 28:19)_
+“Go therefore and make disciples of all the nations, immersing them in the name of the Father and of the Son [Yeshua] and of Ruach HaKodesh [Holy Spirit].” _([Matthew 28:19](Matthew28#v.18-20))_
 #messianicbible

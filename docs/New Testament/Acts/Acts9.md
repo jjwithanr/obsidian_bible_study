@@ -2,6 +2,8 @@
 
 ## Overview:
 
+#### v.2
+>and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.
 
 #### v.16
 >I will show him how much he must **suffer** for my name."

@@ -24,6 +24,9 @@
 Very easy to build up a church quickly. Very easy to make a great excitement in religion, and become very famous as a soul-winner. Very easy. But time tries everything. If there were no other fire than the mere fire of time, it would suffice to test a man’s work. And when a church crumbles away almost as soon as it is got together, when a church declines from the doctrines which it professed to hold, when the teaching of the eminent teacher is proved, after all, to have been fallacious and to have been erroneous in practical results, then what he has built comes to nothing!
 #spurgeon 
 
+#### v.16
+>Don't you know that you yourselves are God's temple and that God's Spirit lives in you?
+
 #### v.21-22
 >So then, **no more boasting about men!** All things are yours, <sup>22</sup>whether Paul or Apollos or Cephas or the world or life or death or the present or the future—**all are yours**,
 

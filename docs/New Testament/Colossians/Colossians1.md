@@ -39,7 +39,7 @@ Epaphras founded the Colossian church and earnestly remained praying for them.
 This is another way in which we may walk worthy of the Lord, and so as to please him. It is by endeavoring to **become better acquainted with his true character.** God is pleased with those who desire to understand what he is; what he does; what he purposes; what he commands. Hence he not only commands us to study his works, but he has made a world so beautiful as to invite us to contemplate his perfections as reflected in that world. All good beings desire that others should understand their character, and God delights in those who are sincerely desirous of knowing what he is, and who inquire with humility and reverence into his counsels and his will.
 #barnes 
 
-Wisdom sought those worthy of her ([Wisdom of Solomon 6:16](Wisdom6#v.16)), and the righteous who persevered would be “worthy for God,” like an acceptable offering ([Wisdom of Solomon 3:5](Wisdom3#v.5)). The Old Testament spoke of knowing God relationally, in covenant with him [(Jer 24:7](Jeremiah24#v.7); [31:34](Jeremiah31#v.31-34); [Hos 2:20](Hosea2#v.20)), an idea developed also in the \*Dead Sea Scrolls.
+Wisdom sought those worthy of her ([Wisdom of Solomon 6:16](Wisdom6.md#v.16)), and the righteous who persevered would be “worthy for God,” like an acceptable offering ([Wisdom of Solomon 3:5](Wisdom3.md#v.5)). The Old Testament spoke of knowing God relationally, in covenant with him [(Jer 24:7](Jeremiah24#v.7); [31:34](Jeremiah31#v.31-34); [Hos 2:20](Hosea2#v.20)), an idea developed also in the \*Dead Sea Scrolls.
 #craigkeener 
 
 #### v.13

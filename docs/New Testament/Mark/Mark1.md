@@ -28,8 +28,31 @@ The good news centers on Jesus the Messiah, who shows himself to be the Son of G
 - As messianic forerunner, John introduces the fulfillment of the Isaianic promise by preparing the way for the coming of Jesus.
 - As wilderness prophet, John introduces the nation to the need for repentance and confession for forgiveness.
 
+#### v.1
+>The beginning of the gospel about Jesus Christ, the Son of God.
+
+#### v.2
+>It is written in Isaiah the prophet: "I will send my messenger ahead of you, who will prepare your way"—
+
+Referring primarily to [Isaiah 40:3](Isaiah40#v.3), what follows also incorporates [Exodus 23:20](Exodus23#v.20) (on the “messenger of the covenant,” an angel in Exodus) and [Malachi 3:1](Malachi3#v.1) (on the messianic “preparer”). [Isaiah 40](Isaiah40) is the turning point in that book, pivoting from the prediction of the exile ([39:5–6](Isaiah39#v.6)) to God’s promise to “comfort” his people ([40:1](Isaiah40#v.1)). The supreme comfort is to be found in the final return from exile to be accomplished in the coming of Jesus Christ.
+
+Here this applies to John the Baptist, the messianic forerunner. This is the only fulfillment passage in Mark (Matthew has eleven), and this shows that **every element of the launching of Jesus’s messianic ministry comes on the basis of God’s predetermined plan**. **John is the God-sent “messenger” (angelos) from [Exodus 23:20](Exodus23#v.20), fulfilling the role of the angel in the exodus who went before the nation on the way through the wilderness.** This may well depict the coming of Jesus (“your way” refers to Israel in [Exod. 23:20](Exodus23#v.20) but to Jesus here, perhaps as the true Israel), so a “new exodus”2 is taking place in his arrival. From [Malachi 3:1](Malachi3#v.1) comes the prophecy that God will send this messenger to “prepare the way before me” as he arrives to bring judgment to a recalcitrant nation. Again **this forerunner is John, who comes bearing a message of deliverance through repentance and of judgment.** But **the primary figure is Jesus, who is the presence of God arriving in justice and judgment, bringing with him a new exodus from sin.**
+#grantosborne #teachthetext 
+
+#### v.3
+>"a voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him.'"
+
+ The themes binding the three Old Testament texts are of a messenger from the wilderness preparing the way for the Messiah. [Isaiah 40:3](Isaiah40#v.3) is the primary text, and it was a core text for both Qumran (1QS 8:13–14) and Christianity (the early church even called itself “the Way” \[e.g.,[ Acts 9:2](Acts9#v.2); [19:9](Acts19#v.9), [23](Acts9#v.23)], probably on the basis of this). It stated God’s intention to bring the exiles home on a divinely prepared highway from Babylon to Zion, with God removing all obstacles. **Here both the return from exile and the exodus are fulfilled in Jesus, and John is the wilderness voice proclaiming the return to God through the arrival of Jesus of those exiled from God through their sin and unbelief.** The final promises of God are now inaugurated, and this is a kind of Roman “triumph,” a victory procession as the king comes. The wilderness is the place of testing and messianic crisis (the Essenes went into the desert to signify the necessity of purifying an unclean nation) and also of divine succor and comfort ([1 Kings 19:4–18](1Kings19); [Rev. 12:6](Revelation12#v.6), [14](Revelation12#v.14)). Both ideas are part of the wilderness motif in Mark.
+ #grantosborne #teachthetext 
+
+This is the answer to my question about why the early Church called Christianity "the Way" after all this time! It is a reference to Jesus' fulfillment of these prophecies from Malachi and Isaiah.
+#jj 
+
 #### v.4
 >And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.
+
+John’s baptizing was a startling event. At Qumran adherents went through daily lustrations in a ritual pool (1QS 5:12–14), and Jewish people experienced many ceremonial washings (e.g., [Num. 19](Numbers19)). Neither provides close parallels. Gentile proselytes experienced a one-time baptism as an initiation rite, and that would provide an interesting parallel (John would be saying that the nation had become like Gentiles), but there is no evidence of such a practice before AD 50.3 It may be best to see this as a unique event, as God led John to provide a brand-new metaphor on spiritual purity attained through repentance (a change of heart involving not only sorrow for sin but also a new lifestyle) signified by baptism (as in 2 Kings 5:14, where Naaman immerses himself in the Jordan). Repentance and confession (1:5) for forgiveness (the judicial result) are God’s requirements for anyone to be right with him, and this is closely connected with “believe the gospel” in 1:15 below.
+#grantosborne #teachthetext 
 
 #### v.8
 >I baptize you with water, but he will baptize you with the Holy Spirit.”

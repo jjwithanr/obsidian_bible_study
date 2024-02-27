@@ -424,12 +424,6 @@
         {
           "type": "group",
           "ctime": 1699151524302,
-          "items": [],
-          "title": "Apocrypha"
-        },
-        {
-          "type": "group",
-          "ctime": 1699151524302,
           "items": [
             {
               "type": "group",
@@ -485,47 +479,59 @@
         },
         {
           "type": "group",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
+          "items": [],
+          "title": "Non-Protestant"
+        },
+        {
+          "type": "group",
+          "ctime": 1709008431948,
+          "items": [],
+          "title": "Pics"
+        },
+        {
+          "type": "group",
+          "ctime": 1709008431948,
           "items": [],
           "title": "Talks"
         },
         {
           "type": "group",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
           "items": [],
           "title": "Templates"
         },
         {
           "type": "group",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
           "items": [],
           "title": "Topics"
         },
         {
           "type": "file",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
           "path": "Bibliography.md",
           "subpath": "#^-"
         },
         {
           "type": "file",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
           "path": "Greek.md",
           "subpath": "#^-"
         },
         {
+          "type": "folder",
+          "ctime": 1699151840143,
+          "path": "New Testament"
+        },
+        {
           "type": "file",
-          "ctime": 1699151524302,
+          "ctime": 1709008431948,
           "path": "index.md",
           "subpath": "#^-"
         }
       ],
       "title": "sortspec"
-    },
-    {
-      "type": "folder",
-      "ctime": 1699151840143,
-      "path": "New Testament"
     }
   ]
 }

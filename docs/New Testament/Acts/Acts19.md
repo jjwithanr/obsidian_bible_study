@@ -12,6 +12,9 @@
 #### v.5
 >On hearing this, they were baptized into the name of the Lord Jesus.
 
+#### v.9
+>But some of them became obstinate; they refused to believe and publicly maligned the Way. So Paul left them. He took the disciples with him and had discussions daily in the lecture hall of Tyrannus.
+
 #### v.10
 >This went on for two years, so that all the Jews and Greeks who lived in the province of Asia heard the word of the Lord.
 
@@ -29,4 +32,7 @@ It is certainly strange to read of healings occurring through sweat-cloths and w
 
 The name of Jesus, like an unfamiliar weapon misused, exploded in their hands; and they were taught a lesson about the danger of using the name of Jesus in their dabbling in the supernatural.
 #longnecker 
+
+#### v.23
+>About that time there arose a great disturbance about the Way.
 

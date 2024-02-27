@@ -26,6 +26,10 @@ The religious leaders decide to have Lazarus killed. John’s irony: those who r
 
 The two words translated "life" are different (GK 6034 & 2437). The first is generally rendered "soul" and denotes the individual personality, with all its related experiences and achievements. The second is usually coupled with the adjective "eternal" in John and means the spiritual vitality that is the experience of god ([17:3](John17#v.3); cf. [Mt 10:39](Matthew10#v.39); [Mk 8:36](Mark8#v.36); [Lk 14:26](Luke14#v.26)). The expression "who hates his life" is a hyperbolic expression which means that one is to base one's priorities on that which is outside oneself. In this instance, it is to make Christ the Master of one's life.
 #merrillctenney 
+
+#### v.35
+>Then Jesus told them, "You are going to have the light just a little while longer. Walk while you have the light, before darkness overtakes you. The man who walks in the dark does not know where he is going.
+
 #### v.42-43
 >Yet at the same time many even among the leaders believed in him. But because of the Pharisees they would not confess their faith for fear that they would be put out of the synagogue; <sup>43</sup>for they loved praise from men more than praise from God.
 

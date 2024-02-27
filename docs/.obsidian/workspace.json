@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "759671d77c51662c",
+        "id": "077c405ba5854f71",
         "type": "tabs",
         "children": [
           {
-            "id": "ab19fecd5988deb0",
+            "id": "206eb12e1b3c26ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#walterwessel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah18.md",
+                "file": "Reading Journals/Scripture As Communication/Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Jeremiah/Jeremiah18.md"
+                "file": "Reading Journals/Scripture As Communication/Part2.md"
               }
             }
           },
@@ -147,46 +143,46 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ab19fecd5988deb0",
+  "active": "32c94e297decda11",
   "lastOpenFiles": [
-    "New Testament/Mark/Mark4.md",
-    "Old Testament/Jeremiah/Jeremiah18.md",
-    "New Testament/1 Corinthians/1Cor3.md",
-    "New Testament/Mark/Mark3.md",
-    "New Testament/James/James1.md",
-    "New Testament/1 Thessalonians/1Thess5.md",
-    "New Testament/Ephesians/Ephesians5.md",
-    "New Testament/Romans/Romans12.md",
-    "New Testament/Mark/Mark6.md",
-    "New Testament/Mark/Mark9.md",
-    "New Testament/Hebrews/Hebrews3.md",
-    "Old Testament/Jeremiah/Jeremiah17.md",
-    "Topics/prayer.md",
-    "New Testament/Mark/Mark2.md",
+    "Old Testament/Numbers/Numbers19.md",
+    "Old Testament/Numbers/Numbers18.md",
+    "Reading Journals/Scripture As Communication/Part2.md",
     "New Testament/Mark/Mark1.md",
-    "New Testament/Luke/Luke3.md",
-    "New Testament/Galatians/Galatians4.md",
-    "Old Testament/Isaiah/Isaiah11.md",
-    "Old Testament/Jeremiah/Jeremiah15.md",
-    "Topics/lament.md",
-    "Old Testament/Psalms/Psalm26.md",
-    "Old Testament/Psalms/Psalm17.md",
-    "Old Testament/Psalms/Psalm7.md",
-    "Old Testament/Psalms/Psalm5.md",
-    "Old Testament/Jeremiah/Jeremiah14.md",
-    "Old Testament/Job/Job3.md",
-    "Apocrypha/2 Maccabees",
-    "Apocrypha/1 Maccabees",
-    "Apocrypha/Sirach",
+    "Old Testament/Isaiah/Isaiah39.md",
+    "New Testament/Acts/Acts2.md",
+    "New Testament/Acts/Acts3.md",
+    "Topics/baptism.md",
+    "New Testament/Philippians/Philippians4.md",
+    "New Testament/1 Corinthians/1Cor13.md",
+    "Old Testament/Psalms/Psalm119.md",
+    "New Testament/1 Corinthians/1Cor11.md",
+    "Reading Journals/Scripture As Communication/Part1.md",
+    "New Testament/Revelation/Revelation12.md",
+    "New Testament/Acts/Acts9.md",
+    "New Testament/Acts/Acts19.md",
+    "Old Testament/Exodus/Exodus23.md",
+    "New Testament/1 Corinthians/1Cor3.md",
+    "Old Testament/Jonah/Jonah1.md",
+    "New Testament/John/John8.md",
+    "New Testament/John/John12.md",
+    "Old Testament/Jeremiah/Jeremiah20.md",
+    "Old Testament/Jeremiah/Jeremiah21.md",
+    "Non-Protestant/2 Maccabees/2Macc9.md",
+    "New Testament/Acts/Acts12.md",
+    "Non-Protestant/Judith/Judith16.md",
+    "Non-Protestant/Judith",
+    "Non-Protestant/2 Maccabees",
+    "Non-Protestant/1 Maccabees",
+    "Non-Protestant/Sirach",
     "Pics/fig2-1.jpg",
     "Pics/fig3-1.jpg",
     "Pics",
     "Graphics",
     "New folder",
-    "Apocrypha/Tobit",
+    "Non-Protestant/Tobit",
     "Reading Journals/Scripture As Communication",
     "Untitled.canvas",
-    "Apocrypha/Wisdom of Solomon",
-    "Apocrypha"
+    "Non-Protestant/Wisdom of Solomon"
   ]
 }

@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.6
+>The woman fled into the desert to a place prepared for her by God, where she might be taken care of for 1,260 days.
 
 #### v.10
 >Then I heard a loud voice in heaven say:
@@ -13,6 +15,9 @@ In times past, Satan's chief role as adversary was directed toward accusing God'
 
 #### v.11
 >They overcame him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death.
+
+#### v.14
+>The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the desert, where she would be taken care of for a time, times and half a time, out of the serpent's reach.
 
 #### v.17
 >Then the dragon was enraged at the woman and went off to make war against the rest of her offspring - those who obey God's commandments and hold to the testimony of Jesus.

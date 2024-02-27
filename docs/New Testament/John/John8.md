@@ -12,6 +12,9 @@
 #### v.24
 >I told you that you would die in your sins; if you do not believe that I am \[the one I claim to be\], you will indeed die in your sins."
 
+#### v.27
+>They did not understand that he was telling them about his Father.
+
 #### v.29
 >The one who sent me is with me; he has not left me alone, for I always do what pleases him."
 

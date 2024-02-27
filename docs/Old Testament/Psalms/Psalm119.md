@@ -68,6 +68,9 @@ Our prayers are according to the mind of God when they are according to the word
 The psalmist can say, "I know" that God's laws are "righteous" and faithful, because he has an experiential knowledge of God, of his "unfailing love," and of his "compassion." God's purpose for affliction is to refine the relationship with his children.
 #vangemeren 
 
+#### v.105
+>Your word is a lamp to my feet and a light for my path.
+
 #### v.162
 >I rejoice in your promise like one who finds great spoil.
 

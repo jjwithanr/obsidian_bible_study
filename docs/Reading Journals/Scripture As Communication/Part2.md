@@ -45,7 +45,7 @@ Pages 189-211
 1. "There is an innate laziness which affects us all: the sense of 'd'you mean I've got to learn all that stuff about first-century Judaism just to get the simple gospel message?' Answer: Yes. If God chose to become a first-century Jew you might have thought finding out about first-century Jews would be something a believer in God would want to do!" - N.T. Wright (190)
 2. We need to mind the gap between our understanding of the culture we live and the one the characters of the Bible lived in.
 3. Levels of context
-	1. World Context: we all understand "light" and "dark" metaphors like in [Psalm 119:105](Psalm119.md#v.105).
+	1. World Context: we all understand "light" and "dark" metaphors like in [Psalm 119:105](Psalm119#v.105).
 	2. Cultural Context: professional mourners for the death of a loved one was a Hebrew practice (Amos 5:16)
 		1. Covers these domains: geography, politics, economics, military/war, religious customs, and cultural practices, family customs, material customs (home/dress), everyday customs, athletics, recreation, music, and art.
 	3. Audience Context: the original audience of Malachi was the post-exile people of Judah who were familiar with the abuses of the Levitical priesthood.
@@ -63,7 +63,7 @@ Pages 189-211
 2. A Bible Atlas can help us learn that Amos is from the southern kingdom of Judah who prophecies against places in the northern kingdom of Israel. This explains why in 7:12 Amos to treated as an outsider.
 3. Cautions:
 	1. Underconstructing the Setting
-		1. We need to know the literary context of Amos to understand Amos 4:4 as ironic since Israel's worship was not pleasing to God due to their unjust treatment of one another.
+		1. We need to know the literary context of Amos to understand [Amos 4:4](Amos4#v.4) as ironic since Israel's worship was not pleasing to God due to their unjust treatment of one another.
 	2. Overconstructing the Setting
 	3. Overgeneralizing about the Social Context
 		1. Anytime we assert "All Israelites though or did this" or "All first-century people believed this" we overgeneralize.
@@ -74,7 +74,7 @@ Pages 189-211
 
 #### Literary Context, Intertextuality, and Canon
 Pages 212-231
-1. Reading 1 Corinthians 13 in context of chapters 11-14 reveals Paul's assessment that they are using spiritual gifts without love.
+1. Reading [1 Corinthians 13](1Cor13) in context of chapters 11-14 reveals Paul's assessment that they are using spiritual gifts without love.
 1. Picking out parts of Scripture for our reading is like taking a friend's letter and reading the middle paragraph today and the introductory section two months later.
 1. Proof-texting is taking a Bible verse out of its literary context to fit into a framework of interpretation: "the smallest atoms of the text are torn away from their textual... contexts and reassembled within some other framework of interpretation, often in order to demonstrate a point that is anything but natural to them." (214)
 2. *While [Philippians 4:13](Philippians4#v.13) probably has been used to claim strength for any number of endeavors, in the immediate context Paul is interested in one particular Christian attitude—contentment (4:10-19).* (215)

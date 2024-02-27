@@ -27,6 +27,8 @@ And concerning this James, Clement, in the seventh book of Hypotyposes, relates 
 #### v.6
 >The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance.
 
+With his fate hanging in the balance, Peter is fast asleep. He is so sound asleep that the angel has to strike him on the side to wake him up. 🔥The roles are reversed from when the disciples frantically tried to awaken Jesus when raging waters from a squall threatened to swamp their boat ([Luke 8:22–25](Luke8#v.23-24)). Peter now possesses the same tranquility in the face of danger that Jesus had, knowing that everything is in the hands of God, who raises the dead.
+#davidgarland #teachthetext 
 
 #### v.7
 >Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. "Quick, get up!" he said, and the chains fell off Peter's wrists.
@@ -56,13 +58,11 @@ And concerning this James, Clement, in the seventh book of Hypotyposes, relates 
 >Peter knocked at the outer entrance, and a servant girl named Rhoda came to answer the door.
 
 
-#### v.14
->When she recognized Peter's voice, she was so overjoyed she ran back without opening it and exclaimed, "Peter is at the door!"
+#### v.14-15
+>When she recognized Peter's voice, she was so overjoyed she ran back without opening it and exclaimed, "Peter is at the door!" <sup>15</sup>"You're out of your mind," they told her. When she kept insisting that it was so, they said, "It must be his angel."
 
-
-#### v.15
->"You're out of your mind," they told her. When she kept insisting that it was so, they said, "It must be his angel."
-
+In Greek comedy, a slave sometimes utters foolishness; here, however, it is her free hearers who serve for comic relief. Given the purpose for this prayer meeting ([12:5](Acts12#v.5)), their surprise (and Peter’s having to keep pounding on the gate—which could wake up some of the other neighbors, who are probably from aristocratic priestly families and hence potentially dangerous) is ironic; ancient hearers probably would have picked up on the irony (cf. [Lk 24:10-11](Luke24#v.10-11, 37), [37](Luke24#v.37)). In some popular Jewish traditions the righteous would become like angels after death.
+#craigkeener 
 
 #### v.16
 >But Peter kept on knocking, and when they opened the door and saw him, they were astonished.
@@ -94,9 +94,11 @@ And concerning this James, Clement, in the seventh book of Hypotyposes, relates 
 We must admire the account of Josephus for its agreement with the divine Scriptures in regard to this wonderful event; for he clearly bears witness to the truth in the nineteenth book of his Antiquities, where he relates the wonder in the following words:"... he said, 'I, your god, am now commanded to depart this life; and fate thus on the spot disproves the lying words you have just uttered concerning me. He who has been called immortal by you is now led away to die;...'"
 #eusebius 
 
+Jewish tradition reports that other tyrants who persecuted God’s people were consumed by worms ([Jdt. 16:17](Judith16#v.17); [2 Macc. 9:9](2Macc9#v.9)). The angel of the Lord can come as a destroyer (Exod. 12:23; Ps. 78:49) as well as a rescuer, and he destroys the one who thinks that his judgment, rather than God’s, is decisive.
+#davidgarland #teachthetext 
+
 #### v.24
 >But the word of God continued to increase and spread.
-
 
 #### v.25
 >When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark.

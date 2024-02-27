@@ -19,4 +19,7 @@ Chapter 4 → Jonah's Runaway Theology and God's Rescuing Theology
 What we turn to in times of fear exposes our allegiance - and our idols.
 #jj 
 
+#### v.9
+>He answered, "I am a Hebrew and I worship the LORD, the God of heaven, who made the sea and the land."
+
 

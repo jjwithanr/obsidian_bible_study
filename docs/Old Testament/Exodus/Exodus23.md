@@ -6,6 +6,9 @@
 #### v.2
 >"Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd,
 
+#### v.20
+>"See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.
+
 #### v.21
 >Pay attention to him and listen to what he says. Do not rebel against him; he will not forgive your rebellion, since my Name is in him.
 
