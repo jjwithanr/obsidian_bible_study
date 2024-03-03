@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "077c405ba5854f71",
+        "id": "3f9d257f7be64261",
         "type": "tabs",
         "children": [
           {
-            "id": "206eb12e1b3c26ec",
+            "id": "527ba0d0b84cd9e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New Testament/Acts/Acts14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Part2.md",
+                "file": "New Testament/Acts/Acts14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Part2.md"
+                "file": "New Testament/Acts/Acts14.md"
               }
             }
           },
@@ -143,15 +147,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "32c94e297decda11",
+  "active": "527ba0d0b84cd9e3",
   "lastOpenFiles": [
+    "New Testament/Acts/Acts3.md",
+    "Old Testament/Judges/Judges9.md",
+    "Old Testament/Judges/Judges21.md",
+    "Old Testament/Judges/Judges10.md",
+    "Old Testament/Judges/Judges3.md",
+    "index.md",
+    "New Testament/Mark/Mark9.md",
+    "New Testament/Matthew/Matthew12.md",
+    "New Testament/Luke/Luke11.md",
+    "New Testament/Luke/Luke9.md",
+    "New Testament/Mark/Mark8.md",
     "Old Testament/Numbers/Numbers19.md",
     "Old Testament/Numbers/Numbers18.md",
     "Reading Journals/Scripture As Communication/Part2.md",
     "New Testament/Mark/Mark1.md",
     "Old Testament/Isaiah/Isaiah39.md",
     "New Testament/Acts/Acts2.md",
-    "New Testament/Acts/Acts3.md",
     "Topics/baptism.md",
     "New Testament/Philippians/Philippians4.md",
     "New Testament/1 Corinthians/1Cor13.md",
@@ -161,16 +175,6 @@
     "New Testament/Revelation/Revelation12.md",
     "New Testament/Acts/Acts9.md",
     "New Testament/Acts/Acts19.md",
-    "Old Testament/Exodus/Exodus23.md",
-    "New Testament/1 Corinthians/1Cor3.md",
-    "Old Testament/Jonah/Jonah1.md",
-    "New Testament/John/John8.md",
-    "New Testament/John/John12.md",
-    "Old Testament/Jeremiah/Jeremiah20.md",
-    "Old Testament/Jeremiah/Jeremiah21.md",
-    "Non-Protestant/2 Maccabees/2Macc9.md",
-    "New Testament/Acts/Acts12.md",
-    "Non-Protestant/Judith/Judith16.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

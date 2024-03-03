@@ -18,6 +18,11 @@ The Father's heart; as swift as our fall is His grasp of the outreached hand. No
 
 See also [[2God#2022-07-15 22 02 Pages 540-560]].
 
+#### v.30
+>"He who is not with me is against me, and he who does not gather with me scatters.
+
+See comment on [Mark 9:40](Mark9#v.40).
+
 #### v.31-32
 >And so I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven. <sup>32</sup>Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
 

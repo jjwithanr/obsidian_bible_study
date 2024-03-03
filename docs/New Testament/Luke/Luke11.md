@@ -71,6 +71,8 @@
 #### v.23
 >"He who is not with me is against me, and he who does not gather with me, scatters.
 
+See comment on [Mark 9:40](Mark9#v.40).
+
 #### v.24
 >"When an evil spirit comes out of a man, it goes through arid places seeking rest and does not find it. Then it says, 'I will return to the house I left.'
 

@@ -27,6 +27,9 @@ What comes into our minds when we think about God is the most important thing ab
 As the happiness of heaven with Christ, is enough to make up for the loss of life itself for him, so the gain of all the world in sin, will not make up for the ruin of the soul by sin. And there is a day coming, when the cause of Christ will appear as glorious, as some now think it mean and contemptible. May we think of that season, and view every earthly object as we shall do at that great day.
 #matthewhenry 
 
+The very meaning of discipleship centers on the absence of self and the centrality of Christ in every area of life. However, we must separate the denial of self from self-denial. The latter involves refusing certain aspects of life, an ascetic bent that rejects certain experiences and pleasures in life. That can be important, but what Christ was talking about in 8:34 is the ascendancy of self over him. The worship of self is basic idolatry, and Jesus demands to be in absolute control of our lives. He is not just to have first place in our hearts; he is to have the only place in our hearts. We must sacrifice all for him.
+#grantosborne #teachthetext 
+
 #### v.35
 >For whoever wants to save their life will lose it, but whoever loses their life for me and for the gospel will save it.
 

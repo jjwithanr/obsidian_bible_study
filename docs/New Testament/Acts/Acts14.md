@@ -24,6 +24,12 @@ Evidence that Barnabas was considered an apostle.
 #### v.15
 >"Men, why are you doing this? We too are only men, human like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.
 
+#### v.16
+>In the past, he let all nations go their own way.
+
+...Paul preached about a progressive unfolding of divine redemption. While the sermon does not explicitly refer to salvation through Christ, it is hard to believe that it was not meant to **point to Jesus Christ and his work as the divine climax of history.**
+#longnecker 
+
 #### v.17
 >Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy."
 

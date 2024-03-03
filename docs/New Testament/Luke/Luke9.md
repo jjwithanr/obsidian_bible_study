@@ -154,6 +154,8 @@
 #### v.50
 >"Do not stop him," Jesus said, "for whoever is not against you is for you."
 
+See comment on [Mark 9:40](Mark9#v.40).
+
 #### v.51
 >As the time approached for him to be taken up to heaven, Jesus resolutely set out for Jerusalem.
 
