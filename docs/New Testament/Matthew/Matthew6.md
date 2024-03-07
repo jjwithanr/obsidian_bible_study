@@ -58,6 +58,9 @@ Do not exhaust your strength and spend your days in providing for the life here,
 You will find people form a pretty accurate estimate of the value of their own religion by the proportion which they are prepared to sacrifice for it.
 #spurgeon 
 
+#### v.22-23
+>"The eye is the lamp of the body. If your eyes are good, your whole body will be full of light. <sup>23</sup>But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
+
 #### v.34
 >Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 

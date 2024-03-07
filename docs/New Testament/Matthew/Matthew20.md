@@ -48,8 +48,14 @@
 #### v.15
 >Don't I have the right to do what I want with my own money? Or are you envious because I am generous?'
 
+This rhetorical question provides the surprising twist to the parable and shifts the focus from the question of parity to the issue of generosity. The word “envious” appropriately renders the Greek idiom ponēros ophthalmos (“evil eye” \[see [6:22–23](Matthew6#v.22-23)]). According to the landowner, the problem for the full-day workers is not his fairness (as they have framed it), but his extravagant generosity to the single-hour workers. This reorientation of the issue signals the thrust of the parable for Matthew’s readers and Jesus’ hearers. **God is generous to a fault, and this generosity to those who seemingly do not deserve it can prove offensive to those who think they do.** The parable’s central teaching focuses on God’s extravagant generosity, without reference to human earning.
+#jeanninekbrown #teachthetext 
+
 #### v.16
 >"So the last will be first, and the first will be last."
+
+With this repeated saying as an inclusio ([19:30](Matthew19#v.30); 20:16), Matthew signals that the parable and the proverbial saying are mutually interpretive. The parable’s emphasis on the unsettling equality of the kingdom (“you have made them equal to us”) combines with the sense of the saying as a warning against presumption of reward and status (see [19:27–29](Matthew19#v.27)) to communicate that the kingdom will upset human status categories and assumptions. God’s grand generosity may prove offensive to human sensibilities about fairness and worthiness.
+#jeanninekbrown #teachthetext 
 
 #### v.17-19
 >Now as Jesus was going up to Jerusalem, he took the twelve disciples aside and said to them, <sup>18</sup>"We are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and the teachers of the law. They will condemn him to death <sup>19</sup>and will turn him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!"

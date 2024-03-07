@@ -13,6 +13,12 @@
       "items": [
         {
           "type": "group",
+          "ctime": 1709459033612,
+          "items": [],
+          "title": "Old Testament"
+        },
+        {
+          "type": "group",
           "ctime": 1699151524302,
           "items": [
             {
@@ -237,21 +243,10 @@
           "title": "Reading Journals"
         },
         {
-          "type": "folder",
-          "ctime": 1699151840143,
-          "path": "New Testament"
-        },
-        {
           "type": "group",
           "ctime": 1709459033612,
           "items": [],
           "title": "Non-Protestant"
-        },
-        {
-          "type": "group",
-          "ctime": 1709459033612,
-          "items": [],
-          "title": "Old Testament"
         },
         {
           "type": "group",
