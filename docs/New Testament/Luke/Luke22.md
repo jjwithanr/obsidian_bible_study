@@ -6,6 +6,9 @@
 #### v.15
 >And he said to them, "I have eagerly desired to eat this Passover with you before I suffer.
 
+#### v.19
+>And he took bread, gave thanks and broke it, and gave it to them, saying, "This is my body given for you; do this in remembrance of me."
+
 #### v.25-26
 >Jesus said to them, "The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors. <sup>26</sup>But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves.
 

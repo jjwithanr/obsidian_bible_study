@@ -1,292 +1,470 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1689462903099,
-      "path": "Reading Journals/Scripture As Communication.md",
-      "subpath": "#^e49df8",
-      "title": "test"
-    },
-    {
       "type": "group",
       "ctime": 1699151524301,
       "items": [
         {
           "type": "group",
-          "ctime": 1709459033612,
-          "items": [],
+          "ctime": 1709878522865,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Genesis"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Exodus"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Leviticus"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Numbers"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Deuteronomy"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Joshua"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Judges"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Ruth"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "1 Samuel"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "2 Samuel"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "1 Kings"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "2 Kings"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "1 Chronicles"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "2 Chronicles"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Ezra"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Nehemiah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Esther"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Job"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Psalms"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Proverbs"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Ecclesiastes"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Song of Solomon"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Isaiah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Jeremiah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Lamentations"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Ezekiel"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Daniel"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Hosea"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Joel"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Amos"
+            },
+            {
+              "type": "file",
+              "ctime": 1709878579641,
+              "path": "Old Testament/Obadiah.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Jonah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Micah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Nahum"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Zephaniah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Haggai"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Zechariah"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579640,
+              "items": [],
+              "title": "Habakkuk"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878579641,
+              "items": [],
+              "title": "Malachi"
+            }
+          ],
           "title": "Old Testament"
         },
         {
           "type": "group",
-          "ctime": 1699151524302,
+          "ctime": 1709878522865,
           "items": [
             {
               "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Matthew"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Mark"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Luke"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "John"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Acts"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Romans"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "items": [],
               "title": "1 Corinthians"
             },
             {
               "type": "group",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "items": [],
-              "title": "2 Corinthians"
+              "title": "1 John"
             },
             {
               "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Galatians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Ephesians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Philippians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Colossians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "1 Thessalonians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "2 Thessalonians"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "1 Timothy"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "2 Timothy"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Titus"
-            },
-            {
-              "type": "file",
-              "ctime": 1709455369869,
-              "path": "New Testament/Philemon.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Hebrews"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "James"
-            },
-            {
-              "type": "group",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "items": [],
               "title": "1 Peter"
             },
             {
               "type": "group",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "1 Thessalonians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "1 Timothy"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "2 Corinthians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
               "items": [],
               "title": "2 Peter"
             },
             {
               "type": "group",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "items": [],
-              "title": "1 John"
+              "title": "2 Thessalonians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "2 Timothy"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Acts"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Colossians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Ephesians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Galatians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Hebrews"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "James"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "John"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Luke"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Mark"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Matthew"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Philippians"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Revelation"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Romans"
+            },
+            {
+              "type": "group",
+              "ctime": 1709878574743,
+              "items": [],
+              "title": "Titus"
             },
             {
               "type": "file",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "path": "New Testament/2John.md",
               "subpath": "#^-"
             },
             {
               "type": "file",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "path": "New Testament/3John.md",
               "subpath": "#^-"
             },
             {
               "type": "file",
-              "ctime": 1709455369869,
+              "ctime": 1709878574743,
               "path": "New Testament/Jude.md",
               "subpath": "#^-"
             },
             {
-              "type": "group",
-              "ctime": 1709455369869,
-              "items": [],
-              "title": "Revelation"
+              "type": "file",
+              "ctime": 1709878574743,
+              "path": "New Testament/Philemon.md",
+              "subpath": "#^-"
             }
           ],
           "title": "New Testament"
         },
         {
           "type": "group",
-          "ctime": 1699151524302,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1700969017298,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1700969017320,
-                  "path": "Reading Journals/Scripture As Communication/Appendices.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1700969017320,
-                  "path": "Reading Journals/Scripture As Communication/Part1.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1700969017320,
-                  "path": "Reading Journals/Scripture As Communication/Part2.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Scripture As Communication"
-            },
-            {
-              "type": "group",
-              "ctime": 1700969045006,
-              "items": [],
-              "title": "Perspectives"
-            },
-            {
-              "type": "group",
-              "ctime": 1700969045006,
-              "items": [],
-              "title": "Systematic Theology"
-            },
-            {
-              "type": "file",
-              "ctime": 1700969045006,
-              "path": "Reading Journals/Studies In The Sermon On The Mount.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1700969045006,
-              "path": "Reading Journals/The Gospel of Christ Crucified.md",
-              "subpath": "#^-"
-            }
-          ],
+          "ctime": 1709878522865,
+          "items": [],
           "title": "Reading Journals"
         },
         {
           "type": "group",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "items": [],
           "title": "Non-Protestant"
         },
         {
           "type": "group",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "items": [],
-          "title": "Pics"
+          "title": "Topics"
         },
         {
           "type": "group",
-          "ctime": 1709459033612,
-          "items": [],
-          "title": "Talks"
-        },
-        {
-          "type": "group",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "items": [],
           "title": "Templates"
         },
         {
           "type": "group",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "items": [],
-          "title": "Topics"
+          "title": "Talks"
+        },
+        {
+          "type": "group",
+          "ctime": 1709878522865,
+          "items": [],
+          "title": "Pics"
         },
         {
           "type": "file",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "path": "Bibliography.md",
           "subpath": "#^-"
         },
         {
           "type": "file",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "path": "Greek.md",
           "subpath": "#^-"
         },
         {
           "type": "file",
-          "ctime": 1709459033612,
+          "ctime": 1709878522865,
           "path": "index.md",
           "subpath": "#^-"
         }

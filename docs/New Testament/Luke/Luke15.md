@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.2
+>But the Pharisees and the teachers of the law muttered, "This man welcomes sinners and eats with them."
+
 #### v.4
 >"Suppose one of you has a hundred sheep and loses one of them. Does he not leave the ninety-nine in the open country and go after the lost sheep until he finds it?
 

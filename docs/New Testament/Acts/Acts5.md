@@ -33,6 +33,9 @@ The community of Christians had a marvelous reputation for integrity, and everyb
 #### v.32
 >We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey him."
 
+#### v.39
+>But if it is from God, you will not be able to stop these men; you will only find yourselves fighting against God."
+
 #### v.41
 >The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.
 
