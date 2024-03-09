@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f9d257f7be64261",
+        "id": "33d29f8f69ef1692",
         "type": "tabs",
         "children": [
           {
-            "id": "527ba0d0b84cd9e3",
+            "id": "e6692bbdbe54f8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/Acts/Acts26.md",
+                "file": "Old Testament/Psalms/Psalm11.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Acts/Acts26.md",
+                "file": "Old Testament/Psalms/Psalm11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/Acts/Acts26.md"
+                "file": "Old Testament/Psalms/Psalm11.md"
               }
             }
           },
@@ -147,10 +147,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "527ba0d0b84cd9e3",
+  "active": "e6692bbdbe54f8b3",
   "lastOpenFiles": [
-    "New Testament/Acts/Acts5.md",
+    "New Testament/1 John/1John4.md",
+    "Old Testament/Psalms/Psalm11.md",
+    "Old Testament/Malachi/Malachi1.md",
+    "New Testament/Acts/Acts28.md",
+    "New Testament/Acts/Acts10.md",
     "New Testament/Acts/Acts26.md",
+    "New Testament/Acts/Acts5.md",
     "New Testament/Acts/Acts21.md",
     "New Testament/Acts/Acts14.md",
     "New Testament/Acts/Acts27.md",
@@ -170,11 +175,6 @@
     "Old Testament/Judges/Judges10.md",
     "Old Testament/Judges/Judges3.md",
     "index.md",
-    "New Testament/Mark/Mark9.md",
-    "New Testament/Matthew/Matthew12.md",
-    "New Testament/Luke/Luke11.md",
-    "New Testament/Luke/Luke9.md",
-    "New Testament/Mark/Mark8.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

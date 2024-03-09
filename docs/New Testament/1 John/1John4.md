@@ -23,7 +23,7 @@ He who dwells in the hearts of Christians by his Spirit, is infinitely more migh
 #barnes 
 
 #### v.7-8
->Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love.
+>Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. <sup>8</sup>Whoever does not love does not know God, because God is love.
 
 There is love in many places, like wandering beams of light; but as for the sun, it is in one part of the heavens, and we look at it, and we say, ‘Herein is light.’… He did not look at the Church of God, and say of all the myriads who counted not their lives dear unto them, ‘Herein is love,’ for their love was only the reflected brightness of the great sun of love.
 #spurgeon 
