@@ -6,7 +6,7 @@ The world’s God-deniers will find, maybe to their surprise, that the God they 
 ### Key Themes of Psalm 14
 - The psalmist perceives a vacuum of faith.
 - God is found in the “company of the righteous.”
-#bullock #teachthetext x
+#bullock #teachthetext 
 
 #### v.1
 >The fool says in his heart, "There is no God." They are corrupt, their deeds are vile; there is no one who does good.

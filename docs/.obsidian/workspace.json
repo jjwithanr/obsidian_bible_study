@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalms/Psalm14.md",
+                "file": "New Testament/Romans/Romans11.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "🔥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalms/Psalm14.md",
+                "file": "New Testament/Romans/Romans11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalms/Psalm14.md"
+                "file": "New Testament/Romans/Romans11.md"
               }
             }
           },
@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,6 +148,11 @@
   },
   "active": "c95ad7a85ec45da1",
   "lastOpenFiles": [
+    "Reading Journals/Scripture As Communication/Part1.md",
+    "Old Testament/1 Samuel/1Samuel13.md",
+    "Topics/hermeneutics.md",
+    "New Testament/Romans/Romans2.md",
+    "New Testament/Romans/Romans10.md",
     "Old Testament/Psalms/Psalm14.md",
     "Non-Protestant/Tobit/Tobit12.md",
     "Non-Protestant/Wisdom of Solomon/Wisdom2.md",
@@ -170,11 +174,6 @@
     "New Testament/Acts/Acts28.md",
     "New Testament/Acts/Acts10.md",
     "New Testament/Acts/Acts26.md",
-    "New Testament/Acts/Acts5.md",
-    "New Testament/Acts/Acts21.md",
-    "New Testament/Acts/Acts14.md",
-    "New Testament/Acts/Acts27.md",
-    "New Testament/Luke/Luke15.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
