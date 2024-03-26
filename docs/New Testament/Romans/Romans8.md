@@ -17,4 +17,7 @@
 #### v.28
 >And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
 
+#### v.38-39
+>For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, <sup>39</sup>neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
+
 

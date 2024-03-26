@@ -92,6 +92,9 @@ The sense is, that he was appointed to be a defender of the gospel, and that the
 It would be better to have preachers that were better instructed, or that were more prudent, or that had purer motives, or that held a more perfect system, yet it is much in our world to have the name of the Redeemer announced in any way, and even to be told, in the most stammering manner, and from whatever motives, that man has a Saviour. **The announcement of that fact in any way may save a soul; but ignorance of it could save none.**
 #barnes 
 
+#### v.20
+>I eagerly expect and hope that I will in no way be ashamed, but will have sufficient courage so that now as always Christ will be exalted in my body, whether by life or by death.
+
 #### v.21
 >For to me, to live is Christ and to die is gain.
 

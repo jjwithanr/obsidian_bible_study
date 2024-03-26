@@ -42,6 +42,7 @@ Some animals must be bridled to be useful. God gives the godly freedom on the hi
 #### v.10
 >Many are the woes of the wicked, but the LORD's unfailing love surrounds the man who trusts in him.
 
-
 #### v.11
 >Rejoice in the LORD and be glad, you righteous; sing, all you who are upright in heart!
+
+
