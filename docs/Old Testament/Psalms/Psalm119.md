@@ -6,10 +6,36 @@
 #### v.9-11
 >How can a young man keep his way pure? By living according to your word. <sup>10</sup>I seek you with all my heart; do not let me stray from your commands. <sup>11</sup>I have hidden your word in my heart that I might not sin against you.
 
+### GIMEL ג
+
+The _Gîmel_ stanza unpacks in its two strophes the petition “be good to your servant that I may live and keep your word” (119:17, the key verse). At the heart of the first strophe (119:17–20) are petitions to comprehend the Law, the necessary condition to obey it. At the heart of the second strophe (119:21–24) is a petition to take away from the psalmist (119:22) his maltreatment by apostate princes (119:22–23).
+#brucewaltke 
+
+#### v.17
+>Do good to your servant, and I will live; I will obey your word.
+
 #### v.18
 >Open my eyes that I may see wonderful things in your law.
 
 [[Luke8]]
+
+#### v.19
+>I am a stranger on earth; do not hide your commands from me.
+
+#### v.20
+>My soul is consumed with longing for your laws at all times.
+
+#### v.21-22
+>You rebuke the arrogant, who are cursed and who stray from your commands. <sup>22</sup>Remove from me scorn and contempt, for I keep your statutes.
+
+God's blessing rests on those who submit themselves to the law of God, whereas his curse comes on all those who "stray" deliberately from it. The "arrogant" despise God and godliness with their "scorn and contempt."
+#vangemeren 
+
+#### v.23-24
+>Though rulers sit together and slander me, your servant will meditate on your decrees. <sup>24</sup>Your statutes are my delight; they are my counselors.
+
+In spite of opposition from the community and her "rulers," the psalmist receives joy and guidance from God's "statues" (*edoth*) as his "counselors."
+#vangemeren 
 
 #### v.27
 >Let me understand the teaching of your precepts; then I will meditate on your wonders.
@@ -70,6 +96,35 @@ The psalmist can say, "I know" that God's laws are "righteous" and faithful, bec
 
 #### v.105
 >Your word is a lamp to my feet and a light for my path.
+
+### SAMEKH ס
+
+#### v.113
+>I hate double-minded men, but I love your law.
+
+“I hate the double-minded” refers to fickle Israelites, who cannot make up their minds whether to follow the LORD or not ([1Kgs 18:21](1Kings18#v.21); [Matt 12:30](Matthew13#v.30); [Jas 1:8](James1#v.8/); [Rev 3:14–16](Revelation3#v.14)).
+#brucewaltke 
+
+#### v.114
+>You are my refuge and my shield; I have put my hope in your word.
+
+#### v.115
+>Away from me, you evildoers, that I may keep the commands of my God!
+
+#### v.116
+>Sustain me according to your promise, and I will live; do not let my hopes be dashed.
+
+#### v.117
+>Uphold me, and I will be delivered; I will always have regard for your decrees.
+
+#### v.118
+>You reject all who stray from your decrees, for their deceitfulness is in vain.
+
+#### v.119
+>All the wicked of the earth you discard like dross; therefore I love your statutes.
+
+#### v.120
+>My flesh trembles in fear of you; I stand in awe of your laws.
 
 #### v.162
 >I rejoice in your promise like one who finds great spoil.

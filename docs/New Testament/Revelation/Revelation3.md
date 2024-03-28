@@ -69,6 +69,12 @@ See more in [[meekness,greatness#EnduringWord on successful Christian work Revel
 #### v.12
 >Him who overcomes I will make a pillar in the temple of God. Never again will he leave it. I will write on him the **name of the city of my God**, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on him **my new name.**
 
+#### v.14
+> “To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the ruler of God’s creation.
+
+#### v.15
+>I know your deeds, that you are neither cold nor hot. I wish you were either one or the other!
+
 #### v.16
 >So, because you are lukewarm - neither hot nor cold - I am about to spit you out of my mouth.
 

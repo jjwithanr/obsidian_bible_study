@@ -3,6 +3,8 @@
 ## Overview:
 
 
+#### v.5-7
+>The islands have seen it and fear; the ends of the earth tremble. They approach and come forward; <sup>6</sup>each helps the other and says to his brother, "Be strong!" <sup>7</sup>The craftsman encourages the goldsmith, and he who smooths with the hammer spurs on him who strikes the anvil. He says of the welding, "It is good." He nails down the idol so it will not topple.
 
 #### v.10
 >So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.

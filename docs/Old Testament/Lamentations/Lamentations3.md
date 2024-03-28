@@ -84,6 +84,9 @@ Thank you Lord for teaching me so much about character and godliness through tea
 
 See also [[1Peter4#v 1]].
 
+#### v.31
+>For men are not cast off by the Lord forever.
+
 #### v.32
 >Though he brings grief, he will show compassion, so great is his unfailing love.
 
