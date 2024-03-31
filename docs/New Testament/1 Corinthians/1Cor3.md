@@ -27,6 +27,18 @@ Very easy to build up a church quickly. Very easy to make a great excitement in 
 #### v.16
 >Don't you know that you yourselves are God's temple and that God's Spirit lives in you?
 
+#### v.17
+>If anyone destroys God's temple, God will destroy him; for God's temple is sacred, and you are that temple.
+
+More pointedly, Paul states that anyone who actually destroys or tends to destroy God's temple will be destroyed by God (cf.[ Lev 15:31](Leviticus15#v.31)). The reason is clear: God's temple is "sacred" (GK 41), i.e., set apart to holiness ([Isa 28:16](Isaiah28#v.16); [Rev 3:12](Revelation3#v.12)). In his justice and holiness, God cannot allow any part of his holy work to be be damaged without bringing retribution. Here is a fitting warning to every Christian minister and worker.
+#haroldmare 
+
+#### v.18
+>Do not deceive yourselves. If any of you thinks he is wise by the standards of this age, he should become a "fool" so that he may become wise.
+
+Paul now returns to the subject of "wisdom" (GK 5055) and warns the believers not to be deceived into thinking that the wisdom of this human age is sufficient for obtaining salvation and for building up the church of God. Rather, if any Christians think themselves to be wise by this world's standards, they must renounce dependance on that wisdom in order to really receive God's wisdom (v.18).
+#haroldmare 
+
 #### v.21-22
 >So then, **no more boasting about men!** All things are yours, <sup>22</sup>whether Paul or Apollos or Cephas or the world or life or death or the present or the future—**all are yours**,
 
@@ -38,5 +50,11 @@ Do not be boasting then, about one thing when all things are yours. The little c
 A key to humility and dying to areas where Pride puffs up is remembering that there is no need to assert we are better/superior since all things are ours in Christ Jesus.
 #jj 9/20/23
 
+The conclusion is that no Christian should be "boasting" (GK 3016) or glorying in human wisdom and attainments—not even those of Paul or Apollos. Why not? Because all things—yes, all the blessings of God in the whole universe—belong to the redeemed church. So the ministry of Paul, Apollos, Cephas (Peter), and any other Christian worker belongs to God's people. Also the world itself, the process of living an dying, the present and the future—all must be viewed in relationship to God's purposes and plans for his redeemed people. So Paul can say, "All things are yours." Everything is for the believers' benefit and belongs to them.
+#haroldmare  
+
+So then draws out the implications for the Corinthians of his discussion up to this point: one should not boast about men. All things belong to them, if Christ has enriched them in every way (cf. [1:4-7](1Cor1#v.4)).
+The Christian community does not belong to individual teachers, but the teachers belong to the community. They were each saying, ‘I belong to...’, but Paul says, ‘Paul and Apollos and Peter all belong to you.’ Everything in life belongs to them, including the present and future.
+#newbiblecommentary 
 
 

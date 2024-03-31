@@ -21,6 +21,12 @@ Message:
 
 #theosu 
 
+#### v.4
+>I always thank God for you because of his grace given you in Christ Jesus.
+
+#### v.5-6
+>For in him you have been enriched in every way—in all your speaking and in all your knowledge—<sup>6</sup>because our testimony about Christ was confirmed in you.
+
 #### v.7
 >Therefore you do not lack any spiritual gift as you eagerly wait for our Lord Jesus Christ to be revealed.
 

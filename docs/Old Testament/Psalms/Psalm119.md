@@ -102,7 +102,7 @@ The psalmist can say, "I know" that God's laws are "righteous" and faithful, bec
 #### v.113
 >I hate double-minded men, but I love your law.
 
-“I hate the double-minded” refers to fickle Israelites, who cannot make up their minds whether to follow the LORD or not ([1Kgs 18:21](1Kings18#v.21); [Matt 12:30](Matthew13#v.30); [Jas 1:8](James1#v.8/); [Rev 3:14–16](Revelation3#v.14)).
+“I hate the double-minded” refers to fickle Israelites, who cannot make up their minds whether to follow the LORD or not ([1Kgs 18:21](1Kings18#v.21); [Matt 12:30](Matthew12#v.30); [Jas 1:8](James1#v.8/); [Rev 3:14–16](Revelation3#v.14)).
 #brucewaltke 
 
 #### v.114
