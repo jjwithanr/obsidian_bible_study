@@ -22,6 +22,11 @@ Messages:
 
 #### v.1
 >In the beginning was the Word, and the Word was with God, and the Word was God.
+>Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν **πρὸς** τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
+>太 初 有 道 ， 道 與 神 同 在 ， 道 就 是 神
+
+Just as Greek verbs are often more expressive than their English counterparts, so too are Greek prepositions. Here John uses the preposition πρὸς (*pros*). The term has a wide range of meanings, depending on the context in which it is found. In this particular instance, the term speaks to a personal *relationship*, in fact, to *intimacy*. It is the same term the apostle Paul uses when he speaks of how we presently have a knowledge comparable to seeing in a dim mirror, but someday, in eternity, we will have a clearer knowledge, an intimate knowledge, for we shall "face to (*pros*) face" ([1 Corinthians 13:12](1Cor13#v.12)). When you are face-to-face with someone, you have nowhere to hide. You have a relationship with that person, whether you like it or not.
+#jameswhite
 
 #### v.14
 >The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the One and Only, who came from the Father, full of grace and truth.

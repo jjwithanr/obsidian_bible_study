@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Appendices.md",
+                "file": "New Testament/John/John14.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Appendices.md",
+                "file": "New Testament/John/John14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Journals/Scripture As Communication/Appendices.md"
+                "file": "New Testament/John/John14.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "c95ad7a85ec45da1",
   "lastOpenFiles": [
+    "New Testament/John/John1.md",
+    "Reading Journals/Scripture As Communication/Appendices.md",
     "Old Testament/Psalms/Psalm37.md",
     "New Testament/1 Corinthians/1Cor3.md",
     "New Testament/1 Corinthians/1Cor1.md",
@@ -172,8 +174,6 @@
     "Old Testament/Psalms/Psalm32.md",
     "New Testament/Romans/Romans14.md",
     "New Testament/Philippians/Philippians1.md",
-    "New Testament/Romans/Romans8.md",
-    "New Testament/Romans/Romans11.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

@@ -37,3 +37,9 @@ Yet not I, but through Christ in me*
 The knowledge of God is not an intellectual exercise. It is the reward of obedience.
 #elisabethelliot
 
+#### v.28
+>"You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I.
+
+Why does He refer to the Father as being greater than He is? He does so because He is reproaching the disciples for their selfishness. He had told them that He was going back to the presence of the Father. If they truly loved Him (and were not simply thinking about themselves), this announcement would have caused them to rejoice. Why? Because the Father is greater than the Son.
+Now immediately we can see what the term "greater" means. If it meant "better" as in "a higher type of being," these words would have no meaning. Why would the disciples rejoice because Jesus was going to see a being who is greater than He? Why would that cause rejoicing? But the term does not refer to "better" but "greater" as in *positionally* greater. The Son was returning back to the place He had with the Father before the world was (John 17:5, see below).
+#jameswhite 
