@@ -13,9 +13,9 @@ Jackals love to play among rubble, seeking dens for themselves. They do not care
 #ralphalexander  
 
 #### v.10-11
->" 'Because they lead my people astray, saying, "Peace," when there is no peace, and because, when a flimsy wall is bulit, they cover it with whitewash, <sup>11</sup>therefore tell thos who cover it with whitewash that it is going to fall. Rain will come in torrents, and I will send hailstones hurtling down, and violent winds will burst forth.
+>" 'Because they lead my people astray, saying, "Peace," when there is no peace, and because, when a flimsy wall is built, they cover it with whitewash, <sup>11</sup>therefore tell those who cover it with whitewash that it is going to fall. Rain will come in torrents, and I will send hailstones hurtling down, and violent winds will burst forth.
 
-Ezekiel uses an analogy similar to that in Jeremiah 6:14 and 8:11. In both prophets reality is covered up and people delude themselves into believing that a wound is not serious or a wall is sturdy. It reflects the tendency to hide structural problems with cosmetic solutions.
+Ezekiel uses an analogy similar to that in [Jeremiah 6:14](Jeremiah6#v.14) and [8:11](Jeremiah8#v.11). In both prophets reality is covered up and people delude themselves into believing that a wound is not serious or a wall is sturdy. It reflects the tendency to hide structural problems with cosmetic solutions.
 #johnwalton 
 
 Since the prophets were declaring a time of peace and prosperity, it was not out of line for them to encourage home building. Consequently, they had gone around plastering walls and helping people decorate the thin partitions of their homes. It was the confirmation of a "settle down and live" philosophy. However, God declared that these walls and their decorative plaster would fall beneath the raging rains of his anger and the hail and violent wind of his wrath.
@@ -32,3 +32,13 @@ God’s wrath is so strong that the symbolic wall constructed of deceptive proph
 
 These women not only had the power to kill people through their incantations, but they also lied to God's people. Because the Judeans listened to these lies, many died unnecessarily. This is not to say that the ultimate authority over life and death rested with these prophetesses, for that authority rests only with almighty God.
 #ralphalexander  
+
+#### v.22
+>Because you disheartened the righteous with your lies, when I had brought them no grief, and because you encouraged the wicked not to turn from their evil ways and so save their lives,
+
+This is a good litmus test for when we are serving in ministry contexts.
+#jj 
+
+#### v.23
+>therefore you will no longer see false visions or practice divination. I will save my people from your hands. And then you will know that I am the LORD.'"
+

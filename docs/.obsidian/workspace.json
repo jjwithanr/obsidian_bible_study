@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalms/Psalm48.md",
+                "file": "New Testament/2 Corinthians/2Cor1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalms/Psalm48.md",
+                "file": "New Testament/2 Corinthians/2Cor1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalms/Psalm48.md"
+                "file": "New Testament/2 Corinthians/2Cor1.md"
               }
             }
           },
@@ -148,8 +148,10 @@
   },
   "active": "c95ad7a85ec45da1",
   "lastOpenFiles": [
-    "Old Testament/2 Samuel/2Samuel1.md",
+    "Old Testament/Ezekiel/Ezekiel13.md",
+    "Old Testament/Psalms/Psalm71.md",
     "Old Testament/Psalms/Psalm48.md",
+    "Old Testament/2 Samuel/2Samuel1.md",
     "Old Testament/1 Samuel/1Samuel1.md",
     "Old Testament/1 Samuel/1Samuel30.md",
     "Old Testament/1 Samuel/1Samuel23.md",
@@ -172,8 +174,6 @@
     "Old Testament/Psalms/Psalm65.md",
     "Old Testament/Leviticus/Leviticus23.md",
     "Old Testament/Psalms/Psalm115.md",
-    "Old Testament/Psalms/Psalm95.md",
-    "Old Testament/Genesis/Genesis8.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
