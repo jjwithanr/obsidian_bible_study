@@ -87,7 +87,7 @@ Pages 1047-1343
 
 #### 2022-08-27 16:00 Pages 1300-1330
 ##### What I learned:
-1. The "prophets" in [Ephesians 2:20](Ephesians2#v.20) and [3:5](Ephesians3#v.5) refer to a small group of individuals who weren't apostles but were closley connected to them and played a foundational role in the beginning of the church.
+1. The "prophets" in [Ephesians 2:20](Ephesians2#v.20) and [3:5](Ephesians3#v.5) refer to a small group of individuals who weren't apostles but were closely connected to them and played a foundational role in the beginning of the church.
 2. Timothy was told to **teach** Paul's instructions to the church and the Thessalonians were told to affirm the tradition they were **taught** by Paul. Teachers, not prophets, were the leaders of the early church. 
 3. Matthew quotes [Isaiah 53:4-5](Isaiah53#v.4-5) with reference to physical healings performed by Jesus.
 4. [2 Chronicles 16:12-13](2Chron16#v.12-13) illustrate how it was wrong for King Asa to rely on doctors or medicine instead of relying on the Lord.

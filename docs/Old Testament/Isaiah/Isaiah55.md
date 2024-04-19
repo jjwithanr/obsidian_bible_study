@@ -13,6 +13,9 @@ The contradiction on the surface is but intended to make emphatic this blessed t
 #### v.2
 >Why spend money on what is not bread, and your labor on what does not satisfy? Listen, listen to me, and eat what is good, and your soul will delight in the richest of fare.
 
+#### v.3-5
+>Give ear and come to me; hear me, that your soul may live. I will make an everlasting covenant with you, my faithful love promised to David. <sup>4</sup>See, I have made him a witness to the peoples, a leader and commander of the peoples. <sup>5</sup>Surely you will summon nations you know not, and nations that do not know you will hasten to you, because of the LORD your God, the Holy One of Israel, for he has endowed you with splendor."
+
 #### v.7
 >Let the wicked forsake his way and the evil man his thoughts. Let him turn to the Lord, and he will have mercy on him, and to our God, for he will freely pardon.
 

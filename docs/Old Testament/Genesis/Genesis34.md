@@ -7,7 +7,7 @@
 #### v.1
 >Now, Dinah the daughter Leah had borne to Jacob, went out to visit the women of the land.
 
- Jacob chose a place to live for all the wrong reasons. He wanted to be close to the city ([Genesis 33:18](https://www.blueletterbible.org/search/preSearch.cfm?Criteria=Genesis+33.18&t=NKJV)), though the city had a strong and ungodly influence. God called him to Bethel, and Jacob’s poor choice of a place to live left his family open to ungodly influence.
+ Jacob chose a place to live for all the wrong reasons. He wanted to be close to the city ([Genesis 33:18](Genesis33#v.18)), though the city had a strong and ungodly influence. God called him to Bethel, and Jacob’s poor choice of a place to live left his family open to ungodly influence.
  #enduringword 
 
 #### v.25

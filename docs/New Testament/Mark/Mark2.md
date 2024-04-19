@@ -43,7 +43,7 @@ Christianity teaches differently: that God will change our hearts to want to do 
 #### v.25-26
 >He answered, "Have you never read what David did when he and his companions were hungry and in need? <sup>26</sup>In the days of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to eat. And he also gave some to his companions."
 
-This occurred in [1 Samuel 21:1–6](1Samuel21), as David, future king and messianic forerunner, was fleeing from Saul.5 He and his men ate the sacred loaves reserved for the priests ([Exod. 25:30](Exodus25#v.30);[ Lev. 24:5–9](Leviticus24#v.5)). The priest freely gave him the bread, and God never judged David, so Jesus uses this as an example of the law being set aside due to the need of David, who as future king and forebear of the Messiah had the authority to demand the holy bread. If this is true, even more may an oral tradition be set aside for the Messiah himself, the Son of God.
+This occurred in [1 Samuel 21:1–6](1Samuel21), as David, future king and messianic forerunner, was fleeing from Saul.5 He and his men ate the sacred loaves reserved for the priests ([Exod. 25:30](Exodus25#v.30);[ Lev. 24:5–9](Leviticus24.md#v.5)). The priest freely gave him the bread, and God never judged David, so Jesus uses this as an example of the law being set aside due to the need of David, who as future king and forebear of the Messiah had the authority to demand the holy bread. If this is true, even more may an oral tradition be set aside for the Messiah himself, the Son of God.
 #grantosborne #teachthetext 
 
 #### v.27
