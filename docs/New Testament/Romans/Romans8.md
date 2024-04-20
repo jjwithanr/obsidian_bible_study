@@ -2,6 +2,8 @@
 
 ## Overview:
 
+#### v.2
+>because through Christ Jesus the law of the Spirit of life set me free from the law of sin and death.
 
 #### v.26
 >In the same way, the Spirit helps in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us with groans that words cannot express.

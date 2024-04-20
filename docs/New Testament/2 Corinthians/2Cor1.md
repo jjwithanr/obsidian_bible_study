@@ -75,7 +75,7 @@ Messages:
 >When I planned this, did I do it lightly? Or do I make my plans in a worldly manner so that in the same breath I say, "Yes, yes" and "No, no"?
 
 The force of the accusation of fickleness may have been fueled by popular Stoicism, which was the most fashionable philosophy of Paul’s day and attracted many followers and admirers. Arius Didymus (Epit. 11m), summarizing the Stoic teaching on the virtuous man, writes, “Nor do \[the Stoics] assume that a man with good sense changes his mind, for changing one’s mind belongs to false assent, on the grounds of erring through haste. Nor does he change his mind in any way, nor alter his opinion, nor is he confused.” Allegations that Paul was operating in a worldly (or “fleshly”) manner are confronted and dismissed by Paul several times in this letter ([5:16](2Cor5#v.16); [10:2–3](2Cor10#v.2-3)).
-#hubbard
+#moyerhubbard #teachthetext 
 
 #### v.18
 >But as surely as God is faithful, our message to you is not "Yes" and "No."
@@ -87,7 +87,7 @@ The force of the accusation of fickleness may have been fueled by popular Stoici
 >For no matter how many promises God has made, they are "Yes" in Christ. And so through him the "Amen" is spoken by us to the glory of God.
 
 Christ represents God’s yes to his promises in that Christ is proof of God’s faithfulness to his covenant with Abraham and Israel. As God was working to fulfill his promises to Israel in spite of their rebellion and in spite of what looked like his rejection of his promises, so too his apostle is committed to fulfilling his appointed task in Corinth in spite of what looks like his abandonment of this church. Hafemann aptly summarizes these verses by observing, “Because Paul’s intention remained the same, his plans changed!”
-#hubbard
+#moyerhubbard #teachthetext 
 
 #### v.21
 >Now it is God who makes both us and you stand firm in Christ. He anointed us,
@@ -98,16 +98,11 @@ Christ represents God’s yes to his promises in that Christ is proof of God’s
 Seals became a work of fine craftsmanship in the Roman era and commonly bore the image of their owner. It is possible that Paul’s reference to the believer being “sealed” contains an allusion to the divine image being embossed, so to speak, upon the believer through the Spirit. The Corinthians had already been instructed on being bearers of the divine image ([1 Cor. 15:42–49](1Cor15)), and Paul will take up the subject again in [2 Corinthians 3:18](2Cor3#v.18) and [4:4–6](2Cor4#v.4).
 
 The Greek word arrabōn, rendered “deposit” by the NIV, is drawn from the world of commerce, where it denoted a partial payment in promise of full payment at a later time. The giving of the Spirit is called a “deposit,” and the image implies that God has obligated himself to complete the transaction in the future. This same term is used in [5:5](2Cor5#v.5), where the future completion is described as mortality being “swallowed up by life” ([5:4](2Cor5#v.4))—that is, our future bodily redemption at Christ’s return (see further the comments on [5:5](2Cor5#v.5)).
-#hubbard
+#moyerhubbard #teachthetext 
 
 #### v.23
 >I call God as my witness that it was in order to spare you that I did not return to Corinth.
 
 #### v.24
 >Not that we lord it over your faith, but we work with you for your joy, because it is by faith you stand firm.
-
-
-
-
-
 

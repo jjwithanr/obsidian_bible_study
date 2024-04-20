@@ -47,8 +47,9 @@ The word of God also keeps one from the ways of the world, as it renews an inner
 #vangemeren 
 
 #### v.32
->I shall run the way of Your commandments, For You will **enlarge my heart.**
-#nasb
+>I shall run the way of Your commandments,
+For You will **enlarge my heart**.
+#lsb
 
 The Lord has given him a sense of freedom from anxiety and care.
 #vangemeren 

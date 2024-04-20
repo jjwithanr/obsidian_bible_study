@@ -27,6 +27,9 @@ Abandoning all idols precedes receiving a heart of flesh from the Lord.
 11/29/2022 God is exposing my idolatry for entertainment in YouTube. It's a recurring theme that I stowed away last school year from all the busyness but this seems to be a time of pruning where this thing must truly die for me to bear fruit. Why are tears scarce in this season? There's no doubt the idols I've tolerated in my heart have sown in the sinful nature to which brings only death, not life.
 #jj 
 
+#### v.20
+>Then they will follow my decrees and be careful to keep my laws. They will be my people, and I will be their God.
+
 #### v.21
 >But as for those whose hearts are devoted to their vile images and detestable idols, I will bring down on their own heads what they have done, declares the Sovereign Lord."
 

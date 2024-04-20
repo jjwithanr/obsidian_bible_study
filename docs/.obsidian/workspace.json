@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel16.md",
+                "file": "Old Testament/Ezekiel/Ezekiel17.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hubbard",
+                "query": "tag:#lsb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel16.md",
+                "file": "Old Testament/Ezekiel/Ezekiel17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel16.md"
+                "file": "Old Testament/Ezekiel/Ezekiel17.md"
               }
             }
           },
@@ -146,10 +146,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "32c94e297decda11",
+  "active": "d1d7e6cb5e24bc49",
   "lastOpenFiles": [
-    "Old Testament/1 Chronicles/1Chron11.md",
+    "New Testament/2 Corinthians/2Cor3.md",
+    "Old Testament/Ezekiel/Ezekiel17.md",
+    "New Testament/2 Corinthians/2Cor2.md",
+    "New Testament/2 Corinthians/2Cor1.md",
+    "New Testament/Romans/Romans8.md",
+    "Exodus34.md",
+    "Old Testament/Ezekiel/Ezekiel11.md",
+    "Old Testament/Psalms/Psalm119.md",
+    "Reading Journals/Perspectives/Perspectives7.md",
+    "Reading Journals/Scripture As Communication/Appendices.md",
+    "New Testament/Acts/Acts11.md",
+    "Reading Journals/Systematic Theology/6Church.md",
+    "New Testament/1 Timothy/1Timothy5.md",
     "Old Testament/Ezekiel/Ezekiel16.md",
+    "Old Testament/1 Chronicles/1Chron11.md",
     "Old Testament/2 Samuel/2Samuel5.md",
     "Old Testament/Isaiah/Isaiah55.md",
     "Old Testament/Jeremiah/Jeremiah50.md",
@@ -161,19 +174,6 @@
     "Old Testament/Exodus/Exodus31.md",
     "Old Testament/1 Chronicles/1Chron16.md",
     "Psalm105.md",
-    "Old Testament/Psalms/Psalm105.md",
-    "Old Testament/Genesis/Genesis34.md",
-    "Reading Journals/Systematic Theology/6Church.md",
-    "Reading Journals/Perspectives/Perspectives5.md",
-    "Topics/eschatology.md",
-    "New Testament/2 Corinthians/2Cor1.md",
-    "Old Testament/Ezekiel/Ezekiel13.md",
-    "Old Testament/Psalms/Psalm71.md",
-    "Old Testament/Psalms/Psalm48.md",
-    "Old Testament/2 Samuel/2Samuel1.md",
-    "Old Testament/1 Samuel/1Samuel1.md",
-    "Old Testament/1 Samuel/1Samuel30.md",
-    "Old Testament/1 Samuel/1Samuel23.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
