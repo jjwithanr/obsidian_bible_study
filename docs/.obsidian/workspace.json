@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel17.md",
+                "file": "Old Testament/2 Samuel/2Samuel19.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel17.md",
+                "file": "Old Testament/2 Samuel/2Samuel19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Ezekiel/Ezekiel17.md"
+                "file": "Old Testament/2 Samuel/2Samuel19.md"
               }
             }
           },
@@ -148,8 +148,11 @@
   },
   "active": "d1d7e6cb5e24bc49",
   "lastOpenFiles": [
-    "New Testament/2 Corinthians/2Cor3.md",
+    "Old Testament/1 Kings/1Kings2.md",
+    "Old Testament/2 Samuel/2Samuel19.md",
+    "Old Testament/Psalms/Psalm65.md",
     "Old Testament/Ezekiel/Ezekiel17.md",
+    "New Testament/2 Corinthians/2Cor3.md",
     "New Testament/2 Corinthians/2Cor2.md",
     "New Testament/2 Corinthians/2Cor1.md",
     "New Testament/Romans/Romans8.md",
@@ -171,9 +174,6 @@
     "Old Testament/Jeremiah/Jeremiah31.md",
     "Old Testament/2 Samuel/2Samuel23.md",
     "Old Testament/Leviticus/Leviticus24.md",
-    "Old Testament/Exodus/Exodus31.md",
-    "Old Testament/1 Chronicles/1Chron16.md",
-    "Psalm105.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

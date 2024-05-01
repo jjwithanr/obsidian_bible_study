@@ -6,6 +6,9 @@
 #### v.2-3
 >"I am about to go the way of all the earth," he said. "So be strong, show yourself a man, <sup>3</sup>and observe what the Lord your God requires: Walk in his ways, and keep his decrees and commands, his laws and requirements, as written in the Law of Moses, so that you may prosper in all you do and wherever you go,
 
+#### v.8
+>"And remember, you have with you Shimei son of Gera, the Benjamite from Bahurim, who called down bitter curses on me the day I went to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the Lord: 'I will not put you to death by the sword.'
+
 #### v.9
 >But now, do not consider him innocent. You are a man of wisdom; you will know what to do to him. Bring his grad head down to the grave in blood."
 

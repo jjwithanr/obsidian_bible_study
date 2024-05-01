@@ -1,7 +1,10 @@
 # Psalm 65
 
 ## Overview:
+This communal song of grateful praise , having three nearly equal stanzas, praises God at the Zion temple for answering the people’s prayers in providing life-sustaining rain and so abundant harvests. Verse 5 is the key verse. Possibly, the psalm was sung at the Fall Festival on the fifteenth day of the seventh month, when Israel celebrated its harvests (cf. [Lev 23:39](Leviticus23#v.39)). The psalm is a fitting poem of praise for such times as Thanksgiving Day.
 
+Today, the forgiven Church enters into the heavenly temple with praises to the Trinity: to the Father for their daily bread; to Christ for building his Church; and to the Spirit for his fruit.
+#brucewaltke 
 
 #### v.1
 >Praise awaits you, O God, in Zion; to you our vows will be fulfilled.

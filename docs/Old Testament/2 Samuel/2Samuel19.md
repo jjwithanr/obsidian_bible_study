@@ -13,11 +13,7 @@
 "It is very true," said Edmund. "But even a traitor may mend. I have known one that did." And he looked very thoughtful.”
 #cslewis 
 
-#### v.
->
+ Later, on his deathbed, David is not so merciful. He advises Solomon to make sure Shimei dies violently ([1 Kings 2:8–9](1Kings2#v.8)). This makes one wonder about David’s motives in sparing Shimei now. He may be afraid of the Benjamites, who have turned out in large numbers. However, it is more likely that this pardon is designed to communicate to Benjamin and the northern tribes his willingness to let bygones be bygones. If David can pardon Shimei, then certainly he will welcome them back as his supporters.
+ #robertchisholm #teachthetext 
 
-#### v.
->
 
-#### v.
->
