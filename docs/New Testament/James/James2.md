@@ -22,6 +22,9 @@ Pastor Ed's story of him taking two girls who lost their mother despite being a 
 #### v.19
 >You believe that there is one God. Good! Even the demons believe that - and shudder.
 
+And in order to this sense of our own meanness and unworthiness that is implied in humility, it is not only necessary that we should know God, and have a sense of his greatness, without which we cannot know ourselves, but we must have a right sense also of his excellence and loveliness. The devils and damned spirits see a great deal of God’s greatness, of his wisdom, omnipotence, etc. God makes them sensible of it by what they see in his dealings, and feel in their own sufferings. However unwilling they are to know it, God makes them know how much he is above them now, and they shall know and feel it still more, at and after the judgment. 🔥==But they have no humility, nor will they ever have, because, though they see and feel God’s greatness, yet they see and feel nothing of his loveliness.== And without this there can be no true humility, for that cannot exist unless the creature feels his distance from God, not only with respect to his greatness, but also his loveliness. The angels amid ransomed spirits in heaven see both these things: not only how much greater God is than they are, but how much more lovely he is also.
+#jonathanedwards
+
 #### v.26
 >As the body without the spirit is dead, so faith without deeds is dead.
 

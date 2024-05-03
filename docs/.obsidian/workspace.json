@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/2 Samuel/2Samuel19.md",
+                "file": "New Testament/James/James2.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lsb",
+                "query": "james",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/2 Samuel/2Samuel19.md",
+                "file": "New Testament/James/James2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/2 Samuel/2Samuel19.md"
+                "file": "New Testament/James/James2.md"
               }
             }
           },
@@ -148,8 +149,9 @@
   },
   "active": "d1d7e6cb5e24bc49",
   "lastOpenFiles": [
-    "Old Testament/1 Kings/1Kings2.md",
+    "Old Testament/2 Samuel/2Samuel21.md",
     "Old Testament/2 Samuel/2Samuel19.md",
+    "Old Testament/1 Kings/1Kings2.md",
     "Old Testament/Psalms/Psalm65.md",
     "Old Testament/Ezekiel/Ezekiel17.md",
     "New Testament/2 Corinthians/2Cor3.md",
@@ -173,7 +175,6 @@
     "Old Testament/Jeremiah/Jeremiah32.md",
     "Old Testament/Jeremiah/Jeremiah31.md",
     "Old Testament/2 Samuel/2Samuel23.md",
-    "Old Testament/Leviticus/Leviticus24.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
