@@ -43,11 +43,4 @@ Traditional Christian interpretation has read Ezek. 28, like Isa. 14, as referri
 #### v.17
 >Your heart became proud on account of your beauty, and you corrupted your wisdom because of your splendor. So I threw you to the earth; I made a spectacle of you before kings.
 
-#### v.21
->"On that day I will make a horn grow for the house of Israel, and I will open your mouth among them. Then they will know that I am the Lord."
-
-In the only other place where the expression “make a horn grow” occurs, the horn refers to a king in David’s line: “Here I will make a horn grow for David and set up a lamp for my anointed one” [(Ps. 132:17](Psalm132#v.17); compare [Dan. 7:24](Daniel7#v.24) and [Rev. 17:9–11](Revelation17#v.9), where horns represent kings). But the remainder of the verse suggests another reference: “I will open your mouth among them. Then they will know that I am the LORD.” In [24:27](Ezekeil24#v.27), the Lord promises to open Ezekiel’s mouth—that is, to remove the prophet’s inability to intercede for Israel (see the discussion of [3:26](Ezekiel3#v.26))—once Jerusalem has fallen. The Lord fulfills that promise in [33:22](Ezekiel33#v.22), and in Ezekiel 34–48 messages of hope and restoration displace oracles of judgment. Verse 21 foreshadows the message of salvation that will dominate those later chapters (compare [28:25–26](Ezekiel28#v.25-26)). As the medieval Jewish commentator Rashi and many others since have affirmed, the “horn . . . for the house of Israel” (v. 21) is “a general reference to an approaching deliverance for Israel” (Zimmerli, Ezekiel 2, p. 120). 
-#steventuell #understandingthebible 
-
-
 
