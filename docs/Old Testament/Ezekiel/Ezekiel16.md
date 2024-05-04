@@ -16,7 +16,7 @@ Biblical references to Jerusalem describe it originally as a Jebusite city ([Jos
 #johnwalton 
 
 What the prophet says, while intentionally insulting to the race-proud priesthood and nobility of the city, is of course true: Jerusalem was originally not an Israelite city but a Jebusite stronghold [(2 Sam. 5:1–10](2Samuel5.md)//[1 Chr. 11:1–9](1Chron11.md)). Indeed, it may well be that David chose Jerusalem as his capital, at least in part, for this very reason. It was a site located roughly in the center of the territory that Israel’s tribes and clans claimed, yet it was not traditionally connected to any of them. Therefore Jerusalem could serve as a capital to all of them. In a similar way, the United States placed its capital not in one of the states, but rather in the District of Columbia—the better to serve as a fair and unbiased capital to the entire nation.
-#johnston #understandingthebible
+#steventuell #understandingthebible
 
 #### v.4
 >On the day you were born your cord was not cut, nor were you washed with water to make you clean, nor were you rubbed with salt or wrapped in cloths.
@@ -190,7 +190,7 @@ What the prophet says, while intentionally insulting to the race-proud priesthoo
 >Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you.
 
 The Hebrew Bible speaks many times of an everlasting covenant (Heb. berit ʿolam). The covenant God made with all living things following the great flood (Gen. 9:16), the Lord’s covenant with Abraham ([Gen. 17:1–22](Genesis17); see also [Ps. 105:10](Psalm105#v.10)//[1 Chr. 16:17](1Chron16#v.17)), the covenant God gave at Sinai ([Exod. 31:16](Exodus31.md#v.16); [Lev. 24:8](Leviticus24.md#v.8)) and the covenant of kingship with David’s line ([2 Sam. 23:5](2Samuel23.md#v.5)) are all said to be everlasting covenants. Yet these are all past covenants, not future ones. Further, it is clear that Ezekiel understands none of these covenants as “everlasting” in the sense that they guarantee survival for Israel: indeed, quite to the contrary, Judah and Jerusalem are doomed. As in [Jeremiah 31:31–34](Jeremiah31#v.31-34), the promised covenant is implicitly discontinuous with the former, broken one (see the discussion of[ Ezek. 11:19–21](Ezekiel11#v.19), above). Ezekiel, Jeremiah and, later, Second Isaiah, understood berit ʿolam in new ways. For these prophets of the exile, the focus of the berit ʿolam became the future, not the past. It will be after the exile is over, and God has brought God’s people home, that “I will make an everlasting covenant with them: I will never stop doing good to them” ([Jer. 32:40](Jeremiah32.md#v.40)). This everlasting covenant will not be between the Lord and some exalted individual—Abraham or Moses or David—but between the Lord and the people (as v. 60 here makes clear; see also [37:25–26](Ezekiel37#v.25-26) where, though David is to be prince forever, God makes the “everlasting covenant” with the people, and compare [Jer. 32:40](Jeremiah32.md#v.40); [50:5](Jeremiah50.md#v.5); and [Isa. 55:3–5](Isaiah55#v.3-5)).
-#johnston #understandingthebible 
+#steventuell #understandingthebible 
 
 #### v.61
 >Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not on the basis of my covenant with you.

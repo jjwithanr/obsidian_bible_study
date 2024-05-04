@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Testament/James/James2.md",
+                "file": "Old Testament/Psalms/Psalm78.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "james",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/James/James2.md",
+                "file": "Old Testament/Psalms/Psalm78.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Testament/James/James2.md"
+                "file": "Old Testament/Psalms/Psalm78.md"
               }
             }
           },
@@ -149,11 +148,14 @@
   },
   "active": "d1d7e6cb5e24bc49",
   "lastOpenFiles": [
+    "Old Testament/Ezekiel/Ezekiel28.md",
+    "Old Testament/Ezekiel/Ezekiel16.md",
+    "Old Testament/Ezekiel/Ezekiel17.md",
+    "New Testament/James/James2.md",
     "Old Testament/2 Samuel/2Samuel21.md",
     "Old Testament/2 Samuel/2Samuel19.md",
     "Old Testament/1 Kings/1Kings2.md",
     "Old Testament/Psalms/Psalm65.md",
-    "Old Testament/Ezekiel/Ezekiel17.md",
     "New Testament/2 Corinthians/2Cor3.md",
     "New Testament/2 Corinthians/2Cor2.md",
     "New Testament/2 Corinthians/2Cor1.md",
@@ -166,15 +168,12 @@
     "New Testament/Acts/Acts11.md",
     "Reading Journals/Systematic Theology/6Church.md",
     "New Testament/1 Timothy/1Timothy5.md",
-    "Old Testament/Ezekiel/Ezekiel16.md",
     "Old Testament/1 Chronicles/1Chron11.md",
     "Old Testament/2 Samuel/2Samuel5.md",
     "Old Testament/Isaiah/Isaiah55.md",
     "Old Testament/Jeremiah/Jeremiah50.md",
     "Old Testament/Ezekiel/Ezekiel37.md",
     "Old Testament/Jeremiah/Jeremiah32.md",
-    "Old Testament/Jeremiah/Jeremiah31.md",
-    "Old Testament/2 Samuel/2Samuel23.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

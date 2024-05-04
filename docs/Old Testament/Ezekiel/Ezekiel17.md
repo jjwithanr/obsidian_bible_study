@@ -49,7 +49,7 @@
 >But the king rebelled against him by sending his envoys to Egypt to get horses and a large army. Will he succeed? Will he who does such things escape? Will he break the treaty and yet escape?
 
 In his fourth year (594/3 B.C.), Zedekiah made an alliance with Pharaoh Psammeticus II (594–588 B.C.). [Jeremiah 27:3](Jeremiah27#v.3) mentions the kings of Edom, Moab, Ammon, and Tyre as participants in a conference in Jerusalem, at which they discussed an alliance in rebellion against Babylon (Ezek. 25–32 condemns these same nations, though the relationship between those oracles and Zedekiah’s alliance is uncertain).
-#johnston #understandingthebible 
+#steventuell #understandingthebible 
 
 #### v.16
 >"'As surely as I live, declares the Sovereign LORD, he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose treaty he broke.
