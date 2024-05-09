@@ -101,7 +101,6 @@ The teaching that 2 Peter sees to be at issue is the doctrine of the Second Comi
 We worship our Lord and his Father, not Scripture. Scripture simply points us to them. It is a true light shining in the darkness. **What we ultimately long for is not a fuller knowledge of the book, but the blazing brightness of the presence the One** of whom the book speaks and whom even now the book directs us to experience in our hearts.
 #hardsayingsofthebible 
 
-
 #### v.21
 >For prophecy never had its origin in the will of man, but men spoke from God as they were carried along by the Holy Spirit.
 

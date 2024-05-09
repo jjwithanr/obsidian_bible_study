@@ -41,7 +41,7 @@
 	- Truth Encounter - understanding; vehicle is teaching.
 	- Allegiance Encounter - relationship; vehicle is witness.
 	- Power Encounter - freedom; vehicle is spiritual warfare.
-- *Many evangelicals have grown up with a knowledge-truth brand of Christianity that pays little if any attention to power encounters. But we go out to witness and evangelize among people who have grown up in spirit-oriented societies and often find that solid, lasting coversions to Christ are hard to achieve with our knowledge-truth branch alone.* (450)
+- *Many evangelicals have grown up with a knowledge-truth brand of Christianity that pays little if any attention to power encounters. But we go out to witness and evangelize among people who have grown up in spirit-oriented societies and often find that solid, lasting conversions to Christ are hard to achieve with our knowledge-truth branch alone.* (450)
 
 ### Making Disciples of Oral Learners
 **International Orality Network**

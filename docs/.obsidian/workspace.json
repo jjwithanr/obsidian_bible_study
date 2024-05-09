@@ -11,8 +11,12 @@
             "id": "3495bee3a89f6724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Old Testament/Psalms/Psalm84.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Old Testament/Psalms/Psalm84.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Old Testament/Psalms/Psalm84.md"
+              }
             }
           },
           {
@@ -141,32 +148,32 @@
   },
   "active": "3495bee3a89f6724",
   "lastOpenFiles": [
+    "Old Testament/Ezekiel/Ezekiel34.md",
+    "Old Testament/Psalms/Psalm84.md",
+    "psalm84.md",
+    "Old Testament/Ezekiel/Ezekiel31.md",
+    "Old Testament/Ezekiel/Ezekiel28.md",
+    "New Testament/2 Peter/2Peter1.md",
+    "New Testament/Galatians/Galatians4.md",
+    "Old Testament/2 Samuel/2Samuel24.md",
+    "Old Testament/1 Chronicles/1Chron21.md",
+    "Reading Journals/Perspectives/Perspectives5.md",
+    "Reading Journals/Perspectives/Perspectives8.md",
+    "Reading Journals/Perspectives/Perspectives10.md",
+    "Reading Journals/Perspectives/Perspectives11.md",
+    "Reading Journals/Perspectives/Perspectives13.md",
+    "Reading Journals/Perspectives/Perspectives14.md",
+    "Reading Journals/Perspectives/Perspectives15.md",
+    "Topics/eschatology.md",
+    "Reading Journals/Scripture As Communication/Appendices.md",
+    "Reading Journals/Scripture As Communication/Part2.md",
+    "Reading Journals/Scripture As Communication/Part1.md",
+    "Old Testament/2 Samuel/2Samuel23.md",
+    "Old Testament/2 Samuel/2Samuel22.md",
     "Topics/discrepancies.md",
     "Old Testament/Ezekiel/Ezekiel29.md",
-    "Old Testament/Ezekiel/Ezekiel28.md",
     "Old Testament/Psalms/Psalm78.md",
     "Old Testament/Ezekiel/Ezekiel16.md",
-    "Old Testament/Ezekiel/Ezekiel17.md",
-    "New Testament/James/James2.md",
-    "Old Testament/2 Samuel/2Samuel21.md",
-    "Old Testament/2 Samuel/2Samuel19.md",
-    "Old Testament/1 Kings/1Kings2.md",
-    "Old Testament/Psalms/Psalm65.md",
-    "New Testament/2 Corinthians/2Cor3.md",
-    "New Testament/2 Corinthians/2Cor2.md",
-    "New Testament/2 Corinthians/2Cor1.md",
-    "New Testament/Romans/Romans8.md",
-    "Exodus34.md",
-    "Old Testament/Ezekiel/Ezekiel11.md",
-    "Old Testament/Psalms/Psalm119.md",
-    "Reading Journals/Perspectives/Perspectives7.md",
-    "Reading Journals/Scripture As Communication/Appendices.md",
-    "New Testament/Acts/Acts11.md",
-    "Reading Journals/Systematic Theology/6Church.md",
-    "New Testament/1 Timothy/1Timothy5.md",
-    "Old Testament/1 Chronicles/1Chron11.md",
-    "Old Testament/2 Samuel/2Samuel5.md",
-    "Old Testament/Isaiah/Isaiah55.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

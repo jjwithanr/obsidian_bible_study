@@ -4,7 +4,7 @@
 ### A Church In Every People
 **Donald McGavran**
 - The conglomerate church approach is slow to multiply in an organic indigenous way and tends to uneccesarily ostracize new converts from their kinsmen.
->Encourage converts to remain thoroughly with their peole in most matters. Please note that word "most." They cannot remain one with their people in idolatry or drunkenness or obvious sin. (630)
+>Encourage converts to remain thoroughly with their people in most matters. Please note that word "most." They cannot remain one with their people in idolatry or drunkenness or obvious sin. (630)
 
 - Encourage group decisions for Christ so new converts are not ostracised.
 >If only one person decides to follow Jesus, do not baptize him immediately. Say to him, "You and I will work together to lead another five, or ten, or God willing, 50 of your people to accept Jesus Christ as Saviour so that when you are baptized, you will be baptized with them." Ostracism is very effective against one lone person. But ostracism is weak indeed when exercised against a group of a dozen. And when exercised against 200 it has practically no force at all. (630)
@@ -23,10 +23,10 @@
 
 - They had obedience-based discipleship. The tenth generation of Bhojpuri Christians were just as spiritually mature and strong as the first generation. They had a cycle of hearing, obeying, and sharing which developed mature believers.
 
->==An old man sat on the edge of the road approaching the village. When he saw me, he semed startled. He slowly stood up and came to meet me.
+>==An old man sat on the edge of the road approaching the village. When he saw me, he seemed startled. He slowly stood up and came to meet me.
 >	"Finally!" he exclaimed. "You are finally here." Before I could say anything he took my arm and pulled me into the village.
 >	"Here is the man I told you about." He told people as he pulled me along. "Here is the man I dreamed about every night for the last 20 years. My dreams told me that we must listen to everything this man tells us."
->I shared the gospel and a church now meets in that village. God is at work in people's hearts, even before we walk into their lives. According to this man, God told him 20 years before that I ws coming to his village. Twenty years prior to that moment, I was studying to be an engineer. I had no desire and no call at that time to be a minister or a church planter. (699)==
+>I shared the gospel and a church now meets in that village. God is at work in people's hearts, even before we walk into their lives. According to this man, God told him 20 years before that I was coming to his village. Twenty years prior to that moment, I was studying to be an engineer. I had no desire and no call at that time to be a minister or a church planter. (699)==
 
 >Planting churches is easier if you're working with God and the people He has prepared, rather than trying to force the gospel on people who aren't ready. (700)
 
@@ -56,8 +56,8 @@
 
 ### Culture, Worldview, and Contextualization
 **Charles H. Kraft**
-- The apostles participated in contextualization when they translated the Christian message from Aramaic langauge and culture to Greek. They used Greek words and concepts for fundamental topics like God, sin, and "word" (logos).
+- The apostles participated in contextualization when they translated the Christian message from Aramaic language and culture to Greek. They used Greek words and concepts for fundamental topics like God, sin, and "word" (logos).
 
->Biblically, the contextualization of Christianity is not simply to be the passing on of a *product* that has been developed once for all in Europe or America. It is, rather, the imitating of the *process* that the eary apostles went through.
+>Biblically, the contextualization of Christianity is not simply to be the passing on of a *product* that has been developed once for all in Europe or America. It is, rather, the imitating of the *process* that the very apostles went through.
 
 

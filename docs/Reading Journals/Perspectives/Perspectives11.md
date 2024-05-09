@@ -1,11 +1,6 @@
 ## Week 11 - Building Brides of Love
 2022-11-06
 
-### Article
-**author**
-- Takeaways
-- Takeaways
-- Takeaways
 
 ### Finding a Place and Serving
 **Paul G. Hiebert**

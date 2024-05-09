@@ -37,7 +37,6 @@ Everything looked good on the outside until you were sought out and exposed for 
 #jj 
 
 Traditional Christian interpretation has read Ezek. 28, like Isa. 14, as referring to the fall of Satan. Tertullian (155–230 A.D.) cited Ezek. 28 as proof that Satan was created good and became corrupt through his own choices (Marc. 2.10), while Theodoret of Cyprus (393–457 A.D.) wrote, “Forcing the text, someone might apply these things even to the historical prince of Tyre, but the text truly and properly corresponds to that demon which produces sinfulness.”
-
 #steventuell #understandingthebible 
 
 #### v.17

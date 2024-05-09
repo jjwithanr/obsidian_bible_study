@@ -12,11 +12,17 @@
 #### v.3
 >The God of Israel spoke, the Rock of Israel said to me: 'When one rules over men in righteousness, when he rules in the fear of God,
 
+The Lord chose David to embody the Deuteronomic ideal of kingship (Deut. 17:14–20). He was to promote righteousness and to fear the Lord, and in so doing to be an instrument of divine blessing for his people (vv. 3–4). At the same time, David could be confident in his covenantal relationship with the Lord, knowing that the divine promises had been formalized and secured (v. 5a). Thus David could expect to experience divine protection and blessing (v. 5b) and to see the demise of evil rebels (vv. 6–7). So, in short, the Davidic covenant demands that the chosen king promote God’s moral standard; it also guarantees that obedience will be rewarded.
+#robertchisholm #teachthetext 
+
 #### v.4
 >he is like the light of morning at sunrise on a cloudless morning, like the brightness after rain that brings the grass from the earth.'
 
 #### v.5
 >"Is not my house right with God? Has he not made with me an everlasting covenant, arranged and secured in every part? Will he not bring to fruition my salvation and grant me my every desire?
+
+This is the only place in the Old Testament where the Davidic covenant is specifically called “everlasting,” but its perpetual, irrevocable nature is stated elsewhere (2 Sam. 7:13, 16; Ps. 89:4, 28, 36–37). For fuller discussion of the nature of the Davidic covenant, see comments above on 2 Samuel 7.
+#robertchisholm #teachthetext 
 
 #### v.6
 >But evil men are all to be cast aside like thorns, which are not gathered with the hand.

@@ -9,8 +9,8 @@
 
 ### The Wall and the Canyon
 **Steven C. Hawthorne**
-- The Wall: barrier of understanding and communicating the gospel of salvation. Challenge of claerly communicating the gospel to people groups.
-- The Canyon: barrier of conversion and heartfelt repetance in accepting the gospel message from people groups. Challenge to see the gospel be received by people groups (not seeker sensitive; prevent unneccesary cultural suicide).
+- The Wall: barrier of understanding and communicating the gospel of salvation. Challenge of clearly communicating the gospel to people groups.
+- The Canyon: barrier of conversion and heartfelt repentance in accepting the gospel message from people groups. Challenge to see the gospel be received by people groups (not seeker sensitive; prevent unnecessary cultural suicide).
 - *It is not enough for someone to hear the gospel or to understand it. People must be able to see, for themselves and their people, the radical freshness, the heavenly power and the hope-filled relevance of the gospel.* (141)
 
 
@@ -24,7 +24,7 @@
 ### Become Like, Remain Like
 **Harley Talman**
 - 1 Corinthians 9:19-22 and 1 Corinthians 7:17-20 establish Paul's principle for missionaries to "become like" and "remain like" those they are preaching the gospel to.
-- After analyzing 1 Corithians 7:17-20, we see that the call to "remain in that situation in life in which he was called" expands beyond martial status. It includes someone's religious, social, and cultural identity.
+- After analyzing 1 Corinthians 7:17-20, we see that the call to "remain in that situation in life in which he was called" expands beyond martial status. It includes someone's religious, social, and cultural identity.
 - *We become like so they remain like.* (148)
 - from **A New Creation** by David Anthony: *It's a new creation in an old environment.* (148)
 

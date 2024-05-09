@@ -26,7 +26,7 @@
 - Taylor became an assistant to a doctor after medical and surgical training. In his own time, he would study the Word of God, visit the poor, and evangelize on summer evenings.
 - He made the imminent coming of Christ the source of his blessed hope and conviction to tidy everything in his life that made him sorry to give account to Jesus. He donated accumulated possessions and clothes lamenting how the Church of God ought to utilize more of her resources!
 >In the study of that Divine Word I learned that, to obtain successful laborers, not elaborate appeals for help, but, first, earnest prayer to God to thrust forth laborers, and, second, the deepening of the spiritual life of the Church, so that men should be able to stay at home, were what was needed. I saw that the apostolic plan was not raise ways and means, but to go and do the work, trusting in His sure Word who has said, "Seek ye first the kingdom of God and His righteousness, and all these things shall be added unto you." (321)
-- Taylor's had unbelief for God to use him to seek from Him the needed workers. He delayed until a blood-guiltiness washed over him when seeing a congregation of thousands worshipping in security while knowing millions were perishing for the ignorance of the Gospel. Overcoming the unbelief led him to write "China's Spiritual Need and Claims."
+- Taylor had unbelief for God to use him to seek from Him the needed workers. He delayed until a blood-guiltiness washed over him when seeing a congregation of thousands worshipping in security while knowing millions were perishing for the ignorance of the Gospel. Overcoming the unbelief led him to write "China's Spiritual Need and Claims."
 
 
 ### The State of the Gospel
