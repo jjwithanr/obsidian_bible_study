@@ -6,7 +6,7 @@
 #### v.1
 >As for you, you were dead in your transgressions and sins,
 
-We were all once dead, but now alive (see [[Luke15]])
+We were all once dead, but now alive (see [Luke 15:31-32](Luke15#v.31-32)).
 #jj 
 
 #### v.2
@@ -58,6 +58,9 @@ See also [[Isaiah9#v 6]].
 
 #### v.15
 >by abolishing in his flesh the law with its commandments and regulations. His purpose was to create in himself one new man out of the two, thus making peace,
+
+This is the verse David Campbell uses to explain where Paul says the ritual and ceremonial aspects of the Mosaic law are done away with in the New Covenant. It cannot be the entire law since Paul later refers to Deuteronomy in chapter 6 for obeying your parents.
+#jj 
 
 #### v.18
 >For through him we both have access to the Father by one Spirit.

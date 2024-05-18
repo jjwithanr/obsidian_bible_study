@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalms/Psalm84.md",
+                "file": "New Testament/Ephesians/Ephesians2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalms/Psalm84.md",
+                "file": "New Testament/Ephesians/Ephesians2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalms/Psalm84.md"
+                "file": "New Testament/Ephesians/Ephesians2.md"
               }
             }
           },
@@ -148,8 +148,10 @@
   },
   "active": "3495bee3a89f6724",
   "lastOpenFiles": [
-    "Old Testament/Ezekiel/Ezekiel34.md",
+    "New Testament/Luke/Luke15.md",
+    "New Testament/Ephesians/Ephesians2.md",
     "Old Testament/Psalms/Psalm84.md",
+    "Old Testament/Ezekiel/Ezekiel34.md",
     "psalm84.md",
     "Old Testament/Ezekiel/Ezekiel31.md",
     "Old Testament/Ezekiel/Ezekiel28.md",
@@ -172,8 +174,6 @@
     "Old Testament/2 Samuel/2Samuel22.md",
     "Topics/discrepancies.md",
     "Old Testament/Ezekiel/Ezekiel29.md",
-    "Old Testament/Psalms/Psalm78.md",
-    "Old Testament/Ezekiel/Ezekiel16.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
