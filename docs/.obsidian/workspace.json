@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11b5896136c727d7",
+        "id": "fcd7ff8d8924db47",
         "type": "tabs",
         "children": [
           {
-            "id": "3495bee3a89f6724",
+            "id": "d8989c037dd96f28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Testament/Ephesians/Ephesians2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament/Ephesians/Ephesians2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New Testament/Ephesians/Ephesians2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,10 +139,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3495bee3a89f6724",
+  "active": "d8989c037dd96f28",
   "lastOpenFiles": [
-    "New Testament/Luke/Luke15.md",
+    "Old Testament/1 Kings/1Kings16.md",
+    "Old Testament/Joshua/Joshua6.md",
+    "Old Testament/2 Samuel/2Samuel12.md",
+    "Old Testament/Leviticus/Leviticus18.md",
+    "Old Testament/Deuteronomy/Deut21.md",
+    "Old Testament/Deuteronomy/Deut23.md",
+    "Old Testament/Exodus/Exodus21.md",
+    "Old Testament/1 Samuel/1Samuel25.md",
+    "Old Testament/1 Samuel/`Untitled.md",
+    "Old Testament/Psalms/Psalm94.md",
+    "Old Testament/1 Kings/1Kings12.md",
+    "Old Testament/Exodus/Exodus32.md",
+    "Old Testament/1 Kings/1Kings11.md",
+    "Old Testament/Deuteronomy/Deut12.md",
     "New Testament/Ephesians/Ephesians2.md",
+    "New Testament/Luke/Luke15.md",
     "Old Testament/Psalms/Psalm84.md",
     "Old Testament/Ezekiel/Ezekiel34.md",
     "psalm84.md",
@@ -160,20 +167,6 @@
     "Old Testament/2 Samuel/2Samuel24.md",
     "Old Testament/1 Chronicles/1Chron21.md",
     "Reading Journals/Perspectives/Perspectives5.md",
-    "Reading Journals/Perspectives/Perspectives8.md",
-    "Reading Journals/Perspectives/Perspectives10.md",
-    "Reading Journals/Perspectives/Perspectives11.md",
-    "Reading Journals/Perspectives/Perspectives13.md",
-    "Reading Journals/Perspectives/Perspectives14.md",
-    "Reading Journals/Perspectives/Perspectives15.md",
-    "Topics/eschatology.md",
-    "Reading Journals/Scripture As Communication/Appendices.md",
-    "Reading Journals/Scripture As Communication/Part2.md",
-    "Reading Journals/Scripture As Communication/Part1.md",
-    "Old Testament/2 Samuel/2Samuel23.md",
-    "Old Testament/2 Samuel/2Samuel22.md",
-    "Topics/discrepancies.md",
-    "Old Testament/Ezekiel/Ezekiel29.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

@@ -18,6 +18,11 @@ The wicked foolishly establish their little kingdoms on earth, believing that th
 
 #### v.19
 >When anxiety was great within me, your consolation brought joy to my soul.
+  
+When my anxious thoughts multiply within me,
+Your consolations delight my soul.
+#lsb 
+
 
 #### v.20
 >Can a corrupt throne be allied with you—one that brings on misery by its decrees?
