@@ -16,10 +16,13 @@ Purposes:
 
 Messages:
 1. The sovereignty of the "most High God" is universal.
-2. God reveals His secrets to His sevants, He does leave them in the dark.
+2. God reveals His secrets to His servants, He does leave them in the dark.
 3. 
 
 #theosu 
+
+ Actually, the text of Daniel is in two languages: Hebrew (chs. 1, 8-12) and Aramaic (chs. 2-7). The Aramaic chapters pertain to the Babylonian and Persian empires, whereas the other six chapters relate to God's special plans for his covenant people.
+ #gleasonarcher 
 
 #### v.4
 >young men without any physical defect, handsome, showing aptitude for every kind of learning, well informed, quick to understand, and qualified to serve in the king’s palace. He was to teach them the language and literature of the Babylonians.

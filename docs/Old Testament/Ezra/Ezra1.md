@@ -12,7 +12,7 @@ Chapters 7-10: The Return of Ezra (start Rabbinical teaching; birth of modern Ju
 Purposes:
 1. To show the return of the Jews to Israel under Zerubbabel & Ezra from the captivity
 2. To show the rebuilding the Temple and the restoration of Jerusalem
-3. To show the fulfillment of the prophecies through the prohpets Jeremiah and Isaiah
+3. To show the fulfillment of the prophecies through the prophets Jeremiah and Isaiah
 
 Messages:
 1. God will use secular means to accomplish sacred purposes
