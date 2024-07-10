@@ -28,8 +28,26 @@ The image of "tasting" the Lord goes back to [Ps 34:8](Psalm34.md#v.8): "Taste a
 
 Same as [Isaiah 28:16](Isaiah28#v.16). Also mentioned in [Romans 9:33](Romans9#v.33).
 
+#### v.7
+>Now to you who believe, this stone is precious. But to those who do not believe, "The stone the builders rejected has become the capstone,"
+
+#### v.8
+>and, "A stone that causes men to stumble and a rock that makes them fall." They stumble because they disobey the message—which is also what they were destined for.
+
+What is it that is "destined" (GK 5502)? The unbelief of these people or the stumbling that is the result of the unbelief? More likely the latter. Peter probably means to say that the appointment of God embraces both the setting forth of Christ and his work and the rejection by others. Peter's preaching in [Ac 2:14-40](Acts2) made the same emphasis (cf. esp. [v.23](Acts2#v.23)). Scripture in other places teaches that human disobedience is within the plan of God (cf. [Ro 11:8](Romans11#v.8), [11](Romans11#v.11), [30-32](Romans11#v.30)). Yet it must be recognized that though this is true, one does not become less blameworthy (cf. [Ac 2:23](Acts2#v.23)). It is important to recognize also that human disobedience is not necessarily final or irretrievable. Paul says, "God has bound all men over to disobedience so that he may have mercy on them all" ([Ro 11:32](Romans11#v.32)).
+#edwinblum 
+
+Here Peter displays the same compatibilist approach that he is depicted as displaying in[ Acts 2:23](Acts2#v.23) and [4:28](Acts4#v.28), where Peter holds to both free will and determinism at the same time. In this verse, Peter uses both an active verb (“disobey”) and a passive verb (“destined for”) in the same sentence! Those who do not believe stumble because they refuse to believe (free will), but at the same time God has destined that they would not believe (determinism).
+#teachthetext #jimsamra
+
 #### v.9
 >But you are chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of him who called you out of darkness into his wonderful light.
+
+#### v.10
+>Once you were not a people of God, but now you are the people of God; once you had not received mercy, but now you have received mercy.
+
+This is a reference to [Hosea 2:23](Hosea2#v.23). Together with [Exodus 19](Exodus19), these two texts declare God’s purpose and desire to create for himself a people. The use of [Hosea 2:23](Hosea2#v.23) reminds us that God’s plans will not be thwarted through Israel’s infidelity and unbelief. God’s mercy and love will overcome human sinfulness and unfaithfulness. Through those who have faith in Christ, God is creating for himself not a collection of saved individuals but a holy and united people to be priests ministering his grace to a lost world.
+#teachthetext #jimsamra 
 
 #### v.11
 >Dear friends, I urge you, as aliens and strangers in the world, to abstain from sinful desires, which **war against your soul**.
@@ -48,6 +66,13 @@ Similar to [Galatians 5:17](Galatians5#v.17).
 
 #### v.17
 >Show proper respect to everyone: Love the brotherhood of believers, fear God, honor the King.
+
+#### v.19
+>For it is commendable if a man bears up under the pain of unjust suffering because he is conscious of God.
+
+The suffering must be unjust in order for what Peter is saying to qualify. He does acknowledge that unjust suffering causes grief, so he is not asking his readers to celebrate or enjoy suffering. Instead, there is space to grieve as Jesus did.
+Enduring unjust suffering is commendable only if it is done because one is conscious of God, meaning that one puts up with difficult conditions so that God might achieve his missional purposes. Enduring difficult working conditions in an effort to advance one’s career or make more money doesn’t count.
+#teachthetext #jimsamra 
 
 #### v.20
 >But how is it to your credit if you receive a beating for doing wrong and endure it? But if you suffer for doing good and you endure it, this is commendable before God.

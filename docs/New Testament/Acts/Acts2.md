@@ -27,6 +27,9 @@ Is this the same wonder the Twelve may have felt in [Luke 8:25](Luke8.md#v.25)?
 #### v.21
 >And everyone who calls on the name of the Lord will be saved.'
 
+#### v.23
+>This man was handed over to you by God's set purpose and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross.
+
 #### v.36
 >"Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Christ."
 

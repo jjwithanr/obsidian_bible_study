@@ -148,8 +148,17 @@
 #### v.48
 >Then he said to them, "Whoever welcomes this little child in my name welcomes me; and whoever welcomes me welcomes the one who sent me. For he who is least among you all—he is the greatest."
 
+Jesus' reference to the "little child" refers to receiving for the sake of Christ a person who has no status. This is consistent with Jesus' (and Luke's) concern for neglected people. The meaning, then, is that instead of seeking status for ourselves (out of pride as an associate of the Messiah), we Christians should, as Jesus did, identify ourselves with those who have no status at all, welcoming them to join us in the kingdom. By ministering to a child one ministers, without realizing it, to Christ himself.
+#walterliefield 
+
+The child represents the lowest social status, the bottom of the pecking order, and so serves as a visual aid for the reversal of conventional values: the least is the greatest. The “welcome” that Jesus demands for the child is thus not just a matter of being nice to children, but of taking seriously, and indeed giving priority to, those (of whatever age) whom one may be tempted to despise or ignore.
+#teachthetext #rtfrance
+
 #### v.49
 >"Master," said John, "we saw a man driving out demons in your name and we tried to stop him, because he is not one of us."
+
+Compare[ Acts 19:13](Acts19#v.13). Jesus’s reputation as an exorcist tempted other Jewish exorcists (see [11:19](Luke11#v.19)) to try to “get in on the act.” John’s instinct was to protect the distinctiveness of the Jesus “brand,” but this too was a worldly motivation, defending the group’s own interests. Is John’s attitude also perhaps motivated by jealousy over this man’s success as compared with the disciples’ failure (9:40)? Jesus, by contrast, welcomes all who are “on the right side,” whether formally affiliated with him or not.
+#teachthetext #rtfrance
 
 #### v.50
 >"Do not stop him," Jesus said, "for whoever is not against you is for you."
