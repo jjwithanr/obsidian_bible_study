@@ -12,8 +12,13 @@ So illustrative of the Father's heart. God is good. He does not take delight in 
 #### v.26
 >"If anyone comes to me and does not hate his father and mother, his wife and children, his brothers and sisters—yes, even his own life—he cannot be my disciple."
 
+"Hate" (v.26; GK 3631) is not an absolute but a relative term. To neglect social customs pertaining to family loyalties would probably have been interpreted as hate. Jesus is not contravening the commandment to honor one's father and mother. It is important to understand the ancient Near Eastern expression without blunting its force.
+#merrillctenney 
+
 #### v.29-30
 >For if he lays the foundation and is not able to finish it, everyone who sees it will ridicule him, <sup>30</sup>saying, 'This fellow began to build and was not able to finish.'
 
 #### v.33
 >In the same way, any of you who does not give up everything he has cannot be my disciple.
+
+

@@ -22,6 +22,9 @@ Before our salvation, before our death to the reign of sin, such an exhortation 
 #### v.13
 >Do not offer the parts of your body to sin, as instruments of wickedness, but rather offer yourselves to God, as those who have been brought from death to life; and offer the parts of your body to him as instruments of righteousness.
 
+#### v.16
+>Don't you know that when you offer yourselves to someone to obey him as slaves, you are slaves to the one whom you obey—whether you are slaves to sin, which leads to death, or to obedience, which leads to righteousness?
+
 #### v.19
 >I put this in human terms because you are weak in your natural selves. Just as you used to offer the parts of your body in slavery to impurity and to ever-increasing wickedness, so now offer them in slavery to righteousness leading to holiness.
 

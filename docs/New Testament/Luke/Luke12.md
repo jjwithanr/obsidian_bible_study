@@ -36,6 +36,9 @@
 #### v.12
 >for the Holy Spirit will teach you at that time what you should say."
 
+This is not an excuse for lazy preachers; it is an assurance that in the intimidating setting of a formal hearing, faithful disciples will not be left to their own devices. This is a very practical outcome of the gift of the Spirit promised in [3:16](Luke3#v.16-17) (and cf. [11:13](Luke11#v.13)).
+#teachthetext #rtfrance 
+
 #### v.13
 >Someone in the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
 
@@ -44,6 +47,9 @@
 
 #### v.15
 >Then he said to them, "Watch out! Be on your guard against all kinds of greed; a man's life does not consist in the abundance of his possessions."
+
+This is not a verdict on the specific case (though the word for “greed” may imply that the man was trying to get the better of his brother), but rather a general comment on human values. Spiritual wealth takes precedence over all earthly possessions.
+#teachthetext #rtfrance 
 
 #### v.16
 >And he told them this parable: "The ground of a certain rich man produced a good crop.
@@ -60,8 +66,14 @@
 #### v.20
 >"But God said to him, 'You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?'
 
+It is the story of a successful farmer, and Jesus’s hearers no doubt would have envied the man’s success and admired his good business sense. It is only in 12:20 that the trap is sprung: there is another dimension to life, which neither the farmer nor Jesus’s hearers have taken into account. There is a play on words that is lost in translation: the man speaks complacently to his “self,” but it is that very “self” that will be demanded from him. Even his own “self” is not his own, but God’s (“demanded” is a term used for collecting a loan).
+#teachthetext #rtfrance 
+
 #### v.21
 >"This is how it will be with anyone who stores up things for himself but is not rich toward God."
+
+The parable is not teaching that no provision should be made for the future; its message is that our relationship with God must take precedence over our selfish concerns. The story focuses on the farmer’s thoughts about himself: note the repeated “I” and “my” and the advice to himself to enjoy life rather than use his wealth more constructively. But we are stewards, rather than outright owners, of our wealth, and we are accountable to God for how we use it.
+#teachthetext #rtfrance
 
 #### v.22
 >Then Jesus said to his disciples: "Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear.

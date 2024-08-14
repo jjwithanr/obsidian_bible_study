@@ -3,12 +3,15 @@
 ## Overview:
 God does not show partiality, so neither should we. His judgement is perfect while our's is very flawed. James also proves how our faith can be flawed if it is not followed by action.
 
+
+#### v.10
+>For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it.
+
 #### v.13
 >because judgement without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgement!
 
 Moffatt translates this, “The merciful life will triumph in the face of judgment.” “That is, the merciful man glorieth, as one that hath received mercy, and shall not come into condemnation; for God’s mercy rejoiceth against such a man’s sins, as against an adversary which he hath subdued and trampled on.” (Trapp)
 #enduringword 
-
 
 #### v.16
 >If any one of you says to him, "Go, I wish you well; keep warm and well fed," but does nothing about his physical needs, what good is it?

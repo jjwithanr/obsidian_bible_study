@@ -6,6 +6,12 @@ Peter condemns false teachers.
 #### v.4
 >For if God did not spare angels when they sinned, but sent them to hell, putting them in chains of darkness to be held for judgment;
 
+#### v.9
+>if this is so, then the Lord know how to rescue godly men from trials and to hold the unrighteous for the day of judgement, while continuing their punishment.
+
+#### v.10
+>This is especially true of those who follow the corrupt desire of the sinful nature and despise authority. Bold and arrogant, these men are not afraid to slander celestial beings;
+
 #### v.12
 >But these men blaspheme in matters they do not understand. They are like brute beasts, creatures of instinct, born only to be caught and destroyed, and like beasts they too will perish.
 

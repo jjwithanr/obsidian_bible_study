@@ -18,6 +18,9 @@
 What comes into our minds when we think about God is the most important thing about us.
 #tozer 
 
+#### v.31
+>He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again.
+
 #### v.33
 >But when Jesus turned and looked at his disciples, he rebuked Peter. “Get behind me, Satan!” he said. “You do not have in mind the concerns of God, but merely human concerns.”
 

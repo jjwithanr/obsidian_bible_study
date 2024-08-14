@@ -36,6 +36,9 @@ Jesus' reply dealt with the spiritual aspect of freedom. Sin enslaves because ev
 #### v.47
 >He who belongs to God hears what God says. The reason you do not hear is that you do not belong to God."
 
+Jesus closed the argument by repeating that the Jews refused to hear him because they did not belong to God. Their bitterness toward him and their obtuseness toward his teaching contradicted their spiritual claims.
+#merrillctenney 
+
 #### v.51
 >I tell you the truth, if anyone keeps my word, he will never see death."
 

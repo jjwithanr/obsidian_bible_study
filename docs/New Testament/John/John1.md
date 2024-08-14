@@ -46,6 +46,9 @@ Just as Greek verbs are often more expressive than their English counterparts, s
 Jesus here makes a wordplay on the Old Testament Jacob, or “Israel,” who was a man of guile ([Gen 27:35](Genesis27#v.35); [31:26](Genesis31#v.26)); see Jn 1:51.
 #craigkeener 
 
+Jesus' comment on Nathanael suggests that the latter had been reading of Jacob's experience at Bethel (Ge 28:1-17). Jacob was filled with guile and had been forced to leave home because he had lied to his father and had swindled his brother. If under these circumstances Jacob was eligible for a revelation from God, would not Nathanael be even more worthy of such a blessing? Jesus said that Nathanael was free from "guile" (KJV) and then used the imagery of Jacob's dream to describe the greater revelation he would give to Nathanael.
+#merrillctenney 
+
 #### v.49
 >Then Nathanael declared, "Rabbi, you are the Son of God; you are the King of Israel."
 
@@ -54,4 +57,8 @@ Jesus here makes a wordplay on the Old Testament Jacob, or “Israel,” who was
 
 The opening of the heavens indicated a major revelation (e.g., [Ezek 1:1](Ezekiel1#v.1)). Jesus’ words allude to [Genesis 28:12](Genesis28#v.12): Jesus is the new way between heaven and earth (Jacob’s ladder) on whom angels ascend and descend; like Jacob of old, this “genuine Israelite” Nathanael (Jn 1:47) would receive this new revelation.
 #craigkeener 
+
+Jesus implied that he himself would be the medium of that revelation, and his order of the angels' procedure implies that they rose from earth to heaven with their inquiries and then returned to earth with the answers. His mission is to answer human need and to make sure that the answers are proclaimed. The term "Son of Man" is used here for the first time in John's gospel (see comments on [Mk 8:31](Mark8#v.31)).
+#merrillctenney 
+
 
