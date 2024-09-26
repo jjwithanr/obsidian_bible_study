@@ -9,6 +9,9 @@
 #### v.30
 >But God raised him from the dead,
 
+#### v.35
+>So it is stated elsewhere: " 'You will not let your Holy One see decay.
+
 #### v.38-39
 >"Therefore, my brothers, I want you to know that through Jesus the forgiveness of sins is proclaimed to you. <sup>39</sup>Through him everyone who believes is justified from everything you could not be justified from by the law of Moses.
 

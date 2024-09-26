@@ -68,6 +68,9 @@ Moreover, what the righteous say is edifying—it enhances ("nourishes") common 
 ==🔥One's character is revealed in what one enjoys.== Evil conduct to the fool is "like sport" ("pleasure"); like child's play, it is so easy. This evil conduct is contrasted with wisdom, the delight of those who have understanding.
 #allenpross 
 
+#### v.27
+>The fear of the Lord adds length to life, but the years of the wicked are cut short.
+
 #### v.28
 >The prospect of the righteous is joy, but the hopes of the wicked come to nothing.
 

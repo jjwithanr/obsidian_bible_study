@@ -36,6 +36,9 @@
 #### v.11
 >For the LORD God is a sun and shield; the LORD bestows favor and honor; no good thing does he withhold from those whose walk is blameless.
 
+The "sun" is symbolic of the era of restoration, often referred to by the words "light" and "brightness." "Favor" (GK 8354) is God's expression of grace by which he draws near to his own and shares his "glory" with them. As a result of this fellowship, he will shower all his "goodness" on those who walk in a "blameless" manner.
+#allenpross 
+
 #### v.12
 >O LORD Almighty, blessed is the man who trusts in you.
 

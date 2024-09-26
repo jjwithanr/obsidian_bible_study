@@ -3,6 +3,9 @@
 ## Overview:
 
 
+#### v.1
+>The sayings of Agur son of Jakeh—an oracle : This man declared to Ithiel, to Ithiel and to Ucal:
+
 #### v.2-3
 >"I am the most ignorant of men; I do not have a man's understanding. <sup>3</sup>I have not learned wisdom, nor have I knowledge of the Holy One.
 
@@ -18,14 +21,47 @@ To know a person's "name" is to exhibit power over and closeness to that person.
 Out of this consciousness of the impotence of all man's efforts after the knowledge of God rises the sense of the preciousness of every living word that God has Himself revealed, whether through "the Law and the prophets" or through "wise men and scribes."
 #barnes 
 
+#### v.6
+>Do not add to his words, or he will rebuke you and prove you a liar.
+
 #### v.7-9
 >"Two things I ask of you, O LORD; do not refuse me before I die: <sup>8</sup>Keep falsehood and lies far from me; give me neither poverty nor riches, but give me only my daily bread. <sup>9</sup>Otherwise, I may have too much and disown you and say, 'Who is the LORD?' Or I may become poor and steal, and so dishonor the name of my God.
+
+#### v.10
+>"Do not slander a servant to his master, or he will curse you, and you will pay for it.
+
+#### v.11
+>"There are those who curse their fathers and do not bless their mothers;
+
+#### v.12
+>those who are pure in their own eyes and yet are not cleansed of their filth;
+
+#### v.13
+>those whose eyes are ever so haughty, whose glances are so disdainful;
+
+#### v.14
+>those whose teeth are swords and whose jaws are set with knives to devour the poor from the earth, the needy from among mankind.
+
+#### v.15
+>"The leech has two daughters. 'Give! Give!' they cry. "There are three things that are never satisfied, four that never say, 'Enough!':
+
+#### v.16
+>the grave, the barren womb, land, which is never satisfied with water, and fire, which never says, 'Enough!'
 
 #### v.17
 >"The eye that mocks a father, that scorns obedience to a mother, will be pecked out by the ravens of the valley, will be eaten by the vultures.
 
 Severe punishment awaits those who show disrespect for their parents. The sentence focuses on the "eye" that "mocks" a father and despises obedience to a mother. The eye manifests the inner heart attitude—so the contemptuous look runs deep.
 #allenpross 
+
+#### v.18
+>"There are three things that are too amazing for me, four that I do not understand:
+
+#### v.19
+>the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a maiden.
+
+#### v.20
+>"This is the way of an adulteress: She eats and wipes her mouth and says, 'I've done nothing wrong.'
 
 #### v.21-23
 >"Under three things the earth trembles, under four it cannot bear up: <sup>22</sup>a servant who becomes king, a fool who is full of food, <sup>23</sup>an unloved woman who is married, and a maidservant who displaces her mistress.

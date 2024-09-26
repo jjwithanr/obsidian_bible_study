@@ -12,7 +12,7 @@
 #### v.16
 >There are six things the LORD hates, seven that are detestable to him:
 
-Verse 16 uses what is known as a numerical ladder, paralleling "six things" with "seven things" (see also 30:15, 18, 21, 24, 29; Job 5:19; Ecc 11:2; Am 1:6, 9, 13; 2:1, 4, 6; Mic 5:5). The point of such a poetic arrangement is that the present enumeration does not exhaust the list.
+Verse 16 uses what is known as a numerical ladder, paralleling "six things" with "seven things" (see also [30:15](Proverbs30#v.15), [18](Proverbs30#v.18), [21](Proverbs30#v.21-23), [24](Proverbs30#v.24-28), [29](Proverbs30#v.29-31); [Job 5:19](Job5#v.19); [Ecc 11:2](Eccl11#v.2); [Am 1:6](Amos1#v.6), [9](Amos1#v.9), [13](Amos1#v.13); [2:1](Amos2#v.1), [4](Amos2#v.4), [6](Amos2#v.6); [Mic 5:5](Micah5#v.5)). **The point of such a poetic arrangement is that the present enumeration does not exhaust the list.**
 
 There is something of a contrasting parallel arrangement with the Beatitudes in [Mt 5](Matthew5), which has seven blessed things to answer these seven hated things; moreover, the first beatitude ("Blessed are the poor in spirit," [Mt 5:5](Matthew5#v.5)) contrasts with the first hated thing ("haughty eyes," v.17; i.e., "a proud look") and the seventh ("peacemakers," [Mt 5:9](Matthew5#v.9)) with the seventh abomination ("stirs up dissension," v.19).
 #allenpross 
@@ -33,5 +33,9 @@ The third description focuses on hands as the instruments as murder. Genesis 9:6
 "Dissension" (GK 4506) is attributed in Proverbs to contentious, quarreling people (21:9; 26:21; 25:24) who have a short fuse (15:18). Paul, on the other hand, warns against envy, malice, and strife (1 Ti 6:4). These things, then, God will not tolerate. If he hates these things, then conversely he must love and desire (1) humility, (2) truthful speech, (3) preservation of life, (4) pure thoughts, (5) the eagerness to do good things, (6) honest witnesses, and (7) peaceful harmony.
 #allenpross 
 
+#### v.23-24
+>For these commands are a lamp, this teaching is a light, and the corrections of discipline are the way to life, <sup>24</sup>keeping you from the immoral woman, from the smooth tongue of the wayward wife.
 
+The motivation for keeping these commands is that they will bring protection from the adulteress.
+#allenpross 
 

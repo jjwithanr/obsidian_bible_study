@@ -23,10 +23,17 @@ The husband should "captivated" (GK 8706) by the love of his wife. The word sign
 Anyone who does not reckon on God's omniscience will get entangled in sin.
 #allenpross 
 
+#### v.22
+>The evil deeds of a wicked man ensnare him; the cords of his sin hold him fast.
+
+In sum, the lack of discipline and control in the area of sexual gratification is destructive. The one who plays with this kind of sin will become ensnared by it and led off to ruin.
+#allenpross 
+
 #### v.23
 >He will die for lack of discipline, led astray by his own great folly.
 
 In other words, if the young man is not *captivated* by his wife but becomes *captivated* with a stranger in sinful acts, then his own iniquities will *captivate* him; and he will be led to ruin.
 #allenpross 
 
-
+Fear of God moment in my life: if you watch porn, you will die.
+#jj 

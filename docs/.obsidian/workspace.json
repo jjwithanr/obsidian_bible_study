@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5ac4317c892e6167",
+        "id": "0da366473988d5cf",
         "type": "tabs",
         "children": [
           {
-            "id": "53132b28ea0cd6fd",
+            "id": "e8b46ee21a1d35ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Old Testament/Psalms/Psalm86.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -62,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Old Testament/Psalms/Psalm86.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Old Testament/Psalms/Psalm86.md"
+              }
             }
           },
           {
@@ -140,8 +146,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "53132b28ea0cd6fd",
+  "active": "e8b46ee21a1d35ec",
   "lastOpenFiles": [
+    "Old Testament/Psalms/Psalm84.md",
+    "Old Testament/Proverbs/Proverbs29.md",
+    "Old Testament/Proverbs/Proverbs12.md",
+    "Old Testament/Proverbs/Proverbs10.md",
+    "Old Testament/Proverbs/Proverbs6.md",
+    "Old Testament/Micah/Micah5.md",
+    "Old Testament/Amos/Amos2.md",
+    "Old Testament/Amos/Amos1.md",
+    "Old Testament/Job/Job5.md",
+    "Old Testament/Proverbs/Proverbs30.md",
+    "Old Testament/Psalms/Psalm18.md",
+    "Old Testament/Psalms/Psalm17.md",
+    "Old Testament/Psalms/Psalm16.md",
+    "New Testament/Acts/Acts13.md",
+    "New Testament/Acts/Acts2.md",
+    "Old Testament/Isaiah/Isaiah41.md",
+    "Old Testament/Proverbs/Proverbs5.md",
     "New Testament/John/John9.md",
     "New Testament/Matthew/Matthew6.md",
     "Old Testament/Isaiah/Isaiah1.md",
@@ -151,23 +174,6 @@
     "Old Testament/Malachi/Malachi3.md",
     "Terms.md",
     "Old Testament/Deuteronomy/Deut27.md",
-    "Old Testament/Deuteronomy/Deut21.md",
-    "New Testament/James/James2.md",
-    "New Testament/John/John1.md",
-    "New Testament/Mark/Mark8.md",
-    "New Testament/Luke/Luke14.md",
-    "New Testament/2 Peter/2Peter2.md",
-    "New Testament/Romans/Romans6.md",
-    "New Testament/Romans/Romans11.md",
-    "2 peter 2.md",
-    "Old Testament/Micah/Micah1.md",
-    "New Testament/Luke/Luke12.md",
-    "New Testament/Luke/Luke3.md",
-    "New Testament/Matthew/Matthew18.md",
-    "New Testament/1 Peter/1Peter2.md",
-    "New Testament/Acts/Acts2.md",
-    "New Testament/Luke/Luke9.md",
-    "Old Testament/Psalms/Psalm121.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

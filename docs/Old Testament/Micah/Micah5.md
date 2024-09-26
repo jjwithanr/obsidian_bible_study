@@ -5,6 +5,9 @@
 #### v.2
 >"But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old from ancient times."
 
+#### v.5
+>And he will be their peace. When the Assyrian invades our land and marches through our fortresses, we will raise against him seven shepherds, even eight leaders of men.
+
 #### v.15
 >I will take vengeance in anger and wrath upon the nations that have not obeyed me."
 

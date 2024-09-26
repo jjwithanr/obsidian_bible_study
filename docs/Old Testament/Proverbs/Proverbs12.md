@@ -10,6 +10,9 @@
 It is as if one distinction between humans and animals is this feature of receiving discipline.
 #allenpross 
 
+#### v.2
+>A good main obtains favor from the Lord, but the Lord condemns a crafty man.
+
 #### v.4
 >A wife of noble character is her husband's crown, but a disgraceful wife is like decay in his bones.
 

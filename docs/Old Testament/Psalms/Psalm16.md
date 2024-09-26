@@ -39,12 +39,14 @@ The one true, pure, abiding joy is to hold fellowship with God and to live in Hi
 The language here is that of one who has confidence in God in time of great calamities, and who feels that he is safe under the divine favor and protection.
 #barnes 
 
+See also [Isaiah 41:10](Isaiah41#v.10).
+
 #### v.9-10
 >Therefore my heart is glad and my tongue rejoices; my body also will rest secure, because you will not abandon me to the grave, nor will you let your Holy One see decay.
 
-The basis for the psalmist's joy is twofold. (1) His God is the sovereign Master to whom he has fled for protection (vv.1-2). (2) The Lord has been good to him (vv.2b,5-8). His conclusion to this psalm of confidence begins with "Therefore"; but the "therefore" introduces additional, though related, reasons for his confidence. The Lord cares for him in life and in death. In life the Lord gives him security (vv.5-6) and in death, protection. He may go into "the grave," but thte Lord will not permit his beloved (Holy One) to suffer eternal alienation; even in death his relationship with God continues. The phrase "see decay" is a metaphor for total isolation and abandonment from God's presence.
+The basis for the psalmist's joy is twofold. (1) His God is the sovereign Master to whom he has fled for protection (vv.1-2). (2) The Lord has been good to him (vv.2b,5-8). His conclusion to this psalm of confidence begins with "Therefore"; but the "therefore" introduces additional, though related, reasons for his confidence. The Lord cares for him in life and in death. In life the Lord gives him security (vv.5-6) and in death, protection. He may go into "the grave," but the Lord will not permit his beloved (Holy One) to suffer eternal alienation; even in death his relationship with God continues. The phrase "see decay" is a metaphor for total isolation and abandonment from God's presence.
 
-In the apostolic preaching this verse had a particular apologetic significance, as both Peter (Ac 2:27, 31) and Paul (Ac 13:35) quoted v.10 as proof of the resurrection of our Lord. They appropriately argued that since David died and did not rise from the grave, that psal mreceive d a special significance in view of Jesus' death and resurrection. Jesus, as the Son of David, arose from the dead, "because it was impossible for death to keep its hold on him" (Ac 2:24). The resurrection of our Lord gives a ground for the confidence of all believers since they too will not suffer corruption. the Father will crown his beloved with life.
+In the apostolic preaching this verse had a particular apologetic significance, as both Peter ([Ac 2:27](Acts2#v.27), [31](Acts2#v.31)) and Paul ([Ac 13:35](Acts13#v.35)) quoted v.10 as proof of the resurrection of our Lord. They appropriately argued that since David died and did not rise from the grave, that psalm received a special significance in view of Jesus' death and resurrection. Jesus, as the Son of David, arose from the dead, "because it was impossible for death to keep its hold on him" (Ac 2:24). The resurrection of our Lord gives a ground for the confidence of all believers since they too will not suffer corruption. the Father will crown his beloved with life.
 #vangemeren 
 
 #### v.11

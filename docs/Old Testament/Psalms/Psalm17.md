@@ -48,5 +48,6 @@
 #### v.15
 >And I—in righteousness I will see your face; when I awake, I will be satisfied with seeing your likeness.
 
-
+The wicked were self-satisfied (v.10) and shared their wealth with their descendants so that they too would "be satisfied." But the godly do not comfort themselves with the thought of transitory "blessings." They will be "satisfied" with the "likeness" of God!
+#vangemeren 
 

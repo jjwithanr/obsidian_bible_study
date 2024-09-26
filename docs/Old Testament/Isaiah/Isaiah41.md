@@ -10,6 +10,7 @@
 >So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.
 
 God settles our fears with seemingly the same truth: He is with us. See also [Hebrews 13:5](Hebrews13#v.5).
+#jj 
 
 #### v.13
 >For I am the Lord, your God, who takes hold of your right hand and says to you, Do not fear; I will help you.
