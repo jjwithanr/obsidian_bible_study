@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Testament/Psalms/Psalm86.md",
+                "file": "Old Testament/Psalms/Psalm138.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalms/Psalm86.md",
+                "file": "Old Testament/Psalms/Psalm138.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Psalms/Psalm86.md"
+                "file": "Old Testament/Psalms/Psalm138.md"
               }
             }
           },
@@ -148,6 +148,11 @@
   },
   "active": "e8b46ee21a1d35ec",
   "lastOpenFiles": [
+    "New Testament/Acts/Acts17.md",
+    "Old Testament/Psalms/Psalm138.md",
+    "Old Testament/Psalms/Psalm107.md",
+    "Old Testament/Psalms/Psalm106.md",
+    "Old Testament/Psalms/Psalm86.md",
     "Old Testament/Psalms/Psalm84.md",
     "Old Testament/Proverbs/Proverbs29.md",
     "Old Testament/Proverbs/Proverbs12.md",
@@ -169,11 +174,6 @@
     "New Testament/Matthew/Matthew6.md",
     "Old Testament/Isaiah/Isaiah1.md",
     "New Testament/John/John8.md",
-    "Old Testament/Zechariah/Zechariah6.md",
-    "Old Testament/Zechariah/Zechariah5.md",
-    "Old Testament/Malachi/Malachi3.md",
-    "Terms.md",
-    "Old Testament/Deuteronomy/Deut27.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",

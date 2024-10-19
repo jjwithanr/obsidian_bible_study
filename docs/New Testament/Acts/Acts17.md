@@ -30,13 +30,22 @@ Contextualization of the gospel.
 #### v.25
 >And he is not served by human hands, as if he needed anything, because he himself gives all men life and breath and everything else.
 
+#### v.26
+>From one man he made every nation of men, that they should inhabit the whole earth; and he determined the times set for them and the exact place where they should live.
+
+And contrary to the "deism" that permeated the philosophies of the day, he proclaimed that this God has determined specific times for humans and "the exact places where they should live," so that they would seek him and find him.
+#longnecker 
+
+That people should not be restless and dissatisfied with the place where God has located them;
+#barnes 
+
 #### v.27
 >God did this so that men would seek him and perhaps reach out for him and find him, though he is not far from each one of us.
 
 #### v.28
 >'For in him we live and move and have our being.' As some of your own poets have said, 'We are his offspring.'
 
-The first ("For in him we live and move and have our being") comes from the Cretan poet Epimenides (c. 600 B.C.); the second ("for we are his offspring"), from the Cilician poet Aratus (c. 315-240 B.C.). By such maxims, Paul is not suggesting that God is to be thought of in terms of the Zeus of Greek polytheism or Stoic pantheism.
+The first ("For in him we live and move and have our being") comes from the Cretan poet Epimenides (c. 600 B.C.); the second ("for we are his offspring"), from the Cilician poet Aratus (c. 315-240 B.C.). By such maxims, Paul is not suggesting that God is to be thought of in terms of the Zeus of Greek polytheism or Stoic pantheism. He is rather arguing that the poets his hearers recognized as authorities have to some extent corroborated his message. In his search for a measure of common ground with his hearers, he is, so to speak, disinfecting and rebaptizing the poets' words for his own purposes. But despite its form, Paul's address was thoroughly biblical and Christian in its content.
 #longnecker 
 
 #### v.31
