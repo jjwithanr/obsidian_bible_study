@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0da366473988d5cf",
+        "id": "f2d9f7f55e867f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b46ee21a1d35ec",
+            "id": "c651655be511fb80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Testament/Psalms/Psalm138.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -40,7 +38,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +55,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Psalms/Psalm138.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -110,9 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Old Testament/Psalms/Psalm138.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -124,7 +131,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -146,10 +155,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e8b46ee21a1d35ec",
+  "active": "c651655be511fb80",
   "lastOpenFiles": [
-    "New Testament/Acts/Acts17.md",
+    "New Testament/Romans/Romans15.md",
+    "Old Testament/Psalms/Psalm145.md",
     "Old Testament/Psalms/Psalm138.md",
+    "New Testament/Acts/Acts17.md",
     "Old Testament/Psalms/Psalm107.md",
     "Old Testament/Psalms/Psalm106.md",
     "Old Testament/Psalms/Psalm86.md",
@@ -172,8 +183,6 @@
     "Old Testament/Proverbs/Proverbs5.md",
     "New Testament/John/John9.md",
     "New Testament/Matthew/Matthew6.md",
-    "Old Testament/Isaiah/Isaiah1.md",
-    "New Testament/John/John8.md",
     "Non-Protestant/Judith",
     "Non-Protestant/2 Maccabees",
     "Non-Protestant/1 Maccabees",
